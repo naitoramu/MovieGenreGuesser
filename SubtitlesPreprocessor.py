@@ -1,8 +1,6 @@
 # SubtitlesPreprocessor
-# usage: python SubtitlesPreprocessor.py [.srt file] [destination_directory]*
-# destination_directory is not necessary
-# example: SubtitlesPreprocessor.py test-subtitles.srt
-#           SubtitlesPreprocessor.py test-subtitles.srt training_data/
+# usage: python SubtitlesPreprocessor.py [data_type (train|test)] [input file] [output file]*
+# example: SubtitlesPreprocessor.py train test-subtitles.srt training_data/sitcom.txt
 
 import re
 import os
@@ -78,18 +76,21 @@ class SubtitlesPreprocessor:
     def getWordList(self):
         return self.subtitles.split()
     
-    def saveSubtitles(self, destination_directory):
-        with open(destination_directory + self.filename + '.txt', 'w') as file:
+    def saveSubtitles(self, output_filename):
+        with open(output_filename, 'a') as file:
             file.write(self.subtitles)
-        print('file saved to >> ' + 'training_data/' + self.filename + '.txt')
+        print('file saved to >> ' + output_filename)
 
-subtitles_file = sys.argv[1]
-if( len(sys.argv) >= 3):
-    destination_directory = sys.argv[2]
-else:
-    destination_directory = 'training_data/'
+if( len(sys.argv)) < 4:
+    print("Missed arguments")
+    quit()
+
+data_type = sys.argv[1]
+subtitles_file = sys.argv[2]
+output_filename = sys.argv[3]
+
 
 subtitles = SubtitlesPreprocessor(subtitles_file)
-subtitles.saveSubtitles(destination_directory)
+subtitles.saveSubtitles(output_filename)
 
 
