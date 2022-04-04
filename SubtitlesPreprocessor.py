@@ -25,6 +25,7 @@ class SubtitlesPreprocessor:
             self.extractSubtitlesWithTime()
             self.removeTimeDataFromSubtitles()
             self.removeTagsFromSubtitles()
+            self.removeDigitsFromSubtitles()
             self.removeSoundDescritpionsFromSubtitles()
             self.removeSpecialCharactersFromSubtitles()
             self.toLowerCase()
@@ -32,7 +33,7 @@ class SubtitlesPreprocessor:
 
     def loadFile(self, path_to_subtitles_file):
         try:
-            file = open(path_to_subtitles_file, 'r')
+            file = open(path_to_subtitles_file, 'r', encoding="ISO-8859-1")
             self.file_content = file.read()
             self.file_loaded_successfully = True
                                                                                 # os.path.basename(file.name) returns filename without path
@@ -53,16 +54,15 @@ class SubtitlesPreprocessor:
 
     def removeTagsFromSubtitles(self):
 
-        self.subtitles = self.subtitles.replace('<i>', '')
-        self.subtitles = self.subtitles.replace('</i>', '')
-
-        self.subtitles = re.sub(r'<font(.)*?font>', '', self.subtitles)
-
-        self.subtitles = re.sub(r'\{\\an8\}', '', self.subtitles)
+        self.subtitles = re.sub(r'<(.)*?>', '', self.subtitles)
+        self.subtitles = re.sub(r'\{(.)*?\}', '', self.subtitles)
 
 
     def removeSoundDescritpionsFromSubtitles(self):
         self.subtitles = re.sub(r'\[.*?\]', '', self.subtitles)
+
+    def removeDigitsFromSubtitles(self):
+        self.subtitles = re.sub(r'[0-9]+', '', self.subtitles)
 
     def removeSpecialCharactersFromSubtitles(self):
         self.subtitles = re.sub(r'[^\w\s]', '', self.subtitles)
@@ -77,9 +77,9 @@ class SubtitlesPreprocessor:
         return self.subtitles.split()
     
     def saveSubtitles(self, output_filename):
-        with open(output_filename, 'a') as file:
-            file.write(self.subtitles)
-        print('file saved to >> ' + output_filename)
+        with open(output_filename, 'at') as file:
+            file.write(self.subtitles + ' ')
+        print('subtitles from file: "' + self.filename + '" appended to >> ' + output_filename)
 
 if( len(sys.argv)) < 4:
     print("Missed arguments")

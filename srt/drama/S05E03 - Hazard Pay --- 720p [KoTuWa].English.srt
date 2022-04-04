@@ -1,0 +1,3588 @@
+1
+00:00:10,840 --> 00:00:13,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Hey, Darla. How you doing today?</font>
+
+2
+00:00:10,840 --> 00:00:13,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Hey, Dan.</font>
+
+3
+00:00:13,600 --> 00:00:18,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I'm looking for something in a Markowski.</font>
+
+4
+00:00:13,600 --> 00:00:18,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- That'd be Dennis Markowski?</font>
+
+5
+00:00:18,520 --> 00:00:20,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's the one.</font>
+
+6
+00:00:24,040 --> 00:00:26,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, and I've got my paralegal</font>
+
+7
+00:00:24,040 --> 00:00:26,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}with me today.</font>
+
+8
+00:00:26,800 --> 00:00:29,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Paralegal? Coming up in the world.</font>
+
+9
+00:00:29,240 --> 00:00:30,720
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know it.</font>
+
+10
+00:00:49,520 --> 00:00:51,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, Dennis.</font>
+
+11
+00:00:51,680 --> 00:00:53,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Have a seat.</font>
+
+12
+00:01:18,560 --> 00:01:20,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You hear about Chow?</font>
+
+13
+00:01:21,200 --> 00:01:24,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah, people say he skipped town.</font>
+
+14
+00:01:21,200 --> 00:01:24,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- He's dead.</font>
+
+15
+00:01:26,360 --> 00:01:27,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It wasn't me.</font>
+
+16
+00:01:28,160 --> 00:01:30,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It wasn't a message.</font>
+
+17
+00:01:28,160 --> 00:01:30,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It wasn't payback.</font>
+
+18
+00:01:30,520 --> 00:01:34,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It was a mistake made by a third party</font>
+
+19
+00:01:30,520 --> 00:01:34,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}who has since been dealt with.</font>
+
+20
+00:01:34,600 --> 00:01:35,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You got it?</font>
+
+21
+00:01:35,880 --> 00:01:37,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+22
+00:01:35,880 --> 00:01:37,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Second thing.</font>
+
+23
+00:01:37,560 --> 00:01:40,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The deal you had with Fring,</font>
+
+24
+00:01:37,560 --> 00:01:40,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}it's still in place.</font>
+
+25
+00:01:40,800 --> 00:01:42,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay.</font>
+
+26
+00:01:42,240 --> 00:01:43,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Don't "okay" me.</font>
+
+27
+00:01:44,040 --> 00:01:45,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You got something to say?</font>
+
+28
+00:01:47,720 --> 00:01:50,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Mike, I'm keeping my mouth shut.</font>
+
+29
+00:01:50,960 --> 00:01:52,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The laundry</font>
+
+30
+00:01:50,960 --> 00:01:52,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}was right above the lab.</font>
+
+31
+00:01:52,720 --> 00:01:54,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}There's no way I could say</font>
+
+32
+00:01:52,720 --> 00:01:54,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I wasn't in on it.</font>
+
+33
+00:01:54,960 --> 00:01:57,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm looking at eight years minimum.</font>
+
+34
+00:01:57,960 --> 00:02:00,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But I'm doing my time</font>
+
+35
+00:01:57,960 --> 00:02:00,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}like I'm supposed to.</font>
+
+36
+00:02:00,360 --> 00:02:02,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm no rat, and you know it.</font>
+
+37
+00:02:02,520 --> 00:02:04,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, what else is there to say?</font>
+
+38
+00:02:04,760 --> 00:02:06,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All due respect,</font>
+
+39
+00:02:04,760 --> 00:02:06,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}what are we talking about here?</font>
+
+40
+00:02:07,080 --> 00:02:09,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The deal is the deal.</font>
+
+41
+00:02:13,560 --> 00:02:15,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How's the deal the deal?</font>
+
+42
+00:02:15,320 --> 00:02:17,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The feds took away my hazard pay.</font>
+
+43
+00:02:17,680 --> 00:02:21,720
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}My wife asks me where the mortgage</font>
+
+44
+00:02:17,680 --> 00:02:21,720
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}is coming from. I got nothing to tell her.</font>
+
+45
+00:02:21,880 --> 00:02:23,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I knew the risks. We all did.</font>
+
+46
+00:02:23,600 --> 00:02:25,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But that wasn't the deal.</font>
+
+47
+00:02:25,360 --> 00:02:28,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And I know for a fact</font>
+
+48
+00:02:25,360 --> 00:02:28,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}they got Holt and Perez yesterday.</font>
+
+49
+00:02:28,440 --> 00:02:31,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, it's not gonna be me,</font>
+
+50
+00:02:28,440 --> 00:02:31,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but absent the hazard pay...</font>
+
+51
+00:02:31,280 --> 00:02:34,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- ...sooner or later, someone's gonna flip.</font>
+
+52
+00:02:31,280 --> 00:02:34,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No one's flipping.</font>
+
+53
+00:02:34,720 --> 00:02:37,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Everyone gets their hazard pay,</font>
+
+54
+00:02:34,720 --> 00:02:37,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}including you.</font>
+
+55
+00:02:37,400 --> 00:02:41,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I appreciate what you're saying and all,</font>
+
+56
+00:02:37,400 --> 00:02:41,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but the man is dead.</font>
+
+57
+00:02:41,760 --> 00:02:43,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay? The lab's a hole in the ground.</font>
+
+58
+00:02:44,800 --> 00:02:47,260
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I just don't see it.</font>
+
+59
+00:02:44,800 --> 00:02:47,260
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I've got something new.</font>
+
+60
+00:02:47,440 --> 00:02:50,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's just starting up.</font>
+
+61
+00:02:47,440 --> 00:02:50,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's gonna make you whole.</font>
+
+62
+00:02:50,600 --> 00:02:52,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Something new?</font>
+
+63
+00:02:50,600 --> 00:02:52,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}With the feds looking at you?</font>
+
+64
+00:02:52,800 --> 00:02:54,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- How?</font>
+
+65
+00:02:52,800 --> 00:02:54,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- "How" is my business.</font>
+
+66
+00:02:55,000 --> 00:02:57,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hanging tight's your business.</font>
+
+67
+00:02:57,280 --> 00:03:01,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Your family's gonna be fine.</font>
+
+68
+00:02:57,280 --> 00:03:01,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You will be made whole.</font>
+
+69
+00:03:01,640 --> 00:03:03,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, you got my word.</font>
+
+70
+00:03:04,400 --> 00:03:05,800
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You need more?</font>
+
+71
+00:03:09,560 --> 00:03:11,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No, Mike. I'm good.</font>
+
+72
+00:03:15,520 --> 00:03:17,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Who's next?</font>
+
+73
+00:03:15,520 --> 00:03:17,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- That's your choice.</font>
+
+74
+00:03:18,000 --> 00:03:20,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}A.P.D.'s got Martinez across town.</font>
+
+75
+00:03:18,000 --> 00:03:20,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}McGann's up in Sandoval.</font>
+
+76
+00:03:20,960 --> 00:03:23,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The Sandia tribal cops</font>
+
+77
+00:03:20,960 --> 00:03:23,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}are holding him for the feds.</font>
+
+78
+00:03:25,240 --> 00:03:27,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And Holt and Perez</font>
+
+79
+00:03:25,240 --> 00:03:27,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}are in lockup in Los Lunas.</font>
+
+80
+00:03:28,080 --> 00:03:30,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't mean</font>
+
+81
+00:03:28,080 --> 00:03:30,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}to get to them all today?</font>
+
+82
+00:03:30,640 --> 00:03:32,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah, I do.</font>
+
+83
+00:03:32,480 --> 00:03:35,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, let's go! Open up!</font>
+
+84
+00:04:19,960 --> 00:04:21,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Back here.</font>
+
+85
+00:04:40,680 --> 00:04:43,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Oh, hi. How was your day?</font>
+
+86
+00:04:46,400 --> 00:04:48,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Are you moving back in?</font>
+
+87
+00:04:48,640 --> 00:04:51,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Yeah. I'll keep the condo for now.</font>
+
+88
+00:04:52,440 --> 00:04:54,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Selling it in this market,</font>
+
+89
+00:04:52,440 --> 00:04:54,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}I'd get killed.</font>
+
+90
+00:04:54,840 --> 00:04:58,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}But, yeah, I'm home.</font>
+
+91
+00:04:58,720 --> 00:04:59,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}It's time.</font>
+
+92
+00:05:03,040 --> 00:05:05,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Do you really think</font>
+
+93
+00:05:03,040 --> 00:05:05,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that's a good idea?</font>
+
+94
+00:05:06,960 --> 00:05:08,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Yes.</font>
+
+95
+00:05:35,920 --> 00:05:38,640
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}So you bring him here? Come on.</font>
+
+96
+00:05:38,800 --> 00:05:40,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The three of us,</font>
+
+97
+00:05:38,800 --> 00:05:40,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we're the three amigos.</font>
+
+98
+00:05:40,960 --> 00:05:43,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All for one, one for all.</font>
+
+99
+00:05:43,440 --> 00:05:46,080
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}We don't need a fourth amigo.</font>
+
+100
+00:05:46,280 --> 00:05:49,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Saul, Mike knows the business.</font>
+
+101
+00:05:46,280 --> 00:05:49,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}He knows distributors.</font>
+
+102
+00:05:50,160 --> 00:05:52,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Mike's okay.</font>
+
+103
+00:05:50,160 --> 00:05:52,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- He's okay?</font>
+
+104
+00:05:52,760 --> 00:05:54,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}He said he was gonna</font>
+
+105
+00:05:52,760 --> 00:05:54,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}break my legs.</font>
+
+106
+00:05:54,520 --> 00:05:57,080
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}And don't tell me</font>
+
+107
+00:05:54,520 --> 00:05:57,080
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}he didn't mean it, okay?</font>
+
+108
+00:05:57,240 --> 00:05:59,960
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Because he gave me</font>
+
+109
+00:05:57,240 --> 00:05:59,960
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}the dead mackerel eyes. He meant it.</font>
+
+110
+00:06:00,120 --> 00:06:02,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Saul, Mike threatened me.</font>
+
+111
+00:06:00,120 --> 00:06:02,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}He threatened Jesse.</font>
+
+112
+00:06:02,680 --> 00:06:05,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He probably threatened someone</font>
+
+113
+00:06:02,680 --> 00:06:05,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}before breakfast this morning.</font>
+
+114
+00:06:05,680 --> 00:06:08,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's what he does.</font>
+
+115
+00:06:05,680 --> 00:06:08,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Come on. Grow a pair.</font>
+
+116
+00:06:12,040 --> 00:06:15,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Let it be noted</font>
+
+117
+00:06:12,040 --> 00:06:15,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}that I do this under duress.</font>
+
+118
+00:06:15,600 --> 00:06:16,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Duly noted.</font>
+
+119
+00:06:18,880 --> 00:06:21,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}All right. Let him in, Huell.</font>
+
+120
+00:06:34,840 --> 00:06:37,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Mike, I'm extending you--</font>
+
+121
+00:06:38,240 --> 00:06:41,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Now that we're all together,</font>
+
+122
+00:06:38,240 --> 00:06:41,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}here are the ground rules.</font>
+
+123
+00:06:42,160 --> 00:06:45,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Division of labour.</font>
+
+124
+00:06:42,160 --> 00:06:45,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}I handle the business.</font>
+
+125
+00:06:45,520 --> 00:06:47,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Making the stuff, that's your end.</font>
+
+126
+00:06:48,400 --> 00:06:51,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't tell you how to mix</font>
+
+127
+00:06:48,400 --> 00:06:51,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}your chemicals and whatnot...</font>
+
+128
+00:06:51,560 --> 00:06:55,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and you do not tell me</font>
+
+129
+00:06:51,560 --> 00:06:55,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}how to take care of business.</font>
+
+130
+00:06:55,840 --> 00:06:58,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Is that absolutely clear?</font>
+
+131
+00:07:04,680 --> 00:07:08,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Sure.</font>
+
+132
+00:07:04,680 --> 00:07:08,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}- All right. Let's take the tour.</font>
+
+133
+00:07:12,200 --> 00:07:13,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, you're okay with that?</font>
+
+134
+00:07:15,480 --> 00:07:16,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yes.</font>
+
+135
+00:07:16,680 --> 00:07:20,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He handles the business,</font>
+
+136
+00:07:16,680 --> 00:07:20,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and I handle him.</font>
+
+137
+00:07:26,520 --> 00:07:28,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Clearly, we're talking</font>
+
+138
+00:07:26,520 --> 00:07:28,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}about renting, not buying.</font>
+
+139
+00:07:28,960 --> 00:07:31,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}You need an ongoing business,</font>
+
+140
+00:07:28,960 --> 00:07:31,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}someplace you can slide in...</font>
+
+141
+00:07:31,840 --> 00:07:35,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}...do your thing and remain anonymous.</font>
+
+142
+00:07:31,840 --> 00:07:35,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}I'm not gonna mince words.</font>
+
+143
+00:07:35,520 --> 00:07:37,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}This is your best bet.</font>
+
+144
+00:07:37,880 --> 00:07:42,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Got machines running, forklifts,</font>
+
+145
+00:07:37,880 --> 00:07:42,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}people coming and going.</font>
+
+146
+00:07:42,360 --> 00:07:44,920
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}You're gonna stay</font>
+
+147
+00:07:42,360 --> 00:07:44,920
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}way under the radar.</font>
+
+148
+00:07:45,080 --> 00:07:48,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}And the owner's solid.</font>
+
+149
+00:07:45,080 --> 00:07:48,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}He can't wait to throw up a curtain wall...</font>
+
+150
+00:07:48,840 --> 00:07:51,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}...stack some boxes in front of it,</font>
+
+151
+00:07:48,840 --> 00:07:51,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}give you the space you need.</font>
+
+152
+00:07:51,960 --> 00:07:54,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}After that, he's got his business,</font>
+
+153
+00:07:51,960 --> 00:07:54,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}you've got yours...</font>
+
+154
+00:07:54,640 --> 00:07:56,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}...and never the twain shall meet.</font>
+
+155
+00:07:56,640 --> 00:07:58,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's outstanding. Am I right?</font>
+
+156
+00:07:58,920 --> 00:08:01,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Machines like this,</font>
+
+157
+00:07:58,920 --> 00:08:01,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}gotta be plenty of power.</font>
+
+158
+00:08:02,000 --> 00:08:03,220
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What about the smell?</font>
+
+159
+00:08:03,400 --> 00:08:04,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}More good news.</font>
+
+160
+00:08:05,120 --> 00:08:08,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I've been here when it's up and running.</font>
+
+161
+00:08:05,120 --> 00:08:08,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This place stinks already.</font>
+
+162
+00:08:08,360 --> 00:08:10,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}- You'll blend right in.</font>
+
+163
+00:08:08,360 --> 00:08:10,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}- How many employees?</font>
+
+164
+00:08:10,640 --> 00:08:11,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}I knew you'd ask.</font>
+
+165
+00:08:11,960 --> 00:08:17,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Sixteen illegals, all highly motivated</font>
+
+166
+00:08:11,960 --> 00:08:17,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}to stay deaf, blind and dumb.</font>
+
+167
+00:08:17,680 --> 00:08:19,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}You'll want to vet them, I'm sure.</font>
+
+168
+00:08:19,600 --> 00:08:21,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Yes, indeed.</font>
+
+169
+00:08:22,120 --> 00:08:23,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}So, what do you say, maestro?</font>
+
+170
+00:08:24,080 --> 00:08:25,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}Is it unanimous?</font>
+
+171
+00:08:25,920 --> 00:08:29,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, I worked in a box factory</font>
+
+172
+00:08:25,920 --> 00:08:29,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}one summer in high school...</font>
+
+173
+00:08:29,200 --> 00:08:32,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and I haven't seen</font>
+
+174
+00:08:29,200 --> 00:08:32,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}one of these in years.</font>
+
+175
+00:08:32,880 --> 00:08:34,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Trip down memory lane.</font>
+
+176
+00:08:32,880 --> 00:08:34,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's perfect.</font>
+
+177
+00:08:34,920 --> 00:08:36,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know what this is?</font>
+
+178
+00:08:36,440 --> 00:08:38,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's a corrugator.</font>
+
+179
+00:08:38,440 --> 00:08:42,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It uses steam and salt to crimp</font>
+
+180
+00:08:38,440 --> 00:08:42,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}kraft paper for cardboard.</font>
+
+181
+00:08:42,480 --> 00:08:45,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And it makes a hell of a racket doing it,</font>
+
+182
+00:08:42,480 --> 00:08:45,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}which is great. Right?</font>
+
+183
+00:08:46,080 --> 00:08:47,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No.</font>
+
+184
+00:08:48,320 --> 00:08:49,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Steam and salt.</font>
+
+185
+00:08:50,000 --> 00:08:53,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}When this thing is running,</font>
+
+186
+00:08:50,000 --> 00:08:53,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}it's like a jungle in here.</font>
+
+187
+00:08:53,280 --> 00:08:56,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shit. It'll ruin the product.</font>
+
+188
+00:08:57,240 --> 00:09:02,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You can't just pop down to Costco</font>
+
+189
+00:08:57,240 --> 00:09:02,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and get a couple dehumidifiers?</font>
+
+190
+00:09:02,560 --> 00:09:06,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What--? Fine. Fine. Moving on.</font>
+
+191
+00:09:11,040 --> 00:09:15,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Spacious, isolated location,</font>
+
+192
+00:09:11,040 --> 00:09:15,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}no humidity...</font>
+
+193
+00:09:15,560 --> 00:09:17,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and you get all</font>
+
+194
+00:09:15,560 --> 00:09:17,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the free tortillas you want.</font>
+
+195
+00:09:17,880 --> 00:09:20,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's the special feature of this place.</font>
+
+196
+00:09:21,200 --> 00:09:22,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't know.</font>
+
+197
+00:09:22,960 --> 00:09:25,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It'll make the tortillas smell like cat piss.</font>
+
+198
+00:09:25,440 --> 00:09:27,900
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Somebody's bound to notice that.</font>
+
+199
+00:09:28,080 --> 00:09:31,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All right. Well, there's gotta be</font>
+
+200
+00:09:28,080 --> 00:09:31,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}some kind of workaround, right?</font>
+
+201
+00:09:31,480 --> 00:09:33,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's a technical problem.</font>
+
+202
+00:09:31,480 --> 00:09:33,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You guys are technical guys.</font>
+
+203
+00:09:34,160 --> 00:09:36,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, be creative.</font>
+
+204
+00:09:34,160 --> 00:09:36,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Put your heads together.</font>
+
+205
+00:09:36,480 --> 00:09:40,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Anything food-related is gonna have</font>
+
+206
+00:09:36,480 --> 00:09:40,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}unannounced government inspections.</font>
+
+207
+00:09:49,600 --> 00:09:52,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All I'm asking</font>
+
+208
+00:09:49,600 --> 00:09:52,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}is that you keep an open mind.</font>
+
+209
+00:09:52,400 --> 00:09:55,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Danny's already set some space aside</font>
+
+210
+00:09:52,400 --> 00:09:55,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}behind the Skee-Ball games.</font>
+
+211
+00:09:56,640 --> 00:09:59,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No.</font>
+
+212
+00:09:56,640 --> 00:09:59,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Hell, no.</font>
+
+213
+00:10:08,000 --> 00:10:10,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I know it's a long shot.</font>
+
+214
+00:10:11,520 --> 00:10:13,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}All I can say to recommend this...</font>
+
+215
+00:10:13,480 --> 00:10:18,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}...is we're talking about an owner here who</font>
+
+216
+00:10:13,480 --> 00:10:18,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an5}is, how should I put it, highly amenable.</font>
+
+217
+00:10:22,160 --> 00:10:25,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Look, I get it. Just say no</font>
+
+218
+00:10:22,160 --> 00:10:25,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and we'll go get dinner.</font>
+
+219
+00:10:25,760 --> 00:10:27,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All right. So I'll start.</font>
+
+220
+00:10:28,160 --> 00:10:29,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No way we're cooking in here.</font>
+
+221
+00:10:30,040 --> 00:10:32,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No space, nowhere for the smell to go.</font>
+
+222
+00:10:33,040 --> 00:10:36,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Look at that door. That thing rolls up</font>
+
+223
+00:10:33,040 --> 00:10:36,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and we're open to the world.</font>
+
+224
+00:10:36,800 --> 00:10:38,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't know if anybody noticed...</font>
+
+225
+00:10:38,520 --> 00:10:40,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...but there's a cop shop</font>
+
+226
+00:10:38,520 --> 00:10:40,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a quarter of a mile away.</font>
+
+227
+00:10:41,160 --> 00:10:44,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The hammer comes down,</font>
+
+228
+00:10:41,160 --> 00:10:44,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}it's gonna be Custer's Last Stand.</font>
+
+229
+00:10:48,800 --> 00:10:51,440
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- It's perfect.</font>
+
+230
+00:10:48,800 --> 00:10:51,440
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- What?</font>
+
+231
+00:10:51,600 --> 00:10:53,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How are we gonna fit a lab in here?</font>
+
+232
+00:10:55,840 --> 00:10:57,160
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Who said here?</font>
+
+233
+00:11:12,560 --> 00:11:14,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}A house is infested.</font>
+
+234
+00:11:15,040 --> 00:11:17,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Termites, cockroaches, whatever.</font>
+
+235
+00:11:18,160 --> 00:11:21,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Homeowners hire</font>
+
+236
+00:11:18,160 --> 00:11:21,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a pest control company.</font>
+
+237
+00:11:21,640 --> 00:11:24,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Truck rolls up, homeowners leave.</font>
+
+238
+00:11:24,880 --> 00:11:26,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The crew tents the house.</font>
+
+239
+00:11:27,040 --> 00:11:29,500
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They bomb the place with poison.</font>
+
+240
+00:11:29,680 --> 00:11:31,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The house stays like that for days.</font>
+
+241
+00:11:31,720 --> 00:11:34,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No one looks twice</font>
+
+242
+00:11:31,720 --> 00:11:34,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}at a tented house.</font>
+
+243
+00:11:34,200 --> 00:11:36,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, maybe there's a strange smell</font>
+
+244
+00:11:34,200 --> 00:11:36,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}coming out of it.</font>
+
+245
+00:11:36,720 --> 00:11:38,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Does someone think to investigate? No.</font>
+
+246
+00:11:39,000 --> 00:11:42,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Does anyone go inside? Hell, no.</font>
+
+247
+00:11:45,040 --> 00:11:46,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And that's where we'll cook.</font>
+
+248
+00:11:49,160 --> 00:11:52,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They tent, what,</font>
+
+249
+00:11:49,160 --> 00:11:52,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}three, four houses a week?</font>
+
+250
+00:11:52,920 --> 00:11:55,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So we pick the one that's best for us.</font>
+
+251
+00:11:55,400 --> 00:11:57,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Enough floor space, easy access.</font>
+
+252
+00:11:57,600 --> 00:12:01,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Once the tent is up,</font>
+
+253
+00:11:57,600 --> 00:12:01,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we go in, we cook a batch...</font>
+
+254
+00:12:01,360 --> 00:12:04,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...we bomb the place and leave.</font>
+
+255
+00:12:04,680 --> 00:12:07,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So we gotta move</font>
+
+256
+00:12:04,680 --> 00:12:07,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}in and out for every cook?</font>
+
+257
+00:12:08,160 --> 00:12:11,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Set up a lab, cook,</font>
+
+258
+00:12:08,160 --> 00:12:11,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and then take everything down?</font>
+
+259
+00:12:12,000 --> 00:12:15,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's challenging, but doable.</font>
+
+260
+00:12:16,200 --> 00:12:18,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Tell me about these guys.</font>
+
+261
+00:12:19,320 --> 00:12:24,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Mr. Ponytail on the sidewalk, that's Ira.</font>
+
+262
+00:12:19,320 --> 00:12:24,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He's the owner. On the roof is Sandor.</font>
+
+263
+00:12:24,360 --> 00:12:27,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The ladder's Fernando,</font>
+
+264
+00:12:24,360 --> 00:12:27,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and down below, that's Todd.</font>
+
+265
+00:12:27,440 --> 00:12:31,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The pest control operation is legit.</font>
+
+266
+00:12:27,440 --> 00:12:31,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, they're licensed, they're bonded.</font>
+
+267
+00:12:31,320 --> 00:12:33,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They do as good a job</font>
+
+268
+00:12:31,320 --> 00:12:33,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}as anyone in town.</font>
+
+269
+00:12:33,840 --> 00:12:36,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But they're also top-drawer</font>
+
+270
+00:12:33,840 --> 00:12:36,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}second-storey men.</font>
+
+271
+00:12:36,760 --> 00:12:39,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- "Second-storey"?</font>
+
+272
+00:12:36,760 --> 00:12:39,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- B and E artists.</font>
+
+273
+00:12:39,960 --> 00:12:41,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They're burglars.</font>
+
+274
+00:12:42,080 --> 00:12:43,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. I mean, hey, they play it smart.</font>
+
+275
+00:12:44,040 --> 00:12:46,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They don't boost anything</font>
+
+276
+00:12:44,040 --> 00:12:46,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}while they're on the job.</font>
+
+277
+00:12:46,600 --> 00:12:49,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They copy the keys,</font>
+
+278
+00:12:46,600 --> 00:12:49,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}locate the valuables and alarms...</font>
+
+279
+00:12:50,080 --> 00:12:54,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and they sell that information to other</font>
+
+280
+00:12:50,080 --> 00:12:54,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}crews. Or, after a decent interval...</font>
+
+281
+00:12:54,480 --> 00:12:58,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- ...they'll lift the goods themselves.</font>
+
+282
+00:12:54,480 --> 00:12:58,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- And you know them how?</font>
+
+283
+00:12:58,240 --> 00:13:03,440
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, I've been pulling their chestnuts out</font>
+
+284
+00:12:58,240 --> 00:13:03,440
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}of the fire, legally speaking, for five years.</font>
+
+285
+00:13:03,600 --> 00:13:07,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Ira and his guys are good. I mean,</font>
+
+286
+00:13:03,600 --> 00:13:07,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}they know how to keep their mouths shut.</font>
+
+287
+00:13:07,280 --> 00:13:09,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And if you buy them,</font>
+
+288
+00:13:07,280 --> 00:13:09,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}they're gonna stay bought.</font>
+
+289
+00:13:09,640 --> 00:13:11,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You can check into them yourself.</font>
+
+290
+00:13:11,880 --> 00:13:15,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I will, if it comes to that.</font>
+
+291
+00:13:15,520 --> 00:13:18,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So do we take a vote?</font>
+
+292
+00:13:20,880 --> 00:13:22,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Why?</font>
+
+293
+00:13:59,480 --> 00:14:03,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- We sound great.</font>
+
+294
+00:13:59,480 --> 00:14:03,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Rock on, man. Solid.</font>
+
+295
+00:14:03,400 --> 00:14:05,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That Yamaha's got a real nice touch.</font>
+
+296
+00:14:05,960 --> 00:14:08,520
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You like the sound? It's huge, huh?</font>
+
+297
+00:14:08,680 --> 00:14:11,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah, it's real nice, but we're looking</font>
+
+298
+00:14:08,680 --> 00:14:11,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}for something else today.</font>
+
+299
+00:14:11,840 --> 00:14:14,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- You got any roadie cases?</font>
+
+300
+00:14:11,840 --> 00:14:14,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- For sure. What size?</font>
+
+301
+00:14:14,280 --> 00:14:15,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Biggest you got.</font>
+
+302
+00:14:15,840 --> 00:14:18,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That'll fit through, like,</font>
+
+303
+00:14:15,840 --> 00:14:18,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a regular-size doorway.</font>
+
+304
+00:14:18,400 --> 00:14:20,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You got it. Follow me.</font>
+
+305
+00:14:23,280 --> 00:14:24,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Top of the line.</font>
+
+306
+00:14:25,120 --> 00:14:28,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Recessed hardware, foam lining,</font>
+
+307
+00:14:25,120 --> 00:14:28,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}quarter-inch laminated walls...</font>
+
+308
+00:14:28,880 --> 00:14:30,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...3-inch casters.</font>
+
+309
+00:14:31,400 --> 00:14:35,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Height is good, width is good.</font>
+
+310
+00:14:31,400 --> 00:14:35,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How much weight will this hold?</font>
+
+311
+00:14:35,200 --> 00:14:36,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's rated for 900 pounds.</font>
+
+312
+00:14:37,160 --> 00:14:40,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So unless your band plays lead bricks,</font>
+
+313
+00:14:37,160 --> 00:14:40,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you should be okay.</font>
+
+314
+00:14:42,640 --> 00:14:44,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We're gonna need....</font>
+
+315
+00:14:44,640 --> 00:14:47,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, man, I'm trying to do business</font>
+
+316
+00:14:44,640 --> 00:14:47,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}over here, bitch.</font>
+
+317
+00:14:48,440 --> 00:14:50,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Sorry. He's, like, overly enthusiastic.</font>
+
+318
+00:14:51,040 --> 00:14:54,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Anyway, I'm gonna need four of them.</font>
+
+319
+00:14:54,480 --> 00:14:58,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Four? That gonna be layaway? Because</font>
+
+320
+00:14:54,480 --> 00:14:58,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I need to see a bunch of IDs for that.</font>
+
+321
+00:14:58,280 --> 00:14:59,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No, man, cash.</font>
+
+322
+00:15:00,160 --> 00:15:01,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay. Hey, you know what?</font>
+
+323
+00:15:02,040 --> 00:15:05,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'll throw in stencilling.</font>
+
+324
+00:15:02,040 --> 00:15:05,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What's your band called?</font>
+
+325
+00:15:15,200 --> 00:15:17,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Damn, brother.</font>
+
+326
+00:15:17,880 --> 00:15:21,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Not asking no questions, but it sure</font>
+
+327
+00:15:17,880 --> 00:15:21,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}looks like you're back in business.</font>
+
+328
+00:15:21,480 --> 00:15:23,940
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No joke.</font>
+
+329
+00:15:21,480 --> 00:15:23,940
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You way back in business, man.</font>
+
+330
+00:15:24,120 --> 00:15:25,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Look at this.</font>
+
+331
+00:15:26,400 --> 00:15:27,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah.</font>
+
+332
+00:15:29,520 --> 00:15:32,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're stacking the benjies</font>
+
+333
+00:15:29,520 --> 00:15:32,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}till the rubber band pops.</font>
+
+334
+00:15:32,240 --> 00:15:33,460
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah, yeah.</font>
+
+335
+00:15:33,640 --> 00:15:36,200
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All's we're saying is</font>
+
+336
+00:15:33,640 --> 00:15:36,200
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we know you're major league now...</font>
+
+337
+00:15:36,360 --> 00:15:38,820
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...but if there's ever anything else</font>
+
+338
+00:15:36,360 --> 00:15:38,820
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you need from us....</font>
+
+339
+00:15:39,040 --> 00:15:41,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Any way we can get in on this at all.</font>
+
+340
+00:15:41,600 --> 00:15:43,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Little stuff, big stuff....</font>
+
+341
+00:15:44,080 --> 00:15:46,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We would be all over it.</font>
+
+342
+00:15:48,280 --> 00:15:51,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, maybe someday.</font>
+
+343
+00:15:54,040 --> 00:15:57,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's cool.</font>
+
+344
+00:15:54,040 --> 00:15:57,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I guess we better hit it then.</font>
+
+345
+00:15:57,760 --> 00:15:59,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. Keep on keeping on, brother.</font>
+
+346
+00:15:59,880 --> 00:16:01,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Later.</font>
+
+347
+00:16:04,440 --> 00:16:06,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>Okay, it is the same job as always.</i></font>
+
+348
+00:16:06,920 --> 00:16:10,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You go out, you inspect,</font>
+
+349
+00:16:06,920 --> 00:16:10,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you deal with the customers, regular drill.</font>
+
+350
+00:16:10,720 --> 00:16:15,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Everything's the same,</font>
+
+351
+00:16:10,720 --> 00:16:15,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}except for one important detail.</font>
+
+352
+00:16:21,640 --> 00:16:23,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No stealing.</font>
+
+353
+00:16:21,640 --> 00:16:23,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No stealing.</font>
+
+354
+00:16:24,040 --> 00:16:27,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Not a toothpick, not the spare change</font>
+
+355
+00:16:24,040 --> 00:16:27,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}between the couch cushions...</font>
+
+356
+00:16:27,280 --> 00:16:30,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...not the panties out of the hamper.</font>
+
+357
+00:16:27,280 --> 00:16:30,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Nothing. And I mean nothing.</font>
+
+358
+00:16:30,640 --> 00:16:34,420
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}If you're out with your buddies and they</font>
+
+359
+00:16:30,640 --> 00:16:34,420
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}ask if you got a hot tip on a B and E...</font>
+
+360
+00:16:34,600 --> 00:16:37,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...you tell them you got nada.</font>
+
+361
+00:16:34,600 --> 00:16:37,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're out of the game.</font>
+
+362
+00:16:37,280 --> 00:16:41,240
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The bottom line is that these houses</font>
+
+363
+00:16:37,280 --> 00:16:41,240
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}are out of bounds, now and forever.</font>
+
+364
+00:16:42,480 --> 00:16:43,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Got it?</font>
+
+365
+00:16:44,160 --> 00:16:45,560
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All right.</font>
+
+366
+00:16:45,720 --> 00:16:48,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}From time to time,</font>
+
+367
+00:16:45,720 --> 00:16:48,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you're gonna see these two.</font>
+
+368
+00:16:48,640 --> 00:16:51,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, as far as you're concerned,</font>
+
+369
+00:16:48,640 --> 00:16:51,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}they are ghosts.</font>
+
+370
+00:16:51,200 --> 00:16:53,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't see them.</font>
+
+371
+00:16:51,200 --> 00:16:53,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't hear them.</font>
+
+372
+00:16:53,360 --> 00:16:54,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't say "good morning."</font>
+
+373
+00:16:54,880 --> 00:16:58,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't speak</font>
+
+374
+00:16:54,880 --> 00:16:58,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}unless you're spoken to.</font>
+
+375
+00:16:59,200 --> 00:17:02,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}On the other hand,</font>
+
+376
+00:16:59,200 --> 00:17:02,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}if they tell you to jump...</font>
+
+377
+00:17:02,640 --> 00:17:05,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...you don't ask what for,</font>
+
+378
+00:17:02,640 --> 00:17:05,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you jump.</font>
+
+379
+00:17:06,120 --> 00:17:07,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, you need a name for them?</font>
+
+380
+00:17:08,720 --> 00:17:11,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You call them "Yes, sir" and "No, sir."</font>
+
+381
+00:17:13,520 --> 00:17:17,300
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You got any problems,</font>
+
+382
+00:17:13,520 --> 00:17:17,300
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you come to me.</font>
+
+383
+00:17:17,560 --> 00:17:20,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Here's the deal.</font>
+
+384
+00:17:17,560 --> 00:17:20,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The finishing tank's a tight fit.</font>
+
+385
+00:17:20,960 --> 00:17:24,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- And with this motor you've got on top....</font>
+
+386
+00:17:20,960 --> 00:17:24,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- The agitation motor.</font>
+
+387
+00:17:24,480 --> 00:17:28,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The agitation motor here on top,</font>
+
+388
+00:17:24,480 --> 00:17:28,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the tank's not gonna fit in the box.</font>
+
+389
+00:17:28,400 --> 00:17:31,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's just.... It's just too tall.</font>
+
+390
+00:17:31,640 --> 00:17:34,100
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, I thought we'd put</font>
+
+391
+00:17:31,640 --> 00:17:34,100
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a collar on the tank...</font>
+
+392
+00:17:34,320 --> 00:17:37,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and carry the motor in separately,</font>
+
+393
+00:17:34,320 --> 00:17:37,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}alongside the condenser.</font>
+
+394
+00:17:38,320 --> 00:17:41,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And on the day,</font>
+
+395
+00:17:38,320 --> 00:17:41,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we just kind of twist it into place...</font>
+
+396
+00:17:41,880 --> 00:17:44,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...you know, while we're setting up.</font>
+
+397
+00:17:45,360 --> 00:17:47,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+398
+00:17:45,360 --> 00:17:47,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+399
+00:17:47,800 --> 00:17:49,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- That's good.</font>
+
+400
+00:17:47,800 --> 00:17:49,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+401
+00:17:49,800 --> 00:17:51,280
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That will work.</font>
+
+402
+00:17:51,440 --> 00:17:53,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And Joe and his guys can</font>
+
+403
+00:17:51,440 --> 00:17:53,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}build it, right?</font>
+
+404
+00:17:54,480 --> 00:17:57,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. You know, they're up for it.</font>
+
+405
+00:17:57,840 --> 00:18:00,300
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Joe already bought a TIG welder</font>
+
+406
+00:17:57,840 --> 00:18:00,300
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}for the aluminium work.</font>
+
+407
+00:18:00,480 --> 00:18:05,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And, you know, I figure if they can</font>
+
+408
+00:18:00,480 --> 00:18:05,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}pull off the magnet, they can handle this.</font>
+
+409
+00:18:06,840 --> 00:18:08,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, listen, about the smell....</font>
+
+410
+00:18:08,760 --> 00:18:11,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}About keeping it out of people's drapes</font>
+
+411
+00:18:08,760 --> 00:18:11,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and furniture and whatnot....</font>
+
+412
+00:18:12,080 --> 00:18:13,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}When I was down in Mexico...</font>
+
+413
+00:18:14,120 --> 00:18:17,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...there was this big, big,</font>
+
+414
+00:18:14,120 --> 00:18:17,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}plastic hospital tent...</font>
+
+415
+00:18:17,800 --> 00:18:20,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...they set up inside of the--</font>
+
+416
+00:18:20,240 --> 00:18:22,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, shit. Sorry.</font>
+
+417
+00:18:24,120 --> 00:18:25,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, hi. Sorry.</font>
+
+418
+00:18:25,920 --> 00:18:27,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No, no, no. We were just wrapping up.</font>
+
+419
+00:18:28,080 --> 00:18:31,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- This is my....</font>
+
+420
+00:18:28,080 --> 00:18:31,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Friend. Hi. Walt.</font>
+
+421
+00:18:31,640 --> 00:18:33,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Nice to meet you.</font>
+
+422
+00:18:31,640 --> 00:18:33,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- You too.</font>
+
+423
+00:18:33,360 --> 00:18:35,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This is Brock.</font>
+
+424
+00:18:36,120 --> 00:18:37,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hi, Brock. I'm Walt.</font>
+
+425
+00:18:38,080 --> 00:18:39,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I've heard a lot about you.</font>
+
+426
+00:18:40,080 --> 00:18:41,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Hi.</font>
+
+427
+00:18:40,080 --> 00:18:41,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Hi.</font>
+
+428
+00:18:41,240 --> 00:18:43,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I understand you were in the hospital.</font>
+
+429
+00:18:43,400 --> 00:18:46,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And Jesse told me</font>
+
+430
+00:18:43,400 --> 00:18:46,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that you were very brave.</font>
+
+431
+00:18:48,640 --> 00:18:50,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. A man of few words.</font>
+
+432
+00:18:50,240 --> 00:18:52,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm sorry. He mostly just wants</font>
+
+433
+00:18:50,240 --> 00:18:52,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}to play his game.</font>
+
+434
+00:18:52,840 --> 00:18:54,240
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, I know that.</font>
+
+435
+00:18:54,440 --> 00:18:57,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I have two of my own. A boy and a girl.</font>
+
+436
+00:18:57,960 --> 00:19:00,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Well, I should go.</font>
+
+437
+00:19:01,000 --> 00:19:03,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I was thinking I could make us</font>
+
+438
+00:19:01,000 --> 00:19:03,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}all some dinner.</font>
+
+439
+00:19:04,000 --> 00:19:05,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Are you sure you don't wanna...?</font>
+
+440
+00:19:05,880 --> 00:19:08,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. Why don't you stay</font>
+
+441
+00:19:05,880 --> 00:19:08,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}for a beer at least?</font>
+
+442
+00:19:10,160 --> 00:19:12,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Sure. Why not? A beer sounds good.</font>
+
+443
+00:19:12,920 --> 00:19:14,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Thank you.</font>
+
+444
+00:20:11,400 --> 00:20:14,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- How are you today, sir?</font>
+
+445
+00:20:11,400 --> 00:20:14,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- We're good. Good. How are you?</font>
+
+446
+00:20:14,760 --> 00:20:16,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Family all packed up, ready to go?</font>
+
+447
+00:20:14,760 --> 00:20:16,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+448
+00:20:19,680 --> 00:20:22,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Here you're acknowledging</font>
+
+449
+00:20:19,680 --> 00:20:22,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that you've removed all pets...</font>
+
+450
+00:20:22,480 --> 00:20:25,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and plants from the house</font>
+
+451
+00:20:22,480 --> 00:20:25,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and that food has been removed...</font>
+
+452
+00:20:25,480 --> 00:20:27,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...or double-sealed in the bags</font>
+
+453
+00:20:25,480 --> 00:20:27,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we provided.</font>
+
+454
+00:20:27,920 --> 00:20:32,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This acknowledges you've removed or</font>
+
+455
+00:20:27,920 --> 00:20:32,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}bagged any medicine, tobacco, pet food.</font>
+
+456
+00:20:32,280 --> 00:20:34,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Better make sure</font>
+
+457
+00:20:32,280 --> 00:20:34,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you got any medicine you might need.</font>
+
+458
+00:20:34,840 --> 00:20:36,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- It's already in the car.</font>
+
+459
+00:20:34,840 --> 00:20:36,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Okay.</font>
+
+460
+00:20:36,480 --> 00:20:39,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Holy crap.</font>
+
+461
+00:20:36,480 --> 00:20:39,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How much poison are you using?</font>
+
+462
+00:20:39,880 --> 00:20:42,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's not how much,</font>
+
+463
+00:20:39,880 --> 00:20:42,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}it's getting it where it's needed.</font>
+
+464
+00:20:42,760 --> 00:20:44,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Those are your foggers.</font>
+
+465
+00:20:44,680 --> 00:20:46,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They disperse the fumigate</font>
+
+466
+00:20:44,680 --> 00:20:46,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}into the structure...</font>
+
+467
+00:20:47,000 --> 00:20:49,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...where it'll eliminate any nymphs</font>
+
+468
+00:20:47,000 --> 00:20:49,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}or larvae...</font>
+
+469
+00:20:49,480 --> 00:20:51,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...as well as the full-grown blattodea.</font>
+
+470
+00:20:51,960 --> 00:20:54,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So do we have all your keys?</font>
+
+471
+00:20:55,000 --> 00:20:57,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Any extras on here</font>
+
+472
+00:20:55,000 --> 00:20:57,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}you might wind up needing?</font>
+
+473
+00:20:57,200 --> 00:20:58,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No, I'm good.</font>
+
+474
+00:20:57,200 --> 00:20:58,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Okay.</font>
+
+475
+00:20:59,040 --> 00:21:02,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This last one here acknowledges</font>
+
+476
+00:20:59,040 --> 00:21:02,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that you have been informed...</font>
+
+477
+00:21:02,280 --> 00:21:04,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...that you may not</font>
+
+478
+00:21:02,280 --> 00:21:04,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}reenter the premises...</font>
+
+479
+00:21:04,400 --> 00:21:06,860
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...until it has cleared</font>
+
+480
+00:21:04,400 --> 00:21:06,860
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the post-fumigation inspection.</font>
+
+481
+00:21:07,640 --> 00:21:09,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So you're gonna get them all, right?</font>
+
+482
+00:21:09,880 --> 00:21:12,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We'll kill them dead.</font>
+
+483
+00:21:09,880 --> 00:21:12,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's a guarantee.</font>
+
+484
+00:21:51,440 --> 00:21:53,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Sir? Sir?</font>
+
+485
+00:21:55,960 --> 00:21:57,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yes?</font>
+
+486
+00:21:57,320 --> 00:22:01,200
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}There's a nanny cam</font>
+
+487
+00:21:57,320 --> 00:22:01,200
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}in the living-room clock.</font>
+
+488
+00:22:01,360 --> 00:22:03,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I disabled it.</font>
+
+489
+00:22:01,360 --> 00:22:03,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I just thought you should know.</font>
+
+490
+00:22:07,000 --> 00:22:09,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- What's your name?</font>
+
+491
+00:22:07,000 --> 00:22:09,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Todd, sir.</font>
+
+492
+00:25:11,360 --> 00:25:12,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Cheers.</font>
+
+493
+00:25:20,520 --> 00:25:21,920
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, I've gotta say...</font>
+
+494
+00:25:22,120 --> 00:25:26,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...seeing you with Andrea</font>
+
+495
+00:25:22,120 --> 00:25:26,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and that little boy....</font>
+
+496
+00:25:27,480 --> 00:25:28,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It was nice.</font>
+
+497
+00:25:28,960 --> 00:25:31,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah. It's good, right?</font>
+
+498
+00:25:28,960 --> 00:25:31,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+499
+00:25:31,720 --> 00:25:33,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+500
+00:25:31,720 --> 00:25:33,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+501
+00:25:34,040 --> 00:25:36,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And the way she looks at you....</font>
+
+502
+00:25:36,480 --> 00:25:39,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- You think?</font>
+
+503
+00:25:36,480 --> 00:25:39,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Oh, definitely.</font>
+
+504
+00:25:44,240 --> 00:25:49,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So is it moving</font>
+
+505
+00:25:44,240 --> 00:25:49,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}in any particular direction?</font>
+
+506
+00:25:50,360 --> 00:25:53,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't know. Maybe. Yeah.</font>
+
+507
+00:25:50,360 --> 00:25:53,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, sometimes I think...</font>
+
+508
+00:25:53,920 --> 00:25:55,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...you know...</font>
+
+509
+00:25:55,600 --> 00:25:58,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...if it feels right, then....</font>
+
+510
+00:25:58,240 --> 00:25:59,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}If it feels right, it feels right.</font>
+
+511
+00:26:00,400 --> 00:26:03,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Sometimes you just</font>
+
+512
+00:26:00,400 --> 00:26:03,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}gotta listen to your gut.</font>
+
+513
+00:26:04,920 --> 00:26:07,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, instant family.</font>
+
+514
+00:26:08,480 --> 00:26:10,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What more can you ask, right?</font>
+
+515
+00:26:10,600 --> 00:26:12,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Absolutely.</font>
+
+516
+00:26:13,240 --> 00:26:15,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>Cut the cards.</i></font>
+
+517
+00:26:15,760 --> 00:26:19,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Have you thought about</font>
+
+518
+00:26:15,760 --> 00:26:19,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}what your plan is?</font>
+
+519
+00:26:20,080 --> 00:26:23,960
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You know, vis-à-vis honesty?</font>
+
+520
+00:26:24,880 --> 00:26:28,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You mean how much</font>
+
+521
+00:26:24,880 --> 00:26:28,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}she knows about this?</font>
+
+522
+00:26:31,040 --> 00:26:34,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She doesn't know anything.</font>
+
+523
+00:26:34,560 --> 00:26:38,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, you know, she's not stupid.</font>
+
+524
+00:26:34,560 --> 00:26:38,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She knows I'm into something, but....</font>
+
+525
+00:26:38,880 --> 00:26:41,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She could make</font>
+
+526
+00:26:38,880 --> 00:26:41,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a pretty good guess.</font>
+
+527
+00:26:41,480 --> 00:26:43,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But I never told her anything.</font>
+
+528
+00:26:43,920 --> 00:26:45,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm not gonna.</font>
+
+529
+00:26:45,800 --> 00:26:47,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay.</font>
+
+530
+00:26:49,680 --> 00:26:51,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean it.</font>
+
+531
+00:26:51,960 --> 00:26:53,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I know you do.</font>
+
+532
+00:26:54,600 --> 00:26:58,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Jesse, I can't pretend that this</font>
+
+533
+00:26:54,600 --> 00:26:58,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}doesn't affect me. It does.</font>
+
+534
+00:26:58,960 --> 00:27:02,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But with everything that</font>
+
+535
+00:26:58,960 --> 00:27:02,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we've been through, the two of us...</font>
+
+536
+00:27:04,320 --> 00:27:06,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...this has to be your decision.</font>
+
+537
+00:27:06,520 --> 00:27:08,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, you've earned that.</font>
+
+538
+00:27:09,160 --> 00:27:10,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Seriously?</font>
+
+539
+00:27:11,760 --> 00:27:13,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah.</font>
+
+540
+00:27:17,000 --> 00:27:20,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Secrets create barriers</font>
+
+541
+00:27:17,000 --> 00:27:20,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}between people.</font>
+
+542
+00:27:22,000 --> 00:27:24,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm speaking from experience,</font>
+
+543
+00:27:22,000 --> 00:27:24,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}believe me.</font>
+
+544
+00:27:26,560 --> 00:27:28,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All that you've done...</font>
+
+545
+00:27:29,560 --> 00:27:31,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...it's a part of you, and....</font>
+
+546
+00:27:34,400 --> 00:27:37,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, if you choose to spend</font>
+
+547
+00:27:34,400 --> 00:27:37,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the rest of your life with this person...</font>
+
+548
+00:27:39,840 --> 00:27:44,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...then you'll have to decide</font>
+
+549
+00:27:39,840 --> 00:27:44,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}how much you'll share with her.</font>
+
+550
+00:27:45,680 --> 00:27:49,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Meaning what? Like everything?</font>
+
+551
+00:27:52,200 --> 00:27:53,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Like Gale?</font>
+
+552
+00:28:01,080 --> 00:28:03,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm just trying to say that I trust you...</font>
+
+553
+00:28:06,320 --> 00:28:08,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and I know you'll make the right call.</font>
+
+554
+00:28:17,040 --> 00:28:19,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}If she loves you...</font>
+
+555
+00:28:19,640 --> 00:28:21,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...she'll understand.</font>
+
+556
+00:28:24,200 --> 00:28:26,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They're leaving streaks.</font>
+
+557
+00:28:27,480 --> 00:28:30,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This more ethnic-looking one,</font>
+
+558
+00:28:27,480 --> 00:28:30,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}he's doing a great job...</font>
+
+559
+00:28:30,400 --> 00:28:34,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...but the other one is going back and forth</font>
+
+560
+00:28:30,400 --> 00:28:34,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}like he's scrubbing a wall.</font>
+
+561
+00:28:35,400 --> 00:28:38,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They have to go in circles...</font>
+
+562
+00:28:38,360 --> 00:28:40,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...or you're going to leave streaks.</font>
+
+563
+00:28:40,400 --> 00:28:42,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's pretty basic, right?</font>
+
+564
+00:28:43,400 --> 00:28:46,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't mean to tell you your business.</font>
+
+565
+00:28:46,680 --> 00:28:50,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's just-- It's simple quality control.</font>
+
+566
+00:28:53,720 --> 00:28:57,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So I've got some good news.</font>
+
+567
+00:28:58,240 --> 00:28:59,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Guess what.</font>
+
+568
+00:29:00,080 --> 00:29:01,300
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What?</font>
+
+569
+00:29:02,000 --> 00:29:04,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No, really. I want you to guess.</font>
+
+570
+00:29:05,480 --> 00:29:08,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Marie, I really--</font>
+
+571
+00:29:05,480 --> 00:29:08,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Okay. Hank's back at work.</font>
+
+572
+00:29:09,600 --> 00:29:11,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- That's wonderful.</font>
+
+573
+00:29:09,600 --> 00:29:11,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Yeah.</font>
+
+574
+00:29:11,680 --> 00:29:14,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Sure, they love him now, but where</font>
+
+575
+00:29:11,680 --> 00:29:14,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}were they when he needed them?</font>
+
+576
+00:29:14,840 --> 00:29:17,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Merkert and all the rest,</font>
+
+577
+00:29:14,840 --> 00:29:17,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}they laughed him out of the office...</font>
+
+578
+00:29:17,920 --> 00:29:21,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...when he told them</font>
+
+579
+00:29:17,920 --> 00:29:21,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}about that chicken man.</font>
+
+580
+00:29:21,520 --> 00:29:24,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}As far as I'm concerned,</font>
+
+581
+00:29:21,520 --> 00:29:24,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}too little too late.</font>
+
+582
+00:29:24,680 --> 00:29:26,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}If it were me, I'd tell them all</font>
+
+583
+00:29:24,680 --> 00:29:26,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}to go to hell.</font>
+
+584
+00:29:27,280 --> 00:29:29,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Do I sound bitter?</font>
+
+585
+00:29:29,520 --> 00:29:31,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But it's what he wants, right?</font>
+
+586
+00:29:31,600 --> 00:29:33,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah, it's doing him good.</font>
+
+587
+00:29:33,480 --> 00:29:37,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, his PT is going gangbusters.</font>
+
+588
+00:29:37,280 --> 00:29:39,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He's hardly using his cane at all.</font>
+
+589
+00:29:39,200 --> 00:29:41,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And thank you for that, really.</font>
+
+590
+00:29:42,160 --> 00:29:47,180
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean, God knows where he'd be</font>
+
+591
+00:29:42,160 --> 00:29:47,180
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}if we had to go through his health plan.</font>
+
+592
+00:29:47,760 --> 00:29:49,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm just glad he's feeling better.</font>
+
+593
+00:29:49,760 --> 00:29:53,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So, speaking of which,</font>
+
+594
+00:29:49,760 --> 00:29:53,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}we have another big event coming up.</font>
+
+595
+00:29:53,520 --> 00:29:55,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Have you thought about</font>
+
+596
+00:29:53,520 --> 00:29:55,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}what you're gonna do?</font>
+
+597
+00:29:56,360 --> 00:29:58,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Walt's birthday.</font>
+
+598
+00:29:58,200 --> 00:30:00,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Whatever you need, I'm here.</font>
+
+599
+00:30:01,480 --> 00:30:03,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah. I....</font>
+
+600
+00:30:03,800 --> 00:30:05,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't think we're gonna</font>
+
+601
+00:30:03,800 --> 00:30:05,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}do anything this year.</font>
+
+602
+00:30:06,200 --> 00:30:08,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What are you talking about?</font>
+
+603
+00:30:08,240 --> 00:30:10,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Of course we're gonna do something.</font>
+
+604
+00:30:10,240 --> 00:30:13,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Skyler, he was diagnosed</font>
+
+605
+00:30:10,240 --> 00:30:13,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}around his birthday, right?</font>
+
+606
+00:30:14,040 --> 00:30:15,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I....</font>
+
+607
+00:30:15,480 --> 00:30:17,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So it's been a whole year.</font>
+
+608
+00:30:17,520 --> 00:30:19,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Listen, I've had my problems</font>
+
+609
+00:30:17,520 --> 00:30:19,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}with Walt.</font>
+
+610
+00:30:19,640 --> 00:30:22,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Why he wouldn't come to the house</font>
+
+611
+00:30:19,640 --> 00:30:22,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}when we were all practically--</font>
+
+612
+00:30:22,760 --> 00:30:24,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Whatever. Water under the bridge.</font>
+
+613
+00:30:24,520 --> 00:30:27,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But at this point, every year is precious.</font>
+
+614
+00:30:24,520 --> 00:30:27,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We are--</font>
+
+615
+00:30:27,200 --> 00:30:28,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What are you doing?</font>
+
+616
+00:30:31,280 --> 00:30:33,840
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't smoke.</font>
+
+617
+00:30:31,280 --> 00:30:33,840
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You haven't smoked since college.</font>
+
+618
+00:30:34,000 --> 00:30:35,400
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You can't be serious!</font>
+
+619
+00:30:35,600 --> 00:30:38,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}With the baby and Walt?</font>
+
+620
+00:30:38,360 --> 00:30:41,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're not smoking around the baby,</font>
+
+621
+00:30:38,360 --> 00:30:41,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}are you? And you can't smoke here.</font>
+
+622
+00:30:41,800 --> 00:30:44,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}There's gotta be some rule</font>
+
+623
+00:30:41,800 --> 00:30:44,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}or regulation, I'm sure.</font>
+
+624
+00:30:44,400 --> 00:30:47,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You can't force your employees</font>
+
+625
+00:30:44,400 --> 00:30:47,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}to breathe secondhand smoke.</font>
+
+626
+00:30:47,280 --> 00:30:51,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I know for a fact that that is illegal.</font>
+
+627
+00:30:47,280 --> 00:30:51,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Marie, shut up.</font>
+
+628
+00:30:51,480 --> 00:30:53,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What? I'm sorry...</font>
+
+629
+00:30:53,920 --> 00:30:56,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...please don't speak to me like that.</font>
+
+630
+00:30:53,920 --> 00:30:56,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I am simply saying--</font>
+
+631
+00:30:56,680 --> 00:30:59,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Will you shut up?</font>
+
+632
+00:30:56,680 --> 00:30:59,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shut the hell up.</font>
+
+633
+00:30:59,800 --> 00:31:02,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shut up! Shut up! Shut up!</font>
+
+634
+00:31:02,560 --> 00:31:04,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Shut up! Shut up!</font>
+
+635
+00:31:02,560 --> 00:31:04,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Please stop--</font>
+
+636
+00:31:04,680 --> 00:31:07,240
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shut up! Shut up! Shut up!</font>
+
+637
+00:31:07,400 --> 00:31:09,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shut up! Shut up!</font>
+
+638
+00:31:09,520 --> 00:31:11,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Shut up!</font>
+
+639
+00:31:23,800 --> 00:31:25,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's 5.23.</font>
+
+640
+00:31:25,720 --> 00:31:27,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Five-point-two-three.</font>
+
+641
+00:31:29,320 --> 00:31:30,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Last one.</font>
+
+642
+00:31:32,160 --> 00:31:36,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Five-point-two-six.</font>
+
+643
+00:31:36,920 --> 00:31:42,040
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That comes to 49.27.</font>
+
+644
+00:31:43,320 --> 00:31:44,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Good yield, right?</font>
+
+645
+00:31:44,600 --> 00:31:47,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That is an excellent yield.</font>
+
+646
+00:31:49,280 --> 00:31:50,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All right.</font>
+
+647
+00:32:28,640 --> 00:32:30,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, Marie.</font>
+
+648
+00:32:33,160 --> 00:32:34,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How you doing?</font>
+
+649
+00:32:38,920 --> 00:32:41,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Where is Skyler?</font>
+
+650
+00:32:38,920 --> 00:32:41,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- In the bedroom. She's resting.</font>
+
+651
+00:32:43,240 --> 00:32:45,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Is everything okay?</font>
+
+652
+00:32:45,680 --> 00:32:49,460
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Breakdown? What does that mean?</font>
+
+653
+00:32:45,680 --> 00:32:49,460
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- It means I don't know what else to call it.</font>
+
+654
+00:32:49,640 --> 00:32:53,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But I've never seen her like that, ever.</font>
+
+655
+00:32:54,120 --> 00:32:57,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Well, what did she say</font>
+
+656
+00:32:54,120 --> 00:32:57,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}when she was yelling?</font>
+
+657
+00:32:57,680 --> 00:32:58,900
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Nothing.</font>
+
+658
+00:32:59,120 --> 00:33:03,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She just yelled, "Shut up, shut up,"</font>
+
+659
+00:32:59,120 --> 00:33:03,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}over and over again.</font>
+
+660
+00:33:04,280 --> 00:33:05,600
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Did you know she's smoking?</font>
+
+661
+00:33:06,080 --> 00:33:09,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Occasionally, maybe.</font>
+
+662
+00:33:06,080 --> 00:33:09,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's not a regular thing.</font>
+
+663
+00:33:11,280 --> 00:33:15,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I just wish I had gotten your message.</font>
+
+664
+00:33:11,280 --> 00:33:15,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Messages, Walt.</font>
+
+665
+00:33:15,360 --> 00:33:18,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Plural. I probably called you five times.</font>
+
+666
+00:33:22,880 --> 00:33:25,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm not leaving here until I know</font>
+
+667
+00:33:22,880 --> 00:33:25,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}what's got her so upset.</font>
+
+668
+00:33:27,320 --> 00:33:30,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Are you gambling again?</font>
+
+669
+00:33:27,320 --> 00:33:30,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Is that what this is?</font>
+
+670
+00:33:32,720 --> 00:33:35,180
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Please, God,</font>
+
+671
+00:33:32,720 --> 00:33:35,180
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}tell me the cancer isn't back.</font>
+
+672
+00:33:36,000 --> 00:33:37,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No.</font>
+
+673
+00:33:38,360 --> 00:33:41,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- It's not the cancer.</font>
+
+674
+00:33:38,360 --> 00:33:41,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Well, something happened.</font>
+
+675
+00:33:41,480 --> 00:33:46,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't mean to point the finger,</font>
+
+676
+00:33:41,480 --> 00:33:46,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but this didn't just come out of nowhere.</font>
+
+677
+00:33:47,560 --> 00:33:49,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's time to tell me the truth, Walt.</font>
+
+678
+00:33:47,560 --> 00:33:49,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All of it.</font>
+
+679
+00:33:51,160 --> 00:33:52,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I mean it.</font>
+
+680
+00:33:54,040 --> 00:33:55,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're right.</font>
+
+681
+00:34:03,240 --> 00:34:05,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You heard about Ted Beneke?</font>
+
+682
+00:34:05,680 --> 00:34:07,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The accident?</font>
+
+683
+00:34:07,280 --> 00:34:09,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What accident?</font>
+
+684
+00:34:13,600 --> 00:34:18,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}A couple weeks back,</font>
+
+685
+00:34:13,600 --> 00:34:18,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Ted took a fall, a bad one.</font>
+
+686
+00:34:18,680 --> 00:34:20,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He gave himself a concussion...</font>
+
+687
+00:34:20,960 --> 00:34:23,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and fractured a couple vertebrae.</font>
+
+688
+00:34:23,680 --> 00:34:25,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He's still in the hospital.</font>
+
+689
+00:34:25,640 --> 00:34:26,960
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He may never walk again.</font>
+
+690
+00:34:27,120 --> 00:34:32,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, my God. I didn't know.</font>
+
+691
+00:34:27,120 --> 00:34:32,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm so sorry to hear that.</font>
+
+692
+00:34:32,360 --> 00:34:33,580
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah.</font>
+
+693
+00:34:34,800 --> 00:34:39,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But that couldn't explain Skyler's....</font>
+
+694
+00:34:40,320 --> 00:34:43,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yes. Yes, it could.</font>
+
+695
+00:34:49,440 --> 00:34:51,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You do know, right? You....</font>
+
+696
+00:34:52,080 --> 00:34:53,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You must know.</font>
+
+697
+00:34:56,280 --> 00:34:58,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Oh, God.</font>
+
+698
+00:35:00,760 --> 00:35:02,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She was having an affair.</font>
+
+699
+00:35:03,480 --> 00:35:05,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}With Ted Beneke.</font>
+
+700
+00:35:05,400 --> 00:35:07,860
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Listen. It wasn't....</font>
+
+701
+00:35:08,080 --> 00:35:12,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It wasn't ongoing or anything, and....</font>
+
+702
+00:35:15,360 --> 00:35:18,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Skyler and I have been trying...</font>
+
+703
+00:35:18,320 --> 00:35:20,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...to put things back together.</font>
+
+704
+00:35:20,720 --> 00:35:25,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And then the accident happened,</font>
+
+705
+00:35:20,720 --> 00:35:25,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}and she got....</font>
+
+706
+00:35:28,800 --> 00:35:31,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Marie, I'm begging you.</font>
+
+707
+00:35:28,800 --> 00:35:31,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Please keep this to yourself.</font>
+
+708
+00:35:31,360 --> 00:35:34,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't want Hank to think less of her.</font>
+
+709
+00:35:31,360 --> 00:35:34,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Or me.</font>
+
+710
+00:35:38,080 --> 00:35:39,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}When did you...?</font>
+
+711
+00:35:42,640 --> 00:35:45,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Was she--? I'm gonna go.</font>
+
+712
+00:35:45,240 --> 00:35:46,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay. All right.</font>
+
+713
+00:36:10,240 --> 00:36:11,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Thank you.</font>
+
+714
+00:36:11,760 --> 00:36:13,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I'm sorr--</font>
+
+715
+00:36:11,760 --> 00:36:13,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- No.</font>
+
+716
+00:36:47,520 --> 00:36:49,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>That looked nasty.</i></font>
+
+717
+00:37:09,720 --> 00:37:11,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, you okay?</font>
+
+718
+00:37:11,880 --> 00:37:13,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm good.</font>
+
+719
+00:37:17,280 --> 00:37:18,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Really?</font>
+
+720
+00:37:19,160 --> 00:37:20,640
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah.</font>
+
+721
+00:37:50,960 --> 00:37:54,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>Come on. You wanna fuck with me?</i></font>
+
+722
+00:37:50,960 --> 00:37:54,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>Okay.</i></font>
+
+723
+00:37:55,640 --> 00:37:57,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>You little cockroaches.</i></font>
+
+724
+00:37:57,680 --> 00:37:59,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Dad, wait.</font>
+
+725
+00:37:59,280 --> 00:38:03,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>You wanna play games?</i></font>
+
+726
+00:37:59,280 --> 00:38:03,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>Okay. I play with you. Come on.</i></font>
+
+727
+00:38:03,560 --> 00:38:05,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- This is it.</font>
+
+728
+00:38:03,560 --> 00:38:05,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Wait. Wait for it.</font>
+
+729
+00:38:07,720 --> 00:38:10,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Ready?</font>
+
+730
+00:38:07,720 --> 00:38:10,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>- You wanna play rough? Okay!</i></font>
+
+731
+00:38:10,760 --> 00:38:14,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>- Say hello to my little friend!</i></font>
+
+732
+00:38:10,760 --> 00:38:14,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- "Say hello to my little friend."</font>
+
+733
+00:38:14,920 --> 00:38:17,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Nice. Just--</font>
+
+734
+00:38:17,320 --> 00:38:20,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, Mom, feeling better?</font>
+
+735
+00:38:20,360 --> 00:38:22,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey. Hey, why don't you join us,</font>
+
+736
+00:38:20,360 --> 00:38:22,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}if you feel up to it?</font>
+
+737
+00:38:23,120 --> 00:38:25,760
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We have popcorn.</font>
+
+738
+00:38:23,120 --> 00:38:25,760
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I think there's some pizza left.</font>
+
+739
+00:38:25,920 --> 00:38:27,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}If you're up to it.</font>
+
+740
+00:38:27,720 --> 00:38:30,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah, Mom. Join us.</font>
+
+741
+00:38:32,560 --> 00:38:34,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- Oh, my God. Look. Look.</font>
+
+742
+00:38:32,560 --> 00:38:34,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}<i>- You whores!</i></font>
+
+743
+00:38:36,720 --> 00:38:38,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Everyone dies in this movie,</font>
+
+744
+00:38:36,720 --> 00:38:38,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}don't they?</font>
+
+745
+00:38:50,320 --> 00:38:52,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay.</font>
+
+746
+00:38:52,360 --> 00:38:54,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}For you and you and me.</font>
+
+747
+00:38:54,240 --> 00:38:57,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Three hundred and sixty-seven thousand</font>
+
+748
+00:38:54,240 --> 00:38:57,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}dollars each.</font>
+
+749
+00:38:57,480 --> 00:38:59,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Wait a minute.</font>
+
+750
+00:38:59,680 --> 00:39:01,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}After the dealers got their cut...</font>
+
+751
+00:39:01,680 --> 00:39:08,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...we should be looking at 1,379,560.</font>
+
+752
+00:39:09,280 --> 00:39:10,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Mike, you're short.</font>
+
+753
+00:39:11,040 --> 00:39:12,950
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're almost 300,000 short.</font>
+
+754
+00:39:13,160 --> 00:39:16,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're forgetting about the mules.</font>
+
+755
+00:39:13,160 --> 00:39:16,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They get a flat 20 percent.</font>
+
+756
+00:39:16,360 --> 00:39:17,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- The what?</font>
+
+757
+00:39:16,360 --> 00:39:17,680
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- The drivers.</font>
+
+758
+00:39:17,840 --> 00:39:21,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They're the ones that take the product</font>
+
+759
+00:39:17,840 --> 00:39:21,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}from us to the dealers.</font>
+
+760
+00:39:22,400 --> 00:39:27,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And so transportation</font>
+
+761
+00:39:22,400 --> 00:39:27,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}is worth 20 percent?</font>
+
+762
+00:39:27,320 --> 00:39:29,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They're taking a risk.</font>
+
+763
+00:39:30,600 --> 00:39:34,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Two hundred and seventy-five thousand</font>
+
+764
+00:39:30,600 --> 00:39:34,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}dollars' worth of risk?</font>
+
+765
+00:39:38,160 --> 00:39:40,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What did Gus pay his mules?</font>
+
+766
+00:39:40,480 --> 00:39:42,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Gustavo Fring didn't use mules.</font>
+
+767
+00:39:43,160 --> 00:39:44,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He didn't need them.</font>
+
+768
+00:39:44,600 --> 00:39:47,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He spent 20 years</font>
+
+769
+00:39:44,600 --> 00:39:47,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}building his own distribution.</font>
+
+770
+00:39:47,760 --> 00:39:50,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}He had 16 refrigerator trucks</font>
+
+771
+00:39:47,760 --> 00:39:50,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}running his product.</font>
+
+772
+00:39:51,200 --> 00:39:53,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And do you know</font>
+
+773
+00:39:51,200 --> 00:39:53,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}where they are now?</font>
+
+774
+00:39:53,520 --> 00:39:55,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Government impound.</font>
+
+775
+00:39:55,400 --> 00:39:58,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't like paying 20 percent?</font>
+
+776
+00:39:55,400 --> 00:39:58,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Maybe you shouldn't have killed the guy.</font>
+
+777
+00:39:59,000 --> 00:40:01,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey, hey. There's still over</font>
+
+778
+00:39:59,000 --> 00:40:01,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}a million bucks here, all right?</font>
+
+779
+00:40:02,040 --> 00:40:04,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's for one cook.</font>
+
+780
+00:40:04,320 --> 00:40:06,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And since you're putting on</font>
+
+781
+00:40:04,320 --> 00:40:06,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the green eyeshade...</font>
+
+782
+00:40:06,800 --> 00:40:08,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...my supplier and I</font>
+
+783
+00:40:06,800 --> 00:40:08,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}came to an agreement.</font>
+
+784
+00:40:09,160 --> 00:40:11,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The methylamine is free this time.</font>
+
+785
+00:40:11,440 --> 00:40:15,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}But brace yourself, because</font>
+
+786
+00:40:11,440 --> 00:40:15,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}the next barrel is gonna cost big.</font>
+
+787
+00:40:17,080 --> 00:40:20,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Can we continue, or you got any more</font>
+
+788
+00:40:17,080 --> 00:40:20,150
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}burning questions?</font>
+
+789
+00:40:23,320 --> 00:40:24,720
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay, kid.</font>
+
+790
+00:40:24,880 --> 00:40:27,440
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You fronted us 120 to get us going.</font>
+
+791
+00:40:28,360 --> 00:40:33,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So that's 40 from him and me.</font>
+
+792
+00:40:33,360 --> 00:40:35,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}One hundred and twenty.</font>
+
+793
+00:40:35,440 --> 00:40:37,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yes. Thank you, Jesse.</font>
+
+794
+00:40:38,000 --> 00:40:39,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay.</font>
+
+795
+00:40:39,680 --> 00:40:43,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Now, Ira gets 110</font>
+
+796
+00:40:39,680 --> 00:40:43,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}for our piece of the business...</font>
+
+797
+00:40:43,840 --> 00:40:46,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and 25 per cook.</font>
+
+798
+00:40:46,640 --> 00:40:49,100
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That is 45...</font>
+
+799
+00:40:49,600 --> 00:40:51,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...from each of us.</font>
+
+800
+00:40:57,440 --> 00:41:00,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Ira's guys get 10 each per cook.</font>
+
+801
+00:41:06,800 --> 00:41:10,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Goodman's cut, 18,000 from each.</font>
+
+802
+00:41:19,360 --> 00:41:23,240
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Legacy cost, $351,000.</font>
+
+803
+00:41:23,400 --> 00:41:25,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's 117,000 each.</font>
+
+804
+00:41:25,440 --> 00:41:26,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}"Legacy cost"?</font>
+
+805
+00:41:27,160 --> 00:41:28,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I got nine guys.</font>
+
+806
+00:41:28,960 --> 00:41:32,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You don't know them, but they were</font>
+
+807
+00:41:28,960 --> 00:41:32,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}part of the previous operation...</font>
+
+808
+00:41:32,280 --> 00:41:35,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and they know a lot.</font>
+
+809
+00:41:32,280 --> 00:41:35,390
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}And right now, some of them are in jail...</font>
+
+810
+00:41:35,560 --> 00:41:39,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...and more will be soon.</font>
+
+811
+00:41:35,560 --> 00:41:39,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The feds RICO-ed their hazard pay.</font>
+
+812
+00:41:39,360 --> 00:41:42,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So we are gonna make them whole.</font>
+
+813
+00:41:43,680 --> 00:41:45,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We are gonna make them whole?</font>
+
+814
+00:41:45,920 --> 00:41:47,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}What is this "we"?</font>
+
+815
+00:41:47,720 --> 00:41:50,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}These were Gus' employees,</font>
+
+816
+00:41:47,720 --> 00:41:50,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}not ours.</font>
+
+817
+00:41:50,320 --> 00:41:53,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}They might have been Gus' employees,</font>
+
+818
+00:41:50,320 --> 00:41:53,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but they're my guys.</font>
+
+819
+00:41:54,480 --> 00:41:58,260
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So, what are they doing</font>
+
+820
+00:41:54,480 --> 00:41:58,260
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}to further our interests?</font>
+
+821
+00:41:58,440 --> 00:42:01,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}The cops are looking at them</font>
+
+822
+00:41:58,440 --> 00:42:01,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}very closely.</font>
+
+823
+00:42:01,720 --> 00:42:05,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We don't want them</font>
+
+824
+00:42:01,720 --> 00:42:05,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}furthering our interests.</font>
+
+825
+00:42:05,240 --> 00:42:08,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}So we are paying them, why?</font>
+
+826
+00:42:08,960 --> 00:42:13,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Because it's what you do.</font>
+
+827
+00:42:15,240 --> 00:42:17,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's what you do.</font>
+
+828
+00:42:19,880 --> 00:42:22,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}My guys are keeping</font>
+
+829
+00:42:19,880 --> 00:42:22,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}their mouths shut.</font>
+
+830
+00:42:23,000 --> 00:42:24,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We make them whole.</font>
+
+831
+00:42:24,680 --> 00:42:28,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}One hand washes the other.</font>
+
+832
+00:42:24,680 --> 00:42:28,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's as simple as that.</font>
+
+833
+00:42:29,240 --> 00:42:31,270
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It sounds like a simple shakedown...</font>
+
+834
+00:42:31,480 --> 00:42:33,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...simple as that.</font>
+
+835
+00:42:33,720 --> 00:42:36,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We're paying for their silence.</font>
+
+836
+00:42:33,720 --> 00:42:36,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's blackmail.</font>
+
+837
+00:42:38,360 --> 00:42:40,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Business is my end.</font>
+
+838
+00:42:41,880 --> 00:42:44,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This is business. End of story.</font>
+
+839
+00:42:46,760 --> 00:42:50,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This is your problem.</font>
+
+840
+00:42:46,760 --> 00:42:50,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It should come out of your end.</font>
+
+841
+00:42:50,360 --> 00:42:53,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Hey. Hey. Just take it out of mine.</font>
+
+842
+00:42:54,240 --> 00:42:56,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All right? Go for it.</font>
+
+843
+00:42:57,120 --> 00:42:59,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I don't care. Just take it.</font>
+
+844
+00:43:08,800 --> 00:43:11,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}No. Jesse, thank you...</font>
+
+845
+00:43:11,520 --> 00:43:13,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...but no.</font>
+
+846
+00:43:13,840 --> 00:43:15,320
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'll pay my share.</font>
+
+847
+00:43:16,360 --> 00:43:17,870
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Go ahead.</font>
+
+848
+00:43:24,000 --> 00:43:25,790
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Let me tell you something.</font>
+
+849
+00:43:28,120 --> 00:43:29,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This...</font>
+
+850
+00:43:30,800 --> 00:43:35,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...is how it's gonna be</font>
+
+851
+00:43:30,800 --> 00:43:35,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}from here on out.</font>
+
+852
+00:43:35,640 --> 00:43:39,750
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}My guys are an ongoing expenditure...</font>
+
+853
+00:43:39,920 --> 00:43:43,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...so you best get yourself</font>
+
+854
+00:43:39,920 --> 00:43:43,190
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}comfortable with it.</font>
+
+855
+00:43:53,200 --> 00:43:55,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}A hundred and thirty-seven thousand.</font>
+
+856
+00:43:58,800 --> 00:44:00,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}That's less than with Fring.</font>
+
+857
+00:44:02,160 --> 00:44:06,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Listen, Walter.</font>
+
+858
+00:44:02,160 --> 00:44:06,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Just because you shot Jesse James...</font>
+
+859
+00:44:07,720 --> 00:44:10,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...don't make you Jesse James.</font>
+
+860
+00:44:17,280 --> 00:44:19,070
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Tomorrow.</font>
+
+861
+00:44:34,880 --> 00:44:36,710
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How are you feeling?</font>
+
+862
+00:44:37,440 --> 00:44:38,630
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Okay, I guess.</font>
+
+863
+00:44:40,680 --> 00:44:42,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Broke it off with Andrea.</font>
+
+864
+00:44:43,240 --> 00:44:44,830
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I had to.</font>
+
+865
+00:44:45,760 --> 00:44:47,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}She's gonna tell Brock.</font>
+
+866
+00:44:49,800 --> 00:44:51,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I'm still gonna take care</font>
+
+867
+00:44:49,800 --> 00:44:51,990
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}of the rent and stuff.</font>
+
+868
+00:44:52,160 --> 00:44:55,940
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- It's the right thing to do, but, you know--</font>
+
+869
+00:44:52,160 --> 00:44:55,940
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}- I meant this.</font>
+
+870
+00:44:56,120 --> 00:44:58,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}How are you feeling</font>
+
+871
+00:44:56,120 --> 00:44:58,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}about the money?</font>
+
+872
+00:45:00,000 --> 00:45:02,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}You're looking at it wrong.</font>
+
+873
+00:45:00,000 --> 00:45:02,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}When we worked for Gus...</font>
+
+874
+00:45:02,720 --> 00:45:05,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...we were cooking</font>
+
+875
+00:45:02,720 --> 00:45:05,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}200 pounds a week.</font>
+
+876
+00:45:05,200 --> 00:45:09,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}This last batch was great,</font>
+
+877
+00:45:05,200 --> 00:45:09,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but we didn't even crack 50 pounds.</font>
+
+878
+00:45:09,840 --> 00:45:13,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}We maybe cleared less money,</font>
+
+879
+00:45:09,840 --> 00:45:13,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}but we got a bigger piece of the pie.</font>
+
+880
+00:45:14,120 --> 00:45:18,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}It's like you said, we're owners,</font>
+
+881
+00:45:14,120 --> 00:45:18,590
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}not employees.</font>
+
+882
+00:45:22,400 --> 00:45:24,350
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}I've been thinking about Victor.</font>
+
+883
+00:45:25,400 --> 00:45:26,670
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah?</font>
+
+884
+00:45:27,480 --> 00:45:28,880
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Yeah.</font>
+
+885
+00:45:29,760 --> 00:45:32,110
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}All this time...</font>
+
+886
+00:45:32,280 --> 00:45:35,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...I was sure that</font>
+
+887
+00:45:32,280 --> 00:45:35,430
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Gus did what he did...</font>
+
+888
+00:45:35,600 --> 00:45:37,470
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...to send me a message.</font>
+
+889
+00:45:39,840 --> 00:45:42,030
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Maybe there's another reason.</font>
+
+890
+00:45:42,600 --> 00:45:44,510
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Like what?</font>
+
+891
+00:45:47,000 --> 00:45:49,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Victor trying to cook</font>
+
+892
+00:45:47,000 --> 00:45:49,910
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that batch on his own?</font>
+
+893
+00:45:50,080 --> 00:45:52,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Taking liberties</font>
+
+894
+00:45:50,080 --> 00:45:52,310
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}that weren't his to take?</font>
+
+895
+00:45:54,720 --> 00:45:57,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}Maybe he flew</font>
+
+896
+00:45:54,720 --> 00:45:57,550
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}too close to the sun...</font>
+
+897
+00:45:58,560 --> 00:46:00,230
+<font face="Tahoma" size="64" color="#f0f0f0">{\an4}...got his throat cut.</font>
+
