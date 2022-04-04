@@ -1,18 +1,25 @@
 #!/bin/bash
-# runs SubtitlesPreprocessor for each .srt file in $INPUT_DIR
+# runs SubtitlesPreprocessor for each .srt file in $INPUT_DIR subdirectories
 # usage:
-#   ./preprocess_subtitles.sh <movie_genre> <directory_with_genre_folders> <output_directory> 
+#   ./preprocess_subtitles.sh <directory_with_folders_with_srt_files> <output_directory> 
 # example:
-#   ./preprocess_subtitles.sh drama srt training_data 
+#   ./preprocess_subtitles.sh srt training_data
 
-MOVIE_GENRE=$1
-INPUT_DIR=$2
-OUTPUT_DIR=$3
 
-SRT_LOCATION="${INPUT_DIR}/${MOVIE_GENRE}/*.srt"
-OUTPUT_FILE="${OUTPUT_DIR}/${MOVIE_GENRE}.txt"
+INPUT_DIR=$1
+OUTPUT_DIR=$2
 
-for file in $SRT_LOCATION; do
-    # echo python SubtitlesPreprocessor.py train "$file" $OUTPUT_FILE
-    python SubtitlesPreprocessor.py train "$file" $OUTPUT_FILE
+subfolders="${INPUT_DIR}/*/"
+
+for subfolder in $subfolders; do
+
+    srt_path="${subfolder}*.srt"
+    genre=$(basename $subfolder) 
+
+    output_file="${OUTPUT_DIR}/${genre}.txt"
+
+    for file in $srt_path; do
+        python SubtitlesPreprocessor.py train "$file" $output_file
+    done
+
 done

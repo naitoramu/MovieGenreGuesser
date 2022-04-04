@@ -1,11 +1,12 @@
 # SubtitlesPreprocessor
 # usage: python SubtitlesPreprocessor.py [data_type (train|test)] [input file] [output file]*
-# example: SubtitlesPreprocessor.py train test-subtitles.srt training_data/sitcom.txt
+# example: SubtitlesPreprocessor.py train srt/test-subtitles.srt training_data/sitcom.txt
 
 import re
 import os
 import sys
-
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
 class SubtitlesPreprocessor:
 
@@ -14,6 +15,8 @@ class SubtitlesPreprocessor:
         self.path_to_subtitles_file = path_to_subtitles_file
         self.filename = ''
         self.file_loaded_successfully = False
+        self.stopwords  = stopwords.words('english')        #stopwords[0:10] = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're"]
+        self.wordnet_lemmatizer = WordNetLemmatizer()
 
         self.preprocessSubtitles()
 
@@ -24,27 +27,34 @@ class SubtitlesPreprocessor:
         if(self.file_loaded_successfully):
             self.extractSubtitlesWithTime()
             self.removeTimeDataFromSubtitles()
+            self.toLowerCase()
+            self.removeURLsFromSubtitles()
             self.removeTagsFromSubtitles()
             self.removeDigitsFromSubtitles()
             self.removeSoundDescritpionsFromSubtitles()
-            self.removeSpecialCharactersFromSubtitles()
-            self.toLowerCase()
-
+            self.removePunctuationFromSubtitles()
+            self.removeStopwordsFromSubtitles()
+            self.extractOnlyWordsFromSubtitles()
+            self.lemmatizeSubtitles()
 
     def loadFile(self, path_to_subtitles_file):
         try:
-            file = open(path_to_subtitles_file, 'r', encoding="ISO-8859-1")
-            self.file_content = file.read()
-            self.file_loaded_successfully = True
-                                                                                # os.path.basename(file.name) returns filename without path
-            self.filename = os.path.splitext(os.path.basename(file.name))[0]    # os.path.splitext()[] returns filename without extension
+            with open(path_to_subtitles_file, 'r', encoding="ISO-8859-1") as file:
+                self.file_content = file.read()
+                self.file_loaded_successfully = True
+
+                # os.path.basename(file.name) returns filename without path
+                # os.path.splitext()[] returns filename without extension
+                self.filename = os.path.splitext(
+                    os.path.basename(file.name))[0]
 
         except IOError:
             self.file_loaded_successfully = False
 
     def extractSubtitlesWithTime(self):
-        self.subtitles_with_time = re.findall("(\d+:\d+:\d+,\d+ --> \d+:\d+:\d+,\d+)\s+(.+)", self.file_content)
-    
+        self.subtitles_with_time = re.findall(
+            "(\d+:\d+:\d+,\d+ --> \d+:\d+:\d+,\d+)\s+(.+)", self.file_content)
+
     def removeTimeDataFromSubtitles(self):
 
         self.subtitles = ''
@@ -52,11 +62,17 @@ class SubtitlesPreprocessor:
         for row in self.subtitles_with_time:
             self.subtitles += ' ' + row[1]
 
+    def toLowerCase(self):
+        self.subtitles = self.subtitles.lower()
+
+    def removeURLsFromSubtitles(self):
+        self.subtitles = re.sub(
+            r'(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&\'\(\)\*\+,;=.]+', '', self.subtitles)
+
     def removeTagsFromSubtitles(self):
 
         self.subtitles = re.sub(r'<(.)*?>', '', self.subtitles)
         self.subtitles = re.sub(r'\{(.)*?\}', '', self.subtitles)
-
 
     def removeSoundDescritpionsFromSubtitles(self):
         self.subtitles = re.sub(r'\[.*?\]', '', self.subtitles)
@@ -64,24 +80,38 @@ class SubtitlesPreprocessor:
     def removeDigitsFromSubtitles(self):
         self.subtitles = re.sub(r'[0-9]+', '', self.subtitles)
 
-    def removeSpecialCharactersFromSubtitles(self):
-        self.subtitles = re.sub(r'[^\w\s]', '', self.subtitles)
+    def removePunctuationFromSubtitles(self):
+        self.subtitles = re.sub(r'[.,?!:-]', '', self.subtitles)
 
-    def toLowerCase(self):
-        self.subtitles = self.subtitles.lower()
+
+    def removeStopwordsFromSubtitles(self):
+        without_stopwords = [i for i in self.getWordList() if i not in self.stopwords]
+        self.subtitles = " ".join(without_stopwords)
+        
+
+    def extractOnlyWordsFromSubtitles(self):
+        self.subtitles = re.sub(r'[^a-z\s]', '', self.subtitles)
+
+    def lemmatizeSubtitles(self):
+        lemmatized_subtitles = [self.wordnet_lemmatizer.lemmatize(word) for word in self.getWordList()]
+        self.subtitles = " ".join(lemmatized_subtitles)
 
     def getSubtitles(self):
         return self.subtitles
 
     def getWordList(self):
         return self.subtitles.split()
-    
+
     def saveSubtitles(self, output_filename):
+
         with open(output_filename, 'at') as file:
             file.write(self.subtitles + ' ')
-        print('subtitles from file: "' + self.filename + '" appended to >> ' + output_filename)
 
-if( len(sys.argv)) < 4:
+        print('subtitles from file: "' + self.filename +
+              '" appended to >> ' + output_filename)
+
+
+if(len(sys.argv)) < 4:
     print("Missed arguments")
     quit()
 
@@ -92,5 +122,5 @@ output_filename = sys.argv[3]
 
 subtitles = SubtitlesPreprocessor(subtitles_file)
 subtitles.saveSubtitles(output_filename)
-
-
+# print(subtitles.getSubtitles())
+# print(len(subtitles.getSubtitles()))
