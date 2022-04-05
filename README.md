@@ -6,18 +6,18 @@ This application is the implementation of the semstral project in the subject "M
 # Subtitles preprocessing
 To preprocess subtitles, place them in the appropriate directory in `srt` dir, and then run script [preprocess_subtitles.sh](https://github.com/naitoramu/ml-project/edit/master/README.md#preprocess_subtitlessh)
 
-If downloaded subtitles aren't in .srt format, you can place them in `downloaded_subs dir`, and run script [convert2srt.sh](https://github.com/naitoramu/ml-project/edit/master/README.md#convert2srtsh)
+If downloaded subtitles aren't in .srt format, you can place them in `downloaded_subs` dir, and run script [convert2srt.sh](https://github.com/naitoramu/ml-project/edit/master/README.md#convert2srtsh)
 
 ## preprocess_subtitles.sh
 ### Runs SubtitlesPreprocessor for each .srt file in $INPUT_DIR subdirectories
 #### usage:
-`./preprocess_subtitles.sh <input_directory> <output_directory>`
+`./preprocess_subtitles.sh -i <input_directory> -o <output_directory> -d <data_type>`
 > **example:**
-`./preprocess_subtitles.sh srt training_data`
+`./preprocess_subtitles.sh -i srt -o training_data -d train`
 
 
 ## convert2srt.sh
-### Converts subtitle files from downloaded_subs folder into .srt files
+### Converts subtitle files inside `downloaded_subs` folder into .srt files
 
 #### usage:
 `./convert2srt <input_files_extension>`
