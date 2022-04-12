@@ -1,0 +1,2564 @@
+﻿1
+00:00:00,200 --> 00:00:02,200
+<font color="#20e020">Subs fixed and enhanced by Treviso.
+Spanish dialog added and translated by Tronar.</font>
+
+2
+00:00:02,202 --> 00:00:05,002
+My name is Oliver Queen.
+
+3
+00:00:05,240 --> 00:00:07,925
+After five years on a hellish island...
+
+4
+00:00:08,080 --> 00:00:10,811
+I have come home with only one goal:
+
+5
+00:00:11,000 --> 00:00:13,082
+To save my city.
+
+6
+00:00:13,440 --> 00:00:16,523
+But to do so, I can't be
+the killer I once was.
+
+7
+00:00:18,560 --> 00:00:21,723
+To honor my friend's memory,
+I must be someone else.
+
+8
+00:00:23,440 --> 00:00:27,047
+I must be something else.
+
+9
+00:00:28,840 --> 00:00:30,080
+Previously on Arrow:
+
+10
+00:00:30,280 --> 00:00:32,089
+It can save you or it could kill you.
+
+11
+00:00:32,280 --> 00:00:34,089
+Slade has the Mirakuru in his system.
+
+12
+00:00:34,400 --> 00:00:37,290
+The ones who survived,
+they became someone else.
+
+13
+00:00:38,440 --> 00:00:41,887
+It's the Mirakuru, it's
+messing with your head.
+
+14
+00:00:42,120 --> 00:00:44,487
+I know you and your new friends
+have the Mirakuru.
+
+15
+00:00:44,640 --> 00:00:48,122
+In exchange, I'll promise you and
+your friends safe passage off this island.
+
+16
+00:00:48,400 --> 00:00:50,129
+Slade's gone and he took the Mirakuru.
+
+17
+00:00:50,400 --> 00:00:52,368
+You know who he is
+under that hood, don't you?
+
+18
+00:00:52,560 --> 00:00:57,441
+Once he has lost everyone
+and everything he values...
+
+19
+00:00:58,480 --> 00:01:01,450
+I will drive an arrow through his eye.
+
+20
+00:01:18,080 --> 00:01:23,246
+Welcome to St. Walker's, alderman.
+Or should I call you mayor?
+
+21
+00:01:23,440 --> 00:01:25,522
+Thank you for letting me
+come by so late.
+
+22
+00:01:25,680 --> 00:01:27,682
+Oh, I can imagine
+how busy your schedule is.
+
+23
+00:01:27,920 --> 00:01:30,924
+It's really great of you taking the time
+to come visit your aunt.
+
+24
+00:01:31,120 --> 00:01:33,088
+Her health has taken a bad turn.
+
+25
+00:01:33,320 --> 00:01:35,163
+Of course.
+
+26
+00:01:35,400 --> 00:01:37,448
+She's family.
+
+27
+00:01:41,840 --> 00:01:46,448
+Maya, look who came to see you.
+It's your nephew, Sebastian.
+
+28
+00:01:47,400 --> 00:01:50,051
+Don't go, please.
+
+29
+00:01:50,200 --> 00:01:53,329
+We'll be fine. Thank you.
+
+30
+00:01:55,960 --> 00:01:58,361
+Still worshipping the old gods, I see.
+
+31
+00:01:58,520 --> 00:02:01,000
+They're the last thing I
+have of your father's.
+
+32
+00:02:01,200 --> 00:02:03,362
+They protect me.
+
+33
+00:02:03,560 --> 00:02:06,211
+He was supposed to protect you.
+
+34
+00:02:06,640 --> 00:02:09,883
+A friend of mine, Laurel Lance,
+came by to visit you a couple days ago.
+
+35
+00:02:10,040 --> 00:02:12,040
+Do you remember her?
+
+36
+00:02:12,500 --> 00:02:14,300
+<i>Ella es muy linda.</i>
+(She is very pretty.)
+
+37
+00:02:14,520 --> 00:02:16,329
+Yes, she is.
+
+38
+00:02:16,680 --> 00:02:18,480
+What did you both talk about?
+
+39
+00:02:19,100 --> 00:02:20,300
+Nada.
+(Nothing.)
+
+40
+00:02:20,320 --> 00:02:23,320
+- Nothing.
+- You know I don't like it when you lie to me.
+
+41
+00:02:25,440 --> 00:02:27,340
+I told her the truth.
+
+42
+00:02:27,560 --> 00:02:32,160
+That you... you killed him.
+Your father.
+
+43
+00:02:32,250 --> 00:02:34,250
+<i>¡Mi esposo!</i>
+(My husband!)
+
+44
+00:02:36,920 --> 00:02:42,720
+I don't know what came over me.
+I am so, so sorry.
+
+45
+00:02:42,960 --> 00:02:45,360
+I hurt you, mijo (my son).
+
+46
+00:02:45,900 --> 00:02:47,400
+<i>Está bien.</i>
+(It's okay.)
+
+47
+00:02:47,800 --> 00:02:49,400
+<i>No te preocupes.</i>
+(Don't worry.)
+
+48
+00:02:50,080 --> 00:02:53,880
+But you are my child, my son.
+
+49
+00:02:54,080 --> 00:02:56,367
+And I hurt you.
+
+50
+00:02:57,920 --> 00:03:00,241
+I forgive you, Mama.
+
+51
+00:03:07,280 --> 00:03:10,080
+I forgive you for everything.
+
+52
+00:03:17,400 --> 00:03:19,600
+<i>La luz de dios me rodea,</i>
+(The light of God surrounds me,)
+
+53
+00:03:19,605 --> 00:03:21,555
+<i>el amor de dios me envuelve,</i>
+(the love of God enfolds me,)
+
+54
+00:03:21,587 --> 00:03:23,487
+<i>el poder de dios me protege,</i>
+(the power of God protects me,)
+
+55
+00:03:23,500 --> 00:03:26,500
+<i>la presencia de dios vela por mí.</i>
+(the presence of God watches over me.)
+
+56
+00:03:28,950 --> 00:03:31,150
+<i>Los dioses están muertos.</i>
+(The Gods are dead.)
+
+57
+00:03:44,240 --> 00:03:47,084
+Please, I don't...
+Look, I don't know anything.
+
+58
+00:03:47,280 --> 00:03:51,171
+- The man in the skull mask. Where is he?
+- I don't know what you're talking about.
+
+59
+00:03:51,400 --> 00:03:53,700
+He's been experimenting on people
+in the Glades.
+
+60
+00:03:53,800 --> 00:03:57,122
+He's leaving a trail of corpses
+with blood running from their eyes.
+
+61
+00:03:57,320 --> 00:04:01,041
+No, no, no. I deal in stolen merchandise.
+That is it.
+
+62
+00:04:02,160 --> 00:04:04,401
+Don't. Please. Come on.
+
+63
+00:04:04,600 --> 00:04:06,841
+- Ask him what color his shoes are.
+- What?
+
+64
+00:04:07,040 --> 00:04:10,283
+You want this guy to take a polygraph
+via Bluetooth, cool...
+
+65
+00:04:10,520 --> 00:04:15,242
+but I need to hear him establish a baseline.
+I need to hear him tell the truth just once.
+
+66
+00:04:15,480 --> 00:04:18,484
+What color are your shoes?
+
+67
+00:04:18,680 --> 00:04:20,170
+What?
+
+68
+00:04:20,360 --> 00:04:21,566
+They're blue.
+
+69
+00:04:22,800 --> 00:04:24,484
+He's not lying.
+
+70
+00:04:25,280 --> 00:04:26,691
+Please.
+
+71
+00:04:30,200 --> 00:04:31,770
+He's out there.
+
+72
+00:04:33,000 --> 00:04:35,844
+- Somewhere.
+- Come home.
+
+73
+00:04:36,080 --> 00:04:38,162
+We can't do any more tonight.
+
+74
+00:04:41,640 --> 00:04:43,210
+Slade?
+
+75
+00:04:44,080 --> 00:04:45,730
+Slade?
+
+76
+00:04:47,000 --> 00:04:48,570
+Thought maybe he'd come back here.
+
+77
+00:04:48,800 --> 00:04:52,202
+He has the Mirakuru serum in his
+bloodstream. He's not thinking clearly.
+
+78
+00:04:52,440 --> 00:04:54,568
+So, what do we do now?
+
+79
+00:04:55,480 --> 00:04:57,403
+I don't know, Sara.
+
+80
+00:04:59,720 --> 00:05:01,210
+The sensor grid is still active.
+
+81
+00:05:01,400 --> 00:05:04,882
+So at least we're gonna know
+if Ivo and his men come back to the island.
+
+82
+00:05:05,120 --> 00:05:07,407
+So we just sit here and wait?
+
+83
+00:05:07,600 --> 00:05:11,889
+Do you have any other ideas?
+Because right now, I'm open to suggestions.
+
+84
+00:05:13,160 --> 00:05:18,405
+We find Slade
+and maybe we consider Ivo's offer.
+
+85
+00:05:18,640 --> 00:05:19,721
+What?
+
+86
+00:05:20,000 --> 00:05:23,243
+Look, if we get the serum back from Slade,
+then we can go home.
+
+87
+00:05:23,480 --> 00:05:26,404
+And I can try to talk to Ivo.
+I can get him to listen to me.
+
+88
+00:05:26,600 --> 00:05:29,365
+Like he listened
+before he shot Shado in the head?
+
+89
+00:05:29,560 --> 00:05:33,121
+- He's just tired and he's frustrated.
+- What?
+
+90
+00:05:34,400 --> 00:05:37,768
+You don't understand what finding
+the Mirakuru serum has meant to him.
+
+91
+00:05:38,000 --> 00:05:39,843
+You're right, Sara. I don't understand.
+
+92
+00:05:40,040 --> 00:05:43,522
+And I don't get how you could even consider
+trusting him after what he did.
+
+93
+00:05:43,720 --> 00:05:45,449
+He's not evil.
+
+94
+00:05:46,240 --> 00:05:48,607
+He kept me safe on that
+ship for over a year.
+
+95
+00:05:49,200 --> 00:05:52,921
+And I mean, not just safe.
+He taught me things.
+
+96
+00:05:53,160 --> 00:05:56,687
+- And I learned a lot.
+- I learned a lot too.
+
+97
+00:05:57,240 --> 00:06:00,608
+This island taught me
+that you can't trust anyone.
+
+98
+00:06:15,040 --> 00:06:17,964
+Ms. Lance? I have a call
+for you on line two.
+
+99
+00:06:18,200 --> 00:06:20,123
+Thank you, Katherine.
+
+100
+00:06:23,040 --> 00:06:24,201
+Laurel Lance.
+
+101
+00:06:24,400 --> 00:06:26,767
+This is Nurse Downey from St. Walker's.
+
+102
+00:06:26,920 --> 00:06:30,925
+You asked me to call if there was
+any changes in Maya Resik's condition.
+
+103
+00:06:31,160 --> 00:06:33,970
+I'm sad to report she passed away.
+
+104
+00:06:34,200 --> 00:06:38,091
+- What?
+- Her heart gave out on her, poor soul.
+
+105
+00:06:38,280 --> 00:06:40,806
+You think Sebastian Blood,
+the saint of Starling City...
+
+106
+00:06:41,080 --> 00:06:44,004
+- killed his own mother?
+- He was the last person to see her alive.
+
+107
+00:06:44,240 --> 00:06:47,110
+- That isn't a coincidence.
+- He's the devoted nephew visiting a sick relative.
+
+108
+00:06:47,120 --> 00:06:50,442
+- You're right, that's very suspicious.
+- He didn't go there to visit her.
+
+109
+00:06:50,680 --> 00:06:54,844
+He went there to kill her, to cover up the
+fact that as a child, he killed his father.
+
+110
+00:06:55,080 --> 00:06:57,970
+- Maya Resik told me what happened.
+- From inside a padded room.
+
+111
+00:06:58,160 --> 00:07:02,961
+He had her forcibly committed. She tells me the
+truth and two days later, has a heart attack.
+
+112
+00:07:03,240 --> 00:07:04,192
+You don't find that strange?
+
+113
+00:07:04,202 --> 00:07:06,202
+For one thing, there's no
+record that Maya Resik...
+
+114
+00:07:06,320 --> 00:07:08,573
+was even Blood's mother,
+and according to the hospital
+
+115
+00:07:08,598 --> 00:07:10,474
+she was in the late
+stages of heart disease.
+
+116
+00:07:10,640 --> 00:07:12,802
+I need you to call in a favor
+with Judge Carlin.
+
+117
+00:07:13,000 --> 00:07:16,368
+Get a search warrant for Sebastian's
+campaign headquarters. His phone records...
+
+118
+00:07:16,600 --> 00:07:19,729
+- I have to start somewhere.
+- Laurel, this isn't some casual request.
+
+119
+00:07:19,920 --> 00:07:22,446
+I'm the ADA who took Vertigo on live TV.
+
+120
+00:07:22,640 --> 00:07:26,531
+I take a shot at Sebastian Blood and miss,
+my career is done.
+
+121
+00:07:27,000 --> 00:07:28,490
+Adam.
+
+122
+00:07:29,240 --> 00:07:31,368
+- Please.
+- I'm sorry, Laurel.
+
+123
+00:07:31,600 --> 00:07:33,284
+You're on your own.
+
+124
+00:07:38,160 --> 00:07:39,969
+Hello, Roy.
+
+125
+00:07:42,840 --> 00:07:45,889
+Lurking in an alley,
+that's not at all creepy.
+
+126
+00:07:46,120 --> 00:07:49,567
+When I ran the club,
+I learned all the secret entrances.
+
+127
+00:07:49,760 --> 00:07:53,128
+I never got a chance to thank you
+for saving my mother's life.
+
+128
+00:07:53,560 --> 00:07:57,804
+Thea told me.
+She said that you were very brave.
+
+129
+00:07:58,280 --> 00:08:02,080
+- I did what anyone would have done.
+- Not anyone.
+
+130
+00:08:02,280 --> 00:08:06,046
+Takes a lot to run towards danger,
+not away from it.
+
+131
+00:08:06,760 --> 00:08:08,569
+That sounded like praise.
+
+132
+00:08:08,840 --> 00:08:11,207
+I thought where I was concerned,
+you didn't approve.
+
+133
+00:08:12,320 --> 00:08:15,688
+Thea said that you also got hit
+by some falling debris.
+
+134
+00:08:16,520 --> 00:08:20,206
+- How you feeling?
+- Actually, it mostly missed me.
+
+135
+00:08:20,400 --> 00:08:22,368
+I'm fine. Look, I gotta get back to work.
+
+136
+00:08:29,320 --> 00:08:32,802
+Has Roy mentioned anything about the man
+in the skull mask who injected him?
+
+137
+00:08:33,000 --> 00:08:36,288
+Roy is not the kind of guy who is
+comfortable discussing his feelings.
+
+138
+00:08:36,440 --> 00:08:38,522
+Not like you and me.
+
+139
+00:08:39,440 --> 00:08:42,922
+Don't yell at me, but I really think we need
+a new plan to find this creepy mask guy.
+
+140
+00:08:43,200 --> 00:08:45,230
+Scaring the crap out of lowlifes
+isn't yielding results.
+
+141
+00:08:45,240 --> 00:08:47,447
+Felicity, I am open
+to any and all suggestions.
+
+142
+00:08:47,680 --> 00:08:49,200
+Oliver, maybe we're overthinking this.
+
+143
+00:08:49,280 --> 00:08:53,126
+What if the mask simply got wind that you
+were after him and decided to skip town?
+
+144
+00:08:53,360 --> 00:08:55,632
+He didn't go to the trouble
+of re-creating the
+
+145
+00:08:55,657 --> 00:08:58,072
+serum and testing it on
+people just to walk away.
+
+146
+00:08:58,240 --> 00:09:00,811
+He is still out there
+and we need to locate him.
+
+147
+00:09:04,560 --> 00:09:07,086
+Lance. For the Arrow.
+
+148
+00:09:08,480 --> 00:09:10,608
+- Yes, detective.
+- Can we meet?
+
+149
+00:09:10,800 --> 00:09:12,290
+What is it?
+
+150
+00:09:12,600 --> 00:09:14,648
+Someone wants to talk to you.
+
+151
+00:09:21,480 --> 00:09:23,164
+Hello, Laurel.
+
+152
+00:09:23,360 --> 00:09:24,725
+You're late.
+
+153
+00:09:24,920 --> 00:09:28,970
+I had to circle around to make sure there
+wasn't a SWAT team waiting for me again.
+
+154
+00:09:29,160 --> 00:09:30,491
+That's fair.
+
+155
+00:09:30,640 --> 00:09:32,784
+Trust me, I wouldn't have
+asked my father to put
+
+156
+00:09:32,809 --> 00:09:34,908
+me in touch with you if
+I had any other choice.
+
+157
+00:09:35,080 --> 00:09:36,650
+- What do you need?
+- Sebastian Blood.
+
+158
+00:09:36,920 --> 00:09:39,082
+He's about to be the new mayor
+of Starling City.
+
+159
+00:09:39,280 --> 00:09:43,171
+- I know who he is.
+- No, you don't. No one does.
+
+160
+00:09:43,800 --> 00:09:48,283
+A few weeks ago, I was approached by your
+groupie, Roy Harper, and his girlfriend.
+
+161
+00:09:48,520 --> 00:09:52,366
+They asked me to investigate
+the death of Max Stanton.
+
+162
+00:09:54,080 --> 00:09:56,526
+You think Blood was involved
+in Stanton's death?
+
+163
+00:09:56,680 --> 00:09:59,923
+Blood or a man that worked for him
+named Cyrus Gold.
+
+164
+00:10:02,840 --> 00:10:07,687
+Gold killed four cops, including
+my father's partner, Lucas Hilton.
+
+165
+00:10:09,040 --> 00:10:12,328
+Blood and Gold knew each other from the
+orphanage that Blood was raised at.
+
+166
+00:10:12,680 --> 00:10:16,366
+He would do anything to keep the truth
+about his past hidden.
+
+167
+00:10:17,120 --> 00:10:19,043
+Including murdering his own mother.
+
+168
+00:10:20,000 --> 00:10:21,161
+Why would he do that?
+
+169
+00:10:21,640 --> 00:10:23,722
+To cover up the fact that
+he killed his father.
+
+170
+00:10:25,640 --> 00:10:29,486
+I tried going to the DA.
+No one will believe me.
+
+171
+00:10:29,680 --> 00:10:32,684
+I swear to you,
+Sebastian Blood is dangerous.
+
+172
+00:10:32,880 --> 00:10:36,566
+And you're the only person
+in this city who can stop him.
+
+173
+00:10:41,680 --> 00:10:44,570
+Laurel was right.
+I hacked Blood's cell phone records.
+
+174
+00:10:44,800 --> 00:10:47,310
+The alderman and Gold have stayed buddies
+since Zandia orphanage.
+
+175
+00:10:47,320 --> 00:10:48,651
+So, what? They kept in touch.
+
+176
+00:10:48,840 --> 00:10:51,640
+Doesn't exactly mean that Sebastian Blood
+is the man in the skull mask.
+
+177
+00:10:51,720 --> 00:10:54,963
+His last name is Blood.
+That can't be a good sign.
+
+178
+00:10:55,160 --> 00:10:58,562
+Felicity, he's dedicated his life, risked
+his life, to help the people of the Glades.
+
+179
+00:10:58,840 --> 00:11:02,561
+And in his spare time, he's a murderer
+trying to create an army of human weapons?
+
+180
+00:11:02,760 --> 00:11:05,969
+You're a personal bodyguard who fights
+crime at night with his billionaire boss.
+
+181
+00:11:06,160 --> 00:11:09,084
+Not a lot of people
+show their real face in public.
+
+182
+00:11:10,080 --> 00:11:12,082
+Oliver, what are you thinking?
+
+183
+00:11:12,960 --> 00:11:15,611
+Laurel gave me a case number to start with.
+
+184
+00:11:17,000 --> 00:11:19,526
+We need to know if Sebastian
+really killed his father.
+
+185
+00:11:19,720 --> 00:11:22,360
+Then we figure out if there's a chance
+he has the Mirakuru formula.
+
+186
+00:11:22,400 --> 00:11:26,246
+- I'm on it.
+- What if this is just another trap set by Laurel?
+
+187
+00:11:26,440 --> 00:11:30,570
+She could be setting you up, and this time
+you wouldn't have Sara to save you.
+
+188
+00:11:35,280 --> 00:11:37,726
+Asking a cute girl to meet you
+down by the tracks, Harper?
+
+189
+00:11:37,960 --> 00:11:40,930
+- Good thing Thea and I are tight.
+- I have to show you something.
+
+190
+00:11:41,120 --> 00:11:42,884
+Easy there, tiger.
+
+191
+00:11:46,880 --> 00:11:48,041
+You're not even bleeding.
+
+192
+00:11:48,240 --> 00:11:50,288
+- When did you start juicing?
+- I'm not.
+
+193
+00:11:50,520 --> 00:11:53,046
+Then how do you explain what I just saw?
+
+194
+00:11:56,080 --> 00:11:58,517
+You remember that night around
+Christmas I went missing?
+
+195
+00:11:58,542 --> 00:11:59,995
+Yeah, Thea and I were pissed.
+
+196
+00:12:00,120 --> 00:12:03,124
+I never told you guys
+what really happened.
+
+197
+00:12:03,320 --> 00:12:05,891
+You were right about your friend Max.
+He didn't OD.
+
+198
+00:12:06,120 --> 00:12:08,805
+He was murdered.
+He was injected with something...
+
+199
+00:12:09,080 --> 00:12:14,166
+and I was injected with the same thing.
+But it didn't kill me, it made me stronger.
+
+200
+00:12:14,320 --> 00:12:16,448
+- Thea must be freaking.
+- No, she doesn't know.
+
+201
+00:12:16,640 --> 00:12:18,847
+- I don't want her to.
+- Why not?
+
+202
+00:12:19,040 --> 00:12:22,522
+I can't. Not yet. Not until I know
+more about what happened to me.
+
+203
+00:12:22,760 --> 00:12:25,843
+- I don't wanna scare her.
+- And you're not worried about scaring me?
+
+204
+00:12:26,040 --> 00:12:28,168
+Come on,
+I was going crazy not telling someone.
+
+205
+00:12:29,080 --> 00:12:31,003
+So, what are you gonna do?
+
+206
+00:12:31,640 --> 00:12:34,962
+Well, the Arrow once told me
+all I was good for was taking a beating.
+
+207
+00:12:36,320 --> 00:12:39,369
+Maybe it's time
+I started handing out a few of my own.
+
+208
+00:12:39,600 --> 00:12:40,647
+I don't follow.
+
+209
+00:12:41,320 --> 00:12:46,008
+Now I don't need his help to protect
+this city. Let's find us a bad guy.
+
+210
+00:12:47,760 --> 00:12:50,161
+I have good news and bad news.
+
+211
+00:12:50,360 --> 00:12:53,682
+I suggest the good news first.
+Tends to soften the blow of the bad news.
+
+212
+00:12:53,840 --> 00:12:59,165
+Okay, dealer's choice. Good news is we found
+the case file on Sebastian's dad's murder.
+
+213
+00:12:59,360 --> 00:13:02,682
+- Anything in it to suggest he killed him?
+- Oliver, meet bad news.
+
+214
+00:13:02,960 --> 00:13:04,450
+That file was sealed years ago.
+
+215
+00:13:04,640 --> 00:13:08,804
+And since the file is over 27 years old,
+there is no digital copy for me to hack.
+
+216
+00:13:09,000 --> 00:13:12,721
+The only hard copy is stored
+the old-fashioned way in the city archives.
+
+217
+00:13:12,880 --> 00:13:15,360
+So I go in and take it
+the old-fashioned way.
+
+218
+00:13:15,640 --> 00:13:19,725
+Except security in the file room is so
+old-school, you need a keycard to get in...
+
+219
+00:13:19,880 --> 00:13:23,646
+which even if you had, you wouldn't
+know where to start looking for the file.
+
+220
+00:13:26,200 --> 00:13:27,964
+An assistant DA would.
+
+221
+00:13:44,840 --> 00:13:48,049
+You said you needed my help.
+Now I need yours.
+
+222
+00:13:48,240 --> 00:13:51,084
+- What do you need?
+- You.
+
+223
+00:14:01,360 --> 00:14:04,409
+Know what I really miss about being home?
+
+224
+00:14:05,840 --> 00:14:07,763
+My bed.
+
+225
+00:14:09,720 --> 00:14:13,691
+I don't know if I even remember
+what a bed feels like anymore.
+
+226
+00:14:14,120 --> 00:14:16,441
+And you probably never will.
+
+227
+00:14:16,920 --> 00:14:18,763
+And neither will I.
+
+228
+00:14:18,960 --> 00:14:20,530
+Sara.
+
+229
+00:14:20,960 --> 00:14:22,610
+We are gonna...
+
+230
+00:14:23,080 --> 00:14:25,287
+We're gonna find a way off the island.
+
+231
+00:14:29,720 --> 00:14:32,803
+You just have to trust me.
+
+232
+00:14:35,160 --> 00:14:39,290
+Last time I trusted you
+was right before the Gambit went down.
+
+233
+00:14:39,920 --> 00:14:42,685
+I haven't gotten a chance to say this.
+
+234
+00:14:43,160 --> 00:14:44,321
+I'm sorry.
+
+235
+00:14:45,400 --> 00:14:46,640
+I know this is my fault.
+
+236
+00:14:46,800 --> 00:14:50,805
+And that none of this would have happened if
+I hadn't invited you on the boat with me.
+
+237
+00:14:53,760 --> 00:14:55,285
+That's not exactly true.
+
+238
+00:14:56,240 --> 00:14:59,801
+I mean, I was the one who said yes.
+
+239
+00:15:00,080 --> 00:15:03,721
+- And it was only half because of your charm.
+- The other half?
+
+240
+00:15:04,000 --> 00:15:07,209
+Do you remember when you spilled
+that beer on me at Tommy's party?
+
+241
+00:15:07,480 --> 00:15:13,647
+No. But I never left one of Tommy's parties
+with my memory intact.
+
+242
+00:15:13,840 --> 00:15:15,763
+Well, I wasn't even supposed to go.
+
+243
+00:15:15,960 --> 00:15:19,089
+But I snuck out of the house because
+I knew you were gonna be there.
+
+244
+00:15:19,280 --> 00:15:24,684
+I mean, I had this... Heh.
+I had this embarrassing crush on you.
+
+245
+00:15:26,080 --> 00:15:27,844
+And Laurel, she knew it.
+
+246
+00:15:28,600 --> 00:15:31,444
+I think that's why the party
+got broken up by the cops.
+
+247
+00:15:31,640 --> 00:15:33,529
+She tipped off our dad.
+
+248
+00:15:33,960 --> 00:15:37,521
+And I was grounded for a month
+and the next thing I knew...
+
+249
+00:15:38,040 --> 00:15:40,611
+you and Laurel were together.
+
+250
+00:15:42,040 --> 00:15:43,963
+You think she did all that on purpose?
+
+251
+00:15:46,360 --> 00:15:49,045
+Not everybody is what they seem.
+
+252
+00:15:51,280 --> 00:15:52,964
+We should get some sleep.
+
+253
+00:16:23,160 --> 00:16:26,050
+- You ready for this?
+- Whatever it takes.
+
+254
+00:16:29,000 --> 00:16:30,047
+We're going in.
+
+255
+00:16:30,520 --> 00:16:33,410
+At least the security cameras
+are from this century.
+
+256
+00:16:34,400 --> 00:16:35,811
+And now they're toast.
+
+257
+00:16:36,000 --> 00:16:38,810
+You have exactly seven minutes
+until the system reboots.
+
+258
+00:16:41,840 --> 00:16:43,205
+Hey, check it out.
+
+259
+00:16:46,920 --> 00:16:48,922
+This could take a while.
+
+260
+00:16:49,920 --> 00:16:52,287
+You have six minutes.
+
+261
+00:16:58,920 --> 00:17:02,606
+I'm rebooting the monitors.
+There's a Trojan plugging our system.
+
+262
+00:17:02,840 --> 00:17:05,081
+It's probably some punk.
+
+263
+00:17:15,400 --> 00:17:16,561
+Uh-oh.
+
+264
+00:17:19,440 --> 00:17:21,602
+- Oliver.
+- What's wrong?
+
+265
+00:17:21,800 --> 00:17:24,485
+It looks like we got
+the one rent-a-cop with a brain here.
+
+266
+00:17:24,720 --> 00:17:27,121
+If there's a camera nearby,
+I recommend hiding.
+
+267
+00:17:27,960 --> 00:17:29,485
+Look, there.
+
+268
+00:17:31,400 --> 00:17:32,970
+You gotta send some officers here.
+
+269
+00:17:33,120 --> 00:17:36,110
+Starling's finest will be there any minute.
+You need to get out of there now.
+
+270
+00:17:36,120 --> 00:17:38,600
+We're not leaving without the file.
+
+271
+00:17:38,800 --> 00:17:39,847
+Laurel.
+
+272
+00:17:40,040 --> 00:17:41,963
+I can't find it.
+
+273
+00:17:43,600 --> 00:17:45,409
+Up there. Third floor.
+
+274
+00:17:52,480 --> 00:17:53,606
+Hurry, Oliver.
+
+275
+00:18:00,320 --> 00:18:05,690
+Wait. "Case number SC-43878." This is it.
+
+276
+00:18:05,920 --> 00:18:09,811
+Vigilante, we know you're here!
+Close everything off, now!
+
+277
+00:18:12,760 --> 00:18:14,248
+They're blocking
+our only way out.
+
+278
+00:18:14,273 --> 00:18:16,994
+It's not our only way. Go to
+the east wall and wait for me.
+
+279
+00:18:20,160 --> 00:18:21,400
+Hands where I can see them!
+
+280
+00:19:00,280 --> 00:19:02,750
+I tried going through all the security
+footage at the city archives...
+
+281
+00:19:02,760 --> 00:19:05,870
+- to see if anyone swiped the file over the last few days.
+- Did you see anyone?
+
+282
+00:19:05,880 --> 00:19:07,530
+Just this.
+
+283
+00:19:10,520 --> 00:19:11,567
+It's all been erased.
+
+284
+00:19:11,760 --> 00:19:14,960
+So what happened when you reversed the
+footprint to see who hacked in before you?
+
+285
+00:19:15,080 --> 00:19:18,084
+- I struck out again. Must have been an inside job.
+- Meaning?
+
+286
+00:19:18,280 --> 00:19:20,521
+As a city alderman, Blood
+would have access to the files.
+
+287
+00:19:20,526 --> 00:19:22,707
+Oliver, anyone on city
+payroll could have done this.
+
+288
+00:19:22,920 --> 00:19:24,716
+He's running for mayor. One
+hint that he killed his
+
+289
+00:19:24,726 --> 00:19:26,670
+father, his political future
+is dead in the water.
+
+290
+00:19:26,680 --> 00:19:28,760
+Wait, I thought you two were
+supposed to be friends.
+
+291
+00:19:28,840 --> 00:19:31,764
+Don't you think you ought to give him
+the benefit of the doubt?
+
+292
+00:19:31,960 --> 00:19:35,931
+Please keep digging into Blood's past and
+see if there's anything that can help us.
+
+293
+00:19:36,080 --> 00:19:39,448
+- Where are you going?
+- To give a friend the benefit of the doubt.
+
+294
+00:19:43,360 --> 00:19:45,681
+What, are you still giving me
+the cold shoulder?
+
+295
+00:19:45,920 --> 00:19:48,764
+You still not telling me
+what the hell is going on with you?
+
+296
+00:19:48,960 --> 00:19:50,450
+Am I interrupting?
+
+297
+00:19:50,640 --> 00:19:54,008
+He and I would actually have to be talking
+for you to be interrupting.
+
+298
+00:19:54,200 --> 00:19:55,440
+Can I try?
+
+299
+00:19:55,640 --> 00:19:57,688
+Be my guest.
+
+300
+00:19:59,040 --> 00:20:01,281
+- Tell her.
+- No.
+
+301
+00:20:01,480 --> 00:20:02,766
+What have you got for me?
+
+302
+00:20:02,960 --> 00:20:05,281
+This guy in the Glades,
+the Starling Slasher...
+
+303
+00:20:05,480 --> 00:20:08,165
+word on the street is
+he's got a thing for prostitutes.
+
+304
+00:20:08,360 --> 00:20:11,045
+And by "thing," I mean he has a thing
+for slicing them up.
+
+305
+00:20:11,240 --> 00:20:14,050
+- Mostly hunts in Crescent Circle.
+- Sounds like a great guy.
+
+306
+00:20:14,240 --> 00:20:17,961
+Mm. Yeah, problem is, he's some big-shot
+lawyer, so no one has the sack to ID him.
+
+307
+00:20:18,120 --> 00:20:20,390
+Wait, this sounds exactly like someone
+the Arrow would go after.
+
+308
+00:20:20,400 --> 00:20:22,750
+- We don't need the Arrow anymore.
+- We're gonna have to bait him.
+
+309
+00:20:22,760 --> 00:20:26,560
+What pro is gonna let us
+dangle her in front of a psycho?
+
+310
+00:20:26,760 --> 00:20:29,001
+- No. No. No way. No.
+- Hey, Thea. Uh.
+
+311
+00:20:29,480 --> 00:20:33,405
+Sin has a date.
+She was hoping to borrow an outfit.
+
+312
+00:20:33,600 --> 00:20:35,364
+You know, something slutty.
+
+313
+00:20:35,800 --> 00:20:39,725
+I have the perfect first-date outfit.
+Guarantees a second one.
+
+314
+00:20:40,000 --> 00:20:42,480
+- Great.
+- This guy won't know what hit him.
+
+315
+00:20:42,640 --> 00:20:45,769
+Or girl. Whatever you're into.
+
+316
+00:20:46,000 --> 00:20:49,607
+- I could do your makeup or your hair.
+- You are not touching the hair, Queen.
+
+317
+00:20:49,800 --> 00:20:51,325
+Okay.
+
+318
+00:21:01,920 --> 00:21:05,527
+- You looking for me?
+- Sebastian. Good to see you.
+
+319
+00:21:05,680 --> 00:21:09,730
+You too, man. Listen, I'm so sorry but I'm
+right in the middle of a polling snafu.
+
+320
+00:21:09,920 --> 00:21:12,241
+I'll be quick.
+I just had a question about Laurel.
+
+321
+00:21:12,440 --> 00:21:14,320
+- Of course. Is everything okay?
+- I'm not sure.
+
+322
+00:21:14,360 --> 00:21:16,720
+I ran into her the other day.
+And something just seemed off.
+
+323
+00:21:16,920 --> 00:21:19,360
+I know the two of you've been
+spending a lot of time together.
+
+324
+00:21:19,440 --> 00:21:21,727
+I just wanted to know if you knew anything.
+
+325
+00:21:21,960 --> 00:21:25,521
+Well, we've traded phone calls,
+but she's in trial, I've been campaigning.
+
+326
+00:21:25,720 --> 00:21:30,169
+- We haven't really been able to connect.
+- Nothing happened between the two of you?
+
+327
+00:21:30,360 --> 00:21:32,931
+Not an argument or a fight or something?
+
+328
+00:21:33,120 --> 00:21:36,886
+If I didn't know any better, I'd say you were
+coming to me like a jealous ex-boyfriend.
+
+329
+00:21:37,080 --> 00:21:41,130
+No, just...
+No, I'm just looking out for a friend.
+
+330
+00:21:41,360 --> 00:21:43,647
+- And I hope you'd do the same.
+- Of course.
+
+331
+00:21:43,840 --> 00:21:46,605
+Listen, I will take care of Laurel.
+
+332
+00:21:46,800 --> 00:21:49,041
+Thank you for letting me know.
+
+333
+00:22:06,720 --> 00:22:08,449
+You're new.
+
+334
+00:22:09,120 --> 00:22:11,361
+- Got to start somewhere, right?
+- Get in.
+
+335
+00:22:21,240 --> 00:22:23,004
+Romantic.
+
+336
+00:22:24,600 --> 00:22:27,922
+- You're pretty.
+- You're disgusting.
+
+337
+00:22:29,800 --> 00:22:32,246
+I see you'd like to play rough.
+
+338
+00:22:42,640 --> 00:22:43,880
+Wait.
+
+339
+00:22:44,120 --> 00:22:45,406
+- I've got money.
+- Keep it.
+
+340
+00:22:56,320 --> 00:22:58,926
+Roy. Roy, stop it, you're killing him.
+
+341
+00:23:02,800 --> 00:23:05,167
+Sin? Sin, I'm sorry.
+
+342
+00:23:05,880 --> 00:23:07,211
+We have to call an ambulance.
+
+343
+00:23:15,840 --> 00:23:17,330
+"Point-blank range.
+
+344
+00:23:17,520 --> 00:23:21,047
+Single shot to the heart from a low angle."
+
+345
+00:23:22,000 --> 00:23:25,846
+Obviously the handiwork
+of someone quite scared...
+
+346
+00:23:26,040 --> 00:23:27,087
+and very small.
+
+347
+00:23:28,960 --> 00:23:30,883
+How come the police didn't arrest you?
+
+348
+00:23:31,080 --> 00:23:33,082
+I knew how to cover my tracks.
+
+349
+00:23:33,280 --> 00:23:36,727
+A skill you've obviously lost
+since you've gotten bigger.
+
+350
+00:23:36,920 --> 00:23:41,482
+You know how close you came to allowing
+the vigilante to destroy everything?
+
+351
+00:23:41,680 --> 00:23:43,967
+Someone spoke out of turn.
+
+352
+00:23:44,160 --> 00:23:45,924
+I've taken care of the problem.
+
+353
+00:23:47,840 --> 00:23:51,049
+Your mother was not our problem.
+
+354
+00:23:51,280 --> 00:23:54,409
+- Laurel Lance is.
+- You're the one who told me to get close to her.
+
+355
+00:23:54,600 --> 00:23:57,365
+You said that it was part of the plan
+to hurt the vigilante.
+
+356
+00:23:57,560 --> 00:24:01,724
+It is. But you being sloppy isn't.
+
+357
+00:24:02,480 --> 00:24:04,801
+Fix this, Mr. Blood.
+
+358
+00:24:05,440 --> 00:24:08,444
+You don't want me to fix it for you.
+
+359
+00:24:13,080 --> 00:24:16,971
+Brother Daily.
+I need you to take care of something.
+
+360
+00:24:30,560 --> 00:24:33,530
+Whoever you are, I'm calling the police.
+
+361
+00:24:33,720 --> 00:24:35,165
+No need to.
+
+362
+00:24:35,360 --> 00:24:38,648
+- Remember me?
+- Officer Daily, right?
+
+363
+00:24:38,840 --> 00:24:40,729
+What's this all about?
+
+364
+00:24:41,560 --> 00:24:44,769
+- What are you doing in my apartment?
+- We have a warrant.
+
+365
+00:24:45,000 --> 00:24:47,970
+- A warrant for what?
+- Found these in your bedroom, Ms. Lance.
+
+366
+00:24:48,160 --> 00:24:50,447
+These aren't prescribed to you.
+That's a felony.
+
+367
+00:24:50,640 --> 00:24:52,768
+This is ridiculous.
+
+368
+00:24:53,280 --> 00:24:56,124
+You're under arrest for possession
+of a controlled substance.
+
+369
+00:24:56,320 --> 00:24:58,004
+You have the right to remain silent.
+
+370
+00:24:58,240 --> 00:25:00,920
+Anything you say can and will be
+used against you in a court of law.
+
+371
+00:25:15,800 --> 00:25:17,325
+I know what this looks like...
+
+372
+00:25:17,760 --> 00:25:20,127
+but you have to listen to me.
+
+373
+00:25:21,960 --> 00:25:24,088
+I know what's happening.
+
+374
+00:25:24,440 --> 00:25:27,603
+Sebastian Blood, he's setting me up...
+
+375
+00:25:27,800 --> 00:25:31,122
+because he knows I'm onto him.
+He's trying to frame me.
+
+376
+00:25:31,320 --> 00:25:33,368
+So he planted drugs in your apartment?
+
+377
+00:25:34,400 --> 00:25:37,927
+No, no. Forget about the drugs.
+The point is...
+
+378
+00:25:38,120 --> 00:25:41,203
+is that he is the one
+behind this witch hunt.
+
+379
+00:25:41,400 --> 00:25:45,644
+Sebastian called your boss.
+He's worried about you.
+
+380
+00:25:46,600 --> 00:25:50,446
+No, no. He wasn't worried about me.
+
+381
+00:25:50,640 --> 00:25:53,041
+He's just trying to discredit me.
+
+382
+00:25:53,320 --> 00:25:54,810
+Don't you see what he's doing?
+
+383
+00:25:54,960 --> 00:25:57,000
+What I see is that you
+tested positive for opiates.
+
+384
+00:25:57,200 --> 00:26:01,524
+I see that you have been lying to me and I
+see that you have been stealing from me.
+
+385
+00:26:03,960 --> 00:26:05,041
+I can explain that.
+
+386
+00:26:05,240 --> 00:26:09,006
+Every person that stands where you're
+standing now says the same thing.
+
+387
+00:26:10,200 --> 00:26:12,965
+- Dad...
+- The DUI, the paranoia about Blood...
+
+388
+00:26:13,160 --> 00:26:15,083
+you looking like hell.
+
+389
+00:26:18,160 --> 00:26:20,970
+- You got a problem, Laurel.
+- No.
+
+390
+00:26:21,360 --> 00:26:25,524
+It's addiction. It runs in our family.
+
+391
+00:26:27,520 --> 00:26:30,091
+You can't pin it on Sebastian Blood.
+
+392
+00:26:30,560 --> 00:26:32,881
+Daddy, please, you have to believe me.
+
+393
+00:26:34,200 --> 00:26:37,921
+Please. Please.
+
+394
+00:26:39,080 --> 00:26:40,844
+I don't, baby.
+
+395
+00:26:44,280 --> 00:26:45,566
+No, Dad...
+
+396
+00:26:53,160 --> 00:26:54,764
+How is she?
+
+397
+00:26:55,520 --> 00:26:57,204
+I don't know.
+
+398
+00:26:57,880 --> 00:26:59,962
+I don't know anything anymore.
+
+399
+00:27:03,680 --> 00:27:05,364
+I'll get her home.
+
+400
+00:27:08,600 --> 00:27:10,204
+Thanks.
+
+401
+00:27:19,920 --> 00:27:21,684
+Anthony?
+
+402
+00:27:23,560 --> 00:27:26,803
+- Are you there?
+- I'm here, Sara.
+
+403
+00:27:27,040 --> 00:27:30,408
+I was hoping that you would
+reach out to me. Are you alone?
+
+404
+00:27:30,960 --> 00:27:32,564
+Yes.
+
+405
+00:27:36,600 --> 00:27:38,921
+Are you all right?
+
+406
+00:27:39,080 --> 00:27:40,764
+You're not hurt, are you?
+
+407
+00:27:40,960 --> 00:27:44,203
+Do you even care?
+You were gonna shoot me.
+
+408
+00:27:44,400 --> 00:27:49,611
+No. No, Sara, I swear.
+You were never in danger, I swear.
+
+409
+00:27:49,800 --> 00:27:53,088
+So it's okay because you were
+just planning on murdering Shado?
+
+410
+00:27:56,840 --> 00:27:59,923
+- Her name was Shado?
+- Yes.
+
+411
+00:28:00,440 --> 00:28:02,363
+And you killed her, Anthony.
+
+412
+00:28:02,560 --> 00:28:06,451
+And I'm gonna have to live with that
+for the rest of my life.
+
+413
+00:28:06,600 --> 00:28:09,251
+I never set out to hurt anyone.
+
+414
+00:28:11,000 --> 00:28:14,800
+I started this quest to save people.
+To save the human race.
+
+415
+00:28:16,520 --> 00:28:17,885
+I know.
+
+416
+00:28:19,840 --> 00:28:20,887
+Sara.
+
+417
+00:28:21,360 --> 00:28:24,682
+I know you think
+that this ship rescued you...
+
+418
+00:28:24,880 --> 00:28:27,486
+when you were stranded at sea.
+
+419
+00:28:29,040 --> 00:28:31,122
+The truth is...
+
+420
+00:28:34,480 --> 00:28:35,527
+you rescued me.
+
+421
+00:28:38,240 --> 00:28:41,289
+But now the darkness
+is threatening me again.
+
+422
+00:28:43,360 --> 00:28:45,522
+I need you, Sara.
+
+423
+00:28:47,040 --> 00:28:48,690
+Please.
+
+424
+00:28:49,320 --> 00:28:51,129
+Save me.
+
+425
+00:29:07,400 --> 00:29:08,481
+How's he doing?
+
+426
+00:29:08,680 --> 00:29:11,001
+The damage done to his head
+and lower abdomen is severe.
+
+427
+00:29:11,200 --> 00:29:14,647
+He ruptured his spleen and he has
+massive swelling in his brain.
+
+428
+00:29:14,840 --> 00:29:19,243
+Thankfully, he got medical attention
+quickly, so he's got a shot.
+
+429
+00:29:19,520 --> 00:29:21,010
+You did a good thing here, Roy.
+
+430
+00:29:27,240 --> 00:29:29,527
+What happened to you out there?
+
+431
+00:29:29,720 --> 00:29:32,200
+- I don't know.
+- We nearly killed this guy.
+
+432
+00:29:32,400 --> 00:29:33,925
+Roy?
+
+433
+00:29:34,400 --> 00:29:36,243
+- Are you okay?
+- What are you doing here?
+
+434
+00:29:36,440 --> 00:29:37,521
+Sin called me.
+
+435
+00:29:37,680 --> 00:29:41,048
+- Why did you do that?
+- Because she was worried about you.
+
+436
+00:29:43,080 --> 00:29:44,525
+Who is that guy?
+
+437
+00:29:44,760 --> 00:29:48,367
+He was my date. We put him there.
+
+438
+00:29:49,960 --> 00:29:51,041
+You did this?
+
+439
+00:29:51,200 --> 00:29:54,841
+- Just drop it, please?
+- Roy, something is happening to you.
+
+440
+00:29:55,040 --> 00:29:56,769
+I'm not judging you.
+
+441
+00:29:56,960 --> 00:29:58,724
+I'm not angry with you.
+
+442
+00:29:58,920 --> 00:30:01,082
+I'm on your side.
+
+443
+00:30:01,280 --> 00:30:03,567
+I just want to help you.
+
+444
+00:30:03,720 --> 00:30:05,449
+You can't.
+
+445
+00:30:06,320 --> 00:30:09,449
+I... I got to go.
+
+446
+00:30:10,800 --> 00:30:12,404
+Roy.
+
+447
+00:30:36,200 --> 00:30:38,362
+You haven't said much.
+
+448
+00:30:38,600 --> 00:30:40,602
+Quietly working on your lecture?
+
+449
+00:30:40,800 --> 00:30:42,529
+No lecture.
+
+450
+00:30:42,720 --> 00:30:45,803
+Suppose you think I was
+wrong about Sebastian too, then?
+
+451
+00:30:46,000 --> 00:30:47,684
+I think...
+
+452
+00:30:48,320 --> 00:30:50,800
+that you have everyone fooled...
+
+453
+00:30:51,000 --> 00:30:54,368
+because you want people to think
+that none of this gets to you.
+
+454
+00:30:55,120 --> 00:30:57,885
+And that you don't need anyone's help.
+
+455
+00:30:58,120 --> 00:31:00,282
+- I don't.
+- Except I know you.
+
+456
+00:31:04,160 --> 00:31:06,003
+This isn't you.
+
+457
+00:31:10,240 --> 00:31:12,368
+What happened to no lectures?
+
+458
+00:31:17,120 --> 00:31:19,771
+I just... I need a glass of water.
+
+459
+00:31:20,520 --> 00:31:22,966
+Do you mind? Please.
+
+460
+00:31:42,840 --> 00:31:45,684
+Leave him. He's not important.
+
+461
+00:31:45,920 --> 00:31:48,002
+Hello, Laurel.
+
+462
+00:31:55,240 --> 00:31:56,844
+Laurel.
+
+463
+00:32:01,840 --> 00:32:03,604
+It's me. Someone kidnapped Laurel.
+
+464
+00:32:03,800 --> 00:32:06,963
+- Do you know where they took her?
+- I think I have a pretty good idea.
+
+465
+00:32:36,040 --> 00:32:38,964
+If that mask is supposed to scare me...
+
+466
+00:32:39,160 --> 00:32:44,883
+all that it's doing is confirming
+what I've already known for a while now.
+
+467
+00:32:47,000 --> 00:32:49,571
+You're one sick son of a bitch, Sebastian.
+
+468
+00:32:49,760 --> 00:32:53,890
+Thirty thousand years ago,
+masks invested their wearer with authority.
+
+469
+00:32:54,040 --> 00:32:56,042
+- Like a god.
+- You're insane.
+
+470
+00:32:56,280 --> 00:33:00,330
+I'm not the one making drug-addled
+unsubstantiated accusations...
+
+471
+00:33:00,520 --> 00:33:02,204
+against Starling's favorite son.
+
+472
+00:33:02,400 --> 00:33:06,405
+If I can find out the truth,
+then others can too.
+
+473
+00:33:06,920 --> 00:33:08,570
+You found out nothing.
+
+474
+00:33:08,840 --> 00:33:11,650
+- You know nothing.
+- Ugh!
+
+475
+00:33:12,920 --> 00:33:15,161
+Get away from her...
+
+476
+00:33:15,480 --> 00:33:19,883
+or I will put you down.
+
+477
+00:33:20,080 --> 00:33:24,608
+And to think, a few short months
+ago, you were trying to arrest him.
+
+478
+00:33:24,800 --> 00:33:28,327
+You wanted me here. I'm here.
+
+479
+00:33:28,560 --> 00:33:31,370
+Let her go.
+
+480
+00:33:33,520 --> 00:33:36,444
+No, I think she should witness this.
+
+481
+00:34:32,280 --> 00:34:34,328
+Take off his mask.
+
+482
+00:34:35,640 --> 00:34:37,608
+I need to see.
+
+483
+00:35:24,520 --> 00:35:26,124
+Sweetheart.
+
+484
+00:35:27,560 --> 00:35:29,130
+Are you all right?
+
+485
+00:35:30,040 --> 00:35:31,565
+Yeah.
+
+486
+00:35:31,960 --> 00:35:34,725
+Looks like Daily
+was behind this whole thing.
+
+487
+00:35:34,920 --> 00:35:38,049
+The son of a bitch volunteered
+for the raid that got Hilton killed.
+
+488
+00:35:38,280 --> 00:35:42,604
+And we found the accelerant that he used to
+torch the Langford Institute in his apartment.
+
+489
+00:35:43,880 --> 00:35:46,360
+I thought it was Sebastian.
+
+490
+00:35:47,800 --> 00:35:50,007
+I was so sure.
+
+491
+00:35:50,760 --> 00:35:51,966
+Yeah.
+
+492
+00:35:52,160 --> 00:35:54,811
+Well, that's the thing about
+the booze and the pills.
+
+493
+00:35:55,040 --> 00:35:57,850
+You know,
+the same thing that dulls your pain...
+
+494
+00:35:58,360 --> 00:36:00,124
+clouds the judgment.
+
+495
+00:36:08,440 --> 00:36:10,408
+Can we have a minute?
+
+496
+00:36:13,600 --> 00:36:15,284
+Yeah.
+
+497
+00:36:21,160 --> 00:36:22,889
+Are you here to say "I told you so"?
+
+498
+00:36:23,080 --> 00:36:27,290
+We're dropping the possession charges and
+you won't be charged in Daily's shooting.
+
+499
+00:36:27,480 --> 00:36:29,084
+It was clearly self-defense.
+
+500
+00:36:30,120 --> 00:36:31,770
+You don't seem that thrilled for me.
+
+501
+00:36:33,760 --> 00:36:35,649
+Are you gonna look me in the eye...
+
+502
+00:36:35,880 --> 00:36:39,009
+and tell me you don't have
+a substance-abuse problem?
+
+503
+00:36:42,880 --> 00:36:45,850
+The DA's office has a generous
+severance package.
+
+504
+00:36:46,040 --> 00:36:49,044
+Wait. Wait, let me explain to DA Spencer.
+
+505
+00:36:49,240 --> 00:36:52,767
+- I can... I can tell her everything.
+- This isn't coming from Spencer, Laurel.
+
+506
+00:36:52,960 --> 00:36:55,486
+This is me. I'm the one that hired you.
+
+507
+00:36:57,520 --> 00:36:59,090
+I'm sorry...
+
+508
+00:36:59,680 --> 00:37:00,966
+but you're done.
+
+509
+00:37:11,160 --> 00:37:13,481
+Did Laurel really shoot him?
+
+510
+00:37:14,520 --> 00:37:18,161
+- She saved my life.
+- That's a good thing, Oliver.
+
+511
+00:37:19,480 --> 00:37:21,209
+You okay?
+
+512
+00:37:22,320 --> 00:37:26,041
+She really had me believing that Sebastian
+Blood was a criminal mastermind...
+
+513
+00:37:26,240 --> 00:37:31,406
+and the only reason that I nearly
+believed her was because it was Laurel.
+
+514
+00:37:34,400 --> 00:37:37,483
+I do have a blind spot
+where she's concerned.
+
+515
+00:37:39,520 --> 00:37:40,567
+Not anymore.
+
+516
+00:37:40,760 --> 00:37:43,923
+Certainly know how to
+talk yourself out of a victory.
+
+517
+00:37:44,360 --> 00:37:47,011
+- It's a gift.
+- Take the win, man.
+
+518
+00:37:47,240 --> 00:37:50,050
+Daily's dead.
+You destroyed the serum. It's over.
+
+519
+00:37:56,440 --> 00:37:58,602
+No, it isn't.
+
+520
+00:38:05,520 --> 00:38:06,965
+Hey.
+
+521
+00:38:08,160 --> 00:38:09,844
+Slow night?
+
+522
+00:38:13,480 --> 00:38:16,768
+- Something I said?
+- Don't take it personally.
+
+523
+00:38:16,960 --> 00:38:19,770
+He won't even make eye contact with me.
+
+524
+00:38:20,920 --> 00:38:22,843
+Something happen?
+
+525
+00:38:23,040 --> 00:38:25,441
+He put someone in the hospital.
+
+526
+00:38:27,800 --> 00:38:33,330
+He's a little stingy with the details,
+but you should've seen this guy.
+
+527
+00:38:33,520 --> 00:38:37,525
+I don't understand how any human
+could've done that to another.
+
+528
+00:38:37,720 --> 00:38:43,762
+Each day he becomes more and more
+like somebody I don't even know.
+
+529
+00:38:44,320 --> 00:38:46,004
+He won't even listen to me.
+
+530
+00:38:46,200 --> 00:38:48,885
+I know someone he'll listen to.
+
+531
+00:38:51,120 --> 00:38:52,884
+Sara, are you still there?
+
+532
+00:38:53,080 --> 00:38:54,491
+When you first found me...
+
+533
+00:38:55,560 --> 00:38:58,086
+I felt like you were my savior.
+
+534
+00:38:58,280 --> 00:39:01,841
+And letting me into your work, I felt
+like I was a part of something bigger.
+
+535
+00:39:02,040 --> 00:39:03,121
+You are, Sara.
+
+536
+00:39:03,360 --> 00:39:07,046
+It was only because I didn't want
+to see what you were really doing.
+
+537
+00:39:07,520 --> 00:39:10,330
+I mean, what you did
+to those people on the boat...
+
+538
+00:39:10,520 --> 00:39:13,569
+and how you tortured them for science.
+
+539
+00:39:14,440 --> 00:39:18,161
+How I was glad that I wasn't one of them.
+
+540
+00:39:21,440 --> 00:39:23,090
+But now...
+
+541
+00:39:24,120 --> 00:39:28,091
+I'd rather be dead
+than keep being a part of this.
+
+542
+00:39:30,120 --> 00:39:33,203
+You ungrateful bitch.
+
+543
+00:39:33,400 --> 00:39:35,528
+You think you know what torture is?
+
+544
+00:39:35,760 --> 00:39:39,526
+You have no idea. But I will show you.
+
+545
+00:39:39,720 --> 00:39:43,281
+I am gonna hunt you down,
+both of you, and I will show...
+
+546
+00:40:04,040 --> 00:40:06,327
+Let's go find Slade.
+
+547
+00:40:08,720 --> 00:40:10,051
+It's done.
+
+548
+00:40:10,680 --> 00:40:13,331
+They think it was all Daily.
+
+549
+00:40:13,520 --> 00:40:15,761
+He sacrificed himself for our cause.
+
+550
+00:40:15,960 --> 00:40:17,962
+A good start.
+
+551
+00:40:18,160 --> 00:40:22,688
+But the magnitude of your negligence
+requires a greater sacrifice.
+
+552
+00:40:31,440 --> 00:40:35,445
+Your incompetence has now cost four lives,
+alderman.
+
+553
+00:40:38,000 --> 00:40:43,131
+Fail me again,
+and yours will be the fifth.
+
+554
+00:40:55,880 --> 00:40:58,724
+If that was supposed to go through
+my other leg, you missed.
+
+555
+00:40:59,160 --> 00:41:01,845
+You seem to be healing pretty well.
+
+556
+00:41:07,440 --> 00:41:12,287
+You're stronger, you heal faster,
+but you're not in control.
+
+557
+00:41:12,480 --> 00:41:14,209
+The serum that you were exposed to...
+
+558
+00:41:14,400 --> 00:41:17,927
+it changes your body,
+but it also warps your mind.
+
+559
+00:41:18,160 --> 00:41:21,448
+- How do you know so much about it?
+- I've seen it before.
+
+560
+00:41:21,640 --> 00:41:26,521
+It twists men. Turns them into
+someone they don't recognize.
+
+561
+00:41:27,720 --> 00:41:29,882
+Someone dangerous.
+
+562
+00:41:30,640 --> 00:41:33,325
+Maybe you should
+put another arrow through me.
+
+563
+00:41:33,760 --> 00:41:35,250
+This time through my heart.
+
+564
+00:41:35,440 --> 00:41:37,807
+There's another way, Roy.
+
+565
+00:41:38,280 --> 00:41:43,127
+I can teach you to control
+your new ability.
+
+566
+00:41:43,920 --> 00:41:46,082
+To control yourself.
+
+567
+00:41:46,720 --> 00:41:48,529
+Let me help you.
+
+568
+00:41:51,680 --> 00:41:53,569
+When do we start?
+

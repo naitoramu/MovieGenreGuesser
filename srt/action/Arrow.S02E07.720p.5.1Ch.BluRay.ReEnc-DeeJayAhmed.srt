@@ -1,0 +1,2632 @@
+﻿1
+00:00:02,169 --> 00:00:04,809
+My name is Oliver Queen.
+
+2
+00:00:05,005 --> 00:00:07,178
+After five years on a hellish island...
+
+3
+00:00:08,141 --> 00:00:10,348
+I have come home with only one goal:
+
+4
+00:00:11,044 --> 00:00:12,921
+To save my city.
+
+5
+00:00:13,146 --> 00:00:16,753
+Bu! to do so, [can't be
+the killer I once was.
+
+6
+00:00:18,385 --> 00:00:21,764
+To honor my friend's memory,
+I must be someone else.
+
+7
+00:00:23,390 --> 00:00:26,894
+I must be something else.
+
+8
+00:00:27,761 --> 00:00:28,933
+Previously on Arrow:
+
+9
+00:00:29,096 --> 00:00:32,441
+- This one's no longer of use to us.
+- Wait. He could still be useful.
+
+10
+00:00:32,599 --> 00:00:37,048
+She's right. Once we get rid of his friends,
+we'll need him to lead us to the graves.
+
+11
+00:00:37,204 --> 00:00:39,081
+You're going back to the island.
+
+12
+00:00:39,239 --> 00:00:43,278
+Look, you already lost your dad. Your mom's
+still here. I'm sure she'd love to see you.
+
+13
+00:00:43,443 --> 00:00:47,289
+I'm not going to that prison.
+It's the only way I know how to hurt her.
+
+14
+00:00:47,514 --> 00:00:48,959
+I don't want to hate you.
+
+15
+00:00:50,117 --> 00:00:51,562
+But I can't.
+
+16
+00:00:53,887 --> 00:00:58,529
+I didn't think that there were secrets kept
+between us. Mom, what are you hiding now?
+
+17
+00:01:01,562 --> 00:01:03,974
+My name is Moira Dearden Queen.
+
+18
+00:01:04,131 --> 00:01:07,635
+I am the acting CEO of Queen Consolidated.
+
+19
+00:01:07,868 --> 00:01:10,974
+And God forgive me, I
+have failed this city.
+
+20
+00:01:11,872 --> 00:01:17,447
+I have been complicit in an undertaking
+with one horrible purpose:
+
+21
+00:01:20,814 --> 00:01:23,420
+To destroy the Glades and everyone in it.
+
+22
+00:01:23,584 --> 00:01:25,461
+If you reside in the Glades...
+
+23
+00:01:25,619 --> 00:01:28,293
+please, you need to get out now.
+
+24
+00:01:28,488 --> 00:01:32,163
+Your lives and the lives of your children
+depend on it.
+
+25
+00:01:32,659 --> 00:01:34,263
+Please.
+
+26
+00:01:34,461 --> 00:01:37,101
+Warden says we gotta evacuate.
+
+27
+00:01:38,465 --> 00:01:41,105
+- Help me get these out of here.
+- What about the inmates?
+
+28
+00:01:41,301 --> 00:01:42,974
+Leave them.
+
+29
+00:02:19,806 --> 00:02:21,217
+Help!
+
+30
+00:02:21,441 --> 00:02:23,045
+Yo, man! Come on!
+
+31
+00:02:23,276 --> 00:02:24,619
+Hey!
+
+32
+00:02:24,778 --> 00:02:26,223
+Hmm.
+
+33
+00:02:26,380 --> 00:02:28,656
+Yo, man! Come on!
+
+34
+00:02:28,849 --> 00:02:31,295
+- Come on!
+- Come on, man!
+
+35
+00:02:31,485 --> 00:02:33,192
+- Over here. Let me out.
+- No.
+
+36
+00:02:33,387 --> 00:02:34,798
+- No. No.
+- Unlock it.
+
+37
+00:02:34,988 --> 00:02:36,268
+- Too violent.
+- Take me.
+
+38
+00:02:36,390 --> 00:02:39,132
+- Too sloppy. Too stupid.
+- Let me out.
+
+39
+00:02:39,326 --> 00:02:42,034
+- Get me out of here!
+- Too ambitious.
+
+40
+00:02:42,229 --> 00:02:43,833
+You.
+
+41
+00:02:44,364 --> 00:02:46,071
+Love your work.
+
+42
+00:02:46,233 --> 00:02:48,144
+Big future.
+
+43
+00:02:48,468 --> 00:02:51,745
+Hey, be careful.
+There's liable to be aftershocks.
+
+44
+00:02:51,972 --> 00:02:53,918
+Oh, I'm counting on it.
+
+45
+00:02:54,141 --> 00:02:56,018
+Come on! Hey!
+
+46
+00:02:56,209 --> 00:02:58,246
+Hey, you can't go!
+
+47
+00:03:25,572 --> 00:03:28,610
+- There go the Queens!
+- Oliver!
+
+48
+00:03:29,276 --> 00:03:33,622
+Mr. Queen, what are your mother's chances?
+Is she on suicide watch?
+
+49
+00:03:33,780 --> 00:03:36,660
+- What is your mother's condition?
+- Mr. Queen, can you give any comment?
+
+50
+00:03:36,783 --> 00:03:38,922
+It's not fair. They're
+not the ones on trial.
+
+51
+00:03:39,119 --> 00:03:42,566
+That won't stop Jean Loring from using them
+as props to drum up sympathy.
+
+52
+00:03:42,756 --> 00:03:44,036
+You don't seem overly concerned.
+
+53
+00:03:44,124 --> 00:03:46,798
+She confessed to being an accomplice
+on live television.
+
+54
+00:03:46,960 --> 00:03:49,133
+She also said that
+Malcolm Merlyn coerced her.
+
+55
+00:03:50,931 --> 00:03:53,241
+You have something, don't you'?
+
+56
+00:03:53,400 --> 00:03:56,745
+I thought I was your co-counsel, Adam.
+If you're holding a trump card...
+
+57
+00:03:56,903 --> 00:03:59,153
+...don't you think maybe
+you should share it with me?
+
+58
+00:03:59,178 --> 00:04:00,636
+It's going to be a good trial.
+
+59
+00:04:00,774 --> 00:04:02,117
+Come on. Let's get inside.
+
+60
+00:04:13,253 --> 00:04:15,494
+- You don't have to do this.
+- Ivo says we do.
+
+61
+00:04:15,722 --> 00:04:18,669
+- Your friends are a danger to his men.
+- Go. Quick and quiet.
+
+62
+00:04:18,825 --> 00:04:21,431
+Slade, Shado, run! Unh.
+
+63
+00:04:34,174 --> 00:04:36,347
+There's no one here.
+
+64
+00:04:37,844 --> 00:04:40,290
+They must've moved on from their position.
+
+65
+00:04:40,447 --> 00:04:44,691
+Charges are set. Here's the detonator.
+Make sure they have no place to return to.
+
+66
+00:04:45,652 --> 00:04:46,687
+Go.
+
+67
+00:04:46,987 --> 00:04:48,625
+And you.
+
+68
+00:04:49,790 --> 00:04:52,202
+Now you're gonna take us to the graves.
+Let's go.
+
+69
+00:04:52,359 --> 00:04:53,531
+Get him up.
+
+70
+00:04:55,362 --> 00:04:57,205
+Let's get clear.
+
+71
+00:05:02,035 --> 00:05:04,982
+- Did you find the detonator?
+- Yes.
+
+72
+00:05:07,808 --> 00:05:09,378
+We were lucky.
+
+73
+00:05:09,609 --> 00:05:12,818
+I was lucky. You were good.
+
+74
+00:05:13,013 --> 00:05:14,686
+Either way...
+
+75
+00:05:14,881 --> 00:05:16,656
+they have Oliver.
+
+76
+00:05:16,850 --> 00:05:18,386
+I'm going after him.
+
+77
+00:05:18,985 --> 00:05:20,862
+Not alone.
+
+78
+00:05:21,188 --> 00:05:23,498
+You can barely walk.
+
+79
+00:05:24,024 --> 00:05:26,368
+All the more reason not to stay here.
+
+80
+00:05:26,560 --> 00:05:29,336
+Give them another chance at blowing me up.
+
+81
+00:05:35,969 --> 00:05:38,009
+- You two okay? Ahem.
+- I should be asking you that question.
+
+82
+00:05:38,138 --> 00:05:40,675
+- Yeah, well, I'm fine.
+- You look like you have the flu.
+
+83
+00:05:40,841 --> 00:05:43,185
+Well, if that's true, I shouldn't have
+wasted my time getting vaccinated.
+
+84
+00:05:43,376 --> 00:05:46,220
+Diggle, whatever it is, just go home.
+
+85
+00:05:46,413 --> 00:05:48,605
+Oliver, listen. I can take
+care of things, alright?
+
+86
+00:05:48,630 --> 00:05:50,442
+No, we'll be fine, all right?
+Go rest.
+
+87
+00:05:50,650 --> 00:05:54,564
+And don't make me call a cop.
+There are a few of them around here.
+
+88
+00:06:20,881 --> 00:06:26,297
+I have been complicit in
+an undertaking with one horrible purpose:
+
+89
+00:06:26,453 --> 00:06:29,059
+To destroy the Glades and everyone in it.
+
+90
+00:06:30,790 --> 00:06:33,100
+And it worked. The Glades were destroyed.
+
+91
+00:06:33,293 --> 00:06:38,140
+Homes and lives were lost.
+All because of her actions.
+
+92
+00:06:38,298 --> 00:06:42,804
+True, she had second thoughts, remorse, which
+compelled her to deliver this statement.
+
+93
+00:06:42,969 --> 00:06:47,315
+But on behalf of the 503 lives
+that were extinguished that day...
+
+94
+00:06:47,474 --> 00:06:50,921
+I say, Moira Queen,
+your remorse comes too late.
+
+95
+00:06:51,111 --> 00:06:53,489
+For the last five years...
+
+96
+00:06:53,713 --> 00:06:56,990
+under the threat for my life
+and the lives of my family...
+
+97
+00:06:58,251 --> 00:07:03,291
+Why wouldn't those threats silence her'?
+Why wouldn't Moira Queen be terrified?
+
+98
+00:07:03,723 --> 00:07:07,398
+Malcolm Merlyn killed her first husband,
+abducted her second.
+
+99
+00:07:07,594 --> 00:07:11,940
+Why wouldn't she be in fear for her life?
+For the lives of her children?
+
+100
+00:07:12,966 --> 00:07:18,678
+What would you do if it were your children
+in the crosshairs of a madman's rage?
+
+101
+00:07:22,175 --> 00:07:25,095
+They say
+the S.T.A.R. Labs particle accelerator...
+
+102
+00:07:25,178 --> 00:07:26,953
+will be turned on right on schedule.
+
+103
+00:07:27,113 --> 00:07:29,855
+In other news, we have
+just received word that both sides...
+
+104
+00:07:30,016 --> 00:07:33,156
+have now completed their opening
+statements in the Moira Queen trial.
+
+105
+00:07:33,320 --> 00:07:35,880
+Don't take this the wrong way,
+but you look disgusting.
+
+106
+00:07:36,022 --> 00:07:38,366
+Yeah, well, I don't feel great, Felicity.
+
+107
+00:07:38,525 --> 00:07:40,835
+Is there a right way to take that?
+
+108
+00:07:41,027 --> 00:07:43,507
+- You should go home.
+- I am going.
+
+109
+00:07:43,697 --> 00:07:46,803
+I just need to make arrangements
+for a replacement bodyguard.
+
+110
+00:07:46,967 --> 00:07:50,278
+Did you get the flu shot? Personally,
+I never do. I know that I should.
+
+111
+00:07:50,470 --> 00:07:54,213
+I just-I have this thing about needles.
+All pointy things, really.
+
+112
+00:07:54,441 --> 00:07:56,318
+Ironic, considering who we work with.
+
+113
+00:07:56,509 --> 00:07:59,240
+Yeah, it's not the flu,
+Felicity, it's more like...
+
+114
+00:07:59,265 --> 00:08:00,265
+Dig.
+
+115
+00:08:02,515 --> 00:08:04,051
+Hello?
+
+116
+00:08:05,318 --> 00:08:06,456
+Are you here?
+
+117
+00:08:06,653 --> 00:08:09,395
+Here. There.
+
+118
+00:08:09,556 --> 00:08:11,536
+Everywhere.
+
+119
+00:08:12,125 --> 00:08:15,663
+So how goes our little science project?
+
+120
+00:08:15,829 --> 00:08:17,069
+Working like you said it would.
+
+121
+00:08:17,230 --> 00:08:19,710
+Heh. How wonderful.
+
+122
+00:08:20,400 --> 00:08:25,213
+Uh, so listen, doing the thing was 50,000.
+
+123
+00:08:25,405 --> 00:08:28,909
+Keeping quiet about it
+I'm thinking should be 50 more.
+
+124
+00:08:29,743 --> 00:08:33,384
+Heh. Oh, I want word to spread.
+
+125
+00:08:33,580 --> 00:08:36,561
+That's kind of the whole
+objective, actually.
+
+126
+00:08:37,884 --> 00:08:39,227
+You see my point?
+
+127
+00:08:41,755 --> 00:08:46,568
+You should know I find post hoc
+negotiation distasteful.
+
+128
+00:08:48,595 --> 00:08:52,873
+Such a shame you won't get to see
+what your works have wrought, doctor.
+
+129
+00:08:53,366 --> 00:08:56,176
+But soon everyone else will.
+
+130
+00:08:56,669 --> 00:09:01,277
+And they'll beg for it to end.
+
+131
+00:09:03,843 --> 00:09:05,254
+That's exactly right...
+
+132
+00:09:05,412 --> 00:09:08,950
+mend given the extreme interest
+in the case from all corners...
+
+133
+00:09:09,115 --> 00:09:10,435
+What the hell are you doing here?
+
+134
+00:09:10,517 --> 00:09:12,463
+- I heard you passed out.
+- I told Felicity not to call you.
+
+135
+00:09:12,619 --> 00:09:16,123
+Yeah, but before that, you said "gah" and
+"thud," so I didn't take it very seriously.
+
+136
+00:09:16,289 --> 00:09:18,452
+She was right to call me. Diggle,
+you need medical attention.
+
+137
+00:09:18,477 --> 00:09:19,487
+He needs more than that.
+
+138
+00:09:19,626 --> 00:09:22,626
+When Dig passed out, I sent a sample
+of his blood to a chemist I know at QC.
+
+139
+00:09:22,629 --> 00:09:25,200
+The guy owes me a favor. Long story.
+I fixed his parking ticket.
+
+140
+00:09:25,365 --> 00:09:28,244
+- Huh. I guess it's not that long.
+- Felicity.
+
+141
+00:09:28,435 --> 00:09:29,709
+- Blood sample?
+- Yeah.
+
+142
+00:09:30,136 --> 00:09:32,742
+It came back positive
+for trace amounts of Vertigo.
+
+143
+00:09:32,906 --> 00:09:34,380
+I've never used Vertigo
+before in my life.
+
+144
+00:09:34,405 --> 00:09:35,645
+You were exposed to it somehow.
+
+145
+00:09:35,775 --> 00:09:37,083
+Vertigo's in play again?
+
+146
+00:09:37,410 --> 00:09:41,085
+When the Count recovered from his OD
+on Vertigo, he was sent to Iron Heights.
+
+147
+00:09:41,314 --> 00:09:43,555
+That got hit in the quake.
+
+148
+00:09:43,750 --> 00:09:45,627
+He got out the same way the Dollmaker did?
+
+149
+00:09:46,486 --> 00:09:48,159
+And just like with the Dollmaker...
+
+150
+00:09:48,321 --> 00:09:51,996
+prison officials worked overtime
+to keep a lid on the escape.
+
+151
+00:09:55,228 --> 00:09:57,469
+- I know what you're thinking.
+- No, you don't.
+
+152
+00:09:57,831 --> 00:10:01,643
+I made a choice not to put an arrow in
+this guy. And it was the right choice.
+
+153
+00:10:02,836 --> 00:10:04,247
+There's no more killing.
+
+154
+00:10:05,672 --> 00:10:09,984
+I worked this up to counteract
+the effects of Vertigo. Give it to Diggle.
+
+155
+00:10:10,143 --> 00:10:13,103
+I need to get back to court. While I'm
+gone, just work up whatever you can.
+
+156
+00:10:13,146 --> 00:10:16,355
+Figure out how Diggle got Vertigo
+in his system without his knowledge.
+
+157
+00:10:18,017 --> 00:10:19,462
+Go.
+
+158
+00:10:21,521 --> 00:10:24,832
+When was the first time you heard
+about this so-called undertaking?
+
+159
+00:10:25,658 --> 00:10:29,162
+When everyone else did.
+When my mother gave the press conference.
+
+160
+00:10:29,329 --> 00:10:32,640
+- Doesn't seem like you took it too well.
+- I was surprised.
+
+161
+00:10:32,866 --> 00:10:34,777
+Who wouldn't be?
+
+162
+00:10:38,438 --> 00:10:41,544
+Uh, your mother was immediately
+taken into custody...
+
+163
+00:10:41,774 --> 00:10:44,345
+but I assume you went down
+to the precinct to see her?
+
+164
+00:10:44,878 --> 00:10:47,518
+Actually, I didn't see her
+until she was moved.
+
+165
+00:10:47,680 --> 00:10:49,216
+To the prison?
+
+166
+00:10:49,382 --> 00:10:52,363
+Do you remember when you visited her?
+
+167
+00:10:52,519 --> 00:10:53,657
+Not the exact date.
+
+168
+00:10:54,521 --> 00:10:57,661
+It's okay. I have the visitor log here.
+
+169
+00:10:57,824 --> 00:10:59,064
+October 9th.
+
+170
+00:11:00,360 --> 00:11:03,068
+Five months later. Why so long?
+
+171
+00:11:04,063 --> 00:11:06,065
+Um, I... I...
+
+172
+00:11:07,167 --> 00:11:08,407
+Are you okay?
+
+173
+00:11:10,403 --> 00:11:14,249
+An answer, please. Why did it take you
+five months to visit your mother?
+
+174
+00:11:14,541 --> 00:11:17,385
+- Your Honor, if I...
+- No. I want to hear this.
+
+175
+00:11:18,745 --> 00:11:20,190
+I needed time.
+
+176
+00:11:21,181 --> 00:11:23,422
+- I was...
+- Angry.
+
+177
+00:11:23,583 --> 00:11:28,054
+So angry, perhaps, that it took you
+five months to forgive her?
+
+178
+00:11:28,221 --> 00:11:31,031
+- It was complicated.
+- No.
+
+179
+00:11:31,224 --> 00:11:35,934
+It's very simple.
+You blamed your mother for what she'd done.
+
+180
+00:11:36,095 --> 00:11:38,439
+So why shouldn't the jury?
+
+181
+00:11:41,935 --> 00:11:46,111
+Your Honor, we have no more questions
+for the witness.
+
+182
+00:11:49,709 --> 00:11:51,017
+Adam.
+
+183
+00:11:58,952 --> 00:12:00,625
+Where is it?
+
+184
+00:12:00,853 --> 00:12:02,799
+Come on. Where is it?
+
+185
+00:12:04,624 --> 00:12:06,467
+The Hozen. Where is it?
+
+186
+00:12:07,260 --> 00:12:09,137
+- What'?
+- The arrowhead.
+
+187
+00:12:09,295 --> 00:12:13,209
+Every report said it was with these bodies.
+You said you and your friends were here.
+
+188
+00:12:13,399 --> 00:12:15,242
+Now, where is it?
+
+189
+00:12:16,636 --> 00:12:20,448
+Take him outside.
+Make him show you where his friends are.
+
+190
+00:12:26,646 --> 00:12:29,456
+- Take us to them.
+- I don't know where they are.
+
+191
+00:12:32,485 --> 00:12:35,762
+- Tell me or you lose your hand.
+- Let us suggest another option.
+
+192
+00:12:35,989 --> 00:12:39,493
+You hand the kid over to us,
+and we don't kill you all.
+
+193
+00:12:49,836 --> 00:12:50,940
+Hey, are you okay?
+
+194
+00:12:52,572 --> 00:12:56,110
+Don't worry about me. I can take it.
+
+195
+00:13:01,414 --> 00:13:04,258
+It's okay, ifs okay. Relax.
+
+196
+00:13:15,028 --> 00:13:16,530
+Was that as bad as it seemed?
+
+197
+00:13:16,763 --> 00:13:19,869
+Thea's testimony? It was a setback.
+
+198
+00:13:20,099 --> 00:13:23,137
+- We were counting on her to...
+- Humanize me.
+
+199
+00:13:23,336 --> 00:13:26,840
+Frankly, yes.
+And now we're gonna have to go another way.
+
+200
+00:13:27,006 --> 00:13:31,386
+- No. No, I told you, I won't testify...
+- I know you did, but now you have to.
+
+201
+00:13:31,611 --> 00:13:33,557
+She's right, Mom.
+
+202
+00:13:35,315 --> 00:13:36,988
+Jean, can you give us a minute?
+
+203
+00:13:37,150 --> 00:13:38,629
+Yeah.
+
+204
+00:13:43,156 --> 00:13:45,193
+I know what you're going to say.
+
+205
+00:13:45,358 --> 00:13:48,041
+But if I testify, it
+will destroy our family.
+
+206
+00:13:48,066 --> 00:13:51,389
+And if your lawyer's right,
+you don't have a choice.
+
+207
+00:13:51,864 --> 00:13:57,246
+Mom, secrets are what put you
+in this situation. Secrets and lies.
+
+208
+00:13:59,972 --> 00:14:03,579
+And now it is time to
+give the truth its day.
+
+209
+00:14:06,245 --> 00:14:09,805
+I don't want us to lose sight of the
+other major event in court today.
+
+210
+00:14:09,916 --> 00:14:13,090
+Was there any indication
+of Adam Donner being ill?
+
+211
+00:14:13,319 --> 00:14:16,823
+No, there was very little warning
+before Mr. Donner collapsed to the ground.
+
+212
+00:14:17,023 --> 00:14:20,183
+I've spoken to several people who were
+in the courtroom with me, and a couple...
+
+213
+00:14:20,226 --> 00:14:22,365
+How you feeling?
+
+214
+00:14:23,096 --> 00:14:25,235
+- Fine.
+- You have a lousy poker face, Diggle.
+
+215
+00:14:25,431 --> 00:14:27,433
+- Did he take the antidote?
+- Didn't work.
+
+216
+00:14:27,600 --> 00:14:29,085
+Count must've futzed
+with his recipe.
+
+217
+00:14:29,110 --> 00:14:31,064
+Heard what happened
+with Donner at the court.
+
+218
+00:14:31,170 --> 00:14:32,740
+And with Thea.
+
+219
+00:14:32,939 --> 00:14:34,111
+How is she?
+
+220
+00:14:34,340 --> 00:14:35,910
+It'll be fine.
+
+221
+00:14:36,442 --> 00:14:38,547
+Your poker face isn't much better
+than mine, Oliver.
+
+222
+00:14:41,414 --> 00:14:43,291
+- Hello, Starling City.
+- Felicity.
+
+223
+00:14:44,050 --> 00:14:45,290
+Miss me?
+
+224
+00:14:45,885 --> 00:14:48,957
+Many of you have noticed that
+you're not feeling quite like yourselves.
+
+225
+00:14:49,122 --> 00:14:51,323
+He's taken over all the
+local station feeds.
+
+226
+00:14:51,348 --> 00:14:52,423
+Track his signal.
+
+227
+00:14:52,558 --> 00:14:55,767
+Like our good assistant district attorney
+here. You might recognize him...
+
+228
+00:14:55,928 --> 00:14:59,239
+from his work
+in the ongoing Moira Queen trial.
+
+229
+00:14:59,399 --> 00:15:00,434
+Hi, Adam.
+
+230
+00:15:00,600 --> 00:15:03,103
+- What do you want?
+- I want what you want.
+
+231
+00:15:03,403 --> 00:15:07,146
+- For you to feel better.
+- Go to hell.
+
+232
+00:15:08,274 --> 00:15:12,654
+I do think you want the pain to end.
+And I can do that.
+
+233
+00:15:13,379 --> 00:15:18,453
+With Vertigo. It's what
+all your bodies crave.
+
+234
+00:15:18,718 --> 00:15:21,665
+Fortunately, the power
+of relief is right here.
+
+235
+00:15:21,821 --> 00:15:23,805
+All you have to do is
+go to your friendly
+
+236
+00:15:23,830 --> 00:15:26,191
+neighborhood Vertigo dealer
+and request the cure.
+
+237
+00:15:26,325 --> 00:15:28,396
+Simple supply and demand at work.
+
+238
+00:15:28,594 --> 00:15:33,976
+Now, tell me you want this, and it's yours.
+
+239
+00:15:34,167 --> 00:15:38,115
+All that pain will just disappear.
+
+240
+00:15:39,505 --> 00:15:40,950
+Say it.
+
+241
+00:15:41,974 --> 00:15:44,511
+Say you want it.
+
+242
+00:15:49,482 --> 00:15:52,952
+I want it.
+
+243
+00:15:59,258 --> 00:16:01,704
+You see? A simple solution.
+
+244
+00:16:02,495 --> 00:16:06,966
+I'm Count Vertigo, and I approve this high.
+
+245
+00:16:10,369 --> 00:16:12,042
+What do we do now?
+
+246
+00:16:12,271 --> 00:16:14,273
+We find him...
+
+247
+00:16:14,707 --> 00:16:17,210
+and we shut him down.
+
+248
+00:16:23,616 --> 00:16:24,856
+Where'd he broadcast from?
+
+249
+00:16:25,017 --> 00:16:27,057
+He bounced the signal off
+a S.T.A.R. Labs satellite.
+
+250
+00:16:27,078 --> 00:16:28,921
+Could've sent that
+transmissionn from Markovia.
+
+251
+00:16:29,121 --> 00:16:32,568
+He would want to stay local. Scrub the
+footage, frame by frame if you have to.
+
+252
+00:16:32,959 --> 00:16:35,188
+There is something on here that
+gives us a clue to where he is.
+
+253
+00:16:35,213 --> 00:16:36,396
+If he dosed the whole city...
+
+254
+00:16:36,562 --> 00:16:38,295
+why are only some
+people showing symptoms?
+
+255
+00:16:38,320 --> 00:16:39,931
+Well, maybe exposure
+was selective.
+
+256
+00:16:40,066 --> 00:16:43,707
+The Count contaminated something certain
+people, like you and Donner, consumed.
+
+257
+00:16:43,870 --> 00:16:46,110
+Bethany Snow, with a special report.
+
+258
+00:16:46,239 --> 00:16:49,846
+A most dramatic turn.
+City officials are urging calm...
+
+259
+00:16:50,042 --> 00:16:53,854
+hoping to avoid widespread panic.
+Deputy Mayor Levitz has enlisted...
+
+260
+00:16:54,046 --> 00:16:57,721
+The Count has turned Starling
+into a city of junkies.
+
+261
+00:16:57,917 --> 00:17:00,397
+Any leads on where he's holding
+ADA Donner?
+
+262
+00:17:00,553 --> 00:17:05,662
+Mm-mm, no. As cold as it sounds,
+I've got other concerns. Laurel?
+
+263
+00:17:05,858 --> 00:17:08,862
+- Adam's trial notes are very thorough.
+- They better be.
+
+264
+00:17:09,028 --> 00:17:10,143
+You're lead counsel now.
+
+265
+00:17:10,168 --> 00:17:12,397
+Ms. Spencer, you're
+the district attorney.
+
+266
+00:17:12,532 --> 00:17:14,603
+Yes, but you're the one
+that the jury knows.
+
+267
+00:17:20,339 --> 00:17:23,252
+- You'll do fine, Laurel.
+- I know.
+
+268
+00:17:23,843 --> 00:17:25,447
+I just found Adam's trump card.
+
+269
+00:17:39,692 --> 00:17:42,639
+Sorry, I didn't hear you walk up.
+I just wanna be left alone.
+
+270
+00:17:42,862 --> 00:17:46,810
+Too bad that's not an option for you,
+but maybe I know something that is.
+
+271
+00:17:53,439 --> 00:17:55,783
+- Hit me.
+- What?
+
+272
+00:17:58,878 --> 00:18:02,655
+You wonder why I used to go out at night
+looking to throw down with bad guys.
+
+273
+00:18:03,749 --> 00:18:05,490
+Part of it was to help the city.
+
+274
+00:18:06,886 --> 00:18:10,129
+And the other part was to help me.
+
+275
+00:18:10,423 --> 00:18:12,835
+Getting tuned up
+by street thugs helped you?
+
+276
+00:18:13,826 --> 00:18:15,669
+Yeah, well, I gave as good as I got.
+
+277
+00:18:19,165 --> 00:18:21,975
+When I would throw a punch,
+I'd be so angry.
+
+278
+00:18:22,301 --> 00:18:26,078
+I'd feel this heat rising inside of me.
+In my jaw.
+
+279
+00:18:26,272 --> 00:18:28,183
+In my chest.
+
+280
+00:18:28,441 --> 00:18:30,148
+In my fists.
+
+281
+00:18:31,944 --> 00:18:34,185
+But it needed somewhere to go.
+
+282
+00:18:36,182 --> 00:18:37,752
+Come on.
+
+283
+00:18:42,521 --> 00:18:44,125
+Thea, you're angry.
+
+284
+00:18:44,323 --> 00:18:46,929
+At your mother, the DA, yourself maybe.
+
+285
+00:18:47,126 --> 00:18:50,938
+But that anger is gonna chew up
+your insides if you don't let it out.
+
+286
+00:18:51,364 --> 00:18:54,641
+- I'm not gonna hit you, Roy.
+- Try.
+
+287
+00:18:56,168 --> 00:18:57,772
+Try.
+
+288
+00:18:59,705 --> 00:19:01,981
+I said hit me, right?
+Because that felt like...
+
+289
+00:19:02,174 --> 00:19:04,711
+That didn't really feel like anything.
+
+290
+00:19:06,545 --> 00:19:08,047
+Better.
+
+291
+00:19:08,280 --> 00:19:12,729
+But keep your wrist straight. Don't just
+use your arm. Put your entire body into it.
+
+292
+00:19:14,320 --> 00:19:15,890
+Come on. Again.
+
+293
+00:19:40,146 --> 00:19:42,148
+At least let me call Lyla.
+
+294
+00:19:42,314 --> 00:19:44,885
+- All she could do is worry about me.
+- I found something.
+
+295
+00:19:45,084 --> 00:19:48,531
+- I don't see anything.
+Because you have to see what Donner does.
+
+296
+00:19:50,489 --> 00:19:53,527
+His eye caught a reflection.
+Can you enhance?
+
+297
+00:19:54,060 --> 00:19:56,404
+It hurts me that you feel the need to ask.
+
+298
+00:19:57,229 --> 00:19:59,436
+- What are those, wings?
+- It's the city seal.
+
+299
+00:19:59,665 --> 00:20:01,238
+Starling Municipal
+Records Department.
+
+300
+00:20:01,263 --> 00:20:03,762
+That building has been abandoned
+since the city went digital.
+
+301
+00:20:03,903 --> 00:20:06,577
+Dollars to donuts, that's where
+the Count is operating out of.
+
+302
+00:20:06,739 --> 00:20:08,741
+Not for long.
+
+303
+00:20:16,582 --> 00:20:18,289
+You shouldn't be here.
+
+304
+00:20:18,451 --> 00:20:19,953
+- My attorney needs to...
+- Moira.
+
+305
+00:20:21,387 --> 00:20:24,295
+I know I could be disbarred
+for speaking with you,
+
+306
+00:20:24,320 --> 00:20:26,485
+but this isn't
+something for lawyers.
+
+307
+00:20:27,293 --> 00:20:28,601
+This is a family matter.
+
+308
+00:20:38,938 --> 00:20:41,646
+Jean told me she's calling you
+to the stand tomorrow.
+
+309
+00:20:45,811 --> 00:20:48,621
+- Yes.
+- You can't testify.
+
+310
+00:20:51,417 --> 00:20:56,389
+Well, the fact that you don't want me to,
+Laurel, is a good indication that I should.
+
+311
+00:20:56,555 --> 00:20:58,887
+If you take the stand, I
+have to cross-examine you.
+
+312
+00:20:58,912 --> 00:21:01,153
+And I'll have to do it to
+the best of my ability.
+
+313
+00:21:01,293 --> 00:21:03,933
+- I understand.
+- No, I don't think you do.
+
+314
+00:21:16,776 --> 00:21:19,620
+Forget about what this will do
+to Oliver and Thea.
+
+315
+00:21:19,812 --> 00:21:22,190
+It also could undermine your entire case.
+
+316
+00:21:25,151 --> 00:21:27,028
+So, Moira, please.
+
+317
+00:21:27,686 --> 00:21:30,496
+Please, don't make me use this.
+
+318
+00:21:32,258 --> 00:21:34,704
+Everything is at stake for you.
+
+319
+00:21:34,860 --> 00:21:37,636
+And I don't wanna be the one
+to take it all away.
+
+320
+00:21:41,700 --> 00:21:43,338
+Faster, please.
+
+321
+00:21:43,536 --> 00:21:46,710
+Faster. We have a city full of customers.
+
+322
+00:21:46,872 --> 00:21:49,375
+And I mean this literally.
+
+323
+00:21:49,842 --> 00:21:54,484
+I'm afraid my production apparatus is a
+little overtaxed with the increased demand.
+
+324
+00:21:54,647 --> 00:21:58,322
+I can live with it, though.
+Can't say the city can.
+
+325
+00:22:00,386 --> 00:22:03,230
+- Go.
+- Be still my heart.
+
+326
+00:22:14,066 --> 00:22:15,875
+Step away from them.
+
+327
+00:22:16,068 --> 00:22:19,311
+Yes, I heard you developed
+an allergy to killing.
+
+328
+00:22:19,505 --> 00:22:21,576
+- Do it!
+- Or what?
+
+329
+00:22:21,807 --> 00:22:22,911
+You'll kill me?
+
+330
+00:22:43,362 --> 00:22:46,366
+You're really on the no-killing wagon.
+Shame.
+
+331
+00:22:47,233 --> 00:22:50,271
+You're really letting one of life's
+true pleasures pass you by.
+
+332
+00:22:55,941 --> 00:22:58,512
+You said you didn't want to testify.
+
+333
+00:23:00,846 --> 00:23:02,052
+But you have to.
+
+334
+00:23:02,915 --> 00:23:03,950
+Because of me.
+
+335
+00:23:04,183 --> 00:23:05,787
+- No.
+- You have to do damage control.
+
+336
+00:23:05,951 --> 00:23:09,125
+None of this is your fault.
+We're here because of what I did.
+
+337
+00:23:11,290 --> 00:23:14,533
+Now, you both know the truth,
+but you don't know all of it.
+
+338
+00:23:15,761 --> 00:23:17,968
+- Laurel does.
+- What does she have?
+
+339
+00:23:22,234 --> 00:23:24,305
+You shouldn't have to
+find this out in court.
+
+340
+00:23:24,470 --> 00:23:26,143
+Find out what?
+
+341
+00:23:30,409 --> 00:23:34,255
+Years ago... It was many years ago.
+
+342
+00:23:36,916 --> 00:23:39,726
+Your father was engaging in his...
+
+343
+00:23:39,919 --> 00:23:43,162
+His extramarital activities.
+
+344
+00:23:44,890 --> 00:23:47,336
+And I had a moment of weakness.
+
+345
+00:23:50,329 --> 00:23:51,831
+I cheated on him.
+
+346
+00:23:53,966 --> 00:23:55,502
+With Malcolm Merlyn.
+
+347
+00:24:00,806 --> 00:24:01,910
+No.
+
+348
+00:24:03,909 --> 00:24:07,982
+No, I asked you about this.
+
+349
+00:24:08,180 --> 00:24:10,091
+Last year.
+
+350
+00:24:10,783 --> 00:24:12,763
+You said
+there was nothing between you two.
+
+351
+00:24:12,918 --> 00:24:15,710
+There wasn't, sweetheart.
+It wasn't an affair.
+
+352
+00:24:15,735 --> 00:24:18,051
+It was very brief and
+a long time ago.
+
+353
+00:24:18,190 --> 00:24:20,864
+And despite it,
+you remained friends with Mr. Merlyn.
+
+354
+00:24:21,026 --> 00:24:24,007
+In fact, he frequently
+attended parties at your home.
+
+355
+00:24:24,163 --> 00:24:26,803
+He was my husband's best friend
+until Malcolm killed him.
+
+356
+00:24:26,966 --> 00:24:31,210
+And this is why you claim to feel
+as though you were in fear for your life...
+
+357
+00:24:31,370 --> 00:24:33,046
+and the lives of your children.
+
+358
+00:24:33,071 --> 00:24:35,740
+Well, I think it's a
+fairly compelling reason.
+
+359
+00:24:36,809 --> 00:24:38,948
+Last year, your second husband,
+
+360
+00:24:38,973 --> 00:24:43,182
+Walter Steele, was abducted by Mr.
+Merlyn, is that correct?
+
+361
+00:24:43,315 --> 00:24:44,350
+Yes. So you see...
+
+362
+00:24:44,516 --> 00:24:47,395
+Why didn't Merlyn kill Walter
+the same as your first husband?
+
+363
+00:24:49,722 --> 00:24:51,724
+I convinced Malcolm not to.
+
+364
+00:24:53,525 --> 00:24:55,664
+And Malcolm listened to you.
+
+365
+00:24:56,462 --> 00:24:58,738
+Your friend spared Walter's life...
+
+366
+00:24:58,897 --> 00:25:02,811
+and yet you'd have this jury believing
+that you and your children were in danger?
+
+367
+00:25:03,002 --> 00:25:06,074
+- We were. I was afraid...
+- Afraid of getting caught.
+
+368
+00:25:08,741 --> 00:25:12,086
+Despite whatever youthful mistakes
+I might have made...
+
+369
+00:25:12,544 --> 00:25:15,354
+Malcolm Merlyn was a dangerous man.
+
+370
+00:25:15,514 --> 00:25:16,652
+To other people.
+
+371
+00:25:16,849 --> 00:25:21,923
+But the only person who truly posed a
+danger to Moira Queen and her family...
+
+372
+00:25:22,154 --> 00:25:23,428
+was Moira Queen.
+
+373
+00:25:46,745 --> 00:25:47,340
+Hey.
+
+374
+00:25:47,365 --> 00:25:49,147
+Look, if you wanna
+attack me, go right ahead.
+
+375
+00:25:49,281 --> 00:25:52,561
+But you should know you're not gonna say
+anything I haven't already said to myself.
+
+376
+00:25:52,718 --> 00:25:55,283
+Whoa. I know that that
+was difficult for you,
+
+377
+00:25:55,308 --> 00:25:57,816
+and I just wanna make
+sure that you're okay.
+
+378
+00:25:59,558 --> 00:26:01,299
+No. No.
+
+379
+00:26:02,294 --> 00:26:05,935
+I don't understand how you could forgive me
+after what I just did in there.
+
+380
+00:26:07,866 --> 00:26:09,573
+I don't understand how anyone could.
+
+381
+00:26:15,040 --> 00:26:19,580
+So obviously you three
+took the Hozen out of this cave.
+
+382
+00:26:21,480 --> 00:26:23,255
+Lift him up.
+
+383
+00:26:23,415 --> 00:26:26,487
+Now, I know he doesn't have it,
+which means one of you two does.
+
+384
+00:26:27,052 --> 00:26:29,328
+Give it to me, and we'll
+discuss an exchange.
+
+385
+00:26:29,488 --> 00:26:31,661
+We don't know what you're talking about.
+
+386
+00:26:31,824 --> 00:26:34,498
+Give us Oliver,
+and we'll leave you alone to look for it.
+
+387
+00:26:36,762 --> 00:26:38,173
+Anybody else wanna be stupid?
+
+388
+00:26:38,497 --> 00:26:39,908
+Hey. Hey!
+
+389
+00:26:41,100 --> 00:26:44,081
+Fine. Take him. Cut him loose.
+
+390
+00:26:49,007 --> 00:26:50,680
+- Move! Move!
+- What are you doing?
+
+391
+00:27:01,186 --> 00:27:03,359
+We have to keep moving.
+They're following us.
+
+392
+00:27:05,357 --> 00:27:06,358
+We know.
+
+393
+00:27:14,333 --> 00:27:17,644
+We're continuing
+to monitor both of these major stories...
+
+394
+00:27:17,803 --> 00:27:20,678
+on what has become a significant
+news day here in Starling.
+
+395
+00:27:20,703 --> 00:27:22,139
+What can you tell us about...
+
+396
+00:27:22,274 --> 00:27:24,720
+Oliver's gotta be
+pretty wrapped up with his mother.
+
+397
+00:27:24,877 --> 00:27:28,484
+You making progress on how the Counts
+getting Vertigo into people's systems?
+
+398
+00:27:28,647 --> 00:27:32,151
+Not much. Each dot is the home
+of somebody with withdrawal symptoms.
+
+399
+00:27:32,317 --> 00:27:33,728
+It seems pretty random.
+
+400
+00:27:33,886 --> 00:27:36,298
+That's because it's very random.
+
+401
+00:27:37,723 --> 00:27:39,293
+Okay.
+
+402
+00:27:39,892 --> 00:27:43,669
+What if people weren't exposed at home?
+What if they got dosed at work?
+
+403
+00:27:43,829 --> 00:27:46,400
+Can you do this
+by their employment addresses?
+
+404
+00:27:46,999 --> 00:27:50,242
+I'm really starting to wonder
+what it would take to impress you guys.
+
+405
+00:27:52,571 --> 00:27:54,915
+Look, it's a trail. A
+path through the city.
+
+406
+00:27:55,073 --> 00:27:55,929
+Any place you've been?
+
+407
+00:27:55,954 --> 00:27:57,977
+59th and Dell. That's
+where I got my flu shot.
+
+408
+00:27:58,076 --> 00:28:00,767
+You got your vaccination from
+one of those trucks, right?
+
+409
+00:28:00,792 --> 00:28:02,276
+One of those roving flu trucks?
+
+410
+00:28:02,848 --> 00:28:04,418
+The route.
+
+411
+00:28:04,917 --> 00:28:08,262
+It's a flu vaccination tour, a truck sent
+out by Starling City Mobile Care.
+
+412
+00:28:08,420 --> 00:28:10,991
+I got addicted after one injection?
+That can happen?
+
+413
+00:28:11,190 --> 00:28:12,760
+Sure. Try heroin sometime.
+
+414
+00:28:13,192 --> 00:28:16,173
+- Not "try" try.
+- All right, where's the truck now?
+
+415
+00:28:16,929 --> 00:28:19,432
+Downtown. What do you think?
+
+416
+00:28:19,665 --> 00:28:20,609
+Call Oliver?
+
+417
+00:28:20,634 --> 00:28:23,466
+No, no, he's busy with his family.
+I'll go. I'll go.
+
+418
+00:28:23,602 --> 00:28:25,707
+Yeah, no. That's not happening.
+
+419
+00:28:26,271 --> 00:28:27,773
+I'll go.
+
+420
+00:28:28,006 --> 00:28:30,606
+- Felicity, it's too dangerous.
+- It could turn out to be nothing.
+
+421
+00:28:30,709 --> 00:28:31,779
+If it's not, I'll call.
+
+422
+00:28:31,944 --> 00:28:33,753
+Courtroom drama you just witnessed?
+
+423
+00:28:33,946 --> 00:28:36,586
+Bethany, no one expected the turn
+that testimony took.
+
+424
+00:28:36,782 --> 00:28:40,457
+A revelation that Moira Queen
+once had an affair with Malcolm Merlyn...
+
+425
+00:28:40,619 --> 00:28:42,963
+became the sole focus
+of the prosecution's cross.
+
+426
+00:28:56,568 --> 00:28:58,104
+Hello?
+
+427
+00:29:01,373 --> 00:29:03,114
+Anybody home?
+
+428
+00:29:15,988 --> 00:29:17,797
+Vertigo. Gotcha.
+
+429
+00:29:17,990 --> 00:29:23,338
+Funny, you took the words
+right out of my mouth.
+
+430
+00:29:27,599 --> 00:29:30,341
+- Thea?
+- Can we call it a night?
+
+431
+00:29:31,336 --> 00:29:33,179
+Jury just signaled they
+could have a verdict.
+
+432
+00:29:33,338 --> 00:29:36,444
+The judge will not send them home.
+He wants to get this over with.
+
+433
+00:29:36,642 --> 00:29:40,089
+- Line forms behind me.
+- A verdict that quickly is bad, isn't it?
+
+434
+00:29:41,179 --> 00:29:44,683
+I think the two of you
+should prepare for the worst.
+
+435
+00:29:51,023 --> 00:29:52,297
+Excuse me.
+
+436
+00:29:53,592 --> 00:29:56,198
+- Felicity.
+- Oliver.
+
+437
+00:29:56,595 --> 00:29:59,474
+Is it okay if I call you Oliver?
+
+438
+00:30:00,465 --> 00:30:02,968
+Surprised to hear from me, right?
+
+439
+00:30:03,168 --> 00:30:05,375
+Not as surprised as I was.
+
+440
+00:30:05,604 --> 00:30:11,885
+You see, I find this not unattractive blond
+getting all up in my business.
+
+441
+00:30:12,144 --> 00:30:13,987
+And what does she have on her?
+
+442
+00:30:14,713 --> 00:30:16,989
+A Queen Consolidated ID badge.
+
+443
+00:30:17,149 --> 00:30:21,894
+Now, I think to myself,
+"Why does that name ring a bell?"
+
+444
+00:30:22,487 --> 00:30:24,228
+Oliver Queen.
+
+445
+00:30:24,489 --> 00:30:26,400
+He tried to buy off me last year.
+
+446
+00:30:26,658 --> 00:30:29,537
+Just before the Hood
+put me in a padded cell.
+
+447
+00:30:29,995 --> 00:30:33,238
+Ipso facto, Arrow.
+
+448
+00:30:35,033 --> 00:30:37,411
+- Where are you going?
+- Um...
+
+449
+00:30:39,171 --> 00:30:41,048
+Somethings come up at the office.
+
+450
+00:30:41,740 --> 00:30:45,153
+- Ollie, the jury.
+- I have to go.
+
+451
+00:31:14,740 --> 00:31:17,380
+Pretty swanky offices.
+
+452
+00:31:19,044 --> 00:31:23,117
+You can see all the destruction
+that your mom caused from up here.
+
+453
+00:31:23,281 --> 00:31:25,591
+What do you want?
+
+454
+00:31:25,751 --> 00:31:28,891
+World peace and personal satisfaction.
+
+455
+00:31:29,087 --> 00:31:32,296
+Though not necessarily in that order.
+
+456
+00:31:33,792 --> 00:31:36,773
+You poisoned me and put me in a hole.
+
+457
+00:31:37,796 --> 00:31:41,141
+You have no idea
+how much I hated you for that.
+
+458
+00:31:41,433 --> 00:31:44,437
+- Turns out someone else hates you too.
+- Who?
+
+459
+00:31:44,603 --> 00:31:47,641
+Heh. Oh, you're going to be surprised
+when you find out.
+
+460
+00:31:48,640 --> 00:31:50,483
+He's a man of means.
+
+461
+00:31:50,742 --> 00:31:53,313
+Se! me up with my new operation
+so I could draw you out.
+
+462
+00:31:53,545 --> 00:31:55,286
+- To do what?
+- This.
+
+463
+00:32:00,318 --> 00:32:02,821
+- You're gonna have to try harder.
+- Done.
+
+464
+00:32:11,930 --> 00:32:13,500
+Come on.
+
+465
+00:32:19,438 --> 00:32:22,317
+So now we move on to plan B.
+
+466
+00:32:23,008 --> 00:32:25,989
+- Oliver, don't. Not for me.
+- Quiet, please. I'm threatening.
+
+467
+00:32:27,512 --> 00:32:30,459
+Lower your bow.
+
+468
+00:32:40,025 --> 00:32:43,632
+Your problem is with me, it's not with her.
+
+469
+00:32:43,829 --> 00:32:47,538
+Then consider this your penalty for making
+me go to plan B in the first place.
+
+470
+00:33:03,215 --> 00:33:07,220
+Hey. Hey, hey. Shh, shh, shh.
+
+471
+00:33:07,385 --> 00:33:10,389
+It's all right. You're safe.
+
+472
+00:33:11,656 --> 00:33:14,193
+- You were shot.
+- Hey.
+
+473
+00:33:14,559 --> 00:33:16,505
+It's nothing.
+
+474
+00:33:46,057 --> 00:33:49,266
+- Any news?
+- Where have you been?
+
+475
+00:33:50,395 --> 00:33:53,001
+Something happened
+at Queen Consolidated.
+
+476
+00:33:53,231 --> 00:33:57,680
+And you will see it on the news later.
+Don't worry about it.
+
+477
+00:33:57,836 --> 00:34:00,180
+What would you have done
+if there'd been a verdict?
+
+478
+00:34:00,338 --> 00:34:01,681
+Thea...
+
+479
+00:34:02,207 --> 00:34:04,346
+I don't know.
+
+480
+00:34:05,010 --> 00:34:06,717
+Are you okay?
+
+481
+00:34:08,013 --> 00:34:10,960
+Hey. Jury's back.
+
+482
+00:34:11,182 --> 00:34:12,718
+Come on.
+
+483
+00:34:14,352 --> 00:34:18,357
+I have received a note
+that the jury has arrived at a verdict.
+
+484
+00:34:21,126 --> 00:34:23,436
+Please publish the verdict.
+
+485
+00:34:24,629 --> 00:34:30,545
+"In the Superior Court of Star County,
+State vs. Moira Queen, verdict."
+
+486
+00:34:30,702 --> 00:34:37,711
+On one count of conspiracy in the first
+degree, the defendant is found not guilty.
+
+487
+00:34:38,109 --> 00:34:43,320
+On the 503 counts of murder in the first
+degree, the defendant is found...
+
+488
+00:34:44,382 --> 00:34:45,986
+"not guilty."
+
+489
+00:34:48,553 --> 00:34:50,226
+I don't believe it.
+
+490
+00:34:56,895 --> 00:34:58,397
+Mom.
+
+491
+00:35:09,407 --> 00:35:12,149
+I love you both so much.
+
+492
+00:35:21,987 --> 00:35:26,800
+A stunning result
+as Moira Queen is acquitted of all charges.
+
+493
+00:35:26,992 --> 00:35:30,439
+In a day that's provided a week's worth
+of shocks and legal twists...
+
+494
+00:35:30,595 --> 00:35:33,098
+many had pronounced this case
+a done deal.
+
+495
+00:35:33,298 --> 00:35:36,279
+Congratulations. Is that appropriate?
+
+496
+00:35:36,434 --> 00:35:38,505
+She should have lost.
+
+497
+00:35:38,703 --> 00:35:40,182
+Should have been convicted.
+
+498
+00:35:41,873 --> 00:35:43,375
+Did you want her to be?
+
+499
+00:35:43,808 --> 00:35:46,448
+I expected her to be.
+
+500
+00:35:46,611 --> 00:35:49,888
+- Verdict doesn't make sense.
+- Still, your mom must be thrilled. Beyond.
+
+501
+00:35:50,115 --> 00:35:53,289
+It's more like shock, I think.
+
+502
+00:35:53,451 --> 00:35:57,126
+They're processing her now.
+I just wanted to check in on you.
+
+503
+00:35:58,390 --> 00:36:00,461
+- And you.
+- I'm feeling better.
+
+504
+00:36:00,625 --> 00:36:03,196
+And with the Vertigo-tainted vaccine...
+
+505
+00:36:03,361 --> 00:36:05,807
+Queen Consolidated's
+Applied Sciences division...
+
+506
+00:36:05,964 --> 00:36:08,376
+was able to formulate
+a nonaddictive treatment.
+
+507
+00:36:10,735 --> 00:36:12,214
+Good.
+
+508
+00:36:13,738 --> 00:36:15,479
+Need to meet my family at home.
+
+509
+00:36:15,640 --> 00:36:18,814
+So you guys go home, get rest.
+
+510
+00:36:23,648 --> 00:36:26,492
+- Good night.
+- Good night.
+
+511
+00:36:28,086 --> 00:36:29,656
+Oliver?
+
+512
+00:36:32,223 --> 00:36:34,260
+- I just wanted to say thank you.
+- Yeah.
+
+513
+00:36:34,492 --> 00:36:36,335
+And I'm sorry.
+
+514
+00:36:37,429 --> 00:36:38,931
+For what?
+
+515
+00:36:40,498 --> 00:36:43,672
+I got myself into trouble again,
+and you killed him.
+
+516
+00:36:45,003 --> 00:36:46,607
+You killed again, and I am sorry...
+
+517
+00:36:46,771 --> 00:36:48,482
+...that I was the one who
+put you in a position
+
+518
+00:36:48,507 --> 00:36:50,147
+where you had to make
+that kind of choice.
+
+519
+00:36:50,175 --> 00:36:51,779
+Felicity.
+
+520
+00:36:54,179 --> 00:36:56,523
+He had you and he was gonna hurt you.
+
+521
+00:36:58,416 --> 00:37:01,022
+There was no choice to make.
+
+522
+00:37:10,195 --> 00:37:11,142
+Why did you do that?
+
+523
+00:37:11,167 --> 00:37:13,723
+Because you stopped the
+Captain from killing me.
+
+524
+00:37:13,932 --> 00:37:15,707
+Thank you for coming.
+
+525
+00:37:15,900 --> 00:37:19,712
+- Shado, he doesn't look too good.
+- He's not.
+
+526
+00:37:19,938 --> 00:37:21,474
+- Who's this?
+- It's complicated.
+
+527
+00:37:21,706 --> 00:37:25,552
+That Hozen thing they're looking for
+is back on the plane.
+
+528
+00:37:25,777 --> 00:37:28,223
+No, I've got it.
+
+529
+00:37:28,446 --> 00:37:31,791
+There's a Buddhist inscription on one side.
+It reminded me of my father.
+
+530
+00:37:31,983 --> 00:37:34,793
+I'm pretty sure they're not
+interested in Buddhism.
+
+531
+00:37:34,986 --> 00:37:36,988
+What's on the other side?
+
+532
+00:37:38,289 --> 00:37:41,429
+"30, 31, 75, 12."
+
+533
+00:37:41,626 --> 00:37:43,628
+Numbers, what?
+
+534
+00:37:43,895 --> 00:37:44,896
+Coordinates.
+
+535
+00:37:45,730 --> 00:37:47,300
+But to what?
+
+536
+00:37:47,499 --> 00:37:51,572
+A Kairyu-class Japanese submarine
+which ran aground here during World War ll.
+
+537
+00:37:51,770 --> 00:37:54,478
+What do these guys want
+with a 70-year-old sub?
+
+538
+00:37:54,639 --> 00:37:56,812
+The sub isn't important,
+but what's on it...
+
+539
+00:37:58,343 --> 00:38:00,516
+it'll save the human race.
+
+540
+00:38:01,980 --> 00:38:03,084
+Will it save him?
+
+541
+00:38:13,258 --> 00:38:16,171
+Well, you survived your own stupidity.
+Congratulations.
+
+542
+00:38:17,762 --> 00:38:19,264
+You know...
+
+543
+00:38:19,831 --> 00:38:23,608
+I needed you to deal with any resistance
+that I encountered on the island.
+
+544
+00:38:23,768 --> 00:38:26,942
+I gotta say,
+you've done a fairly lousy job of that.
+
+545
+00:38:31,042 --> 00:38:34,387
+Congratulations. You're the new captain.
+
+546
+00:38:40,018 --> 00:38:42,624
+I arrange for the Count
+to take out the Arrow.
+
+547
+00:38:42,787 --> 00:38:46,792
+And all I accomplish is reigniting
+the vigilante's killing spree.
+
+548
+00:38:46,958 --> 00:38:49,302
+Sir, there's been a development.
+
+549
+00:39:11,649 --> 00:39:13,925
+Brother Cyrus.
+
+550
+00:39:14,519 --> 00:39:16,430
+How do you feel?
+
+551
+00:39:20,058 --> 00:39:21,332
+Stronger.
+
+552
+00:39:22,393 --> 00:39:23,997
+Good.
+
+553
+00:39:24,262 --> 00:39:26,242
+Then you're ready.
+
+554
+00:39:30,401 --> 00:39:32,881
+Mrs. Queen, how does it feel
+to get away with murder?
+
+555
+00:39:33,037 --> 00:39:35,677
+I want you to go out back.
+There's a car waiting for you.
+
+556
+00:39:35,840 --> 00:39:38,912
+- Did you kill your first husband?
+- Just keep going.
+
+557
+00:39:39,110 --> 00:39:41,916
+Obviously Mrs. Queen is
+overjoyed that the jury has
+
+558
+00:39:41,941 --> 00:39:44,584
+ruled that she was acting
+under terrible duress.
+
+559
+00:39:44,716 --> 00:39:46,923
+- Can you give us anything?
+- I'm afraid...
+
+560
+00:39:47,085 --> 00:39:49,258
+- This way, Mrs. Queen.
+- Yes.
+
+561
+00:40:09,073 --> 00:40:10,575
+The freeway will be quicker.
+
+562
+00:40:10,775 --> 00:40:15,053
+I'm sorry, Mrs. Queen. I was instructed
+not to take you home. Not yet.
+
+563
+00:40:27,725 --> 00:40:30,171
+Where are we? I don't know this place.
+
+564
+00:40:31,396 --> 00:40:33,239
+I've got her, sir.
+
+565
+00:40:39,137 --> 00:40:40,912
+Hello, Moira.
+
+566
+00:40:41,839 --> 00:40:44,683
+You... You're suppo...
+They said you were dead.
+
+567
+00:40:44,909 --> 00:40:48,322
+There are parts of the world where death
+is an illusion. I've been to one.
+
+568
+00:40:48,513 --> 00:40:50,083
+I learned to be very convincing.
+
+569
+00:40:52,417 --> 00:40:55,091
+But I returned because you needed my help.
+
+570
+00:40:57,488 --> 00:41:00,264
+- Help?
+- With your trial.
+
+571
+00:41:01,192 --> 00:41:04,662
+You didn't think that jury acquitted you
+without a little persuasion?
+
+572
+00:41:04,862 --> 00:41:06,773
+Dear God.
+
+573
+00:41:09,033 --> 00:41:11,274
+What do you want, Malcolm?
+
+574
+00:41:12,704 --> 00:41:15,617
+I still have resources in Starling.
+
+575
+00:41:15,773 --> 00:41:17,377
+Associates.
+
+576
+00:41:18,343 --> 00:41:22,450
+Heh. Including one in the DA's office.
+
+577
+00:41:22,880 --> 00:41:25,622
+I followed Mr. Donner's investigation
+of you with interest.
+
+578
+00:41:25,783 --> 00:41:28,264
+The ease with which you
+lied about us for years,
+
+579
+00:41:28,289 --> 00:41:30,415
+it made me wonder
+whether you lied to me.
+
+580
+00:41:30,555 --> 00:41:33,399
+No.
+
+581
+00:41:33,624 --> 00:41:38,164
+It was a matter of a simple surreptitious
+genetics test to confirm my suspicions.
+
+582
+00:41:38,363 --> 00:41:39,899
+Don't.
+
+583
+00:41:40,131 --> 00:41:44,307
+Imagine my joy at learning
+that Thea is my daughter.
+

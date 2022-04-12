@@ -1,0 +1,3584 @@
+1
+00:00:02,002 --> 00:00:03,493
+<i>My name is
+Oliver Queen.</i>
+
+2
+00:00:04,171 --> 00:00:05,378
+<i>After five years in hell,</i>
+
+3
+00:00:05,464 --> 00:00:08,798
+<i>I returned home with only one goal,
+to save my city.</i>
+
+4
+00:00:08,884 --> 00:00:11,342
+<i>Today, I fight that war on two fronts.</i>
+
+5
+00:00:11,428 --> 00:00:13,795
+<i>By day, I lead Star City as its mayor.</i>
+
+6
+00:00:13,889 --> 00:00:15,755
+<i>But by night, I'm someone else.</i>
+
+7
+00:00:15,933 --> 00:00:18,220
+<i>I am something else.</i>
+
+8
+00:00:18,310 --> 00:00:20,302
+<i>I am the Green Arrow.</i>
+
+9
+00:00:20,938 --> 00:00:22,099
+<i>Previously on</i> Arrow...
+
+10
+00:00:22,272 --> 00:00:24,264
+The new police captain,
+she's on my payroll,
+
+11
+00:00:24,358 --> 00:00:26,224
+<i>along with a few other
+city officials.</i>
+
+12
+00:00:26,318 --> 00:00:28,480
+<i>See, guys like you never understand.</i>
+
+13
+00:00:28,570 --> 00:00:31,313
+<i>Why destroy a city,
+when you could take it over?</i>
+
+14
+00:00:33,492 --> 00:00:35,779
+Mr. Ramirez suffered
+a traumatic hemothorax.
+
+15
+00:00:35,869 --> 00:00:37,531
+The injury caused his lung
+to recollapse.
+
+16
+00:00:37,788 --> 00:00:39,199
+Oliver Queen, you're under arrest.
+
+17
+00:00:39,289 --> 00:00:40,530
+On what charges?
+
+18
+00:00:40,624 --> 00:00:42,957
+Murder, assault, burglary,
+and kidnapping,
+
+19
+00:00:43,043 --> 00:00:45,376
+all stemming from your activity
+as the Green Arrow.
+
+20
+00:00:45,504 --> 00:00:46,494
+I think I just found something.
+
+21
+00:00:46,588 --> 00:00:48,170
+There's a record on how Watson
+found out you were Wild Dog.
+
+22
+00:00:48,257 --> 00:00:49,338
+There's an audio recording.
+
+23
+00:00:49,424 --> 00:00:52,963
+The FBI's provided definitive proof
+that Oliver Queen is the Green Arrow.
+
+24
+00:00:53,053 --> 00:00:54,544
+I'm gonna release
+the defendant on bail.
+
+25
+00:00:56,390 --> 00:00:57,506
+What's your name?
+
+26
+00:00:58,183 --> 00:00:59,594
+Laurel Lance.
+
+27
+00:01:05,023 --> 00:01:06,514
+- Ollie.
+- Yeah.
+
+28
+00:01:06,608 --> 00:01:09,316
+Jean here has some good news for you.
+
+29
+00:01:09,403 --> 00:01:11,565
+I'm only used to good news
+if it's accompanied by bad news.
+
+30
+00:01:11,655 --> 00:01:14,193
+Well, this news is unequivocal, Oliver.
+
+31
+00:01:14,366 --> 00:01:16,608
+I can get the case
+against you dismissed.
+
+32
+00:01:17,661 --> 00:01:18,651
+Uh...
+
+33
+00:01:18,996 --> 00:01:20,988
+Have a seat. Tell me more.
+
+34
+00:01:21,164 --> 00:01:24,453
+I pored over the discovery documents
+produced by the district attorney.
+
+35
+00:01:24,876 --> 00:01:28,085
+Apparently, the FBI leveraged
+Rene Ramirez
+
+36
+00:01:28,171 --> 00:01:29,161
+to testify against you
+
+37
+00:01:29,256 --> 00:01:32,124
+based on surveillance that was leaked
+by a known criminal.
+
+38
+00:01:32,217 --> 00:01:33,253
+Cayden James.
+
+39
+00:01:33,343 --> 00:01:34,959
+"Fruit of the poisonous tree."
+
+40
+00:01:35,262 --> 00:01:36,969
+It's a legal metaphor positing that
+
+41
+00:01:37,055 --> 00:01:38,717
+if the source of the evidence
+is tainted,
+
+42
+00:01:38,807 --> 00:01:40,139
+the evidence itself is tainted.
+
+43
+00:01:40,892 --> 00:01:43,179
+Mr. James' actions
+were not only illegal,
+
+44
+00:01:43,270 --> 00:01:44,636
+but his death makes it impossible
+
+45
+00:01:44,730 --> 00:01:46,722
+to corroborate the evidence
+against Mr. Ramirez.
+
+46
+00:01:46,815 --> 00:01:49,148
+So, if there's no case against Rene,
+there's no case against me.
+
+47
+00:01:49,234 --> 00:01:50,691
+We're going before Judge McGarvey
+
+48
+00:01:50,777 --> 00:01:52,609
+on my motion
+to dismiss this afternoon.
+
+49
+00:01:52,696 --> 00:01:53,903
+Jean, you sure?
+
+50
+00:01:54,448 --> 00:01:56,360
+You can just make this go away?
+
+51
+00:01:56,450 --> 00:01:58,157
+Ollie, she's positive.
+
+52
+00:01:58,327 --> 00:02:00,489
+Okay, I know you're not used
+to getting good news,
+
+53
+00:02:00,579 --> 00:02:02,616
+but this is what it sounds like.
+
+54
+00:02:06,877 --> 00:02:10,041
+Mr. Mayor, we got an emergency
+at SCPD.
+
+55
+00:02:10,380 --> 00:02:12,337
+Like I said, it was accompanied
+by some bad news.
+
+56
+00:02:12,424 --> 00:02:13,756
+Jean, this is wonderful.
+
+57
+00:02:13,842 --> 00:02:15,174
+I will see you at the courthouse
+this afternoon.
+
+58
+00:02:15,260 --> 00:02:16,250
+Okay.
+
+59
+00:02:17,554 --> 00:02:18,544
+So?
+
+60
+00:02:18,639 --> 00:02:20,596
+Laurel just walked into
+police headquarters.
+
+61
+00:02:20,682 --> 00:02:22,423
+- What, to surrender?
+- Not exactly.
+
+62
+00:02:22,684 --> 00:02:24,300
+She told them she's Laurel Lance.
+
+63
+00:02:25,062 --> 00:02:26,428
+Our Laurel Lance.
+
+64
+00:02:28,690 --> 00:02:31,057
+Okay, why is she claiming
+to be Laurel Lance?
+
+65
+00:02:31,151 --> 00:02:34,064
+Well, Dinah is out for blood
+and Laurel Lance, public figure,
+
+66
+00:02:34,154 --> 00:02:37,363
+is a much more difficult target
+than Black Siren.
+
+67
+00:02:37,824 --> 00:02:39,235
+Except it's a lie.
+
+68
+00:02:39,951 --> 00:02:42,068
+It's all one big lie.
+
+69
+00:02:42,162 --> 00:02:44,620
+Well, we need to get to her
+before she gets to the press.
+
+70
+00:02:44,956 --> 00:02:46,492
+I woke up in a cell
+
+71
+00:02:47,542 --> 00:02:49,454
+and I managed to break down the door,
+
+72
+00:02:49,628 --> 00:02:51,585
+and I just... I ran.
+
+73
+00:02:51,672 --> 00:02:53,083
+They held you for two years?
+
+74
+00:02:53,173 --> 00:02:54,539
+I don't remember.
+
+75
+00:02:54,633 --> 00:02:57,000
+<i>They kept me drugged.</i>
+
+76
+00:02:57,094 --> 00:02:59,928
+<i>The Black Canary was
+reported dead, killed in a prison riot.</i>
+
+77
+00:03:00,013 --> 00:03:01,504
+<i>Damien Darhk, he stabbed me.</i>
+
+78
+00:03:01,682 --> 00:03:03,298
+<i>And then next thing I knew, I was...</i>
+
+79
+00:03:04,559 --> 00:03:05,549
+<i>I was in that cell.</i>
+
+80
+00:03:05,644 --> 00:03:07,601
+I don't know how,
+but this is really, really bad.
+
+81
+00:03:07,688 --> 00:03:09,099
+Rather, we should have
+seen this coming.
+
+82
+00:03:09,189 --> 00:03:10,179
+Should've known
+that she'd eventually
+
+83
+00:03:10,273 --> 00:03:11,559
+try to pull something like this.
+
+84
+00:03:11,650 --> 00:03:13,107
+Why would Damien Darhk
+do this to you?
+
+85
+00:03:13,193 --> 00:03:14,434
+<i>Why would
+he fake your death?</i>
+
+86
+00:03:14,528 --> 00:03:16,895
+I don't know why
+he would wanna fake my death.
+
+87
+00:03:18,031 --> 00:03:20,398
+Maybe... Maybe to torture
+the Green Arrow?
+
+88
+00:03:20,492 --> 00:03:22,654
+So you know who the Green Arrow is?
+
+89
+00:03:23,870 --> 00:03:25,736
+Ollie! Ollie!
+
+90
+00:03:26,915 --> 00:03:28,907
+I never thought I'd see you again.
+
+91
+00:03:32,879 --> 00:03:33,869
+Daddy.
+
+92
+00:03:35,132 --> 00:03:36,122
+Daddy.
+
+93
+00:03:36,758 --> 00:03:37,839
+- Daddy.
+- Can you tell us any more
+
+94
+00:03:37,926 --> 00:03:39,087
+information on...
+
+95
+00:03:39,469 --> 00:03:40,710
+You notably
+outed Miss. Lance
+
+96
+00:03:40,804 --> 00:03:42,420
+as the Black Canary at her funeral.
+
+97
+00:03:42,514 --> 00:03:43,880
+And now it seems
+a little suspicious
+
+98
+00:03:43,974 --> 00:03:46,341
+in light of the recent allegations
+that you are the Green Arrow.
+
+99
+00:03:46,601 --> 00:03:48,183
+It doesn't and it's not.
+
+100
+00:03:49,646 --> 00:03:51,979
+I have made no secret of the fact
+that when necessary,
+
+101
+00:03:52,065 --> 00:03:55,558
+I have been in contact
+with Green Arrow and his team.
+
+102
+00:03:55,819 --> 00:03:57,936
+He told me about Laurel Lance.
+
+103
+00:03:58,029 --> 00:03:59,315
+I wasn't talking to myself.
+
+104
+00:03:59,406 --> 00:04:00,567
+Is that true, Miss Lance?
+
+105
+00:04:00,657 --> 00:04:01,864
+Miss Lance, is Oliver Queen
+the Green Arrow?
+
+106
+00:04:07,664 --> 00:04:09,656
+I really do think that Miss Lance
+
+107
+00:04:10,125 --> 00:04:12,492
+could use some time with her family
+and some privacy.
+
+108
+00:04:13,003 --> 00:04:13,993
+Let's go.
+
+109
+00:04:30,562 --> 00:04:32,599
+- What do you think you're doing?
+- What?
+
+110
+00:04:32,689 --> 00:04:34,726
+You said you wanted me
+to be more like Laurel,
+
+111
+00:04:34,816 --> 00:04:35,977
+so I thought I'd give it a try.
+
+112
+00:04:36,067 --> 00:04:38,024
+Oh, I really wish I'd believe that.
+
+113
+00:04:38,236 --> 00:04:40,023
+Where's the money
+you stole from the city?
+
+114
+00:04:40,739 --> 00:04:41,729
+Yeah...
+
+115
+00:04:41,948 --> 00:04:43,780
+About that, slight hiccup.
+
+116
+00:04:43,867 --> 00:04:46,359
+So, I went to where I stashed it,
+
+117
+00:04:46,745 --> 00:04:48,236
+and it's been cleaned out.
+
+118
+00:04:48,830 --> 00:04:50,492
+It's gone. Poof.
+
+119
+00:04:50,582 --> 00:04:52,073
+So, without the money you, what,
+
+120
+00:04:52,209 --> 00:04:54,166
+decided to become Laurel Lance,
+
+121
+00:04:54,252 --> 00:04:56,915
+'cause she's a public figure
+and harder to kill?
+
+122
+00:04:57,798 --> 00:05:00,666
+You're really that afraid
+of Dinah Drake, aren't you?
+
+123
+00:05:00,759 --> 00:05:02,125
+Not just afraid of Dinah.
+
+124
+00:05:03,220 --> 00:05:05,382
+Afraid of whoever manipulated
+Cayden James
+
+125
+00:05:05,472 --> 00:05:06,758
+into thinking I killed his son.
+
+126
+00:05:06,848 --> 00:05:09,181
+'Cause that's probably
+who killed James, too.
+
+127
+00:05:09,434 --> 00:05:11,426
+Who did it? Anatoly?
+
+128
+00:05:11,645 --> 00:05:12,635
+Or Diaz?
+
+129
+00:05:13,021 --> 00:05:14,011
+Or you?
+
+130
+00:05:15,440 --> 00:05:17,727
+I mean, she could've
+just easily killed both of them.
+
+131
+00:05:17,901 --> 00:05:21,315
+I don't exactly have
+an airtight alibi for Cayden.
+
+132
+00:05:21,404 --> 00:05:25,114
+I believe his son was killed
+when I was incarcerated at A.R.G.U.S.
+
+133
+00:05:25,283 --> 00:05:26,399
+Who did it?
+
+134
+00:05:26,868 --> 00:05:29,656
+Anatoly or Diaz?
+
+135
+00:05:29,746 --> 00:05:31,658
+Talking out of school
+will get me in trouble.
+
+136
+00:05:31,748 --> 00:05:35,708
+Look, whoever went after James
+is clearly coming for you next.
+
+137
+00:05:35,877 --> 00:05:37,584
+So, why don't you cooperate with us?
+
+138
+00:05:37,838 --> 00:05:39,124
+Help us find the money,
+
+139
+00:05:39,381 --> 00:05:40,917
+and maybe we can just protect you.
+
+140
+00:05:41,633 --> 00:05:42,794
+Little trivia.
+
+141
+00:05:43,802 --> 00:05:47,637
+There's a Thea Queen on the Earth
+that I come from, too.
+
+142
+00:05:47,973 --> 00:05:50,215
+Only she's not
+as pathetically naive as you.
+
+143
+00:05:52,435 --> 00:05:53,425
+Look.
+
+144
+00:05:54,104 --> 00:05:56,187
+This is a lot simpler
+than you're making it.
+
+145
+00:05:56,356 --> 00:05:59,144
+You're gonna protect me
+and you're going to help protect me
+
+146
+00:05:59,234 --> 00:06:03,353
+by going along with the story
+that I'm the real Laurel Lance.
+
+147
+00:06:03,446 --> 00:06:04,436
+Yeah?
+
+148
+00:06:05,782 --> 00:06:07,114
+Why would we do that?
+
+149
+00:06:07,200 --> 00:06:08,441
+I don't know.
+
+150
+00:06:08,535 --> 00:06:12,449
+Maybe because of all the reporters
+that are just in the next room.
+
+151
+00:06:12,831 --> 00:06:15,164
+You know, it's only a matter of time
+before they ask me
+
+152
+00:06:16,167 --> 00:06:18,033
+who the Green Arrow is again.
+
+153
+00:06:18,503 --> 00:06:20,836
+What would you like me to tell them?
+
+154
+00:06:23,842 --> 00:06:25,174
+We're done here.
+
+155
+00:06:33,393 --> 00:06:35,806
+Mr. Mayor, may I speak to you
+for a minute?
+
+156
+00:06:35,979 --> 00:06:36,969
+Yes.
+
+157
+00:06:39,232 --> 00:06:42,851
+- What's all the fuss?
+- Laurel Lance just turned up alive.
+
+158
+00:06:42,944 --> 00:06:45,357
+- Believe it or not, she's actually...
+- I know who she is.
+
+159
+00:06:46,990 --> 00:06:49,277
+Sorry to pull you away,
+but payday is Friday.
+
+160
+00:06:49,367 --> 00:06:51,233
+And my officers
+aren't gonna get their checks.
+
+161
+00:06:51,328 --> 00:06:52,444
+Captain Hill, I'm still working
+
+162
+00:06:52,537 --> 00:06:53,903
+on recovering the money
+that was extorted.
+
+163
+00:06:53,997 --> 00:06:56,535
+And I have an idea to buy us time
+that I wanted to run past you.
+
+164
+00:06:56,625 --> 00:06:57,661
+Let's hear it.
+
+165
+00:06:57,751 --> 00:07:00,084
+The department has
+years of seized assets.
+
+166
+00:07:00,295 --> 00:07:01,661
+Sports cars, mansions,
+
+167
+00:07:01,755 --> 00:07:03,667
+even a stuffed polar bear,
+if you can believe it.
+
+168
+00:07:04,174 --> 00:07:06,006
+- Mmm-hmm.
+- At least two-thirds of the property
+
+169
+00:07:06,092 --> 00:07:07,833
+has cleared the court process
+for sale.
+
+170
+00:07:07,928 --> 00:07:11,342
+If we auction it off,
+we can raise as much as $30 million.
+
+171
+00:07:11,431 --> 00:07:12,421
+Thirty?
+
+172
+00:07:13,642 --> 00:07:15,178
+Set that in motion.
+
+173
+00:07:16,311 --> 00:07:17,301
+Thank you.
+
+174
+00:07:19,606 --> 00:07:21,268
+- Hello.
+- Don't talk to me.
+
+175
+00:07:21,858 --> 00:07:23,645
+Captain Hill,
+can I talk to you for a minute?
+
+176
+00:07:23,735 --> 00:07:25,852
+- It's about Laurel Lance.
+- That's a hell of a thing, isn't it?
+
+177
+00:07:25,946 --> 00:07:27,153
+She said they faked her death
+
+178
+00:07:27,238 --> 00:07:29,321
+and then she was
+held captive for two years.
+
+179
+00:07:29,407 --> 00:07:30,943
+Yeah, sure is.
+
+180
+00:07:31,868 --> 00:07:32,984
+Anyone catch that case yet?
+
+181
+00:07:33,078 --> 00:07:34,489
+You want it? It's yours.
+
+182
+00:07:34,996 --> 00:07:37,033
+But right now she's going
+to the hospital for a GSW.
+
+183
+00:07:37,332 --> 00:07:38,322
+I'm patient.
+
+184
+00:07:46,341 --> 00:07:48,549
+- C-Dog.
+- Hey, Zoe.
+
+185
+00:07:48,635 --> 00:07:51,218
+Great. Love that that name's
+sticking around. That's amazing.
+
+186
+00:07:51,972 --> 00:07:54,259
+The babysitter had to go home
+two hours ago.
+
+187
+00:07:54,432 --> 00:07:55,422
+Where's my dad?
+
+188
+00:07:56,142 --> 00:07:57,223
+Have a seat.
+
+189
+00:07:59,854 --> 00:08:00,890
+Something happened.
+
+190
+00:08:01,398 --> 00:08:02,855
+He's gonna be okay,
+
+191
+00:08:03,191 --> 00:08:04,648
+but I need to tell you about it.
+
+192
+00:08:08,154 --> 00:08:09,270
+This is inappropriate.
+
+193
+00:08:09,614 --> 00:08:11,731
+My motion should be heard
+in open court.
+
+194
+00:08:11,825 --> 00:08:13,316
+I requested to be heard in chambers.
+
+195
+00:08:13,576 --> 00:08:16,034
+Oh, to what, hide the embarrassment
+of having your case dismissed?
+
+196
+00:08:16,121 --> 00:08:18,534
+Actually we're taking Mr. Ramirez
+off our witness list.
+
+197
+00:08:18,623 --> 00:08:21,491
+Considering he was your sole witness
+against Mr. Queen,
+
+198
+00:08:21,584 --> 00:08:24,122
+- I renew my motion to have...
+- He's not our sole witness.
+
+199
+00:08:24,546 --> 00:08:27,755
+What? No, no, no, no.
+Discovery on this case is closed.
+
+200
+00:08:27,841 --> 00:08:29,298
+This is newly discovered information,
+Your Honor.
+
+201
+00:08:29,384 --> 00:08:31,592
+We'll make the witness' proffer
+available to the defense,
+
+202
+00:08:31,678 --> 00:08:33,010
+in accordance with <i>Brady v. Marilyn.</i>
+
+203
+00:08:33,096 --> 00:08:34,212
+Who is the witness?
+
+204
+00:08:34,305 --> 00:08:36,342
+Someone with enemies
+on both sides of the law.
+
+205
+00:08:36,433 --> 00:08:38,140
+That's why we're doing this
+in chambers
+
+206
+00:08:38,393 --> 00:08:40,350
+and why I granted
+the district attorney's request
+
+207
+00:08:40,437 --> 00:08:41,473
+for a suppression order.
+
+208
+00:08:41,563 --> 00:08:44,852
+All right, I get it, it's sensitive.
+What is the witness' name?
+
+209
+00:08:45,942 --> 00:08:46,932
+Roy Harper.
+
+210
+00:08:54,534 --> 00:08:57,026
+How did they even find Roy?
+
+211
+00:08:57,120 --> 00:08:58,486
+I mean, we didn't know where he was.
+
+212
+00:08:58,580 --> 00:09:00,037
+We didn't even know
+what name he was working under.
+
+213
+00:09:00,123 --> 00:09:01,409
+I didn't think anybody did.
+
+214
+00:09:02,792 --> 00:09:03,953
+- Did you?
+- No. No...
+
+215
+00:09:04,044 --> 00:09:06,661
+God, I couldn't even find him
+for your guys' wedding reception.
+
+216
+00:09:06,755 --> 00:09:08,542
+It doesn't matter how they did it.
+They did.
+
+217
+00:09:08,631 --> 00:09:09,917
+Now we have to figure out
+what to do next.
+
+218
+00:09:10,008 --> 00:09:11,715
+He's definitely not
+cooperating voluntarily.
+
+219
+00:09:11,885 --> 00:09:12,921
+Well, it's been two years.
+
+220
+00:09:13,011 --> 00:09:14,718
+I mean, there might be some
+pressure points we don't know about,
+
+221
+00:09:14,804 --> 00:09:16,215
+some people he cares about, some...
+
+222
+00:09:17,640 --> 00:09:19,222
+- It's been a long time.
+- Either way,
+
+223
+00:09:19,309 --> 00:09:21,471
+we need to know
+what Roy is going to say in court,
+
+224
+00:09:21,561 --> 00:09:24,304
+which means we need to know
+where he is right now.
+
+225
+00:09:24,397 --> 00:09:25,558
+Oliver, he's a state witness.
+
+226
+00:09:26,107 --> 00:09:27,723
+I know our whole thing is extralegal,
+
+227
+00:09:27,817 --> 00:09:29,979
+but maybe we should let
+your lawyer deal with this.
+
+228
+00:09:30,070 --> 00:09:32,608
+The DA's office does not have
+the capabilities of finding Roy.
+
+229
+00:09:32,697 --> 00:09:36,065
+Which means,
+this was either Diaz or Anatoly.
+
+230
+00:09:36,159 --> 00:09:37,650
+You think whoever's
+pulling the strings on this
+
+231
+00:09:37,744 --> 00:09:38,734
+is still tugging them?
+
+232
+00:09:38,828 --> 00:09:40,990
+Well, if you're in the mood
+for some witness tampering,
+
+233
+00:09:41,081 --> 00:09:43,038
+I think I have a line
+on where the DA is holding Roy.
+
+234
+00:09:43,124 --> 00:09:45,457
+They rented out several rooms in
+the top floor of a hotel downtown.
+
+235
+00:09:45,543 --> 00:09:47,830
+Hotel. Easily guarded position
+with lots of civilians,
+
+236
+00:09:47,921 --> 00:09:50,834
+we break in, get spotted, Oliver,
+we make their case for them.
+
+237
+00:09:50,924 --> 00:09:54,713
+Guys, if Ollie is right, and Roy
+is in trouble with Diaz or Anatoly,
+
+238
+00:09:54,803 --> 00:09:56,669
+we need to be protecting him.
+
+239
+00:09:58,723 --> 00:10:00,510
+So we wait until dark to do recon.
+
+240
+00:10:00,600 --> 00:10:03,934
+And then find
+possible points of entry.
+
+241
+00:10:06,940 --> 00:10:08,397
+No exertion or sudden movements.
+
+242
+00:10:08,483 --> 00:10:09,849
+Don't wanna risk reopening the wound.
+
+243
+00:10:13,029 --> 00:10:15,442
+Hey, could you...
+Could you give us a minute please?
+
+244
+00:10:18,701 --> 00:10:20,818
+What, is Mom coming
+to visit or something?
+
+245
+00:10:21,037 --> 00:10:23,324
+Okay, firstly,
+she's not your mom.
+
+246
+00:10:23,498 --> 00:10:24,659
+And second, no.
+
+247
+00:10:24,874 --> 00:10:26,866
+I called her right after your
+little performance for the cameras
+
+248
+00:10:26,960 --> 00:10:28,952
+and told her to hold off a bit
+while I checked you out.
+
+249
+00:10:29,045 --> 00:10:31,287
+That poor woman has been burned
+enough by this sort of thing.
+
+250
+00:10:32,715 --> 00:10:35,048
+More of Laurel's stuff.
+
+251
+00:10:35,677 --> 00:10:37,839
+You know, I was just getting used
+to the last outfit.
+
+252
+00:10:37,929 --> 00:10:39,386
+Well, Forensics has that one.
+
+253
+00:10:39,472 --> 00:10:42,556
+Anyway, you wanna pass
+for the real Laurel,
+
+254
+00:10:42,851 --> 00:10:44,433
+you better get used to her style.
+
+255
+00:10:44,644 --> 00:10:46,886
+You call this "style"?
+
+256
+00:10:47,564 --> 00:10:50,523
+Look, are you here just to make sure
+my health insurance is up to date
+
+257
+00:10:50,608 --> 00:10:52,349
+or are you here
+to protect me from her?
+
+258
+00:10:56,239 --> 00:10:57,400
+Just get dressed.
+
+259
+00:11:04,330 --> 00:11:05,320
+Hey.
+
+260
+00:11:06,791 --> 00:11:09,625
+Laurel Lance,
+she died in this hospital.
+
+261
+00:11:09,711 --> 00:11:10,747
+I pronounced her.
+
+262
+00:11:11,129 --> 00:11:12,119
+There was an autopsy.
+
+263
+00:11:12,630 --> 00:11:14,963
+Of course, I've seen
+my share of things
+
+264
+00:11:15,049 --> 00:11:17,211
+I once would've
+considered miraculous.
+
+265
+00:11:17,802 --> 00:11:20,795
+I mean, in a world where a man
+can run faster than light,
+
+266
+00:11:20,889 --> 00:11:22,425
+I suppose anything's possible.
+
+267
+00:11:22,515 --> 00:11:24,097
+That's why I need
+to rule out the chance
+
+268
+00:11:24,184 --> 00:11:25,595
+that this person
+could be an impostor.
+
+269
+00:11:25,685 --> 00:11:27,142
+The DNA test will tell us that.
+
+270
+00:11:29,022 --> 00:11:30,012
+Excuse me.
+
+271
+00:11:33,193 --> 00:11:35,185
+- Hey.
+- Hey.
+
+272
+00:11:35,737 --> 00:11:37,069
+Look, I know what you're
+doing here, all right?
+
+273
+00:11:37,155 --> 00:11:39,021
+You're going after Laurel 'cause
+of what happened to your friend,
+
+274
+00:11:39,115 --> 00:11:40,196
+and I get that, okay?
+
+275
+00:11:40,283 --> 00:11:43,401
+It's what I would do
+if someone I love was dead.
+
+276
+00:11:43,494 --> 00:11:45,577
+You mean it's just what you do
+with a criminal, Quentin,
+
+277
+00:11:45,663 --> 00:11:47,199
+which, by the way, is what she is.
+
+278
+00:11:47,290 --> 00:11:48,952
+Yeah, but you and I both know that,
+
+279
+00:11:49,042 --> 00:11:51,910
+but, you know, she's turned herself
+into a beloved public figure.
+
+280
+00:11:52,670 --> 00:11:56,710
+She's also said that she's got
+no compunctions about outing Oliver.
+
+281
+00:11:58,593 --> 00:11:59,834
+I don't think
+she'll stop with him.
+
+282
+00:11:59,928 --> 00:12:03,046
+- So you're doing this for my sake?
+- For all of our sakes.
+
+283
+00:12:03,223 --> 00:12:05,431
+I've been making progress
+with her, Dinah.
+
+284
+00:12:05,934 --> 00:12:07,266
+Okay? I'm not finished.
+
+285
+00:12:07,435 --> 00:12:09,472
+But if she lives as my Laurel...
+
+286
+00:12:09,562 --> 00:12:12,100
+She's not your Laurel.
+
+287
+00:12:12,690 --> 00:12:15,854
+Your Laurel wouldn't have murdered
+Vince or anyone else.
+
+288
+00:12:16,110 --> 00:12:17,191
+She did.
+
+289
+00:12:17,278 --> 00:12:20,021
+And you are delusional
+if you think you can change her.
+
+290
+00:12:20,114 --> 00:12:23,107
+No. I'm telling you,
+I've been changing her, okay?
+
+291
+00:12:23,201 --> 00:12:26,569
+All I'm asking for you
+is just a chance. Please?
+
+292
+00:12:29,290 --> 00:12:30,781
+What's taking her so long?
+
+293
+00:12:37,799 --> 00:12:39,711
+- Where'd she go?
+- The police officer took her.
+
+294
+00:12:39,801 --> 00:12:41,417
+Said something about a safe house.
+
+295
+00:12:41,511 --> 00:12:43,468
+No, no. I am the lead detective
+on this case.
+
+296
+00:12:49,769 --> 00:12:52,056
+- You did this.
+- What are you talking about?
+
+297
+00:12:52,146 --> 00:12:53,887
+I wanna know where she is, too,
+you know.
+
+298
+00:13:02,615 --> 00:13:03,981
+Is my father not coming?
+
+299
+00:13:08,121 --> 00:13:10,408
+- Where are you taking me?
+- To see Mr. Diaz.
+
+300
+00:13:21,467 --> 00:13:23,629
+I'm guessing Roy's in the room
+with the police outside?
+
+301
+00:13:25,138 --> 00:13:27,972
+Yeah. Eating the wrong end
+of a phone book.
+
+302
+00:13:29,475 --> 00:13:30,716
+It's risky terrain.
+
+303
+00:13:30,810 --> 00:13:32,392
+You just told me
+he's getting beaten on.
+
+304
+00:13:32,895 --> 00:13:34,511
+You're still not sure
+we should do this?
+
+305
+00:13:34,939 --> 00:13:36,305
+Two-man team on the balcony.
+
+306
+00:13:36,649 --> 00:13:38,390
+If we can get past them,
+that's our best bet.
+
+307
+00:13:38,484 --> 00:13:39,816
+John, he's in there 'cause of me.
+
+308
+00:13:40,236 --> 00:13:41,727
+He's been on the run for three years.
+
+309
+00:13:41,821 --> 00:13:43,028
+Oliver, that's his choice.
+
+310
+00:13:43,531 --> 00:13:45,614
+I know that,
+but did I learn anything from it?
+
+311
+00:13:46,117 --> 00:13:47,324
+Roy put on the hood.
+
+312
+00:13:48,119 --> 00:13:50,657
+He sacrificed himself for me.
+
+313
+00:13:51,164 --> 00:13:52,405
+And I asked you to do the same thing,
+
+314
+00:13:52,498 --> 00:13:55,206
+at the expense of your safety
+and your family.
+
+315
+00:13:55,293 --> 00:13:57,956
+Difference was,
+I wanted to put on the hood.
+
+316
+00:13:58,046 --> 00:14:01,539
+Oliver, listen, I've been good
+for the past two months, good.
+
+317
+00:14:01,841 --> 00:14:03,173
+But instead of
+giving me back the hood,
+
+318
+00:14:03,259 --> 00:14:04,716
+you've had Cisco make me a new suit.
+
+319
+00:14:04,802 --> 00:14:06,885
+There it is.
+It's a 15-second opening.
+
+320
+00:14:07,055 --> 00:14:08,091
+That is our window.
+
+321
+00:14:23,071 --> 00:14:24,152
+We got it from here.
+
+322
+00:14:24,238 --> 00:14:26,571
+Head back to SCPD
+before you're missed.
+
+323
+00:14:27,116 --> 00:14:28,277
+Laurel.
+
+324
+00:14:30,161 --> 00:14:32,995
+Is it Laurel or "Laurel" these days?
+
+325
+00:14:33,247 --> 00:14:35,455
+So confusing,
+this doppelganger business.
+
+326
+00:14:36,084 --> 00:14:37,666
+But you seem
+to have figured it out.
+
+327
+00:14:37,752 --> 00:14:39,209
+Diaz killed Cayden.
+
+328
+00:14:39,629 --> 00:14:40,745
+He told me.
+
+329
+00:14:41,464 --> 00:14:43,171
+No honor among thieves.
+
+330
+00:14:43,341 --> 00:14:44,957
+Or crime lords, I guess.
+
+331
+00:14:45,718 --> 00:14:46,754
+Well...
+
+332
+00:14:47,178 --> 00:14:50,171
+Diaz manipulated the both of us,
+lied to the both of us.
+
+333
+00:14:50,264 --> 00:14:51,971
+This whole time,
+he's had his own agenda.
+
+334
+00:14:52,058 --> 00:14:53,048
+That doesn't bother you?
+
+335
+00:14:53,393 --> 00:14:54,679
+I'm not sentimental.
+
+336
+00:14:55,520 --> 00:14:56,681
+I am Russian.
+
+337
+00:14:56,938 --> 00:14:59,351
+I'm in the city for two reasons only.
+
+338
+00:14:59,816 --> 00:15:03,981
+One is revenge against Oliver Queen,
+
+339
+00:15:04,195 --> 00:15:05,902
+and two is money.
+
+340
+00:15:07,073 --> 00:15:09,065
+I'm happy to work
+with whoever can get me either.
+
+341
+00:15:09,283 --> 00:15:11,991
+You're in the city
+because the Bratva cast you out.
+
+342
+00:15:12,703 --> 00:15:14,444
+Well, there's that, too.
+
+343
+00:15:19,252 --> 00:15:20,333
+There is a 15-second window
+
+344
+00:15:20,420 --> 00:15:22,252
+where neither roof guard
+is watching the HVAC vent.
+
+345
+00:15:22,338 --> 00:15:23,328
+We can get in that way.
+
+346
+00:15:23,423 --> 00:15:25,210
+All right, well, did you see him,
+is he okay?
+
+347
+00:15:25,842 --> 00:15:28,880
+- We can get him out.
+- I know. And I'm coming with you.
+
+348
+00:15:30,721 --> 00:15:32,257
+I thought you didn't do this anymore.
+
+349
+00:15:32,432 --> 00:15:33,468
+Ollie, it's Roy.
+
+350
+00:15:33,558 --> 00:15:35,140
+Right, but, Thea,
+you shouldn't do this.
+
+351
+00:15:35,560 --> 00:15:37,517
+And I understand it's hypocritical
+pointing out
+
+352
+00:15:37,603 --> 00:15:39,560
+that you have a personal involvement.
+
+353
+00:15:39,647 --> 00:15:40,808
+Doesn't make me wrong.
+
+354
+00:15:41,816 --> 00:15:44,684
+More importantly,
+you have not been field-ready
+
+355
+00:15:44,777 --> 00:15:46,063
+since you got out of your coma.
+
+356
+00:15:46,154 --> 00:15:47,941
+I'll be fine. Okay?
+
+357
+00:15:48,322 --> 00:15:49,938
+And did you guys
+even measure the vents?
+
+358
+00:15:50,032 --> 00:15:51,193
+Because you should be asking
+
+359
+00:15:51,284 --> 00:15:52,946
+if I'm the right size
+to fit through them.
+
+360
+00:15:53,035 --> 00:15:54,276
+Don't think either of you two can.
+
+361
+00:15:54,745 --> 00:15:56,452
+Where are you guys keeping my suit?
+
+362
+00:15:59,834 --> 00:16:00,824
+You okay?
+
+363
+00:16:00,918 --> 00:16:02,409
+It's just like riding a bike.
+
+364
+00:16:03,254 --> 00:16:04,244
+It really isn't.
+
+365
+00:16:05,047 --> 00:16:06,663
+I can buy you a few extra seconds.
+
+366
+00:16:07,717 --> 00:16:08,707
+I'm ready.
+
+367
+00:16:09,093 --> 00:16:10,083
+All right.
+
+368
+00:16:16,517 --> 00:16:17,507
+What's that for?
+
+369
+00:16:17,768 --> 00:16:19,430
+There's not a home game tonight,
+is there?
+
+370
+00:16:44,378 --> 00:16:45,368
+You wanna keep going,
+
+371
+00:16:45,463 --> 00:16:47,295
+or are you gonna testify?
+
+372
+00:16:48,424 --> 00:16:49,665
+I'm not a lawyer,
+
+373
+00:16:50,009 --> 00:16:51,716
+but I'm pretty sure
+torturing your witness
+
+374
+00:16:51,802 --> 00:16:53,213
+isn't gonna be great for your case.
+
+375
+00:16:53,971 --> 00:16:56,554
+You don't think we know how to
+put you in a world of hurt
+
+376
+00:16:57,099 --> 00:16:58,340
+without leaving a mark?
+
+377
+00:17:03,064 --> 00:17:04,054
+No.
+
+378
+00:17:12,740 --> 00:17:14,197
+Are you getting this?
+
+379
+00:17:14,575 --> 00:17:16,407
+I'm enhancing their badge numbers.
+
+380
+00:17:16,494 --> 00:17:17,985
+And just when you thought
+Oliver took down
+
+381
+00:17:18,079 --> 00:17:19,320
+all the crooked cops last year.
+
+382
+00:17:19,914 --> 00:17:20,904
+I'm going in.
+
+383
+00:17:20,998 --> 00:17:22,785
+<i>I wouldn't.
+They got six more guys in the hall.</i>
+
+384
+00:17:22,875 --> 00:17:23,911
+Stand down.
+
+385
+00:17:24,001 --> 00:17:25,867
+I know it's hard,
+but you have to wait.
+
+386
+00:17:31,300 --> 00:17:32,711
+I'm working up an appetite here.
+
+387
+00:17:34,178 --> 00:17:35,168
+Hey.
+
+388
+00:17:35,638 --> 00:17:37,345
+We're gonna get some
+Big Belly Burger.
+
+389
+00:17:37,723 --> 00:17:40,010
+You decide to play nice,
+I might give you the fries.
+
+390
+00:17:54,657 --> 00:17:55,647
+Is that my hood?
+
+391
+00:17:57,076 --> 00:17:58,066
+It looks good on you.
+
+392
+00:18:06,711 --> 00:18:08,998
+I'm sorry if you're seeing someone.
+
+393
+00:18:09,088 --> 00:18:10,579
+I'm not. I didn't take your advice.
+
+394
+00:18:10,798 --> 00:18:13,836
+No kids, no wife,
+and I really, really hate minivans.
+
+395
+00:18:15,886 --> 00:18:17,297
+How did they find you?
+
+396
+00:18:17,388 --> 00:18:19,471
+I was in St. Roch
+
+397
+00:18:19,557 --> 00:18:21,423
+and the Star City cops,
+they tased me,
+
+398
+00:18:21,517 --> 00:18:22,803
+and they threw me
+in the back of a van.
+
+399
+00:18:23,227 --> 00:18:24,763
+They knew everything,
+they knew about Oliver,
+
+400
+00:18:24,854 --> 00:18:27,016
+they knew about me faking my death,
+they knew it all.
+
+401
+00:18:27,106 --> 00:18:28,597
+SCPD SWAT incoming.
+
+402
+00:18:30,026 --> 00:18:31,107
+Speedy, you wanna
+get out of there now.
+
+403
+00:18:31,193 --> 00:18:32,354
+Speedy, move.
+
+404
+00:18:34,572 --> 00:18:36,154
+Okay, we're leaving.
+
+405
+00:18:36,574 --> 00:18:37,815
+No, you're leaving.
+
+406
+00:18:37,908 --> 00:18:39,524
+I'm in no shape to be swinging
+from the rooftops.
+
+407
+00:18:39,619 --> 00:18:41,235
+I'm not leaving without you.
+
+408
+00:18:42,913 --> 00:18:44,745
+- They're coming in hot.
+- You gotta go right now.
+
+409
+00:18:44,832 --> 00:18:46,289
+Damn it, Speedy, get out of there!
+
+410
+00:18:46,375 --> 00:18:47,365
+I'm getting you out of here.
+
+411
+00:18:47,460 --> 00:18:49,918
+- No, you can't. You have to go.
+- No.
+
+412
+00:18:50,087 --> 00:18:51,168
+I'm not leaving you.
+
+413
+00:18:51,255 --> 00:18:52,837
+<i>Speedy, they're right
+outside the door!</i>
+
+414
+00:18:53,716 --> 00:18:56,049
+I'm not losing you again.
+
+415
+00:18:57,219 --> 00:18:58,335
+Just go sit.
+
+416
+00:18:58,429 --> 00:18:59,590
+Thea.
+
+417
+00:19:10,316 --> 00:19:11,807
+What the hell
+do you think you're doing?
+
+418
+00:19:12,026 --> 00:19:13,016
+I needed some air.
+
+419
+00:19:13,944 --> 00:19:15,185
+You're gonna need air.
+
+420
+00:19:17,782 --> 00:19:20,399
+- What the hell did you just do?
+- I just saved your life.
+
+421
+00:19:20,493 --> 00:19:23,110
+There's too many of them in there.
+They would have killed you both.
+
+422
+00:19:23,496 --> 00:19:24,486
+Look...
+
+423
+00:19:25,414 --> 00:19:27,326
+We will get Roy back.
+
+424
+00:19:27,833 --> 00:19:29,040
+I am promising you,
+
+425
+00:19:29,460 --> 00:19:30,826
+we will get him back.
+
+426
+00:19:41,138 --> 00:19:42,470
+They're really
+circling the wagons now.
+
+427
+00:19:42,556 --> 00:19:44,092
+They've upped security tenfold.
+
+428
+00:19:44,183 --> 00:19:45,469
+He was bleeding internally,
+
+429
+00:19:45,559 --> 00:19:47,642
+so if we don't get to him soon,
+they're going to kill him.
+
+430
+00:19:47,728 --> 00:19:51,017
+They will not, because they need him
+alive to testify against me.
+
+431
+00:19:51,107 --> 00:19:52,598
+Not "they." Diaz.
+
+432
+00:19:52,692 --> 00:19:54,308
+I pulled financials
+on both the police officers
+
+433
+00:19:54,402 --> 00:19:55,392
+that were torturing Roy.
+
+434
+00:19:55,486 --> 00:19:57,443
+They both receive generous
+dividend payments
+
+435
+00:19:57,530 --> 00:19:59,863
+from stocks of a Corto Maltese-based
+shell corporation.
+
+436
+00:19:59,949 --> 00:20:01,656
+They financed the company
+that was manufacturing
+
+437
+00:20:01,742 --> 00:20:03,404
+the drug I used to treat my injury.
+
+438
+00:20:04,328 --> 00:20:05,944
+Ricardo Diaz's company.
+
+439
+00:20:06,038 --> 00:20:07,995
+Both officers were on duty
+when Cayden James was killed,
+
+440
+00:20:08,082 --> 00:20:09,323
+and all the officers
+that were there tonight,
+
+441
+00:20:09,417 --> 00:20:11,124
+we have reason to believe
+they're working with Diaz, too.
+
+442
+00:20:12,002 --> 00:20:13,959
+So Diaz has been playing us
+since the beginning.
+
+443
+00:20:14,046 --> 00:20:15,833
+Or he's just been playing you.
+
+444
+00:20:20,845 --> 00:20:23,258
+She's upset. She's worried about Roy.
+
+445
+00:20:23,681 --> 00:20:24,671
+Yeah, so am I.
+
+446
+00:20:28,686 --> 00:20:31,599
+- I had to pull you out of there.
+- No, you could've come in.
+
+447
+00:20:31,689 --> 00:20:33,351
+I come in there, and it's you and me
+
+448
+00:20:33,441 --> 00:20:35,603
+against a SWAT team,
+in a tight space,
+
+449
+00:20:35,693 --> 00:20:37,150
+nobody comes out of there.
+
+450
+00:20:37,570 --> 00:20:38,856
+Especially not Roy.
+
+451
+00:20:41,198 --> 00:20:42,439
+You know, there are times
+
+452
+00:20:43,784 --> 00:20:48,074
+when I feel like my life
+completely fell apart when Roy left.
+
+453
+00:20:48,289 --> 00:20:52,499
+From my bloodlust, to Malcolm,
+to the coma...
+
+454
+00:20:53,794 --> 00:20:57,378
+Knowing he was out there,
+that he was okay,
+
+455
+00:20:58,174 --> 00:21:00,587
+it made my life
+just a little bit easier.
+
+456
+00:21:01,469 --> 00:21:04,428
+Ever since Mom died,
+I haven't known much of anything
+
+457
+00:21:04,513 --> 00:21:07,426
+other than the fact
+that I want to make sure he is safe.
+
+458
+00:21:07,516 --> 00:21:10,224
+And I will do whatever it takes
+to make sure that happens.
+
+459
+00:21:10,436 --> 00:21:11,722
+We all will, Speedy.
+
+460
+00:21:12,646 --> 00:21:14,182
+Felicity may have just
+found something.
+
+461
+00:21:14,273 --> 00:21:17,186
+SCPD just requisitioned
+a transport prisoner van.
+
+462
+00:21:17,276 --> 00:21:18,858
+They're moving Roy
+to a new safe house.
+
+463
+00:21:18,944 --> 00:21:19,934
+We just don't know when.
+
+464
+00:21:20,029 --> 00:21:21,065
+That's it.
+
+465
+00:21:22,156 --> 00:21:23,317
+That's when we get him.
+
+466
+00:21:23,783 --> 00:21:24,899
+There's something else.
+
+467
+00:21:27,203 --> 00:21:28,489
+No, no, no, no, okay.
+
+468
+00:21:28,579 --> 00:21:30,662
+You know what, who can tell me
+where Laurel Lance is?
+
+469
+00:21:30,748 --> 00:21:31,738
+Can you tell me that?
+
+470
+00:21:33,042 --> 00:21:34,249
+And when will he be available?
+
+471
+00:21:35,920 --> 00:21:38,003
+No, no, no, no. No, thank you.
+I'll call back.
+
+472
+00:21:38,714 --> 00:21:40,580
+I swear, this isn't me, okay?
+
+473
+00:21:41,175 --> 00:21:42,416
+I need to speak with you.
+
+474
+00:21:43,677 --> 00:21:44,793
+You too.
+
+475
+00:21:56,315 --> 00:21:57,851
+Turn the cameras off.
+
+476
+00:22:03,489 --> 00:22:06,106
+Cayden James was murdered
+right there.
+
+477
+00:22:06,659 --> 00:22:07,991
+By Ricardo Diaz.
+
+478
+00:22:08,077 --> 00:22:11,946
+- Oh, my God.
+- And it was covered up by the SCPD.
+
+479
+00:22:12,665 --> 00:22:15,328
+I thought Cayden James
+was killed by another inmate
+
+480
+00:22:15,417 --> 00:22:17,079
+when he was transferred
+to Iron Heights.
+
+481
+00:22:17,169 --> 00:22:18,876
+Felicity found out
+what actually happened.
+
+482
+00:22:19,755 --> 00:22:21,291
+Never made it to Iron Heights.
+
+483
+00:22:21,674 --> 00:22:24,462
+The cops on duty
+are on Diaz's payroll.
+
+484
+00:22:25,052 --> 00:22:26,338
+They faked the transfer.
+
+485
+00:22:26,428 --> 00:22:27,509
+Doing that would take...
+
+486
+00:22:27,596 --> 00:22:30,680
+A systemic breach
+of the police department.
+
+487
+00:22:31,392 --> 00:22:32,883
+Worse than last year's corruption.
+
+488
+00:22:32,977 --> 00:22:34,468
+I didn't think
+that was even possible.
+
+489
+00:22:34,562 --> 00:22:35,723
+Neither did I.
+
+490
+00:22:36,146 --> 00:22:39,355
+Dinah, I know that
+you don't believe in me right now,
+
+491
+00:22:39,441 --> 00:22:41,649
+and I know the two of you
+don't trust each other,
+
+492
+00:22:41,735 --> 00:22:42,725
+for good reason,
+
+493
+00:22:43,279 --> 00:22:46,488
+but the both of you
+believe in the badge.
+
+494
+00:22:47,157 --> 00:22:50,321
+I need you working together,
+I need to know how deep this goes.
+
+495
+00:22:50,411 --> 00:22:53,995
+I need to know who in that room
+we can trust.
+
+496
+00:22:54,748 --> 00:22:56,910
+Which means you gotta
+put your vendetta on hold.
+
+497
+00:23:00,379 --> 00:23:01,415
+Okay.
+
+498
+00:23:01,505 --> 00:23:03,167
+We can work it out at my place.
+
+499
+00:23:03,757 --> 00:23:05,623
+The walls here have got ears.
+
+500
+00:23:05,718 --> 00:23:07,550
+And this is why
+I couldn't find Laurel.
+
+501
+00:23:07,845 --> 00:23:09,381
+'Cause those bent cops sprung her.
+
+502
+00:23:09,471 --> 00:23:11,212
+Or they took her someplace worse.
+
+503
+00:23:13,976 --> 00:23:16,764
+Diaz's feelings were so hurt
+when you tried to run.
+
+504
+00:23:17,563 --> 00:23:19,805
+It's as if you don't trust him
+or something.
+
+505
+00:23:19,899 --> 00:23:21,936
+I'm still trying to figure out
+why you do.
+
+506
+00:23:22,026 --> 00:23:24,359
+For me, it's more a matter
+of money than trust.
+
+507
+00:23:24,904 --> 00:23:26,395
+Either way, Diaz better.
+
+508
+00:23:26,906 --> 00:23:29,444
+Why blow up city
+when you can control it, yes?
+
+509
+00:24:00,064 --> 00:24:01,726
+You're as good as they said you were.
+
+510
+00:24:04,777 --> 00:24:06,609
+Do you know
+that fighting for trophies
+
+511
+00:24:07,821 --> 00:24:09,778
+is not the same
+as fighting for your life?
+
+512
+00:24:11,283 --> 00:24:12,990
+Break you of your bad habits.
+
+513
+00:24:16,622 --> 00:24:17,863
+Welcome to the team.
+
+514
+00:24:20,125 --> 00:24:22,868
+That's a lot of money
+for a man with bad foot.
+
+515
+00:24:23,087 --> 00:24:27,001
+I didn't break it,
+I just had to break him.
+
+516
+00:24:33,639 --> 00:24:35,596
+Building a family, Anatoly.
+
+517
+00:24:36,308 --> 00:24:37,799
+Family.
+
+518
+00:24:39,061 --> 00:24:41,474
+Isn't that what "Bratva" means?
+
+519
+00:24:41,563 --> 00:24:43,429
+- "Brotherhood"?
+<i>- Da.</i>
+
+520
+00:24:45,275 --> 00:24:46,732
+See, family,
+
+521
+00:24:47,778 --> 00:24:49,189
+they rely on one another.
+
+522
+00:24:49,655 --> 00:24:52,443
+Family trust each other.
+
+523
+00:24:52,866 --> 00:24:57,702
+See, when a family does well,
+each member prospers.
+
+524
+00:24:58,247 --> 00:25:00,580
+But if just one person
+
+525
+00:25:02,126 --> 00:25:04,584
+betrays their family...
+
+526
+00:25:08,340 --> 00:25:09,751
+Give us the room!
+
+527
+00:25:09,925 --> 00:25:10,915
+Move!
+
+528
+00:25:17,850 --> 00:25:20,513
+The money that you stole from Cayden
+
+529
+00:25:22,604 --> 00:25:24,436
+was also my money.
+
+530
+00:25:24,857 --> 00:25:27,474
+I earned it, just like you.
+
+531
+00:25:27,860 --> 00:25:29,977
+Except I didn't take
+more than my share.
+
+532
+00:25:30,154 --> 00:25:31,941
+Well, you've got it all back,
+obviously.
+
+533
+00:25:32,406 --> 00:25:33,442
+So why am I here?
+
+534
+00:25:33,532 --> 00:25:35,615
+It's 'cause our business
+is not concluded.
+
+535
+00:25:35,701 --> 00:25:38,535
+You might have convinced Anatoly that
+you're worth staying in bed with,
+
+536
+00:25:38,620 --> 00:25:41,112
+but I have a psycho vigilante
+coming after me.
+
+537
+00:25:41,331 --> 00:25:42,538
+Dinah Drake.
+
+538
+00:25:43,625 --> 00:25:44,615
+Mmm?
+
+539
+00:25:44,877 --> 00:25:46,038
+I see it all.
+
+540
+00:25:46,795 --> 00:25:49,879
+I know it all. I control it all.
+
+541
+00:25:50,299 --> 00:25:52,211
+I've been working on this for months.
+
+542
+00:25:52,676 --> 00:25:56,636
+See, Cayden, he's just a small piece
+of a much larger puzzle.
+
+543
+00:25:58,724 --> 00:25:59,840
+And so are you.
+
+544
+00:25:59,933 --> 00:26:01,424
+I just wanna
+get the hell out of this city.
+
+545
+00:26:01,518 --> 00:26:02,759
+Where you wanna go?
+
+546
+00:26:03,979 --> 00:26:04,969
+Hmm?
+
+547
+00:26:05,064 --> 00:26:06,771
+- Do what?
+- Live.
+
+548
+00:26:08,609 --> 00:26:10,601
+Without always having to look
+over my shoulder.
+
+549
+00:26:14,406 --> 00:26:16,318
+I don't want you
+to worry about Dinah Drake.
+
+550
+00:26:16,992 --> 00:26:19,484
+I don't want you
+to worry about Oliver Queen
+
+551
+00:26:19,953 --> 00:26:21,319
+or any of those chumps
+
+552
+00:26:21,789 --> 00:26:24,406
+who can't see two inches
+past their face.
+
+553
+00:26:25,042 --> 00:26:29,252
+Anatoly said that you had a plan
+to take control of the city.
+
+554
+00:26:29,797 --> 00:26:31,584
+Now, isn't that something...
+
+555
+00:26:36,428 --> 00:26:37,839
+Worth staying in bed for?
+
+556
+00:26:43,685 --> 00:26:44,971
+I don't know, Felicity.
+
+557
+00:26:46,730 --> 00:26:49,473
+Maybe it's a little soon, bringing up
+taking back the mantle from Oliver,
+
+558
+00:26:49,566 --> 00:26:50,727
+but it's been two months.
+
+559
+00:26:50,818 --> 00:26:52,400
+A hell of a two months, though.
+
+560
+00:26:52,653 --> 00:26:54,394
+And Oliver's not just ready
+to step down,
+
+561
+00:26:54,488 --> 00:26:56,445
+not with everything that's going on.
+It's too much.
+
+562
+00:26:57,449 --> 00:26:58,439
+It's crazy what's...
+
+563
+00:26:59,952 --> 00:27:01,318
+They're moving Roy in 10 minutes.
+
+564
+00:27:14,133 --> 00:27:15,123
+Don't move.
+
+565
+00:27:15,968 --> 00:27:18,005
+Roy, back away from the door.
+
+566
+00:27:25,936 --> 00:27:27,097
+It's a decoy.
+
+567
+00:27:27,479 --> 00:27:29,846
+They faked Cayden James' transfer,
+they faked this one, too.
+
+568
+00:27:30,149 --> 00:27:31,515
+So where is Roy?
+
+569
+00:27:35,529 --> 00:27:38,488
+Mr. Harper. Good to meet you.
+
+570
+00:27:48,917 --> 00:27:50,283
+You said they were moving him.
+
+571
+00:27:50,377 --> 00:27:51,959
+Yeah, they must have put Roy
+into a different vehicle
+
+572
+00:27:52,045 --> 00:27:53,786
+when they were in the underground
+and I didn't have eyes on them.
+
+573
+00:27:53,922 --> 00:27:56,130
+Which means he could have been
+picked up at any point last night.
+
+574
+00:27:56,216 --> 00:27:57,752
+How many cars left the hotel
+in that time frame?
+
+575
+00:27:57,843 --> 00:27:58,959
+Nearly 300.
+
+576
+00:27:59,052 --> 00:28:01,544
+I'm tracking license-plate numbers,
+but it's gonna take some time.
+
+577
+00:28:01,638 --> 00:28:04,221
+If it takes more than an hour,
+I'm gonna start breaking fingers.
+
+578
+00:28:04,600 --> 00:28:06,216
+There's that Queen temper.
+
+579
+00:28:06,310 --> 00:28:09,269
+I'll contact Lyla, see if A.R.G.U.S.
+can help with finding Roy.
+
+580
+00:28:13,734 --> 00:28:14,975
+How are you holding up?
+
+581
+00:28:15,068 --> 00:28:17,060
+- I've been better.
+- Yeah, I know.
+
+582
+00:28:17,154 --> 00:28:19,441
+It's because you're blaming yourself
+for Roy's situation
+
+583
+00:28:19,531 --> 00:28:21,773
+instead of accurately blaming
+Ricardo Diaz.
+
+584
+00:28:21,867 --> 00:28:23,779
+Well, Roy wouldn't be
+in this situation
+
+585
+00:28:23,869 --> 00:28:26,407
+if he didn't fall on his sword
+for me three years ago.
+
+586
+00:28:26,496 --> 00:28:28,158
+That was his choice, Oliver.
+
+587
+00:28:28,248 --> 00:28:30,661
+And I believed then and
+I still believe it was the right one.
+
+588
+00:28:30,876 --> 00:28:34,040
+I'm worried that I didn't
+rescue him from that hotel room
+
+589
+00:28:34,129 --> 00:28:35,245
+'cause I wouldn't have been able
+
+590
+00:28:35,339 --> 00:28:37,205
+to bear the responsibility
+if things went bad.
+
+591
+00:28:37,591 --> 00:28:38,957
+You didn't go into that hotel room
+
+592
+00:28:39,051 --> 00:28:41,759
+because your gut told you
+things would go bad.
+
+593
+00:28:41,929 --> 00:28:43,386
+And that gut's kept you alive
+for 11 years
+
+594
+00:28:43,472 --> 00:28:44,804
+and it kept Roy alive last night.
+
+595
+00:28:44,890 --> 00:28:46,756
+Maybe. How do I know?
+
+596
+00:28:46,850 --> 00:28:49,388
+I could ask Cisco
+to find a parallel universe
+
+597
+00:28:49,478 --> 00:28:50,468
+in which you did.
+
+598
+00:28:50,562 --> 00:28:52,269
+But in the meantime
+if you could just stop
+
+599
+00:28:52,356 --> 00:28:56,270
+finding ways to blame yourself,
+that would be so great.
+
+600
+00:28:57,903 --> 00:29:00,236
+- Is that what I'm doing?
+- That's what you're always doing.
+
+601
+00:29:00,697 --> 00:29:01,813
+Maybe you have a point.
+
+602
+00:29:02,908 --> 00:29:04,774
+Last night, John basically asked me
+
+603
+00:29:04,868 --> 00:29:06,860
+why I haven't given him
+the hood back.
+
+604
+00:29:07,120 --> 00:29:08,156
+Yeah, I know, he told me.
+
+605
+00:29:08,247 --> 00:29:10,409
+I told him you probably just thought
+it wasn't the right time.
+
+606
+00:29:10,874 --> 00:29:12,081
+Am I on the money?
+
+607
+00:29:13,335 --> 00:29:14,451
+I don't know.
+
+608
+00:29:19,174 --> 00:29:22,258
+You have a strength
+one doesn't see much.
+
+609
+00:29:26,265 --> 00:29:27,881
+You wanna join my team?
+
+610
+00:29:27,975 --> 00:29:29,307
+Sure.
+
+611
+00:29:29,559 --> 00:29:31,095
+Do you offer medical and dental?
+
+612
+00:29:33,021 --> 00:29:36,185
+You know, my police friends are
+telling me you're not cooperating.
+
+613
+00:29:37,192 --> 00:29:38,979
+You're not playing ball.
+
+614
+00:29:39,569 --> 00:29:41,276
+You won't testify against Queen?
+
+615
+00:29:41,363 --> 00:29:43,070
+If you actually think
+that I would do that,
+
+616
+00:29:43,573 --> 00:29:44,609
+then you're an idiot.
+
+617
+00:29:44,866 --> 00:29:47,108
+One of us is.
+
+618
+00:29:47,577 --> 00:29:50,741
+See, but I'm not the type of guy
+that believes giving a beating
+
+619
+00:29:53,583 --> 00:29:54,994
+is the only way
+
+620
+00:29:55,711 --> 00:29:56,952
+to cause some pain.
+
+621
+00:30:02,301 --> 00:30:03,382
+How's Speedy?
+
+622
+00:30:06,054 --> 00:30:07,966
+She came out of retirement.
+
+623
+00:30:08,557 --> 00:30:09,968
+Why would she do that?
+
+624
+00:30:10,851 --> 00:30:14,265
+Why the hell would Queen
+let his baby sister
+
+625
+00:30:15,188 --> 00:30:16,850
+dress up like Will Scarlet?
+
+626
+00:30:18,358 --> 00:30:19,769
+All right, I gotta ask.
+
+627
+00:30:21,278 --> 00:30:22,564
+That's a moot point.
+
+628
+00:30:26,575 --> 00:30:28,316
+You see, the real question is,
+
+629
+00:30:32,539 --> 00:30:34,747
+who do I gotta bring the pain to?
+
+630
+00:30:36,418 --> 00:30:38,000
+Do I gotta bring it to you?
+
+631
+00:30:41,465 --> 00:30:42,876
+Or her?
+
+632
+00:30:50,932 --> 00:30:53,015
+Shift sergeant was definitely
+in on it. Look at this.
+
+633
+00:30:53,560 --> 00:30:56,177
+Diaz has got
+his fingers in deep.
+
+634
+00:30:57,189 --> 00:30:58,179
+Listen.
+
+635
+00:30:58,648 --> 00:30:59,980
+Thanks for doing this, all right?
+
+636
+00:31:00,525 --> 00:31:02,687
+- Backing off Laurel.
+- It's temporary.
+
+637
+00:31:02,778 --> 00:31:04,895
+Until we can get the department
+back under control.
+
+638
+00:31:11,661 --> 00:31:12,651
+Hi, Daddy.
+
+639
+00:31:13,413 --> 00:31:14,995
+- Hi.
+- Speak of the devil.
+
+640
+00:31:16,666 --> 00:31:17,873
+- Can I talk to you?
+- Yeah.
+
+641
+00:31:18,001 --> 00:31:19,162
+I've got a lot I'd like to say.
+
+642
+00:31:19,252 --> 00:31:21,414
+Can we not do the whole
+screaming thing,
+
+643
+00:31:21,505 --> 00:31:22,712
+because the only thing
+that's gonna happen
+
+644
+00:31:22,798 --> 00:31:24,755
+is my father's gonna have to
+renovate his apartment.
+
+645
+00:31:24,966 --> 00:31:26,047
+Plus,
+
+646
+00:31:26,301 --> 00:31:27,633
+I'm here about Ricardo Diaz.
+
+647
+00:31:32,891 --> 00:31:34,553
+I would ask how you're doing, but...
+
+648
+00:31:37,020 --> 00:31:39,854
+Felicity and A.R.G.U.S.
+are working on locating Roy.
+
+649
+00:31:43,902 --> 00:31:45,768
+You know, it's been a while
+since I offered you
+
+650
+00:31:45,862 --> 00:31:47,694
+a little big-brother advice.
+
+651
+00:31:49,324 --> 00:31:50,405
+Do you mind?
+
+652
+00:31:53,203 --> 00:31:54,535
+This should be good.
+
+653
+00:31:55,622 --> 00:31:58,160
+When we find Roy... Not if, but when
+
+654
+00:31:59,418 --> 00:32:00,750
+we find Roy,
+
+655
+00:32:03,380 --> 00:32:05,087
+I think maybe you should go with him.
+
+656
+00:32:08,593 --> 00:32:10,380
+- Where?
+- Wherever he's going.
+
+657
+00:32:11,054 --> 00:32:15,264
+I mean, Thea, I'd miss you like crazy
+
+658
+00:32:16,101 --> 00:32:18,764
+but you said that you haven't
+been the same without him.
+
+659
+00:32:19,688 --> 00:32:21,350
+So maybe you shouldn't be
+without him.
+
+660
+00:32:22,107 --> 00:32:25,566
+- You really think I should go?
+- I don't want you to go, obviously.
+
+661
+00:32:26,027 --> 00:32:31,273
+But you've seen what... What having
+Felicity in my life has done for me.
+
+662
+00:32:32,075 --> 00:32:34,988
+You deserve that same
+kind of happiness, Speedy.
+
+663
+00:32:35,996 --> 00:32:37,532
+Wherever it is.
+
+664
+00:32:39,124 --> 00:32:40,205
+Got news.
+
+665
+00:32:40,792 --> 00:32:42,203
+- Location on Roy?
+- Laurel.
+
+666
+00:32:42,294 --> 00:32:45,287
+She showed up at Lance's apartment
+with intel on Ricardo Diaz.
+
+667
+00:32:54,055 --> 00:32:56,547
+He has some plan
+to take over the city,
+
+668
+00:32:56,641 --> 00:32:59,258
+whatever that means.
+I don't exactly have details.
+
+669
+00:32:59,352 --> 00:33:02,561
+No, he just let you leave
+after you stole all that money.
+
+670
+00:33:02,981 --> 00:33:06,474
+Let you come over here
+and tell us all of this.
+
+671
+00:33:06,568 --> 00:33:08,981
+Well, I'm rather charming.
+Don't you think?
+
+672
+00:33:09,446 --> 00:33:10,687
+So where's Roy?
+
+673
+00:33:12,073 --> 00:33:14,190
+They had him brought
+to some rundown casino.
+
+674
+00:33:14,284 --> 00:33:16,401
+I heard some guys talking about it
+on my way out.
+
+675
+00:33:16,495 --> 00:33:19,158
+- I can take you there.
+- So Diaz can take these guys out?
+
+676
+00:33:19,539 --> 00:33:20,746
+Is that part of the plan?
+
+677
+00:33:20,832 --> 00:33:22,698
+Look, we really don't
+have a choice, okay?
+
+678
+00:33:22,792 --> 00:33:24,078
+We need to take this chance.
+
+679
+00:33:24,169 --> 00:33:25,660
+All right, why are you doing this?
+
+680
+00:33:26,046 --> 00:33:27,378
+Going against Diaz?
+
+681
+00:33:27,464 --> 00:33:31,083
+Because it occurred to me
+that if I'm gonna be Laurel,
+
+682
+00:33:31,593 --> 00:33:33,550
+I should probably
+start acting like it.
+
+683
+00:33:41,269 --> 00:33:43,682
+Yeah, John.
+We have a location on Roy.
+
+684
+00:33:43,772 --> 00:33:45,058
+Let's get ready to move.
+
+685
+00:33:45,232 --> 00:33:46,689
+All right, fine.
+
+686
+00:33:46,858 --> 00:33:48,941
+- Just this once.
+- No.
+
+687
+00:33:49,486 --> 00:33:52,069
+You don't trust me.
+I don't trust you.
+
+688
+00:33:52,405 --> 00:33:54,488
+So I'd rather
+be in the field shorthanded.
+
+689
+00:34:08,380 --> 00:34:10,087
+Only two guards.
+
+690
+00:34:10,257 --> 00:34:12,044
+Diaz clearly wasn't expecting us.
+
+691
+00:34:12,133 --> 00:34:13,544
+Black Siren didn't warn him.
+
+692
+00:34:13,718 --> 00:34:14,834
+- Let's go.
+- Wait.
+
+693
+00:34:14,928 --> 00:34:16,965
+If we go in there without
+knowing our primary objective,
+
+694
+00:34:17,055 --> 00:34:18,091
+no one is coming out.
+
+695
+00:34:18,181 --> 00:34:20,093
+Our primary objective is to get Roy.
+
+696
+00:34:20,183 --> 00:34:21,674
+What about Diaz? He's in there, too.
+
+697
+00:34:21,768 --> 00:34:24,101
+And we just found out that he's
+the one that's behind everything bad
+
+698
+00:34:24,187 --> 00:34:26,520
+that's been happening in the city
+for the past six months.
+
+699
+00:34:27,524 --> 00:34:28,981
+So let's get 'em both.
+
+700
+00:34:32,487 --> 00:34:34,820
+- Overwatch, you in yet?
+<i>- Uplinking now.</i>
+
+701
+00:34:34,906 --> 00:34:36,693
+<i>Huffing and puffing and blowing
+all those firewalls down,</i>
+
+702
+00:34:36,783 --> 00:34:37,773
+<i>but before I finish,</i>
+
+703
+00:34:37,867 --> 00:34:40,405
+if he's a smart guy,
+and we know that he is,
+
+704
+00:34:40,495 --> 00:34:42,487
+this will definitely tip him off
+that you're there.
+
+705
+00:34:42,581 --> 00:34:44,447
+- We need to know where Roy is.
+<i>- Copy that.</i>
+
+706
+00:34:44,624 --> 00:34:46,081
+I pulled the blueprints of the casino
+from the city.
+
+707
+00:34:46,167 --> 00:34:47,157
+I'll guide you through.
+
+708
+00:34:47,252 --> 00:34:48,538
+<i>Head up the escalator.</i>
+
+709
+00:34:52,465 --> 00:34:56,175
+Three vigilantes, including your
+red girlfriend just showed up.
+
+710
+00:34:56,386 --> 00:34:58,048
+It's time for a change of scenery.
+
+711
+00:34:58,138 --> 00:34:59,424
+You know what to do.
+
+712
+00:35:08,648 --> 00:35:11,140
+Four hostiles with full autos
+right in front of you.
+
+713
+00:35:30,003 --> 00:35:31,494
+- Which way?
+- According to thermals,
+
+714
+00:35:31,588 --> 00:35:34,080
+Diaz has Roy
+through the door on the north wall.
+
+715
+00:35:38,178 --> 00:35:41,421
+Unit 545 requesting backup.
+Shots fired.
+
+716
+00:35:41,848 --> 00:35:43,055
+Arrows.
+
+717
+00:35:43,600 --> 00:35:44,841
+Make that, "Arrows fired."
+
+718
+00:35:45,769 --> 00:35:47,055
+Get away from him!
+
+719
+00:35:48,480 --> 00:35:50,688
+On the ground. Now!
+
+720
+00:35:54,319 --> 00:35:56,732
+I love it when you visit me,
+Mr. Mayor.
+
+721
+00:35:57,530 --> 00:35:59,692
+I love it even more when you leave.
+
+722
+00:36:00,950 --> 00:36:03,112
+No kill shots. I need him alive.
+
+723
+00:36:11,920 --> 00:36:13,502
+Speedy! No!
+
+724
+00:36:33,316 --> 00:36:34,306
+Ahh!
+
+725
+00:36:57,674 --> 00:36:58,664
+We have a problem.
+
+726
+00:36:58,758 --> 00:37:01,125
+One of Diaz's cops
+alerted the legitimate cavalry.
+
+727
+00:37:01,219 --> 00:37:02,926
+The SCPD is headed your way en masse.
+
+728
+00:37:21,281 --> 00:37:23,398
+So you're just a hired hand?
+
+729
+00:37:23,658 --> 00:37:25,365
+I used to be Pakhan.
+
+730
+00:37:25,744 --> 00:37:27,030
+You cost me that.
+
+731
+00:37:27,120 --> 00:37:29,282
+I've got him. Go help Speedy.
+
+732
+00:37:38,381 --> 00:37:39,371
+Ugh!
+
+733
+00:37:46,097 --> 00:37:47,178
+You okay?
+
+734
+00:37:49,184 --> 00:37:50,174
+Don't move.
+
+735
+00:37:50,268 --> 00:37:52,806
+Not all those guys are on my payroll.
+
+736
+00:37:53,438 --> 00:37:54,428
+Yet.
+
+737
+00:37:54,939 --> 00:37:56,601
+But even the ones who aren't,
+
+738
+00:37:56,691 --> 00:38:01,186
+they find the anti-vigilante bill
+very motivating.
+
+739
+00:38:01,404 --> 00:38:02,394
+Speedy.
+
+740
+00:38:02,697 --> 00:38:03,778
+Get in the van
+
+741
+00:38:04,240 --> 00:38:05,902
+and drive Roy away.
+
+742
+00:38:05,992 --> 00:38:08,109
+- What about Diaz?
+- I got Diaz.
+
+743
+00:38:10,497 --> 00:38:11,658
+No, you don't.
+
+744
+00:38:12,874 --> 00:38:14,410
+You know that, right?
+
+745
+00:38:14,709 --> 00:38:16,416
+If you stay here,
+
+746
+00:38:16,836 --> 00:38:18,498
+you're gonna get yourself a collar.
+
+747
+00:38:19,255 --> 00:38:22,419
+And it's not like you can
+just take me away with you, right?
+
+748
+00:38:22,801 --> 00:38:24,258
+But you already knew that.
+
+749
+00:38:24,552 --> 00:38:26,669
+That's why you let your sister
+drive off.
+
+750
+00:38:27,722 --> 00:38:29,588
+You made your choice.
+
+751
+00:38:32,685 --> 00:38:33,675
+Freeze!
+
+752
+00:38:46,950 --> 00:38:48,157
+How do you feel?
+
+753
+00:38:48,827 --> 00:38:51,194
+Like I've been beaten within an inch
+of my life with a telephone book.
+
+754
+00:38:51,287 --> 00:38:52,823
+Two broken ribs
+and a bruised lung.
+
+755
+00:38:52,914 --> 00:38:54,405
+Gotta take it easy
+for a few days, Roy.
+
+756
+00:38:54,499 --> 00:38:56,411
+Well, that's the good part
+about being a fugitive.
+
+757
+00:38:56,918 --> 00:38:58,284
+There's nowhere else I have to be.
+
+758
+00:39:00,129 --> 00:39:01,495
+How's Anatoly?
+
+759
+00:39:01,840 --> 00:39:05,459
+SCPD. I had to bail. What about Diaz?
+
+760
+00:39:05,927 --> 00:39:06,917
+Same.
+
+761
+00:39:07,262 --> 00:39:08,548
+How are Quentin and Dinah doing
+
+762
+00:39:08,638 --> 00:39:11,176
+with their investigation
+into the SCPD?
+
+763
+00:39:11,266 --> 00:39:12,256
+They're working on it.
+
+764
+00:39:12,600 --> 00:39:14,762
+I'm not a lawyer,
+but what are the effects of us
+
+765
+00:39:14,853 --> 00:39:17,470
+having the government's star witness
+in our protection instead of theirs?
+
+766
+00:39:17,564 --> 00:39:19,226
+Not as much as you would think.
+
+767
+00:39:19,524 --> 00:39:23,268
+They'll add witness tampering
+and obstruction to their
+
+768
+00:39:23,361 --> 00:39:24,897
+very long list of charges.
+
+769
+00:39:25,405 --> 00:39:26,395
+Cherry on top.
+
+770
+00:39:28,783 --> 00:39:29,819
+We did it all for Thea.
+
+771
+00:39:32,620 --> 00:39:33,952
+And for Roy.
+
+772
+00:39:35,790 --> 00:39:37,577
+I would have done it
+for any of you guys.
+
+773
+00:39:48,094 --> 00:39:49,881
+My father's asleep.
+
+774
+00:39:50,555 --> 00:39:51,671
+I came to see you.
+
+775
+00:39:54,392 --> 00:39:55,599
+Okay.
+
+776
+00:40:06,404 --> 00:40:07,485
+You didn't set us up.
+
+777
+00:40:07,572 --> 00:40:09,655
+Gee, Ollie, you sound surprised.
+
+778
+00:40:09,741 --> 00:40:11,949
+So I came by to say thank you.
+
+779
+00:40:12,201 --> 00:40:14,113
+And yet still unconvinced.
+
+780
+00:40:14,203 --> 00:40:15,739
+You're not Laurel.
+
+781
+00:40:16,915 --> 00:40:17,996
+Not our Laurel.
+
+782
+00:40:18,416 --> 00:40:20,783
+And saying that you are
+to a bunch of press...
+
+783
+00:40:21,753 --> 00:40:24,587
+No. That does not make it so.
+
+784
+00:40:26,215 --> 00:40:28,673
+You're right. I'm not.
+
+785
+00:40:30,762 --> 00:40:32,048
+But I'm willing to try.
+
+786
+00:40:32,513 --> 00:40:35,722
+And I can't make any promises.
+I am who I am,
+
+787
+00:40:36,059 --> 00:40:39,678
+but I'm willing to try if you're
+willing to give me the space to.
+
+788
+00:40:40,897 --> 00:40:42,308
+Well, that sounds fair.
+
+789
+00:40:44,275 --> 00:40:45,811
+You're staying here?
+
+790
+00:40:45,902 --> 00:40:47,359
+Quentin, he...
+
+791
+00:40:47,528 --> 00:40:49,736
+My father offered me his couch.
+
+792
+00:40:50,865 --> 00:40:54,324
+It's pretty on point with the whole
+"rescue Laurel Lance" story, so...
+
+793
+00:40:54,410 --> 00:40:55,400
+Yeah.
+
+794
+00:40:57,538 --> 00:40:59,154
+I'll be checking in.
+
+795
+00:41:00,208 --> 00:41:01,995
+Looking forward to it.
+
+796
+00:41:17,016 --> 00:41:18,507
+Home sweet home.
+
+797
+00:41:18,851 --> 00:41:20,092
+Nice.
+
+798
+00:41:20,687 --> 00:41:23,304
+For the past three years, I've been
+sleeping with the cockroaches.
+
+799
+00:41:26,275 --> 00:41:29,109
+I feel like
+I should have been there with you.
+
+800
+00:41:29,404 --> 00:41:32,112
+Is that too presumptuous
+or confusing?
+
+801
+00:41:32,198 --> 00:41:33,905
+I know that last time
+we saw each other
+
+802
+00:41:33,992 --> 00:41:35,153
+I said that
+we should probably see...
+
+803
+00:41:48,798 --> 00:41:53,338
+Master. I've located
+the heir of Ra's al Ghul.

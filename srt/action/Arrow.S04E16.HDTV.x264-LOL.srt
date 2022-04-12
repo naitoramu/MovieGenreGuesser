@@ -1,0 +1,4096 @@
+﻿1
+00:00:01,020 --> 00:00:02,528
+Previously on "Arrow"...
+
+2
+00:00:02,628 --> 00:00:04,051
+Got an ID
+on your not so secret
+
+3
+00:00:04,052 --> 00:00:05,218
+but very crazy admirer.
+
+4
+00:00:05,219 --> 00:00:07,074
+Carrie Cutter.
+She's former SCPD.
+
+5
+00:00:07,075 --> 00:00:09,009
+Love is a bullet
+in the brain.
+
+6
+00:00:09,010 --> 00:00:10,577
+My hero!
+
+7
+00:00:10,578 --> 00:00:12,511
+I'm Cupid, stupid.
+
+8
+00:00:12,513 --> 00:00:14,279
+And if I don't help you?
+
+9
+00:00:14,281 --> 00:00:15,981
+I think I made it
+abundantly clear
+
+10
+00:00:15,983 --> 00:00:17,483
+you don't have
+a choice.
+
+11
+00:00:17,485 --> 00:00:18,951
+Are you working
+for Damien Darhk?
+
+12
+00:00:18,953 --> 00:00:21,120
+I did what I had to do
+to keep you safe.
+
+13
+00:00:21,122 --> 00:00:23,355
+Anything you say can
+and will be used against you
+
+14
+00:00:23,357 --> 00:00:24,723
+in a court of law.
+
+15
+00:00:24,725 --> 00:00:26,191
+And who's William?
+
+16
+00:00:26,193 --> 00:00:27,459
+He's my son.
+
+17
+00:00:27,461 --> 00:00:29,228
+Oliver, we need
+to talk.
+
+18
+00:00:29,230 --> 00:00:30,863
+I can't do this.
+
+19
+00:00:30,865 --> 00:00:32,498
+Felicity.
+
+20
+00:00:35,402 --> 00:00:36,902
+Oh, my God.
+
+21
+00:00:41,709 --> 00:00:44,143
+♪ I'm in love with you ♪
+
+22
+00:00:44,145 --> 00:00:47,813
+♪ Let me call you sweetheart ♪
+
+23
+00:00:47,815 --> 00:00:53,185
+♪ I'm in love with you ♪
+
+24
+00:00:53,187 --> 00:00:56,488
+♪ Keep the love-light glowing ♪
+
+25
+00:00:56,490 --> 00:01:01,660
+♪ In your eyes so true ♪
+
+26
+00:01:01,662 --> 00:01:04,696
+♪ Let me call
+you "Sweetheart" ♪
+
+27
+00:01:04,698 --> 00:01:07,666
+♪ I'm in love with you ♪
+
+28
+00:01:07,668 --> 00:01:08,901
+Whatever you're
+thinking of doing,
+
+29
+00:01:08,903 --> 00:01:09,902
+you don't have to.
+
+30
+00:01:09,904 --> 00:01:11,303
+Just let us go.
+
+31
+00:01:11,305 --> 00:01:12,404
+We won't tell anyone.
+
+32
+00:01:12,406 --> 00:01:13,906
+No one. Absolutely
+not, right?
+
+33
+00:01:13,908 --> 00:01:19,044
+Wonderful.
+Agreement...
+
+34
+00:01:19,046 --> 00:01:22,581
+the mortar that holds
+together the bricks of love.
+
+35
+00:01:22,583 --> 00:01:26,451
+So how much
+do you love each other?
+
+36
+00:01:27,721 --> 00:01:29,488
+With everything that I have.
+
+37
+00:01:31,425 --> 00:01:32,758
+And the missus?
+
+38
+00:01:34,428 --> 00:01:37,062
+How much does she love
+her mister?
+
+39
+00:01:37,064 --> 00:01:39,598
+More than anything
+in the world.
+
+40
+00:01:41,302 --> 00:01:43,068
+How sweet...
+
+41
+00:01:43,070 --> 00:01:44,670
+and pathetic.
+
+42
+00:01:44,672 --> 00:01:46,104
+Wh--what?
+
+43
+00:01:46,106 --> 00:01:48,774
+Love is a bullet
+to the brain...
+
+44
+00:01:51,645 --> 00:01:54,279
+or an arrow to the heart.
+
+45
+00:01:54,303 --> 00:01:58,303
+<font color=#00FF00>♪ Arrow 4x16 ♪</font>
+<font color=#00FFFF>Broken Hearts</font>
+Original Air Date on March 23, 2016
+
+46
+00:01:58,304 --> 00:02:02,004
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+47
+00:02:03,257 --> 00:02:05,657
+Please be seated.
+
+48
+00:02:05,659 --> 00:02:07,159
+First I'll hear the parties
+
+49
+00:02:07,161 --> 00:02:08,594
+on the question of bail.
+
+50
+00:02:08,596 --> 00:02:10,495
+Your honor,
+the, uh, defendant wishes
+
+51
+00:02:10,497 --> 00:02:12,064
+to waive bail so that
+the, uh, court can focus
+
+52
+00:02:12,066 --> 00:02:14,099
+its attention on our
+motion to dismiss.
+
+53
+00:02:14,101 --> 00:02:16,101
+Your honor, the defendant
+was apprehended
+
+54
+00:02:16,103 --> 00:02:17,970
+at the site of
+a child abduction.
+
+55
+00:02:17,972 --> 00:02:19,605
+Because he
+was being held captive
+
+56
+00:02:19,607 --> 00:02:22,174
+himself. Your honor,
+
+57
+00:02:22,176 --> 00:02:23,609
+these documents will confirm
+
+58
+00:02:23,611 --> 00:02:26,712
+my client's identity as
+Kenneth Bender,
+
+59
+00:02:26,714 --> 00:02:29,014
+citizen of Markovia.
+
+60
+00:02:29,016 --> 00:02:30,649
+Your honor,
+this is ridiculous.
+
+61
+00:02:30,651 --> 00:02:32,351
+The defendant's
+name is Damien Darhk
+
+62
+00:02:32,353 --> 00:02:33,852
+According to whom? You?
+
+63
+00:02:33,854 --> 00:02:35,754
+Oliver Queen?
+The media? Heh.
+
+64
+00:02:35,756 --> 00:02:36,855
+Your honor,
+there's absolutely
+
+65
+00:02:36,857 --> 00:02:38,257
+no evidence whatsoever
+
+66
+00:02:38,259 --> 00:02:40,959
+to suggest that my client
+is this Damien Darhk,
+
+67
+00:02:40,961 --> 00:02:43,095
+much less prove beyond
+a reasonable doubt
+
+68
+00:02:43,097 --> 00:02:44,296
+that he committed
+these acts
+
+69
+00:02:44,298 --> 00:02:46,098
+that Damien Darhk is
+even accused of.
+
+70
+00:02:46,100 --> 00:02:47,633
+Your honor, we have
+evidence,
+
+71
+00:02:47,635 --> 00:02:49,501
+and we will present it
+at trial.
+
+72
+00:02:49,503 --> 00:02:50,669
+During which time what?
+
+73
+00:02:50,671 --> 00:02:52,437
+My client just rots
+in jail?
+
+74
+00:02:52,439 --> 00:02:53,505
+I mean, fortunately,
+he's no longer
+
+75
+00:02:53,507 --> 00:02:54,640
+in Markovia, right?
+
+76
+00:02:54,642 --> 00:02:56,041
+Because, you know,
+in America, we...
+
+77
+00:02:56,043 --> 00:02:57,976
+We have preliminary
+hearings to determine
+
+78
+00:02:57,978 --> 00:02:59,511
+whether the state can meet
+its burden of proof.
+
+79
+00:02:59,513 --> 00:03:00,946
+Thank you, your honor.
+
+80
+00:03:00,948 --> 00:03:02,281
+Your honor--
+
+81
+00:03:02,283 --> 00:03:03,982
+You say you
+have evidence, Ms. Lance?
+
+82
+00:03:03,984 --> 00:03:05,684
+Get ready to present it.
+
+83
+00:03:05,686 --> 00:03:08,353
+Mr. Darhk or Mr. Bender
+or whatever
+
+84
+00:03:08,355 --> 00:03:09,454
+he's calling himself
+
+85
+00:03:09,456 --> 00:03:11,156
+is hereby remanded
+to the custody
+
+86
+00:03:11,158 --> 00:03:12,491
+of the Department
+of Corrections
+
+87
+00:03:12,493 --> 00:03:14,293
+to be held until disposition
+
+88
+00:03:14,295 --> 00:03:16,395
+of defendant's motion
+to dismiss.
+
+89
+00:03:25,706 --> 00:03:28,674
+I worked out
+a system to maximize
+
+90
+00:03:28,676 --> 00:03:30,309
+the efficiency of
+the moving process.
+
+91
+00:03:30,311 --> 00:03:32,244
+The densest,
+heaviest boxes are
+
+92
+00:03:32,246 --> 00:03:33,912
+put into the moving
+truck first,
+
+93
+00:03:33,914 --> 00:03:35,213
+creating a solid
+foundation
+
+94
+00:03:35,215 --> 00:03:36,848
+for the rest of
+the boxes
+
+95
+00:03:36,850 --> 00:03:38,483
+and providing
+maximum recovery time
+
+96
+00:03:38,485 --> 00:03:40,385
+during the most physical
+moments of moving.
+
+97
+00:03:40,387 --> 00:03:43,121
+There's, um...
+
+98
+00:03:43,123 --> 00:03:44,856
+less chance for injury, too.
+
+99
+00:03:44,858 --> 00:03:46,158
+I hired a mover.
+
+100
+00:03:46,160 --> 00:03:47,592
+And I would never want
+to step on the toes
+
+101
+00:03:47,594 --> 00:03:49,962
+of professionals,
+but proper distribution
+
+102
+00:03:49,964 --> 00:03:51,496
+of the mass and density
+of the boxes
+
+103
+00:03:51,498 --> 00:03:53,065
+inside the moving truck
+could have
+
+104
+00:03:53,067 --> 00:03:54,566
+cost-saving effects for
+the moving company
+
+105
+00:03:54,568 --> 00:03:57,402
+in the form of
+improved gas mileage.
+
+106
+00:03:57,404 --> 00:03:59,371
+OK. Great.
+
+107
+00:03:59,373 --> 00:04:03,575
+So you're doing
+great with the--
+
+108
+00:04:03,577 --> 00:04:05,677
+It's just amazing
+how much progress
+
+109
+00:04:05,679 --> 00:04:07,646
+you've made in such
+little time.
+
+110
+00:04:07,648 --> 00:04:08,947
+Paul must be just
+
+111
+00:04:08,949 --> 00:04:10,682
+a physical therapy
+genius.
+
+112
+00:04:10,684 --> 00:04:12,184
+Yes, like a symphony
+of the talents.
+
+113
+00:04:12,186 --> 00:04:13,485
+You know, with Curtis
+and Paul, they're kind of
+
+114
+00:04:13,487 --> 00:04:15,087
+the perfect team.
+
+115
+00:04:15,089 --> 00:04:18,657
+You know, marrying tech--
+
+116
+00:04:21,128 --> 00:04:24,396
+Poor choice of words.
+My bad. My specialty.
+
+117
+00:04:24,398 --> 00:04:25,697
+It's OK.
+
+118
+00:04:25,699 --> 00:04:27,632
+That's fine. I--
+it's, you know,
+
+119
+00:04:27,634 --> 00:04:30,202
+it's not like, um,
+
+120
+00:04:30,204 --> 00:04:31,737
+I don't know what
+it's like.
+
+121
+00:04:31,739 --> 00:04:33,772
+We were engaged, and now
+we're not together.
+
+122
+00:04:33,774 --> 00:04:36,108
+That's what it's like.
+
+123
+00:04:36,110 --> 00:04:38,944
+Did you cancel
+the venue? Please?
+
+124
+00:04:40,614 --> 00:04:41,980
+I'm--yes, I will
+get around to
+
+125
+00:04:41,982 --> 00:04:43,181
+canceling the venue.
+
+126
+00:04:43,183 --> 00:04:45,217
+Great. Thank you.
+
+127
+00:04:46,420 --> 00:04:47,753
+And I will uninvite
+the guests.
+
+128
+00:04:48,756 --> 00:04:50,288
+OK.
+
+129
+00:04:52,426 --> 00:04:53,492
+The movers
+will swing by
+
+130
+00:04:53,494 --> 00:04:54,493
+whenever you want.
+
+131
+00:04:54,495 --> 00:04:56,128
+Just give them
+a call.
+
+132
+00:04:56,130 --> 00:04:58,430
+I'll see you when
+I see you.
+
+133
+00:05:00,034 --> 00:05:01,767
+So tonight, hmm?
+
+134
+00:05:01,769 --> 00:05:03,168
+Tonight?
+
+135
+00:05:03,170 --> 00:05:05,237
+Yeah. Tonight I, uh--
+
+136
+00:05:05,239 --> 00:05:07,172
+I mean, I guess we
+didn't talk about it,
+
+137
+00:05:07,174 --> 00:05:09,041
+but I was a part of the team
+before we were together.
+
+138
+00:05:09,043 --> 00:05:10,242
+I just assumed...
+
+139
+00:05:10,244 --> 00:05:13,011
+Oh, tonight. Like,
+to--like to--
+
+140
+00:05:13,013 --> 00:05:14,513
+like every night.
+Um...
+
+141
+00:05:15,649 --> 00:05:16,848
+Of course.
+
+142
+00:05:16,850 --> 00:05:18,817
+You are a part of
+the team
+
+143
+00:05:18,819 --> 00:05:20,519
+forever and always.
+
+144
+00:05:34,701 --> 00:05:36,368
+Keep moving.
+
+145
+00:05:42,876 --> 00:05:44,643
+Stop here.
+
+146
+00:05:46,480 --> 00:05:47,946
+This is it.
+
+147
+00:05:47,948 --> 00:05:49,448
+Now that
+you've found what
+
+148
+00:05:49,450 --> 00:05:50,715
+you're looking for,
+you don't need us.
+
+149
+00:05:50,717 --> 00:05:52,317
+So we can just--
+
+150
+00:05:52,319 --> 00:05:54,019
+No. This isn't the end,
+Mr. Queen.
+
+151
+00:05:54,021 --> 00:05:55,887
+It's the beginning.
+
+152
+00:05:55,889 --> 00:05:57,689
+Of what?
+
+153
+00:05:57,691 --> 00:06:00,058
+I grew up in a small
+village in Africa.
+
+154
+00:06:00,060 --> 00:06:02,427
+a country whose named
+has changed a dozen times
+
+155
+00:06:02,429 --> 00:06:04,396
+over the years.
+
+156
+00:06:04,398 --> 00:06:08,633
+One day, bandits came
+to my village.
+
+157
+00:06:08,635 --> 00:06:12,270
+They wanted water
+and gold and women.
+
+158
+00:06:12,272 --> 00:06:14,172
+Once they left with them,
+
+159
+00:06:14,174 --> 00:06:18,510
+the only thing remaining
+of my village was ash.
+
+160
+00:06:18,512 --> 00:06:23,315
+My home and everyone I loved
+was wiped from the earth.
+
+161
+00:06:23,317 --> 00:06:26,051
+And I was helpless
+to stop it.
+
+162
+00:06:26,053 --> 00:06:29,020
+And I swore I would never
+feel helpless again.
+
+163
+00:06:29,022 --> 00:06:31,056
+So killing all the people
+you're holding hostage is
+
+164
+00:06:31,058 --> 00:06:33,758
+gonna help you not
+feel helpless?
+
+165
+00:06:33,760 --> 00:06:35,861
+How does that make you
+
+166
+00:06:35,863 --> 00:06:37,429
+any different than
+the people
+
+167
+00:06:37,431 --> 00:06:39,131
+who destroyed your
+village?
+
+168
+00:06:39,133 --> 00:06:42,367
+Oh. It makes me
+
+169
+00:06:42,369 --> 00:06:44,402
+very different.
+
+170
+00:06:48,075 --> 00:06:50,408
+Let me show you.
+
+171
+00:06:53,881 --> 00:06:57,149
+How'd it go
+out there tonight?
+
+172
+00:06:57,151 --> 00:06:59,117
+It was quiet.
+
+173
+00:06:59,119 --> 00:07:02,387
+Yeah. The City hasn't
+had a quiet night
+
+174
+00:07:02,389 --> 00:07:03,755
+in 4 years.
+
+175
+00:07:03,757 --> 00:07:05,023
+Yeah. I can't
+believe HIVE is silent
+
+176
+00:07:05,025 --> 00:07:06,291
+just because
+Damien Darhk is in jail.
+
+177
+00:07:06,293 --> 00:07:07,259
+Not for long.
+
+178
+00:07:07,261 --> 00:07:08,727
+What are you
+talking about?
+
+179
+00:07:08,729 --> 00:07:10,562
+The law's pesky need
+for evidence.
+
+180
+00:07:10,564 --> 00:07:12,564
+The ghost who took
+William also took
+
+181
+00:07:12,566 --> 00:07:14,966
+their cyanide
+escape plans.
+
+182
+00:07:14,968 --> 00:07:16,468
+There's no one to testify
+against Darhk.
+
+183
+00:07:16,470 --> 00:07:17,936
+What about my brother?
+
+184
+00:07:17,938 --> 00:07:18,970
+You mean the one
+that was declared
+
+185
+00:07:18,972 --> 00:07:21,239
+legally dead
+5 years ago? Oh...
+
+186
+00:07:21,241 --> 00:07:23,241
+should be fun
+walking him into court.
+
+187
+00:07:23,243 --> 00:07:24,309
+Uh, what about us?
+
+188
+00:07:24,311 --> 00:07:26,244
+Yeah!
+
+189
+00:07:26,246 --> 00:07:27,779
+Damien kidnapped us
+over the holiday.
+
+190
+00:07:27,781 --> 00:07:29,447
+- We're all witnesses.
+- Actually that's good.
+
+191
+00:07:29,449 --> 00:07:31,616
+The fiancee to the City's
+beloved mayoral candidate,
+
+192
+00:07:31,618 --> 00:07:33,952
+it makes
+for a compelling story.
+
+193
+00:07:36,456 --> 00:07:37,956
+What's wrong?
+
+194
+00:07:37,958 --> 00:07:40,592
+Oliver and I aren't
+engaged anymore, um,
+
+195
+00:07:40,594 --> 00:07:43,295
+or living together
+or together together.
+
+196
+00:07:43,297 --> 00:07:44,763
+Felicity.
+
+197
+00:07:44,765 --> 00:07:46,965
+It's fine, which is
+universal code
+
+198
+00:07:46,967 --> 00:07:48,567
+for "I don't want to
+talk about it."
+
+199
+00:07:53,974 --> 00:07:57,209
+The pieces of
+Darhk's idol. Yeah.
+
+200
+00:07:57,211 --> 00:07:58,643
+How you holding up?
+
+201
+00:07:58,645 --> 00:08:01,646
+Felicity tell you guys?
+
+202
+00:08:01,648 --> 00:08:03,415
+How are you
+holding up?
+
+203
+00:08:03,417 --> 00:08:05,317
+Is this about
+your son?
+
+204
+00:08:05,319 --> 00:08:08,086
+The fact that I lied
+to her about him, yeah.
+
+205
+00:08:08,088 --> 00:08:09,921
+Yeah, well, you got
+a kid, man,
+
+206
+00:08:09,923 --> 00:08:11,356
+that's a whole lot
+to handle.
+
+207
+00:08:11,358 --> 00:08:13,692
+But don't worry.
+She'll come around.
+
+208
+00:08:13,694 --> 00:08:15,126
+Give her time.
+
+209
+00:08:15,128 --> 00:08:17,229
+I mean, she wants
+to stay on the team.
+
+210
+00:08:17,231 --> 00:08:19,397
+That's a good sign...
+
+211
+00:08:20,734 --> 00:08:21,933
+I think.
+
+212
+00:08:21,935 --> 00:08:23,535
+Hey, Lance
+just called.
+
+213
+00:08:23,537 --> 00:08:25,237
+It's trouble.
+
+214
+00:08:25,239 --> 00:08:26,471
+HIVE?
+
+215
+00:08:26,473 --> 00:08:28,807
+Said it was an old friend.
+
+216
+00:08:36,783 --> 00:08:38,617
+Uh, you guys take five.
+
+217
+00:08:39,653 --> 00:08:42,020
+Hey. You OK?
+
+218
+00:08:42,022 --> 00:08:43,989
+You're a little--
+little more grim than usual.
+
+219
+00:08:43,991 --> 00:08:45,657
+You said, "We know
+who did this."
+
+220
+00:08:46,693 --> 00:08:47,926
+Look familiar?
+
+221
+00:08:47,928 --> 00:08:49,227
+Cupid!
+
+222
+00:08:49,229 --> 00:08:51,696
+She's supposed to be
+in custody at ARGUS.
+
+223
+00:08:51,698 --> 00:08:55,166
+Yeah? Tell that to them.
+
+224
+00:08:59,339 --> 00:09:00,572
+What was there?
+
+225
+00:09:00,574 --> 00:09:02,173
+Left a note for us.
+
+226
+00:09:04,878 --> 00:09:07,379
+"Love is dead."
+
+227
+00:09:15,981 --> 00:09:18,848
+So is nobody else
+gonna say it?
+
+228
+00:09:18,850 --> 00:09:21,184
+It's Cupid, stupid.
+
+229
+00:09:21,186 --> 00:09:23,353
+Well, she's changed
+up her MO a little:
+
+230
+00:09:23,355 --> 00:09:24,954
+"Love is dead."
+
+231
+00:09:24,956 --> 00:09:26,856
+Oh! Maybe she's
+not so insane after all.
+
+232
+00:09:26,858 --> 00:09:28,858
+Thought she was locked up
+in some ARGUS sub-basement.
+
+233
+00:09:28,860 --> 00:09:30,193
+Yeah. Not anymore.
+I just talked to Lyla.
+
+234
+00:09:30,195 --> 00:09:32,195
+Turns out Waller was
+serious about prisoners
+
+235
+00:09:32,197 --> 00:09:34,397
+like Cupid working their
+way off of Task Force X.
+
+236
+00:09:34,399 --> 00:09:35,798
+She's out.
+
+237
+00:09:35,800 --> 00:09:36,933
+Then we start
+with her victims.
+
+238
+00:09:36,935 --> 00:09:38,167
+Did CSU ID them?
+
+239
+00:09:38,169 --> 00:09:39,435
+They're running
+prints.
+
+240
+00:09:39,437 --> 00:09:41,037
+Like, seriously?
+
+241
+00:09:41,039 --> 00:09:43,806
+None of your crime tech guys
+read gossip web sites?
+
+242
+00:09:43,808 --> 00:09:46,409
+Uh...heh heh.
+Let's assume they don't.
+
+243
+00:09:46,411 --> 00:09:48,745
+This is Blaine, and
+this is Shannon.
+
+244
+00:09:48,747 --> 00:09:50,413
+OK.
+
+245
+00:09:50,415 --> 00:09:53,416
+Really, guys? Come on.
+
+246
+00:09:53,418 --> 00:09:55,585
+It's the wedding
+of the decade.
+
+247
+00:09:55,587 --> 00:09:57,120
+Why would Cupid
+want to ice Star City's
+
+248
+00:09:57,122 --> 00:09:58,421
+most high profile couple?
+
+249
+00:09:58,423 --> 00:09:59,489
+Well, we figure
+that out, we figure out
+
+250
+00:09:59,491 --> 00:10:01,424
+who her next targets
+might be.
+
+251
+00:10:01,426 --> 00:10:03,326
+How do we know
+there's gonna be a next target?
+
+252
+00:10:03,328 --> 00:10:04,360
+I don't think that
+Carrie Cutter
+
+253
+00:10:04,362 --> 00:10:05,561
+has changed
+that much.
+
+254
+00:10:05,563 --> 00:10:06,863
+We got to get to court.
+
+255
+00:10:06,865 --> 00:10:08,197
+I'm gonna stay here,
+
+256
+00:10:08,199 --> 00:10:11,234
+work up some leads
+on Cupid.
+
+257
+00:10:11,236 --> 00:10:12,669
+It was
+
+258
+00:10:12,671 --> 00:10:15,271
+an Oliver Queen
+campaign holiday party.
+
+259
+00:10:15,273 --> 00:10:16,773
+There was gunfire.
+
+260
+00:10:16,775 --> 00:10:18,708
+The security that we had
+onsite was killed.
+
+261
+00:10:18,710 --> 00:10:20,910
+And then he walked in.
+
+262
+00:10:20,912 --> 00:10:22,612
+Let the record
+reflect that
+
+263
+00:10:22,614 --> 00:10:24,213
+the witness is pointing
+to the defendant.
+
+264
+00:10:24,215 --> 00:10:27,583
+And why did the defendant
+walk into Oliver Queen's
+
+265
+00:10:27,585 --> 00:10:28,818
+campaign office?
+
+266
+00:10:28,820 --> 00:10:30,453
+He was the leader
+of the gunmen.
+
+267
+00:10:30,455 --> 00:10:31,721
+He took myself,
+Thea Queen,
+
+268
+00:10:31,723 --> 00:10:33,189
+and Felicity Smoak
+hostage.
+
+269
+00:10:33,191 --> 00:10:35,091
+And while
+you were held hostage--
+
+270
+00:10:35,093 --> 00:10:36,459
+Damien Darhk--
+
+271
+00:10:36,461 --> 00:10:38,194
+or whatever
+he calls himself--
+
+272
+00:10:38,196 --> 00:10:41,130
+was there calling
+the shots
+
+273
+00:10:41,132 --> 00:10:42,765
+the entire time.
+
+274
+00:10:44,102 --> 00:10:45,802
+Pass the witness.
+
+275
+00:10:47,939 --> 00:10:51,007
+This, uh, holiday party,
+
+276
+00:10:51,009 --> 00:10:52,709
+were you, uh...
+
+277
+00:10:52,711 --> 00:10:54,210
+were you there
+as a guest?
+
+278
+00:10:54,212 --> 00:10:55,645
+No, sir.
+I work security--
+
+279
+00:10:55,647 --> 00:10:57,246
+personal security
+for Mr. Oliver Queen.
+
+280
+00:10:57,248 --> 00:10:58,948
+And I have been for
+the past 3-plus years.
+
+281
+00:10:58,950 --> 00:11:00,516
+Even after Mr. Queen
+lost his job
+
+282
+00:11:00,518 --> 00:11:02,118
+as CEO of
+Queen Consolidated?
+
+283
+00:11:02,120 --> 00:11:03,886
+I mean...
+
+284
+00:11:03,888 --> 00:11:05,154
+how much does he pay you,
+10 cents an hour?
+
+285
+00:11:05,156 --> 00:11:07,390
+Objection.
+Relevance?
+
+286
+00:11:07,392 --> 00:11:09,792
+Sustained.
+Move faster, Mr. Fitzmartin.
+
+287
+00:11:09,794 --> 00:11:11,394
+Of course,
+your honor. All right.
+
+288
+00:11:11,396 --> 00:11:14,130
+Well, let's, uh,
+talk about
+
+289
+00:11:14,132 --> 00:11:17,333
+your alleged co-captain,
+Thea Queen.
+
+290
+00:11:17,335 --> 00:11:19,635
+Isn't it true
+that 5 months ago,
+
+291
+00:11:19,637 --> 00:11:23,773
+you helped her buy $74,000
+worth of cocaine?
+
+292
+00:11:25,009 --> 00:11:26,509
+And before
+you answer that,
+
+293
+00:11:26,511 --> 00:11:27,810
+you should know that I
+have a signed affidavit
+
+294
+00:11:27,812 --> 00:11:29,412
+from Ms. Queen's dealer
+right here.
+
+295
+00:11:29,414 --> 00:11:30,613
+Which means
+nothing
+
+296
+00:11:30,615 --> 00:11:31,981
+because it is
+irrelevant.
+
+297
+00:11:31,983 --> 00:11:33,116
+Well, it goes
+to credibility,
+
+298
+00:11:33,118 --> 00:11:34,117
+your honor.
+
+299
+00:11:34,119 --> 00:11:36,119
+Oliver Queen
+publicly slandered
+
+300
+00:11:36,121 --> 00:11:37,754
+my client by
+accusing him of
+
+301
+00:11:37,756 --> 00:11:39,822
+ordering a terrorist
+drone strike.
+
+302
+00:11:39,824 --> 00:11:43,192
+Now, if--if Mr. Diggle can
+work for Mr. Queen for free
+
+303
+00:11:43,194 --> 00:11:45,161
+to help Ms. Queen buy
+illegal drugs, I mean,
+
+304
+00:11:45,163 --> 00:11:47,597
+is it really that much of
+a stretch to believe that
+
+305
+00:11:47,599 --> 00:11:49,799
+he'd also perjure himself in
+support of Mr. Queen's
+
+306
+00:11:49,801 --> 00:11:51,334
+campaign of character
+assassination?
+
+307
+00:11:51,336 --> 00:11:53,302
+You watched me swear
+an oath.
+
+308
+00:11:54,372 --> 00:11:56,038
+And then I saw you break it.
+
+309
+00:11:57,809 --> 00:11:59,942
+No further questions,
+your honor.
+
+310
+00:12:03,782 --> 00:12:05,515
+I don't have
+a law degree,
+
+311
+00:12:05,517 --> 00:12:07,383
+but I don't think
+that went well.
+
+312
+00:12:07,385 --> 00:12:08,684
+It could have been worse.
+
+313
+00:12:08,686 --> 00:12:10,153
+If Fitzmartin kept pulling
+on those threads,
+
+314
+00:12:10,155 --> 00:12:11,487
+then everything that we've
+done for this city
+
+315
+00:12:11,489 --> 00:12:12,955
+could have been exposed.
+
+316
+00:12:12,957 --> 00:12:14,457
+It'd be worth it
+to put Darhk away.
+
+317
+00:12:14,459 --> 00:12:15,958
+Except it
+wouldn't put him away.
+
+318
+00:12:15,960 --> 00:12:17,860
+Vigilantes don't
+make good witnesses?
+
+319
+00:12:17,862 --> 00:12:20,930
+No. But they
+make excellent inmates.
+
+320
+00:12:20,932 --> 00:12:22,064
+Yeah.
+
+321
+00:12:22,066 --> 00:12:23,332
+OK. So where does
+this leave us?
+
+322
+00:12:23,334 --> 00:12:25,168
+We can't just let
+Darhk walk.
+
+323
+00:12:25,170 --> 00:12:26,836
+Well, unless
+they come up with
+
+324
+00:12:26,838 --> 00:12:28,137
+a witness who Fitzmartin
+can't tear apart,
+
+325
+00:12:28,139 --> 00:12:29,839
+then that's what's
+gonna happen.
+
+326
+00:12:29,841 --> 00:12:31,641
+Then put me on the stand.
+
+327
+00:12:31,643 --> 00:12:32,875
+I don't have
+a secret identity,
+
+328
+00:12:32,877 --> 00:12:33,910
+and I could testify
+about Darhk
+
+329
+00:12:33,912 --> 00:12:35,511
+and his connection to HIVE.
+
+330
+00:12:35,513 --> 00:12:37,380
+And spend the rest of
+your life in jail.
+
+331
+00:12:37,382 --> 00:12:38,681
+If it's a cell next to
+Darhk, it'd be worth it.
+
+332
+00:12:38,683 --> 00:12:40,416
+No. We'll find
+another way.
+
+333
+00:12:40,418 --> 00:12:41,717
+It's Felicity.
+
+334
+00:12:41,719 --> 00:12:43,386
+Ah.
+
+335
+00:12:43,388 --> 00:12:44,554
+Put her on speaker.
+
+336
+00:12:44,556 --> 00:12:45,788
+Felicity, we have
+the whole team here.
+
+337
+00:12:45,790 --> 00:12:47,023
+What's up?
+
+338
+00:12:47,025 --> 00:12:48,224
+Good news is I got
+Cupid's location.
+
+339
+00:12:48,226 --> 00:12:49,458
+Good.
+Where is she?
+
+340
+00:12:49,460 --> 00:12:51,060
+That's the bad news.
+
+341
+00:12:51,062 --> 00:12:52,361
+Looks like she's kidnapped
+another celebrity couple--
+
+342
+00:12:52,363 --> 00:12:53,596
+Allison Lee
+and Robert Joyce.
+
+343
+00:12:53,598 --> 00:12:54,864
+"Allibert."
+
+344
+00:12:54,866 --> 00:12:56,732
+Can you track the GPS
+on their phones?
+
+345
+00:12:56,734 --> 00:12:58,234
+When I said I had
+their location,
+
+346
+00:12:58,236 --> 00:12:59,502
+how do you think
+that I got it?
+
+347
+00:12:59,504 --> 00:13:01,571
+OK, Felicity,
+what's next?
+
+348
+00:13:01,573 --> 00:13:02,939
+Where are we going?
+
+349
+00:13:05,009 --> 00:13:06,776
+They're on the move,
+headed towards Pennytown.
+
+350
+00:13:06,778 --> 00:13:07,944
+Got it.
+
+351
+00:13:07,946 --> 00:13:09,445
+I'd suit up with
+you, but--
+
+352
+00:13:09,447 --> 00:13:10,947
+No. What you're doing
+here is more important.
+
+353
+00:13:10,949 --> 00:13:12,215
+Get Darhk.
+
+354
+00:13:12,217 --> 00:13:14,016
+Get Cupid.
+
+355
+00:13:22,760 --> 00:13:24,527
+Till death do us part.
+
+356
+00:13:24,529 --> 00:13:28,231
+Don't worry. You won't
+have to wait that long.
+
+357
+00:13:33,271 --> 00:13:35,438
+Wedding crashers.
+
+358
+00:13:35,440 --> 00:13:37,139
+Hold on tight.
+
+359
+00:14:27,458 --> 00:14:29,025
+Thea, look out!
+
+360
+00:14:37,001 --> 00:14:39,101
+She's in the center.
+
+361
+00:14:41,339 --> 00:14:43,172
+Ugh. I'm OK.
+
+362
+00:14:43,174 --> 00:14:44,607
+Stay with Speedy.
+
+363
+00:14:46,477 --> 00:14:48,010
+Let them help you.
+
+364
+00:14:48,012 --> 00:14:49,645
+I got Cupid.
+
+365
+00:15:15,073 --> 00:15:17,173
+I'd say enjoy
+the afterlife,
+
+366
+00:15:17,175 --> 00:15:18,708
+but we both know
+
+367
+00:15:18,710 --> 00:15:20,643
+that's just
+eternal nothingness.
+
+368
+00:15:27,185 --> 00:15:29,218
+I was in love with
+the Arrow,
+
+369
+00:15:29,220 --> 00:15:31,220
+but you're not him,
+
+370
+00:15:31,222 --> 00:15:34,757
+although I do like
+the sleeveless.
+
+371
+00:15:37,528 --> 00:15:39,462
+Got her.
+
+372
+00:15:56,347 --> 00:15:59,081
+Guess you didn't
+have her.
+
+373
+00:16:05,642 --> 00:16:07,184
+Really brings
+a whole new meaning
+
+374
+00:16:07,185 --> 00:16:08,651
+to crazy ex-girlfriends.
+
+375
+00:16:09,099 --> 00:16:12,935
+And you didn't even get
+to enjoy the fun parts.
+
+376
+00:16:12,937 --> 00:16:14,503
+Sorry.
+
+377
+00:16:14,505 --> 00:16:16,238
+Well, Cutter really fell
+for Floyd Lawton last year.
+
+378
+00:16:16,240 --> 00:16:17,773
+Lucky guy.
+
+379
+00:16:17,775 --> 00:16:19,374
+She was heartbroken
+when he was blown up.
+
+380
+00:16:19,376 --> 00:16:20,876
+No, Thea's right,
+though. Cutter is...
+
+381
+00:16:20,878 --> 00:16:22,144
+pathological.
+
+382
+00:16:22,146 --> 00:16:25,080
+I mean, targeting happy couples?
+Come on.
+
+383
+00:16:25,082 --> 00:16:27,015
+Well, it makes sense if you look at it
+from her perspective.
+
+384
+00:16:27,017 --> 00:16:28,684
+Love betrayed her.
+
+385
+00:16:28,686 --> 00:16:31,887
+And now she wants to
+go to war against it.
+
+386
+00:16:31,889 --> 00:16:35,257
+And--and that's
+making sense?
+
+387
+00:16:35,259 --> 00:16:37,292
+Makes sense to her.
+
+388
+00:16:37,294 --> 00:16:40,562
+OK...she's not just
+targeting regular couples.
+
+389
+00:16:40,564 --> 00:16:41,830
+Yeah.
+
+390
+00:16:41,832 --> 00:16:43,632
+She's targeting
+celebrity couples.
+
+391
+00:16:43,634 --> 00:16:44,666
+Probably to bring
+attention
+
+392
+00:16:44,668 --> 00:16:45,767
+to her anti-love
+crusade.
+
+393
+00:16:45,769 --> 00:16:46,835
+Lance is getting
+the word out.
+
+394
+00:16:46,837 --> 00:16:48,337
+He assigned
+a protective detail.
+
+395
+00:16:48,339 --> 00:16:50,005
+I'm gonna run
+forensics on this.
+
+396
+00:16:50,007 --> 00:16:51,573
+We're gonna hit
+the streets,
+
+397
+00:16:51,575 --> 00:16:53,875
+see if we can get
+a line on Cutter.
+
+398
+00:16:53,877 --> 00:16:55,544
+OK. You want
+to talk about
+
+399
+00:16:55,546 --> 00:16:57,145
+the other
+obvious problem?
+
+400
+00:16:57,147 --> 00:16:58,647
+Yeah, the, uh,
+elephant in the room.
+
+401
+00:16:58,649 --> 00:17:00,315
+Felicity and I are fine.
+
+402
+00:17:00,317 --> 00:17:01,483
+Yeah, well, if you were listening to
+her little asides,
+
+403
+00:17:01,485 --> 00:17:02,818
+you would know
+that was not true.
+
+404
+00:17:02,820 --> 00:17:04,519
+John--heh heh--you were
+the one who told me
+
+405
+00:17:04,521 --> 00:17:05,887
+to give her time.
+
+406
+00:17:05,889 --> 00:17:08,090
+OK. Do you want to get
+back together with her?
+
+407
+00:17:08,092 --> 00:17:09,263
+I do.
+
+408
+00:17:09,287 --> 00:17:10,560
+Then tell her that.
+
+409
+00:17:10,561 --> 00:17:11,860
+Even if you fall
+on your face, Oliver,
+
+410
+00:17:11,862 --> 00:17:13,328
+she needs to know
+where you stand.
+
+411
+00:17:13,330 --> 00:17:14,896
+She needs to know
+that you are willing
+
+412
+00:17:14,898 --> 00:17:16,164
+to say the words.
+
+413
+00:17:16,166 --> 00:17:17,699
+I am willing to say
+the words.
+
+414
+00:17:17,701 --> 00:17:19,601
+That's good.
+So what's stopping you?
+
+415
+00:17:24,575 --> 00:17:26,341
+Why did you
+do that?!
+
+416
+00:17:26,343 --> 00:17:28,210
+Don't. Let him die.
+
+417
+00:17:28,212 --> 00:17:30,178
+Reiter, you're insane.
+
+418
+00:17:30,180 --> 00:17:32,214
+The difference
+between insanity
+
+419
+00:17:32,216 --> 00:17:33,949
+and belief lies
+
+420
+00:17:33,951 --> 00:17:36,451
+only in the number
+of believers.
+
+421
+00:18:00,377 --> 00:18:04,112
+This is the power of
+a single life.
+
+422
+00:18:04,114 --> 00:18:08,250
+Above us, I have dozens
+under my control.
+
+423
+00:18:08,252 --> 00:18:09,851
+Prisoners are
+gathered topside.
+
+424
+00:18:09,853 --> 00:18:11,987
+The men are in position.
+
+425
+00:18:11,989 --> 00:18:13,955
+Tell them to shoot.
+
+426
+00:18:19,563 --> 00:18:21,963
+Hey! Come on! Go!
+Go! Go! Go!
+
+427
+00:18:24,268 --> 00:18:25,600
+Hey.
+
+428
+00:18:27,404 --> 00:18:28,937
+So how did the rest of
+the day in court go?
+
+429
+00:18:28,939 --> 00:18:30,806
+If it went well,
+I wouldn't be here
+
+430
+00:18:30,808 --> 00:18:32,107
+still doing this.
+
+431
+00:18:33,243 --> 00:18:34,776
+Listen, I was thinking,
+what about
+
+432
+00:18:34,778 --> 00:18:36,311
+all the rest of the people
+at the holiday party, right?
+
+433
+00:18:36,313 --> 00:18:37,746
+'Cause they all saw Darhk.
+
+434
+00:18:37,748 --> 00:18:38,814
+Yeah. That's probably
+why they're all
+
+435
+00:18:38,816 --> 00:18:40,015
+too frightened
+to testify.
+
+436
+00:18:40,017 --> 00:18:41,149
+Well, you could
+subpoena them.
+
+437
+00:18:41,151 --> 00:18:43,652
+I did that this
+afternoon.
+
+438
+00:18:43,654 --> 00:18:46,588
+One lied,
+one in jail
+
+439
+00:18:46,590 --> 00:18:48,390
+because they refused
+to testify,
+
+440
+00:18:48,392 --> 00:18:50,092
+and one actually
+
+441
+00:18:50,094 --> 00:18:52,127
+tried pleading
+the fifth.
+
+442
+00:18:52,129 --> 00:18:53,695
+Well, I told you
+there's one guy
+
+443
+00:18:53,697 --> 00:18:55,163
+willing to take the stand.
+
+444
+00:18:55,165 --> 00:18:56,998
+Dad, I went to my boss,
+and I asked him
+
+445
+00:18:57,000 --> 00:19:00,035
+to give you immunity
+from prosecution.
+
+446
+00:19:00,037 --> 00:19:02,003
+He said he'd prefer
+to be reelected.
+
+447
+00:19:02,005 --> 00:19:03,338
+I don't care about immunity.
+
+448
+00:19:03,340 --> 00:19:04,840
+But I do.
+
+449
+00:19:04,842 --> 00:19:07,476
+Dad, I'm not gonna let
+you incriminate yourself.
+
+450
+00:19:07,478 --> 00:19:08,844
+You--you wouldn't be
+doing anything.
+
+451
+00:19:08,846 --> 00:19:10,679
+It'd be me,
+and it'd be right.
+
+452
+00:19:10,681 --> 00:19:12,380
+I'm the one that got
+into bed with Darhk, right?
+
+453
+00:19:12,382 --> 00:19:13,882
+I made those decisions.
+
+454
+00:19:13,884 --> 00:19:15,684
+And I should pay the
+consequences for 'em, honey.
+
+455
+00:19:15,686 --> 00:19:17,606
+And, listen, it's the only
+way to bring him down.
+
+456
+00:19:24,728 --> 00:19:27,195
+OK. OK.
+
+457
+00:19:27,197 --> 00:19:29,698
+If we do this, you
+will also testify
+
+458
+00:19:29,700 --> 00:19:31,700
+that you acted under
+duress,
+
+459
+00:19:31,702 --> 00:19:33,869
+that Damien
+threatened my life.
+
+460
+00:19:33,871 --> 00:19:37,706
+Yeah. 'Cause that way,
+I get to say on record
+
+461
+00:19:37,708 --> 00:19:39,574
+how much I love
+my baby girl.
+
+462
+00:19:39,576 --> 00:19:41,243
+OK.
+
+463
+00:19:44,081 --> 00:19:45,914
+Felicity Scissorhands.
+
+464
+00:19:45,916 --> 00:19:47,149
+We struck out
+
+465
+00:19:47,151 --> 00:19:48,717
+trying to find
+a line on Cutter.
+
+466
+00:19:48,719 --> 00:19:50,318
+What's this?
+
+467
+00:19:50,320 --> 00:19:51,753
+I couldn't exactly fit
+the entire sleeve
+
+468
+00:19:51,755 --> 00:19:54,122
+into the gas chromatograph.
+
+469
+00:19:54,124 --> 00:19:56,658
+Speak of the devil.
+
+470
+00:19:58,095 --> 00:19:59,661
+The sleeve contains
+fibers
+
+471
+00:19:59,663 --> 00:20:01,530
+from at least 60 different types
+of white silk lace.
+
+472
+00:20:01,532 --> 00:20:03,832
+White lace, like in
+wedding dresses?
+
+473
+00:20:03,834 --> 00:20:05,367
+That would be
+ironic.
+
+474
+00:20:05,369 --> 00:20:06,868
+And also traces
+of acid-free polypropylene.
+
+475
+00:20:06,870 --> 00:20:08,236
+What do they
+use that for?
+
+476
+00:20:08,238 --> 00:20:09,871
+Long-term storage
+of fabrics.
+
+477
+00:20:09,873 --> 00:20:11,439
+Well, maybe Cutter's
+holed up in a spot
+
+478
+00:20:11,441 --> 00:20:12,908
+where they store
+wedding dresses.
+
+479
+00:20:12,910 --> 00:20:14,409
+Colao Wedding Dress
+Services is the only
+
+480
+00:20:14,411 --> 00:20:16,912
+long-term storage
+facility in the City
+
+481
+00:20:16,914 --> 00:20:18,113
+that uses polypropylene.
+
+482
+00:20:18,115 --> 00:20:19,514
+28th and Hamilton.
+
+483
+00:20:19,516 --> 00:20:20,816
+That's 2 blocks from
+where she posed
+
+484
+00:20:20,818 --> 00:20:22,584
+the first 2 victims.
+
+485
+00:20:35,032 --> 00:20:36,331
+The only movement I'm
+tracking in that building is
+
+486
+00:20:36,333 --> 00:20:37,399
+you guys.
+
+487
+00:20:37,401 --> 00:20:39,501
+Stay alert.
+
+488
+00:20:56,019 --> 00:20:58,053
+Got something.
+
+489
+00:21:06,763 --> 00:21:09,965
+She does love her
+shrines, doesn't she?
+
+490
+00:21:09,967 --> 00:21:12,234
+Now we know how
+she's picking her targets.
+
+491
+00:21:12,236 --> 00:21:14,970
+The first 2 couples, they
+both recently got married.
+
+492
+00:21:14,972 --> 00:21:16,805
+Carter abducted
+the second couple
+
+493
+00:21:16,807 --> 00:21:18,607
+after their wedding.
+
+494
+00:21:18,609 --> 00:21:22,811
+Yeah. But Blaine
+and Shannon--"Blannon"--
+
+495
+00:21:22,813 --> 00:21:24,679
+they had a secret wedding
+48 hours
+
+496
+00:21:24,681 --> 00:21:25,914
+before they were killed.
+
+497
+00:21:25,916 --> 00:21:27,949
+Now we have
+to figure out
+
+498
+00:21:27,951 --> 00:21:30,185
+what celebrity couple in the
+City's getting married next.
+
+499
+00:21:30,187 --> 00:21:33,288
+I think I found one
+we can rule out.
+
+500
+00:21:36,994 --> 00:21:38,760
+So by calling off
+the engagement,
+
+501
+00:21:38,762 --> 00:21:40,295
+we took ourselves
+out of Cupid's crosshairs.
+
+502
+00:21:40,297 --> 00:21:41,496
+I knew there had to be
+
+503
+00:21:41,498 --> 00:21:43,632
+at least one
+silver lining.
+
+504
+00:21:43,634 --> 00:21:45,267
+Well, she keeps on targeting
+high-profile weddings.
+
+505
+00:21:45,269 --> 00:21:47,102
+So we just got to stake out
+whatever the next one is.
+
+506
+00:21:47,104 --> 00:21:49,170
+It's a big risk to run
+with an innocent couple.
+
+507
+00:21:49,172 --> 00:21:50,805
+We're not gonna take
+that risk
+
+508
+00:21:50,807 --> 00:21:52,874
+with an innocent couple.
+
+509
+00:21:52,876 --> 00:21:54,175
+Hey.
+
+510
+00:21:55,746 --> 00:21:57,979
+We need to get married.
+
+511
+00:22:02,050 --> 00:22:03,415
+How romantic.
+
+512
+00:22:03,515 --> 00:22:05,382
+But it's--Felicity, it--
+
+513
+00:22:05,384 --> 00:22:07,023
+This is the worst idea
+you've ever had.
+
+514
+00:22:07,024 --> 00:22:08,523
+Actually,
+it's not the worst.
+
+515
+00:22:08,524 --> 00:22:09,523
+Et Tu, John?
+
+516
+00:22:09,525 --> 00:22:10,791
+We lost our lead on Cutter,
+
+517
+00:22:10,793 --> 00:22:12,193
+Felicity, and this might
+draw her out.
+
+518
+00:22:12,195 --> 00:22:14,495
+Oh, so she can kill me.
+Pass. No, thank you.
+
+519
+00:22:14,497 --> 00:22:17,965
+OK. Now, John and I
+will have your back.
+
+520
+00:22:17,967 --> 00:22:20,201
+Oh, I guess it's too bad
+I already sent out
+
+521
+00:22:20,203 --> 00:22:21,702
+all those un-invitations.
+
+522
+00:22:21,704 --> 00:22:22,937
+Clearly not if you guys
+spent any time
+
+523
+00:22:22,939 --> 00:22:24,205
+on the gossip sites.
+
+524
+00:22:24,207 --> 00:22:28,175
+OK, look, these bloggers
+love nothing more
+
+525
+00:22:28,177 --> 00:22:30,244
+than a private
+secret wedding.
+
+526
+00:22:30,246 --> 00:22:32,747
+I leak the news saying
+you guys wanted
+
+527
+00:22:32,749 --> 00:22:35,049
+to keep it
+under radar. Uh...
+
+528
+00:22:35,051 --> 00:22:37,685
+it becomes the top story
+on their website.
+
+529
+00:22:37,687 --> 00:22:39,587
+It's catnip for Cupid.
+
+530
+00:22:39,589 --> 00:22:41,756
+OK, look, we have
+to do this quickly, OK,
+
+531
+00:22:41,758 --> 00:22:43,691
+so Cupid doesn't change
+her MO
+
+532
+00:22:43,693 --> 00:22:45,259
+and start killing more
+innocent couples.
+
+533
+00:22:45,261 --> 00:22:46,260
+Can we do this tomorrow?
+
+534
+00:22:46,262 --> 00:22:47,361
+Tomorrow will work.
+
+535
+00:22:47,363 --> 00:22:48,929
+The venue still has
+our deposit.
+
+536
+00:22:48,931 --> 00:22:50,665
+They'll be able
+to move up the date.
+
+537
+00:22:50,667 --> 00:22:53,501
+I thought you said you
+were gonna cancel that.
+
+538
+00:22:53,503 --> 00:22:55,002
+I did say that I was
+gonna cancel,
+
+539
+00:22:55,004 --> 00:22:57,438
+and I am gonna cancel,
+but I haven't canceled yet
+
+540
+00:22:57,440 --> 00:22:59,173
+because when I picked up...
+
+541
+00:23:00,777 --> 00:23:02,243
+when I pick up the phone
+to do that,
+
+542
+00:23:02,245 --> 00:23:03,444
+it means it's over.
+
+543
+00:23:03,446 --> 00:23:05,379
+It is over.
+
+544
+00:23:14,590 --> 00:23:17,024
+Hey, Taiana,
+wait. Wait. Wait. Wait.
+
+545
+00:23:18,227 --> 00:23:20,261
+Well, I think we
+lost them.
+
+546
+00:23:20,263 --> 00:23:22,530
+Look, Reiter is not
+gonna issue a kill order
+
+547
+00:23:22,532 --> 00:23:25,599
+if he doesn't have
+that thing nearby.
+
+548
+00:23:25,601 --> 00:23:27,802
+You grabbing it,
+you saved us.
+
+549
+00:23:27,804 --> 00:23:29,270
+If that's true,
+
+550
+00:23:29,272 --> 00:23:30,504
+then we should destroy
+the damn thing.
+
+551
+00:23:30,506 --> 00:23:31,906
+No, wait--
+
+552
+00:23:33,609 --> 00:23:36,077
+Oliver Queen.
+
+553
+00:23:36,079 --> 00:23:37,912
+We took his radio?
+
+554
+00:23:37,914 --> 00:23:39,747
+I know you're still
+down here, Mr. Queen.
+
+555
+00:23:39,749 --> 00:23:42,817
+You should have studied
+those maps more closely.
+
+556
+00:23:42,819 --> 00:23:44,318
+The only way out of
+these tunnels is
+
+557
+00:23:44,320 --> 00:23:45,686
+back the way you came,
+
+558
+00:23:45,688 --> 00:23:48,132
+which means going through me.
+
+559
+00:23:48,232 --> 00:23:50,599
+You can either return of
+your own accord
+
+560
+00:23:50,601 --> 00:23:54,804
+or you can force me
+to come find you.
+
+561
+00:23:54,806 --> 00:23:57,606
+But don't bother trying to
+fight your way out of this.
+
+562
+00:23:57,608 --> 00:24:01,210
+After all, I'm the only one
+of us who has men
+
+563
+00:24:01,212 --> 00:24:03,279
+and guns.
+
+564
+00:24:07,518 --> 00:24:09,618
+Well, last August,
+Darhk asked me
+
+565
+00:24:09,620 --> 00:24:11,087
+for the vacation plans
+
+566
+00:24:11,089 --> 00:24:12,955
+for the chief of
+the fire department.
+
+567
+00:24:12,957 --> 00:24:14,824
+Objection.
+
+568
+00:24:14,826 --> 00:24:16,625
+Darhk. Bender. Whatever
+he wants to call himself.
+
+569
+00:24:16,627 --> 00:24:18,160
+I told him where
+Chief Reynolds was staying.
+
+570
+00:24:18,162 --> 00:24:20,329
+The next day,
+the place blows up.
+
+571
+00:24:20,331 --> 00:24:21,764
+Objection. Conjecture.
+
+572
+00:24:21,766 --> 00:24:22,898
+Something
+you're free to challenge
+
+573
+00:24:22,900 --> 00:24:24,166
+on cross-examination.
+
+574
+00:24:24,168 --> 00:24:25,367
+Continue, Ms. Lance.
+
+575
+00:24:25,369 --> 00:24:30,005
+What else did you do
+for the defendant?
+
+576
+00:24:30,007 --> 00:24:31,874
+He wanted
+me to give him
+
+577
+00:24:31,876 --> 00:24:34,243
+access to the SCPD
+computer network.
+
+578
+00:24:34,245 --> 00:24:36,679
+I did it.
+
+579
+00:24:36,681 --> 00:24:38,948
+He wanted me to give him
+
+580
+00:24:38,950 --> 00:24:40,683
+the departmental
+patrol schedules.
+
+581
+00:24:40,685 --> 00:24:42,251
+I did that.
+
+582
+00:24:42,253 --> 00:24:44,053
+He wanted me to break in
+
+583
+00:24:44,055 --> 00:24:46,021
+to a federal server farm
+
+584
+00:24:46,023 --> 00:24:49,225
+to install a computer
+virus. And I did that.
+
+585
+00:24:50,962 --> 00:24:52,595
+He wanted me to give
+him information
+
+586
+00:24:52,597 --> 00:24:54,230
+on the City's leadership.
+
+587
+00:24:54,232 --> 00:24:57,466
+And I...I did that.
+
+588
+00:24:57,468 --> 00:24:59,034
+And 3 days later,
+the City leadership
+
+589
+00:24:59,036 --> 00:25:00,236
+were all dead.
+
+590
+00:25:00,238 --> 00:25:02,037
+You did all of
+these things
+
+591
+00:25:02,039 --> 00:25:03,506
+for the defendant?
+
+592
+00:25:03,508 --> 00:25:04,907
+The defendant and the
+organization he works for.
+
+593
+00:25:04,909 --> 00:25:06,342
+He called it HIVE.
+
+594
+00:25:06,344 --> 00:25:08,544
+Objection. Your honor,
+it's hearsay.
+
+595
+00:25:08,546 --> 00:25:10,379
+Statement against interest,
+your honor.
+
+596
+00:25:10,381 --> 00:25:11,747
+Overruled.
+
+597
+00:25:13,885 --> 00:25:17,353
+Captain Lance, why would
+you do these things?
+
+598
+00:25:17,355 --> 00:25:20,756
+At first, I didn't know
+his intentions,
+
+599
+00:25:20,758 --> 00:25:22,892
+like with the fire chief.
+
+600
+00:25:22,894 --> 00:25:24,994
+But then when I confronted
+Darhk about it, he told me
+
+601
+00:25:24,996 --> 00:25:27,563
+that if I didn't do
+everything he asked--
+
+602
+00:25:27,565 --> 00:25:31,066
+everything he told me
+to do--
+
+603
+00:25:33,304 --> 00:25:34,970
+he'd have you killed.
+
+604
+00:25:39,343 --> 00:25:41,811
+No more questions,
+your honor.
+
+605
+00:25:41,813 --> 00:25:43,479
+Mr. Fitzmartin, your witness.
+
+606
+00:25:46,918 --> 00:25:48,517
+Captain Lance,
+
+607
+00:25:48,519 --> 00:25:50,920
+have you ever
+personally witnessed
+
+608
+00:25:50,922 --> 00:25:53,756
+my client commit
+any illegal act?
+
+609
+00:25:53,758 --> 00:25:55,758
+Well, I'm pretty sure
+that threatening
+
+610
+00:25:55,760 --> 00:25:57,593
+the daughter of a police captain
+isn't legal, counselor.
+
+611
+00:25:57,595 --> 00:25:59,061
+- Objection.
+- Overruled.
+
+612
+00:25:59,063 --> 00:26:01,063
+You know, the fact of
+the matter is,
+
+613
+00:26:01,065 --> 00:26:03,332
+I've seen your client in
+his little hidey-hole
+
+614
+00:26:03,334 --> 00:26:04,834
+with his little men.
+
+615
+00:26:04,836 --> 00:26:06,101
+Ghosts he calls them.
+
+616
+00:26:06,103 --> 00:26:07,937
+And I've heard him say
+repeatedly
+
+617
+00:26:07,939 --> 00:26:09,872
+how he wants to destroy
+this city
+
+618
+00:26:09,874 --> 00:26:11,974
+and that if I didn't
+help him do it,
+
+619
+00:26:11,976 --> 00:26:14,243
+then he'd kill my
+daughter.
+
+620
+00:26:16,214 --> 00:26:17,646
+By saying all these
+things,
+
+621
+00:26:17,648 --> 00:26:20,349
+I'm setting a match
+to my career
+
+622
+00:26:20,351 --> 00:26:22,952
+and maybe my life.
+
+623
+00:26:22,954 --> 00:26:24,787
+So why would I be doing
+that if everything I'm
+
+624
+00:26:24,789 --> 00:26:26,622
+saying isn't true?
+
+625
+00:26:40,271 --> 00:26:42,938
+In position.
+
+626
+00:26:42,940 --> 00:26:44,573
+In position.
+
+627
+00:26:44,575 --> 00:26:47,176
+There's no psychopaths here
+other than paparazzi.
+
+628
+00:26:48,779 --> 00:26:50,846
+Tapped into
+security cameras. All clear.
+
+629
+00:27:04,161 --> 00:27:06,195
+Everything OK?
+
+630
+00:27:06,197 --> 00:27:09,164
+Yes. Yeah.
+
+631
+00:27:10,635 --> 00:27:12,568
+You look perfect.
+
+632
+00:27:14,705 --> 00:27:16,639
+I'd like to assure you,
+I won't breathe a word
+
+633
+00:27:16,641 --> 00:27:18,173
+of what goes on here
+to the press.
+
+634
+00:27:18,175 --> 00:27:20,042
+Just thrilled to be part
+of your day.
+
+635
+00:27:20,044 --> 00:27:21,877
+- Thank you.
+- Can we get this over with?
+
+636
+00:27:24,215 --> 00:27:25,381
+Can't wait to be
+married to this guy.
+
+637
+00:27:25,383 --> 00:27:27,616
+In that case,
+
+638
+00:27:27,618 --> 00:27:28,918
+I know you've written
+your own vows.
+
+639
+00:27:28,920 --> 00:27:30,419
+Felicity...
+
+640
+00:27:30,421 --> 00:27:32,054
+The vows.
+
+641
+00:27:32,056 --> 00:27:33,088
+Yeah.
+
+642
+00:27:33,090 --> 00:27:36,592
+OK, um...
+
+643
+00:27:37,995 --> 00:27:41,830
+Oliver, you have many
+qualities...
+
+644
+00:27:43,034 --> 00:27:44,833
+many astonishing
+qualities.
+
+645
+00:27:44,835 --> 00:27:46,735
+And I, for one,
+cannot wait to move on
+
+646
+00:27:46,737 --> 00:27:49,004
+to the next chapter.
+
+647
+00:27:49,006 --> 00:27:52,141
+All right.
+Uh, Oliver?
+
+648
+00:27:53,244 --> 00:27:54,610
+Felicity...
+
+649
+00:27:56,647 --> 00:27:59,648
+before I met you,
+I had a plan.
+
+650
+00:27:59,650 --> 00:28:01,984
+I had a way that I was
+gonna be.
+
+651
+00:28:01,986 --> 00:28:07,222
+But then you walked
+into my life.
+
+652
+00:28:07,224 --> 00:28:12,227
+Or, I--I...showed up
+at your cubicle and...
+
+653
+00:28:14,031 --> 00:28:16,031
+you changed everything.
+
+654
+00:28:17,435 --> 00:28:20,102
+I was in darkness.
+
+655
+00:28:20,104 --> 00:28:24,873
+But with your kindness,
+
+656
+00:28:24,875 --> 00:28:27,676
+your generosity,
+your compassion,
+
+657
+00:28:27,678 --> 00:28:31,847
+your intelligence,
+your wit, and your trust...
+
+658
+00:28:33,951 --> 00:28:36,051
+you brought me into
+the light.
+
+659
+00:28:37,755 --> 00:28:40,723
+You let me know...
+
+660
+00:28:40,725 --> 00:28:42,658
+that I deserved it.
+
+661
+00:28:45,629 --> 00:28:47,563
+You were that light.
+
+662
+00:28:49,433 --> 00:28:52,668
+And I don't know if I still
+deserve that trust...
+
+663
+00:28:54,071 --> 00:28:55,871
+if I deserve you.
+
+664
+00:28:57,808 --> 00:28:59,608
+I probably don't.
+
+665
+00:29:01,412 --> 00:29:05,280
+But whatever has happened,
+whatever will happen,
+
+666
+00:29:05,282 --> 00:29:08,417
+the way that you
+make me feel is
+
+667
+00:29:08,419 --> 00:29:10,486
+the best part of my life.
+
+668
+00:29:12,256 --> 00:29:15,758
+You can ask me to say
+that I don't love you...
+
+669
+00:29:19,130 --> 00:29:23,766
+that I will never lie
+to you again.
+
+670
+00:29:25,536 --> 00:29:27,603
+You are my always.
+
+671
+00:29:27,605 --> 00:29:31,507
+And I just want the chance
+to be yours.
+
+672
+00:29:31,509 --> 00:29:33,642
+Oliver.
+
+673
+00:29:35,546 --> 00:29:36,979
+Hello, lovers.
+
+674
+00:29:36,981 --> 00:29:38,447
+Run.
+
+675
+00:29:41,152 --> 00:29:42,217
+We have eyes on?
+
+676
+00:29:42,219 --> 00:29:43,485
+Copy that. I'm here.
+
+677
+00:29:43,487 --> 00:29:45,320
+Yeah, we got that.
+Hold tight.
+
+678
+00:29:45,322 --> 00:29:47,256
+Your little speech,
+
+679
+00:29:47,258 --> 00:29:48,957
+it was only off
+by a little.
+
+680
+00:29:48,959 --> 00:29:50,726
+You see, she isn't
+the best thing
+
+681
+00:29:50,728 --> 00:29:51,960
+in your life.
+
+682
+00:29:51,962 --> 00:29:54,363
+Because that means
+you love her.
+
+683
+00:29:54,365 --> 00:29:57,132
+And love means you're soft.
+
+684
+00:29:57,134 --> 00:30:00,702
+And soft
+means death.
+
+685
+00:30:00,704 --> 00:30:02,037
+Here. Let me show you.
+
+686
+00:30:06,377 --> 00:30:10,946
+Oh. Sorry. I didn't
+check your gift registry.
+
+687
+00:30:13,784 --> 00:30:17,186
+Was an explosion that
+would bring down
+
+688
+00:30:17,188 --> 00:30:19,354
+this whole building
+on your list?
+
+689
+00:30:30,409 --> 00:30:33,243
+Your engagement,
+that horrible shooting,
+
+690
+00:30:33,245 --> 00:30:35,913
+your miracle recovery--
+
+691
+00:30:35,915 --> 00:30:38,148
+it was all just
+a fairy tale.
+
+692
+00:30:38,150 --> 00:30:40,484
+Camelot in Star City.
+
+693
+00:30:40,486 --> 00:30:41,785
+Thank you.
+
+694
+00:30:41,787 --> 00:30:43,720
+But once Camelot dies,
+
+695
+00:30:43,722 --> 00:30:45,889
+everyone will know
+my truth--
+
+696
+00:30:45,891 --> 00:30:50,861
+that love is a bullet
+to the brain.
+
+697
+00:30:50,863 --> 00:30:53,230
+No.
+No, it's not.
+
+698
+00:30:58,370 --> 00:31:01,038
+Kevlar under
+the tux.
+
+699
+00:31:01,040 --> 00:31:03,440
+My bodyguard
+insisted.
+
+700
+00:31:03,442 --> 00:31:06,643
+What was his plan
+for C4?
+
+701
+00:31:06,645 --> 00:31:08,245
+That's a damn good question.
+
+702
+00:31:08,247 --> 00:31:10,147
+You know, you don't
+have to do this.
+
+703
+00:31:10,149 --> 00:31:11,281
+I do.
+
+704
+00:31:14,053 --> 00:31:18,655
+The 2 words that start
+every marriage: "I do."
+
+705
+00:31:18,657 --> 00:31:21,258
+True love.
+People need to see.
+
+706
+00:31:21,260 --> 00:31:23,494
+They need to know
+what a joke that is.
+
+707
+00:31:23,496 --> 00:31:24,895
+It's not.
+
+708
+00:31:24,897 --> 00:31:29,666
+I have loved
+2 men in my life
+
+709
+00:31:29,668 --> 00:31:31,835
+with all my soul.
+
+710
+00:31:33,172 --> 00:31:34,838
+They're both dead now.
+
+711
+00:31:36,408 --> 00:31:40,344
+No matter what, love
+always ends in death.
+
+712
+00:31:40,346 --> 00:31:42,513
+That's why it's in
+the vows.
+
+713
+00:31:42,515 --> 00:31:44,948
+I'm just cutting out
+the middleman.
+
+714
+00:31:46,452 --> 00:31:50,521
+Love is death.
+
+715
+00:31:50,523 --> 00:31:52,256
+It's not.
+
+716
+00:31:52,258 --> 00:31:54,258
+You saw all those
+people outside, right?
+
+717
+00:31:55,661 --> 00:31:58,595
+They're out there
+because love is real,
+
+718
+00:31:58,597 --> 00:32:04,001
+because
+love is life itself.
+
+719
+00:32:04,003 --> 00:32:05,969
+And if I die tonight...
+
+720
+00:32:07,706 --> 00:32:10,874
+it'll be OK
+
+721
+00:32:10,876 --> 00:32:13,310
+because I was one
+of those people
+
+722
+00:32:13,312 --> 00:32:15,279
+lucky enough to have
+experienced it.
+
+723
+00:32:15,281 --> 00:32:18,148
+From the moment he
+walked into my life,
+
+724
+00:32:18,150 --> 00:32:19,883
+everything changed.
+
+725
+00:32:19,885 --> 00:32:22,352
+I became a person that
+I didn't even know
+
+726
+00:32:22,354 --> 00:32:24,187
+I was capable of
+becoming.
+
+727
+00:32:24,189 --> 00:32:27,190
+I became the very best
+version of myself.
+
+728
+00:32:27,192 --> 00:32:31,028
+That would never
+have been possible
+
+729
+00:32:31,030 --> 00:32:32,696
+without our love.
+
+730
+00:32:34,133 --> 00:32:36,366
+Our love gives my life
+meaning.
+
+731
+00:32:36,368 --> 00:32:38,402
+It gives
+my life purpose.
+
+732
+00:32:38,404 --> 00:32:41,204
+And it...
+
+733
+00:32:41,206 --> 00:32:43,006
+brings us more joy
+
+734
+00:32:43,008 --> 00:32:45,409
+than you can ever take
+away from us.
+
+735
+00:32:47,179 --> 00:32:49,746
+And it's worth
+living for.
+
+736
+00:32:50,783 --> 00:32:52,349
+All of it.
+
+737
+00:32:53,719 --> 00:32:55,552
+You really know how
+to make a girl
+
+738
+00:32:55,554 --> 00:32:57,354
+believe in love again.
+
+739
+00:33:30,756 --> 00:33:31,822
+You all right?
+
+740
+00:33:31,824 --> 00:33:33,557
+Yeah.
+
+741
+00:33:49,381 --> 00:33:51,648
+Thanks for giving
+the rest of us hope.
+
+742
+00:33:56,721 --> 00:33:57,720
+You OK?
+
+743
+00:33:57,722 --> 00:33:59,155
+Uh, yeah.
+
+744
+00:34:00,492 --> 00:34:04,394
+About what you said
+in there to Cutter,
+
+745
+00:34:04,396 --> 00:34:07,630
+maybe we could meet up
+and talk about it tonight
+
+746
+00:34:07,632 --> 00:34:09,098
+or...
+
+747
+00:34:09,100 --> 00:34:11,034
+No, not tonight.
+
+748
+00:34:11,036 --> 00:34:12,535
+I think we're both
+exhausted
+
+749
+00:34:12,537 --> 00:34:15,405
+from whatever
+that was.
+
+750
+00:34:15,407 --> 00:34:16,906
+Tomorrow.
+
+751
+00:34:16,908 --> 00:34:20,210
+Hey, guys, Laurel
+just texted.
+
+752
+00:34:20,212 --> 00:34:22,245
+I guess Judge Sakow
+is holding court late.
+
+753
+00:34:22,247 --> 00:34:23,413
+And she's making
+her decision.
+
+754
+00:34:23,415 --> 00:34:25,448
+Well, I should
+probably change.
+
+755
+00:34:25,450 --> 00:34:26,616
+This outfit is
+
+756
+00:34:26,618 --> 00:34:28,585
+a bit of
+a focus puller.
+
+757
+00:34:31,223 --> 00:34:33,122
+Not for nothing, Oliver,
+but I heard what, uh,
+
+758
+00:34:33,124 --> 00:34:34,757
+Felicity said in there.
+
+759
+00:34:34,759 --> 00:34:36,526
+Nobody likes an "I told
+you so," John.
+
+760
+00:34:36,528 --> 00:34:39,929
+I'm just saying,
+she needs some time.
+
+761
+00:34:51,276 --> 00:34:54,444
+Watch it. It could
+be a trap.
+
+762
+00:34:57,082 --> 00:35:00,016
+They just left it behind.
+Why would they do that?
+
+763
+00:35:05,690 --> 00:35:08,057
+Drop the weapon.
+
+764
+00:35:11,096 --> 00:35:13,129
+Maybe you should
+radio Reiter.
+
+765
+00:35:13,131 --> 00:35:14,297
+Why?
+
+766
+00:35:14,299 --> 00:35:16,132
+Now we have guns, too.
+
+767
+00:35:18,603 --> 00:35:21,437
+The standard of proof for
+a preliminary hearing is
+
+768
+00:35:21,439 --> 00:35:23,940
+much less severe than one
+for a trial.
+
+769
+00:35:23,942 --> 00:35:25,842
+Even so, the evidence
+against the defendant
+
+770
+00:35:25,844 --> 00:35:27,443
+is exceedingly thin.
+
+771
+00:35:27,445 --> 00:35:30,947
+There is no forensic
+or circumstantial evidence
+
+772
+00:35:30,949 --> 00:35:33,750
+that points
+to the defendant's guilt.
+
+773
+00:35:34,986 --> 00:35:38,655
+But I found Quentin Lance's
+testimony to be
+
+774
+00:35:38,657 --> 00:35:40,323
+particularly compelling.
+
+775
+00:35:40,325 --> 00:35:42,358
+His credibility is bolstered
+by his status
+
+776
+00:35:42,360 --> 00:35:44,427
+as a police captain.
+
+777
+00:35:44,429 --> 00:35:46,195
+But the fact that he was
+willing to incriminate
+
+778
+00:35:46,197 --> 00:35:49,565
+himself to see justice done
+makes his testimony
+
+779
+00:35:49,567 --> 00:35:51,134
+especially believable.
+
+780
+00:35:51,136 --> 00:35:54,337
+On the strength of it,
+I am denying
+
+781
+00:35:54,339 --> 00:35:56,372
+the defense's motion
+to dismiss
+
+782
+00:35:56,374 --> 00:35:58,508
+and bounding the defendant
+over for trial.
+
+783
+00:35:58,510 --> 00:36:00,677
+Mr. Darhk will be held
+without bail
+
+784
+00:36:00,679 --> 00:36:02,578
+or possibility of release.
+
+785
+00:36:21,700 --> 00:36:23,733
+All right.
+Next step, convicting
+
+786
+00:36:23,735 --> 00:36:25,568
+this son of a bitch.
+
+787
+00:36:25,570 --> 00:36:27,103
+Next step. Right.
+
+788
+00:36:27,105 --> 00:36:28,638
+Are we OK?
+
+789
+00:36:28,640 --> 00:36:30,340
+I wasn't exactly pulling
+punches on the stand.
+
+790
+00:36:30,342 --> 00:36:32,175
+No, I'm glad you did.
+Because of that,
+
+791
+00:36:32,177 --> 00:36:33,843
+Darhk's defense is
+blown to shreds.
+
+792
+00:36:33,845 --> 00:36:35,712
+He's gonna spend
+the rest of his life behind bars.
+
+793
+00:36:35,714 --> 00:36:38,047
+Hey, Quentin, you have
+a minute?
+
+794
+00:36:38,049 --> 00:36:39,549
+Yeah.
+
+795
+00:36:39,551 --> 00:36:41,584
+Lieutenant Pike, if I
+could just talk to you before--
+
+796
+00:36:41,586 --> 00:36:42,885
+It's all right, sweetheart.
+
+797
+00:36:42,887 --> 00:36:44,787
+We both know
+this was coming. Frank?
+
+798
+00:36:44,789 --> 00:36:46,389
+You're being suspended
+
+799
+00:36:46,391 --> 00:36:48,191
+pending an IAB
+investigation.
+
+800
+00:36:48,193 --> 00:36:49,759
+I'm gonna need your badge
+and your weapon.
+
+801
+00:36:49,761 --> 00:36:51,527
+Yeah.
+
+802
+00:36:53,665 --> 00:36:55,865
+Sorry about
+this, Quentin.
+
+803
+00:36:55,867 --> 00:36:58,401
+I'm sure your union rep
+will make it clear
+
+804
+00:36:58,403 --> 00:37:00,336
+to IAB that you were
+acting under duress.
+
+805
+00:37:00,338 --> 00:37:03,239
+Yeah, I'm good either way,
+Frank. Truly.
+
+806
+00:37:07,612 --> 00:37:09,579
+It's a temporary
+setback.
+
+807
+00:37:09,581 --> 00:37:11,681
+I'll represent you
+in front of IAB.
+
+808
+00:37:11,683 --> 00:37:14,250
+You just focus on
+nailing Darhk to a cross,
+
+809
+00:37:14,252 --> 00:37:15,318
+all right?
+
+810
+00:37:15,320 --> 00:37:17,887
+I'm proud of you, baby.
+
+811
+00:37:20,925 --> 00:37:22,859
+We have the results
+of the high-profile
+
+812
+00:37:22,861 --> 00:37:25,261
+preliminary hearing against
+purported Markovia...
+
+813
+00:37:25,263 --> 00:37:26,262
+Hi.
+
+814
+00:37:26,264 --> 00:37:27,797
+- Kenneth Bender...
+- Hi.
+
+815
+00:37:27,799 --> 00:37:29,432
+also known
+as Damien Darhk.
+
+816
+00:37:29,434 --> 00:37:30,600
+Darhk had previously
+been implicated...
+
+817
+00:37:30,602 --> 00:37:31,834
+I thought you'd be
+asleep by now.
+
+818
+00:37:31,836 --> 00:37:34,303
+Oh, I can't sleep.
+
+819
+00:37:34,305 --> 00:37:36,506
+What are you doing here?
+
+820
+00:37:36,508 --> 00:37:38,808
+I just came to pick up a few
+things. You know.
+
+821
+00:37:38,810 --> 00:37:40,810
+In other news,
+Star City's favorite couple,
+
+822
+00:37:40,812 --> 00:37:42,445
+Oliver Queen and Felicity Smoak,
+had an unexpected crasher...
+
+823
+00:37:42,447 --> 00:37:44,080
+That's not
+exactly how I pictured
+
+824
+00:37:44,082 --> 00:37:45,281
+our wedding day.
+
+825
+00:37:45,283 --> 00:37:46,649
+I don't know.
+Being kidnapped by
+
+826
+00:37:46,651 --> 00:37:48,051
+psychotic criminals
+has sort of been
+
+827
+00:37:48,053 --> 00:37:49,819
+the theme of our
+relationship.
+
+828
+00:37:49,821 --> 00:37:51,054
+...at
+the private ceremony at
+
+829
+00:37:51,056 --> 00:37:52,622
+the Hochman Hotel.
+Armed with explo...
+
+830
+00:37:59,064 --> 00:38:00,797
+Um, I want you
+to know that...
+
+831
+00:38:02,634 --> 00:38:05,902
+what I said today during
+the ceremony...
+
+832
+00:38:07,338 --> 00:38:09,672
+well, I meant every
+single word of it.
+
+833
+00:38:09,674 --> 00:38:11,808
+I love you...
+
+834
+00:38:17,282 --> 00:38:19,682
+with everything
+in me.
+
+835
+00:38:19,684 --> 00:38:22,485
+But what I said
+doesn't apply to us.
+
+836
+00:38:22,487 --> 00:38:25,822
+I can't be with you.
+I can't marry you.
+
+837
+00:38:25,824 --> 00:38:29,192
+Yes, you can.
+
+838
+00:38:29,194 --> 00:38:32,662
+Yes, you can because
+that's what both of us want.
+
+839
+00:38:32,664 --> 00:38:35,331
+You know, things
+can be different.
+
+840
+00:38:35,333 --> 00:38:36,999
+I could be different.
+
+841
+00:38:37,001 --> 00:38:42,705
+And I am promising you,
+I'm swearing to you,
+
+842
+00:38:42,707 --> 00:38:45,641
+there will be no more lies.
+
+843
+00:38:48,680 --> 00:38:50,813
+You know, no matter
+how much you love me,
+
+844
+00:38:50,815 --> 00:38:52,381
+there's always gonna be
+a part of you
+
+845
+00:38:52,383 --> 00:38:53,850
+that defaults to the man
+
+846
+00:38:53,852 --> 00:38:56,552
+who was on the island
+alone...
+
+847
+00:38:57,622 --> 00:39:01,491
+who came back to
+save the city alone.
+
+848
+00:39:02,961 --> 00:39:04,694
+And sooner than we both
+think, you're going to
+
+849
+00:39:04,696 --> 00:39:06,896
+be stuck
+in a situation
+
+850
+00:39:06,898 --> 00:39:09,132
+where you have to
+make a decision that
+
+851
+00:39:09,134 --> 00:39:12,101
+requires you to hide
+things from me again.
+
+852
+00:39:12,103 --> 00:39:13,703
+See, you can't know that.
+
+853
+00:39:13,705 --> 00:39:17,173
+I do know that,
+and you know that.
+
+854
+00:39:17,175 --> 00:39:18,674
+That's this life.
+
+855
+00:39:20,745 --> 00:39:23,479
+I'm sorry.
+
+856
+00:39:23,481 --> 00:39:25,848
+You know, 5 months ago,
+I convinced you
+
+857
+00:39:25,850 --> 00:39:27,750
+that we could have
+it all,
+
+858
+00:39:27,752 --> 00:39:30,119
+we could come here
+to this job
+
+859
+00:39:30,121 --> 00:39:31,354
+and have each other.
+
+860
+00:39:31,356 --> 00:39:32,889
+I was wrong.
+
+861
+00:39:34,359 --> 00:39:35,725
+And then I thought
+that we could just
+
+862
+00:39:35,727 --> 00:39:36,893
+go back to the way
+things were
+
+863
+00:39:36,895 --> 00:39:38,561
+before we left
+for Ivy Town.
+
+864
+00:39:38,563 --> 00:39:41,464
+But, God, that was
+as crazy as Cupid is.
+
+865
+00:39:44,969 --> 00:39:46,802
+So what does that mean?
+
+866
+00:39:48,239 --> 00:39:52,842
+It means that it is,
+um, too hard
+
+867
+00:39:52,844 --> 00:39:54,377
+to be here with you
+every night
+
+868
+00:39:54,379 --> 00:39:55,678
+and not be with you.
+
+869
+00:39:55,680 --> 00:39:57,180
+That's not fair
+to either of us.
+
+870
+00:39:57,182 --> 00:39:59,182
+You told me how you
+worked some tech magic
+
+871
+00:39:59,184 --> 00:40:01,150
+to return all the money
+that Adam Hunt swindled
+
+872
+00:40:01,152 --> 00:40:02,718
+out of people. You...
+
+873
+00:40:02,720 --> 00:40:03,886
+you don't need me.
+
+874
+00:40:03,888 --> 00:40:05,721
+You'll be fine.
+
+875
+00:40:10,628 --> 00:40:11,928
+You don't give up.
+
+876
+00:40:11,930 --> 00:40:13,829
+You know, that's what
+makes you a hero.
+
+877
+00:40:16,401 --> 00:40:18,734
+But there's
+no fixing this.
+
+878
+00:40:20,238 --> 00:40:22,572
+We have to let
+each other go.
+
+879
+00:40:28,746 --> 00:40:31,447
+I want you to keep
+it for good this time,
+
+880
+00:40:31,449 --> 00:40:32,949
+please.
+
+881
+00:40:37,422 --> 00:40:39,455
+I don't want
+to let you go.
+
+882
+00:40:41,292 --> 00:40:43,793
+I don't want to let
+you go.
+
+883
+00:40:44,963 --> 00:40:47,163
+But I'm already
+gone.
+
+884
+00:41:53,218 --> 00:41:59,718
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+885
+00:42:16,446 --> 00:42:18,446
+Greg!
+Move your head.
+

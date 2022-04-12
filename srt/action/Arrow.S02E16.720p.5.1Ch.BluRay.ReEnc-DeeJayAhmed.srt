@@ -1,0 +1,2546 @@
+﻿1
+00:00:00,500 --> 00:00:02,100
+<font color="#20e020">Subs fixed and enhanced by Treviso.
+Missing dialog added and some minor fixes by Tronar.</font>
+
+2
+00:00:02,120 --> 00:00:04,600
+My name is Oliver Queen.
+
+3
+00:00:04,800 --> 00:00:07,485
+After five years on a hellish island...
+
+4
+00:00:07,680 --> 00:00:10,286
+I have come home with only one goal:
+
+5
+00:00:10,480 --> 00:00:11,891
+To save my city.
+
+6
+00:00:12,520 --> 00:00:15,410
+But to do so, I can't be
+the killer I once was.
+
+7
+00:00:16,440 --> 00:00:20,240
+To honor my friend's memory,
+I must be someone else.
+
+8
+00:00:20,600 --> 00:00:24,969
+I must be something else.
+
+9
+00:00:25,120 --> 00:00:26,281
+Previously on Arrow:
+
+10
+00:00:26,440 --> 00:00:28,124
+In Afghanistan, my unit was...
+
+11
+00:00:28,320 --> 00:00:31,449
+tasked with protecting Gholem Qadir.
+Sold opium. Sold children.
+
+12
+00:00:31,640 --> 00:00:33,404
+How do you think your brother died?
+
+13
+00:00:33,600 --> 00:00:37,127
+- You shot at a client, you missed.
+- I don't miss.
+
+14
+00:00:37,280 --> 00:00:40,443
+- You murdered Shado.
+- Yes, I pulled the trigger.
+
+15
+00:00:40,640 --> 00:00:42,563
+But you, you aimed the gun.
+
+16
+00:00:49,640 --> 00:00:51,051
+What are you doing here?
+
+17
+00:00:51,320 --> 00:00:53,084
+Five years ago, I made you a promise.
+
+18
+00:00:53,360 --> 00:00:54,407
+You cannot die...
+
+19
+00:00:54,600 --> 00:01:00,323
+until you have known complete despair.
+And you will, I promise.
+
+20
+00:01:18,560 --> 00:01:19,641
+Sara?
+
+21
+00:01:23,320 --> 00:01:24,685
+Sara?
+
+22
+00:01:25,480 --> 00:01:26,845
+Murderer.
+
+23
+00:02:03,280 --> 00:02:04,361
+Alexi.
+
+24
+00:02:06,000 --> 00:02:10,130
+What can I do for you?
+There's no gulags here in Starling City.
+
+25
+00:02:10,280 --> 00:02:13,011
+Ha-ha-ha. Anatoli talks too much.
+
+26
+00:02:15,680 --> 00:02:17,284
+I need you to find a man for me.
+
+27
+00:02:17,720 --> 00:02:21,327
+His name is Slade Wilson. He's rich,
+Australian, and he's missing an eye.
+
+28
+00:02:21,760 --> 00:02:23,285
+I need to know where he sleeps.
+
+29
+00:02:23,480 --> 00:02:26,404
+First I need your assistance
+with my business.
+
+30
+00:02:26,560 --> 00:02:30,121
+There is a man who owes me
+a substantial amount of money.
+
+31
+00:02:30,320 --> 00:02:33,608
+- I am not here to trade.
+- You know how our brotherhood works.
+
+32
+00:02:34,200 --> 00:02:38,000
+I do a favor for you and you do one for me.
+
+33
+00:02:38,240 --> 00:02:39,924
+Put it on my tab, Alexi.
+
+34
+00:02:41,560 --> 00:02:43,244
+I don't have time for these games.
+
+35
+00:02:43,760 --> 00:02:45,000
+Make time.
+
+36
+00:02:45,960 --> 00:02:50,727
+My services are of no use to you
+unless yours are use to me.
+
+37
+00:02:55,040 --> 00:02:56,610
+Okay.
+
+38
+00:03:07,280 --> 00:03:11,604
+I know exactly how this brotherhood works,
+and right now it works for me.
+
+39
+00:03:28,040 --> 00:03:29,963
+- I woke up and you were gone.
+- Yeah.
+
+40
+00:03:30,360 --> 00:03:31,486
+I wasn't tired.
+
+41
+00:03:31,640 --> 00:03:32,766
+You should be.
+
+42
+00:03:32,960 --> 00:03:35,247
+When was the last time you actually slept?
+
+43
+00:03:35,480 --> 00:03:38,370
+Right before I found out that Slade Wilson
+is still alive.
+
+44
+00:03:40,640 --> 00:03:41,846
+Do you wanna talk?
+
+45
+00:03:43,960 --> 00:03:48,648
+I mean, I know neither one of us are very
+good about sharing our feelings, but...
+
+46
+00:03:50,320 --> 00:03:51,560
+I mean, I get it.
+
+47
+00:03:52,480 --> 00:03:53,481
+Slade...
+
+48
+00:03:55,240 --> 00:03:58,847
+It's a lot. And, you know,
+it's okay if you're scared. I am too.
+
+49
+00:03:59,040 --> 00:04:00,485
+I'm not scared.
+
+50
+00:04:02,160 --> 00:04:04,322
+Slade came back to Starling City
+with an agenda.
+
+51
+00:04:04,520 --> 00:04:06,648
+First, he tries to
+mass-produce the Mirakuru.
+
+52
+00:04:06,840 --> 00:04:11,289
+Then he shows up at my mother's house.
+
+53
+00:04:11,520 --> 00:04:13,807
+So he wants a fight?
+Fine, I'll give him a fight.
+
+54
+00:04:14,000 --> 00:04:18,528
+And this time when I kill him, I will make
+damn sure that he stays dead.
+
+55
+00:04:19,880 --> 00:04:22,281
+I just need to find him.
+
+56
+00:04:46,120 --> 00:04:48,361
+- Coffee? Mm.
+- Hot cocoa.
+
+57
+00:04:48,560 --> 00:04:49,686
+What, no marshmallows?
+
+58
+00:04:50,040 --> 00:04:51,849
+- I'm out.
+- Mm.
+
+59
+00:04:52,320 --> 00:04:53,765
+What are you doing here, Dig?
+
+60
+00:04:53,960 --> 00:04:55,610
+- Just keeping an eye on things.
+- Okay...
+
+61
+00:04:55,800 --> 00:04:57,564
+and by "things," you mean my neck.
+
+62
+00:04:57,720 --> 00:05:00,485
+The one you think Slade Wilson's
+going to break in my sleep.
+
+63
+00:05:00,680 --> 00:05:02,170
+Yeah, something like that.
+
+64
+00:05:02,480 --> 00:05:05,165
+Look, I have extra security details on
+Oliver's mother...
+
+65
+00:05:05,680 --> 00:05:08,684
+Roy's keeping an eye on Thea,
+Sara's staying close to Laurel.
+
+66
+00:05:09,040 --> 00:05:10,769
+So I get you...
+
+67
+00:05:10,960 --> 00:05:14,851
+sitting outside my house like that lacrosse
+player my freshman year of college.
+
+68
+00:05:15,800 --> 00:05:18,485
+You know, I had a life before
+you and Oliver. You know?
+
+69
+00:05:18,680 --> 00:05:20,284
+Right.
+
+70
+00:05:20,480 --> 00:05:22,624
+I just wanna make sure
+you're okay, Felicity.
+
+71
+00:05:22,649 --> 00:05:23,906
+And I love you for it.
+
+72
+00:05:24,480 --> 00:05:26,289
+But if Slade wants to kill me, he can.
+
+73
+00:05:26,880 --> 00:05:28,723
+There's nothing you can do to stop him.
+
+74
+00:05:29,240 --> 00:05:30,287
+So go home.
+
+75
+00:05:30,840 --> 00:05:31,887
+Okay?
+
+76
+00:05:36,080 --> 00:05:37,605
+Hey.
+
+77
+00:05:38,600 --> 00:05:40,170
+Nice jammies.
+
+78
+00:06:08,320 --> 00:06:09,481
+What took you so long?
+
+79
+00:06:12,720 --> 00:06:14,404
+What is all this?
+
+80
+00:06:15,800 --> 00:06:18,007
+A little early for
+champagne, don't you think?
+
+81
+00:06:18,960 --> 00:06:20,769
+Not for me.
+
+82
+00:06:21,160 --> 00:06:23,367
+I just got back from a
+mission in Pyongyang.
+
+83
+00:06:24,680 --> 00:06:26,125
+Well, damn.
+
+84
+00:06:26,760 --> 00:06:28,000
+That was you?
+
+85
+00:06:28,440 --> 00:06:29,771
+I'm sorry.
+
+86
+00:06:30,040 --> 00:06:32,691
+- That's classified information.
+- Ah.
+
+87
+00:06:33,400 --> 00:06:37,166
+But I missed my ex-husband, new boyfriend.
+
+88
+00:06:37,560 --> 00:06:42,009
+And A.R.G.U.S. has a standing reservation
+at this hotel for very important assets.
+
+89
+00:06:42,160 --> 00:06:45,164
+- Mm
+- Can you stay?
+
+90
+00:06:45,320 --> 00:06:48,961
+Oh, well, Oliver and I kind of have a...
+
+91
+00:06:49,840 --> 00:06:51,808
+situation.
+
+92
+00:06:52,240 --> 00:06:53,730
+Everything all right?
+
+93
+00:06:54,160 --> 00:06:56,322
+Yeah. Yeah, it's... Yeah.
+
+94
+00:06:58,160 --> 00:07:00,447
+So you can stay.
+
+95
+00:07:04,360 --> 00:07:05,850
+Mm.
+
+96
+00:07:10,760 --> 00:07:12,285
+Hey.
+
+97
+00:07:12,840 --> 00:07:17,482
+- Is there a problem, Michaels?
+- We need to rest. These women are tired.
+
+98
+00:07:17,680 --> 00:07:20,411
+We're all tired.
+It's a long hike back to camp. Keep going.
+
+99
+00:07:20,680 --> 00:07:23,809
+Shall I go explain to the ladies
+why they wanna get back before dark?
+
+100
+00:07:24,040 --> 00:07:25,690
+They're not allowed to talk to you.
+
+101
+00:07:25,880 --> 00:07:28,008
+- Because I'm an American?
+- Because you're a man.
+
+102
+00:07:28,200 --> 00:07:29,440
+Five minutes.
+
+103
+00:07:33,880 --> 00:07:37,407
+Ugh. Girls in the military.
+
+104
+00:07:37,680 --> 00:07:39,887
+Can't keep up, don't join up, right?
+
+105
+00:08:07,160 --> 00:08:09,447
+Whoa, whoa. Hey, what's going on here?
+
+106
+00:08:09,640 --> 00:08:10,801
+What's going on?
+
+107
+00:08:11,000 --> 00:08:12,286
+You recognize that face?
+
+108
+00:08:12,840 --> 00:08:14,126
+You should.
+
+109
+00:08:14,320 --> 00:08:16,926
+He's on the U.S. military's
+high-value target list.
+
+110
+00:08:17,120 --> 00:08:20,761
+Gholem Qadir.
+Opium drug lord and arms dealer.
+
+111
+00:08:21,400 --> 00:08:23,129
+Wanted alive.
+
+112
+00:08:31,080 --> 00:08:33,811
+What were you saying about women
+in the military?
+
+113
+00:08:34,480 --> 00:08:37,165
+Why didn't we do fun stuff like this
+when we were married?
+
+114
+00:08:37,360 --> 00:08:39,920
+And take time from our busy schedule
+of driving each other crazy?
+
+115
+00:08:42,600 --> 00:08:45,285
+- Amanda.
+- Don't look so worried, Agent Michaels.
+
+116
+00:08:45,600 --> 00:08:49,446
+We've all availed ourselves of the Ostrander
+suite at some point in our careers.
+
+117
+00:08:51,280 --> 00:08:53,806
+Something's come up,
+I'll need you to come with me.
+
+118
+00:08:54,000 --> 00:08:55,729
+- Duty calls.
+- Yeah, guess so.
+
+119
+00:08:55,920 --> 00:09:00,164
+Actually, I meant both of you.
+
+120
+00:09:01,800 --> 00:09:03,211
+What are we looking at here?
+
+121
+00:09:03,400 --> 00:09:06,290
+- Hydroxy-Cyclosarin.
+- It's a nerve agent.
+
+122
+00:09:06,480 --> 00:09:08,680
+It's the apocalypse in the form
+of a chemical weapon.
+
+123
+00:09:08,800 --> 00:09:10,962
+And it's about to hit the open market.
+
+124
+00:09:11,160 --> 00:09:14,050
+A.R.G.U.S. agents uncovered a
+manufacturing plant in Kahndaq.
+
+125
+00:09:15,120 --> 00:09:17,646
+All samples were accounted for,
+except for one.
+
+126
+00:09:17,840 --> 00:09:22,448
+Two weeks later, this footage was captured
+in a remote village in Southern Qurac.
+
+127
+00:09:22,640 --> 00:09:24,881
+One milliliter has a
+kill radius of 10 miles.
+
+128
+00:09:25,120 --> 00:09:27,646
+It only took half that amount to produce
+these results.
+
+129
+00:09:27,840 --> 00:09:32,243
+Our sources have traced the sample through
+Europe, to an estate in Markovia.
+
+130
+00:09:32,440 --> 00:09:33,487
+So send in the Army.
+
+131
+00:09:33,680 --> 00:09:37,571
+We send in the Army, we risk an international
+spectacle our government can't afford.
+
+132
+00:09:37,920 --> 00:09:39,081
+This has to be off-book.
+
+133
+00:09:39,320 --> 00:09:42,164
+If you need me to draw up
+a smash-and-grab, done.
+
+134
+00:09:42,720 --> 00:09:44,245
+But John isn't a field agent.
+
+135
+00:09:44,440 --> 00:09:45,646
+He's not qualified.
+
+136
+00:09:45,840 --> 00:09:48,684
+Judging from how he and Oliver Queen
+spend their free time...
+
+137
+00:09:48,880 --> 00:09:50,405
+I'd say his credits transfer.
+
+138
+00:09:50,600 --> 00:09:53,490
+Hey look, I don't want this thing out in
+the open any more than you do...
+
+139
+00:09:53,680 --> 00:09:56,729
+but I'm not sending my boss on
+another of your business trips.
+
+140
+00:09:56,920 --> 00:09:59,890
+I have no intention of involving the Arrow.
+
+141
+00:10:00,200 --> 00:10:01,770
+- I need you.
+- What for?
+
+142
+00:10:02,920 --> 00:10:04,570
+Gholem Qadir.
+
+143
+00:10:04,920 --> 00:10:05,742
+We caught him.
+
+144
+00:10:05,767 --> 00:10:08,232
+D.O.D. turned Qadir
+loose a few years ago.
+
+145
+00:10:08,400 --> 00:10:10,129
+And who thought that was a good idea?
+
+146
+00:10:10,360 --> 00:10:11,930
+It's a complicated world, Johnny.
+
+147
+00:10:12,120 --> 00:10:16,125
+The nerve agent's not the only WMD Qadir's
+tried getting his scummy fingers on.
+
+148
+00:10:16,360 --> 00:10:20,251
+Last month, he tried to buy Malcolm
+Merlyn's prototype earthquake machine.
+
+149
+00:10:20,440 --> 00:10:22,363
+Thank you for stopping that, by the way.
+
+150
+00:10:22,960 --> 00:10:25,725
+Fortunately, he doesn't know
+about your involvement in that.
+
+151
+00:10:25,920 --> 00:10:28,969
+He remembers you as the man
+who tried to save his life.
+
+152
+00:10:29,360 --> 00:10:32,682
+The nerve agent's under lock and key
+at his estate in Markovia.
+
+153
+00:10:32,880 --> 00:10:34,882
+He's scheduled to host a
+fundraiser there shortly.
+
+154
+00:10:35,040 --> 00:10:37,088
+The two of us haven't
+exactly kept in touch.
+
+155
+00:10:37,320 --> 00:10:41,211
+We've got that covered,
+but our window is rapidly closing.
+
+156
+00:10:45,680 --> 00:10:46,761
+Okay.
+
+157
+00:10:46,960 --> 00:10:49,486
+I infiltrate the fundraiser,
+come out with the package.
+
+158
+00:10:49,680 --> 00:10:53,082
+- Sounds simple enough.
+- Nothing in this business is simple.
+
+159
+00:10:53,400 --> 00:10:54,925
+You know that, Mr. Diggle.
+
+160
+00:10:55,520 --> 00:10:57,409
+Follow me.
+
+161
+00:10:57,600 --> 00:10:59,648
+I don't need you to get
+the nerve agent out.
+
+162
+00:10:59,920 --> 00:11:01,410
+I need you to get your team in.
+
+163
+00:11:02,000 --> 00:11:03,809
+My team?
+
+164
+00:11:04,080 --> 00:11:06,924
+They're designated "Task Force X".
+
+165
+00:11:07,120 --> 00:11:08,326
+Give me a break.
+
+166
+00:11:11,920 --> 00:11:15,561
+This ain't no task force.
+Let's call it like it is.
+
+167
+00:11:16,600 --> 00:11:18,967
+Welcome to the Suicide Squad.
+
+168
+00:11:26,080 --> 00:11:30,449
+It's not only prisoners who grow coarse
+and hardened from corporal punishment...
+
+169
+00:11:30,640 --> 00:11:34,486
+but those as well who perpetrate the act
+or who are present to witness it.
+
+170
+00:11:34,680 --> 00:11:38,241
+- Oh, please stop giving him books.
+- So this is your unit, huh, Waller?
+
+171
+00:11:38,440 --> 00:11:40,886
+What, O.J. and Charles Manson
+weren't available?
+
+172
+00:11:41,320 --> 00:11:43,846
+This is a dangerous operation.
+
+173
+00:11:44,080 --> 00:11:45,969
+And these men have useful skills.
+
+174
+00:11:46,160 --> 00:11:49,209
+- Should the mission be compromised...
+- You'll just write them off.
+
+175
+00:11:49,880 --> 00:11:51,166
+The Suicide Squad.
+
+176
+00:11:58,040 --> 00:12:00,691
+Yeah, like he would ever
+make the sacrifice.
+
+177
+00:12:06,520 --> 00:12:08,363
+I can't believe you're
+on board with this.
+
+178
+00:12:08,560 --> 00:12:10,847
+- Those men are murderers.
+- And what's the number of...
+
+179
+00:12:11,080 --> 00:12:12,800
+bodies between Oliver Queen and Sara Lance?
+
+180
+00:12:12,840 --> 00:12:14,001
+What they do...
+
+181
+00:12:14,160 --> 00:12:15,730
+What I do is completely different.
+
+182
+00:12:16,000 --> 00:12:18,002
+Not really, John. Don't you see that?
+
+183
+00:12:18,200 --> 00:12:21,240
+What I see is you letting the man
+who killed my brother roam completely free.
+
+184
+00:12:21,400 --> 00:12:23,209
+It's not freedom. It's work.
+
+185
+00:12:23,400 --> 00:12:26,324
+- It's wrong.
+- Do you cuties need some counseling?
+
+186
+00:12:26,720 --> 00:12:28,165
+I'm a trained therapist.
+
+187
+00:12:31,240 --> 00:12:34,767
+"Do you have previous
+experience in retail?"
+
+188
+00:12:35,000 --> 00:12:36,047
+Does shopping count?
+
+189
+00:12:41,280 --> 00:12:43,009
+Sara?
+
+190
+00:12:43,160 --> 00:12:44,571
+I've seen that look before.
+
+191
+00:12:44,760 --> 00:12:47,525
+On my face in the mirror,
+when Ollie goes into distant mode.
+
+192
+00:12:48,360 --> 00:12:49,407
+Hang in there.
+
+193
+00:12:49,600 --> 00:12:52,126
+- He'll open up to you when he's ready.
+- Yeah.
+
+194
+00:12:52,320 --> 00:12:53,651
+You'd think so.
+
+195
+00:12:54,680 --> 00:12:57,923
+I started by tracing the donation Mr.
+Wilson made to Moira's campaign.
+
+196
+00:12:58,120 --> 00:13:01,400
+All of the money was routed through a series
+of offshore accounts, none of which...
+
+197
+00:13:01,560 --> 00:13:05,121
+link back to a local address. So I
+looked into credit card transactions...
+
+198
+00:13:05,320 --> 00:13:07,402
+and car rental agreements.
+
+199
+00:13:07,640 --> 00:13:10,689
+He's gotta get around somehow,
+just not by rental car.
+
+200
+00:13:11,040 --> 00:13:13,247
+Slade's former ASIS.
+He knows how to be a ghost.
+
+201
+00:13:15,840 --> 00:13:16,966
+Robbery in progress.
+
+202
+00:13:19,400 --> 00:13:20,606
+5th and Giffen.
+
+203
+00:13:23,120 --> 00:13:25,361
+Still in the crime-fighting
+business, right?
+
+204
+00:14:19,200 --> 00:14:20,964
+Harbinger has eyes on the target.
+
+205
+00:14:21,480 --> 00:14:22,606
+Light the torches.
+
+206
+00:14:23,120 --> 00:14:24,963
+Deadshot is a go.
+
+207
+00:14:25,600 --> 00:14:26,931
+Shrapnel is a go.
+
+208
+00:14:27,240 --> 00:14:28,321
+Tiger is a go.
+
+209
+00:14:30,280 --> 00:14:33,363
+This is Mockingbird.
+Harbinger, you have a green light.
+
+210
+00:14:33,800 --> 00:14:35,564
+Freelancer, you're a go.
+
+211
+00:14:35,760 --> 00:14:38,570
+- Deadshot?
+- Got Freelancer in my sights.
+
+212
+00:14:38,880 --> 00:14:41,167
+What's stopping you from shooting me
+right now?
+
+213
+00:14:41,680 --> 00:14:42,841
+Honor.
+
+214
+00:14:47,160 --> 00:14:49,288
+Can I trouble you for a
+cigarette, my friend?
+
+215
+00:14:49,800 --> 00:14:50,881
+Don't smoke.
+
+216
+00:14:51,360 --> 00:14:52,521
+And I'm not your friend.
+
+217
+00:14:54,200 --> 00:14:55,565
+You know who I am?
+
+218
+00:14:56,240 --> 00:14:57,480
+What it is I do?
+
+219
+00:15:00,040 --> 00:15:02,441
+You deal in drugs, weapons, and children.
+
+220
+00:15:03,040 --> 00:15:04,883
+You play both sides of the conflict.
+
+221
+00:15:05,080 --> 00:15:06,969
+You make money while your country burns.
+
+222
+00:15:08,920 --> 00:15:10,490
+I do not have to be the only one.
+
+223
+00:15:10,720 --> 00:15:12,768
+Let me go, I make you rich.
+
+224
+00:15:12,960 --> 00:15:14,325
+Trying to bribe my men, Qadir?
+
+225
+00:15:14,480 --> 00:15:17,120
+If we wanted to make a buck,
+this is the last place we'd be, moron.
+
+226
+00:15:18,280 --> 00:15:19,770
+- Get down.
+- Aah!
+
+227
+00:15:19,960 --> 00:15:21,371
+Heads up!
+
+228
+00:15:29,840 --> 00:15:32,525
+Oof. I'm sorry, I wasn't
+looking where I was...
+
+229
+00:15:33,440 --> 00:15:34,930
+Gholem Qadir.
+
+230
+00:15:35,600 --> 00:15:37,523
+I do not know what is less likely...
+
+231
+00:15:37,680 --> 00:15:41,480
+that John Diggle would be clumsy, or
+that I would find him here, of all places.
+
+232
+00:15:41,680 --> 00:15:42,761
+You like art, my friend?
+
+233
+00:15:42,960 --> 00:15:45,930
+- I know a good investment when I see one.
+- Out of the military, then?
+
+234
+00:15:46,120 --> 00:15:48,964
+- And in a more lucrative line of work.
+- What kind of work is that?
+
+235
+00:15:49,280 --> 00:15:50,964
+The kind you don't get to ask about.
+
+236
+00:15:51,200 --> 00:15:52,725
+It was good seeing you, Gholem.
+
+237
+00:15:52,920 --> 00:15:56,527
+- Everything all right here, Mr. Diggle?
+- Yes. He's with me.
+
+238
+00:15:56,880 --> 00:15:59,360
+So the soldier now has his own security.
+
+239
+00:16:00,920 --> 00:16:04,322
+In my line of work, when I do a good job
+I tend to make enemies.
+
+240
+00:16:04,560 --> 00:16:05,607
+A good man turns bad.
+
+241
+00:16:06,800 --> 00:16:08,211
+Bad man turns good.
+
+242
+00:16:08,760 --> 00:16:11,843
+- You changed my life, you know.
+- Trust that was never my intention.
+
+243
+00:16:12,040 --> 00:16:15,089
+The intelligence I provided your
+government, it saved many lives.
+
+244
+00:16:15,720 --> 00:16:18,405
+Now, as a free man, I give back when I can.
+
+245
+00:16:18,600 --> 00:16:20,045
+Of course.
+
+246
+00:16:21,640 --> 00:16:23,324
+- Get down.
+- Aah!
+
+247
+00:16:28,720 --> 00:16:30,449
+It's all clear.
+
+248
+00:16:30,640 --> 00:16:32,130
+Déja vu, my friend.
+
+249
+00:16:32,320 --> 00:16:33,920
+- Mr. Qadir.
+- I am fine.
+
+250
+00:16:34,760 --> 00:16:36,922
+I do not believe I was the target.
+
+251
+00:16:40,360 --> 00:16:42,681
+Like I said, when I do my job right
+I tend to make enemies.
+
+252
+00:16:42,840 --> 00:16:44,365
+We should go.
+
+253
+00:16:47,240 --> 00:16:49,607
+Good job, Deadshot. You're a go for exfil.
+
+254
+00:16:49,960 --> 00:16:51,405
+Already in motion.
+
+255
+00:16:52,600 --> 00:16:55,490
+Except, uh, I'm not the only one.
+
+256
+00:16:55,640 --> 00:16:57,768
+Heh, Shrapnel just bolted.
+
+257
+00:16:57,920 --> 00:16:59,410
+Find him.
+
+258
+00:16:59,600 --> 00:17:01,489
+Picking him up headed east.
+
+259
+00:17:03,640 --> 00:17:07,167
+Shrapnel.
+Stand down and return to the rally point.
+
+260
+00:17:07,360 --> 00:17:10,170
+I won't be conscripted into your
+immoral army.
+
+261
+00:17:10,360 --> 00:17:12,522
+Stand down. Final warning.
+
+262
+00:17:12,800 --> 00:17:15,480
+Especially not while I'm in a country
+without an extradition treaty.
+
+263
+00:17:15,720 --> 00:17:16,767
+Very well.
+
+264
+00:17:24,960 --> 00:17:26,530
+What the hell is going on?
+
+265
+00:17:26,720 --> 00:17:28,449
+Shrapnel just fouled out of the game.
+
+266
+00:17:41,480 --> 00:17:42,527
+What the hell was that?
+
+267
+00:17:42,720 --> 00:17:44,324
+We're gonna want popcorn for this.
+
+268
+00:17:44,520 --> 00:17:45,931
+You said it yourself, John...
+
+269
+00:17:46,200 --> 00:17:48,123
+they're murderers. Criminals.
+
+270
+00:17:48,680 --> 00:17:50,695
+They need an incentive
+to follow orders.
+
+271
+00:17:50,720 --> 00:17:53,028
+So you rigged their
+heads with explosives?
+
+272
+00:17:53,200 --> 00:17:56,204
+There's no danger as long as they play by
+the rules. Scheffer didn't.
+
+273
+00:17:56,400 --> 00:17:59,085
+It's like I don't even
+know you anymore, Lyla.
+
+274
+00:18:00,680 --> 00:18:02,409
+Where are we at with Qadir?
+
+275
+00:18:06,200 --> 00:18:07,565
+Save a man's life once...
+
+276
+00:18:07,880 --> 00:18:11,202
+get a silver star. Save it twice?
+Rent a tux.
+
+277
+00:18:11,880 --> 00:18:14,042
+I'll await further instructions, sir.
+
+278
+00:18:33,760 --> 00:18:35,444
+So is my patience.
+
+279
+00:18:36,880 --> 00:18:41,010
+This is Starling City bank account number
+for your Mr. Wilson.
+
+280
+00:18:42,720 --> 00:18:44,131
+To be clear...
+
+281
+00:18:44,720 --> 00:18:47,166
+take this envelope and we are through.
+
+282
+00:18:47,360 --> 00:18:49,681
+I do not care who your friends are.
+
+283
+00:19:04,320 --> 00:19:05,606
+Relax, it's just me.
+
+284
+00:19:06,280 --> 00:19:07,725
+What's going on, Ollie?
+
+285
+00:19:08,000 --> 00:19:09,081
+Hey.
+
+286
+00:19:09,280 --> 00:19:10,884
+- Talk to me.
+- Now is not the time.
+
+287
+00:19:11,120 --> 00:19:12,929
+Then when is the time?
+
+288
+00:19:13,320 --> 00:19:14,890
+The Bratva, Ollie?
+
+289
+00:19:15,080 --> 00:19:16,650
+You're losing your grip, okay?
+
+290
+00:19:16,880 --> 00:19:19,326
+- Slade's getting in your head.
+- I need this to stop.
+
+291
+00:19:19,800 --> 00:19:22,007
+And for it to stop, I need you to find him.
+
+292
+00:19:22,200 --> 00:19:25,090
+And until then, how long do you think
+you can keep this up for?
+
+293
+00:19:25,280 --> 00:19:30,127
+You're not eating. You're barely sleeping,
+and when you do, you have nightmares.
+
+294
+00:19:31,120 --> 00:19:32,724
+They're about her, aren't they?
+
+295
+00:19:34,440 --> 00:19:36,363
+Hey, look at me.
+
+296
+00:19:36,560 --> 00:19:38,164
+You did what you had to do, okay?
+
+297
+00:19:38,400 --> 00:19:41,449
+Ivo was going to shoot Shado, or me,
+or both of us.
+
+298
+00:19:41,800 --> 00:19:44,963
+- It was an impossible choice.
+- I made it anyway.
+
+299
+00:19:46,600 --> 00:19:50,207
+And if you had chosen differently,
+then it would be me haunting you at night.
+
+300
+00:19:53,520 --> 00:19:55,329
+It still could be, Sara.
+
+301
+00:19:56,760 --> 00:19:58,205
+That's why we have to stop.
+
+302
+00:20:01,120 --> 00:20:02,565
+What are you saying?
+
+303
+00:20:03,480 --> 00:20:05,323
+He's gonna use you to hurt me.
+
+304
+00:20:07,280 --> 00:20:09,328
+Or he's gonna hurt you.
+
+305
+00:20:17,600 --> 00:20:19,364
+Stay away from me.
+
+306
+00:20:24,360 --> 00:20:26,160
+Seeing as you haven't brought it up...
+
+307
+00:20:26,280 --> 00:20:29,204
+I'm guessing you haven't gotten far
+with that H.I.V.E. lead I gave you.
+
+308
+00:20:29,360 --> 00:20:31,647
+- Just make this quick.
+- Heh.
+
+309
+00:20:32,960 --> 00:20:35,247
+You're usually so chatty, John.
+
+310
+00:20:36,040 --> 00:20:38,611
+These problems with your girl,
+they got you down, huh?
+
+311
+00:20:38,840 --> 00:20:40,649
+And what about your girl?
+
+312
+00:20:40,880 --> 00:20:44,089
+The one you have a shrine to in that
+cell of yours?
+
+313
+00:20:44,280 --> 00:20:45,566
+Zoe.
+
+314
+00:20:47,920 --> 00:20:49,840
+Does your daughter know what
+you do for a living?
+
+315
+00:20:49,880 --> 00:20:51,564
+She is why I do what I do.
+
+316
+00:20:51,760 --> 00:20:53,410
+- Really?
+- Yeah.
+
+317
+00:20:53,680 --> 00:20:56,047
+How many enemies can a little girl have?
+
+318
+00:20:56,240 --> 00:20:57,924
+I wouldn't know.
+
+319
+00:20:58,120 --> 00:21:01,966
+Everything I make beyond expenses
+goes in a blind trust.
+
+320
+00:21:10,080 --> 00:21:11,570
+A girl needs her father.
+
+321
+00:21:11,760 --> 00:21:13,125
+No, not this father.
+
+322
+00:21:13,320 --> 00:21:15,322
+The best thing I can do for her life?
+
+323
+00:21:15,640 --> 00:21:16,926
+Not be in it.
+
+324
+00:21:22,440 --> 00:21:24,124
+Is it ready?
+
+325
+00:21:29,720 --> 00:21:31,580
+You know, we went through
+all that trouble to
+
+326
+00:21:31,605 --> 00:21:33,544
+get Johnny here invited
+to this little shindig.
+
+327
+00:21:33,720 --> 00:21:35,927
+Seems like an awful waste not
+to use that invitation.
+
+328
+00:21:36,120 --> 00:21:38,885
+You're using it. Once you have hands
+on the nerve agent...
+
+329
+00:21:39,080 --> 00:21:41,321
+pocket it, walk right on out.
+
+330
+00:21:41,760 --> 00:21:43,524
+Heh. Copy that.
+
+331
+00:21:48,200 --> 00:21:51,329
+Thank you very much.
+Your generosity is much appreciated.
+
+332
+00:21:55,240 --> 00:21:57,447
+That's not exactly Army camo.
+
+333
+00:21:57,880 --> 00:22:01,327
+Have you given any thought to what would
+happen if Qadir recognizes you anyway?
+
+334
+00:22:01,520 --> 00:22:04,842
+Mr. Diggle, who is this vision?
+
+335
+00:22:05,560 --> 00:22:06,721
+His new bodyguard.
+
+336
+00:22:06,880 --> 00:22:10,327
+Mm. You will have to refer me
+to your security company.
+
+337
+00:22:10,560 --> 00:22:14,645
+I'm glad you could come tonight. It's the
+least I could do after you saved my life.
+
+338
+00:22:14,960 --> 00:22:16,166
+Again.
+
+339
+00:22:16,360 --> 00:22:18,010
+I will see you inside, my friend.
+
+340
+00:22:19,320 --> 00:22:21,368
+Gholem.
+
+341
+00:22:21,560 --> 00:22:25,724
+It would seem I didn't have time
+to get credentials for my associate.
+
+342
+00:22:28,040 --> 00:22:29,610
+Come. This way.
+
+343
+00:22:36,120 --> 00:22:39,124
+Gosh, I'm so sorry.
+I forgot those were in there.
+
+344
+00:22:53,360 --> 00:22:55,442
+Enjoy the benefit, Mr. Diggle.
+
+345
+00:23:04,520 --> 00:23:07,603
+- Deadshot and his gear are in position.
+- Tiger's got the overwatch.
+
+346
+00:23:07,800 --> 00:23:09,802
+Harbinger to all. Fire in the hole.
+
+347
+00:23:17,200 --> 00:23:18,440
+Shooter at my 10.
+
+348
+00:23:20,760 --> 00:23:22,649
+- Prepare to bound.
+- Got you covered.
+
+349
+00:23:23,760 --> 00:23:26,047
+- Bounding.
+- Go, go, go!
+
+350
+00:23:39,120 --> 00:23:40,770
+All clear.
+
+351
+00:24:00,160 --> 00:24:03,130
+He's just a kid.
+
+352
+00:24:13,440 --> 00:24:15,204
+And don't you look lovely tonight?
+
+353
+00:24:15,760 --> 00:24:17,888
+I appreciate...
+
+354
+00:24:20,360 --> 00:24:23,887
+Oh, I think you owe your bodyguard
+a dance.
+
+355
+00:24:24,960 --> 00:24:26,564
+I insist.
+
+356
+00:24:38,800 --> 00:24:40,882
+Deadshot en route to package.
+
+357
+00:24:41,720 --> 00:24:44,405
+The fate of the world resting in the hands
+of Floyd Lawton.
+
+358
+00:24:45,600 --> 00:24:47,648
+It helps to focus on the mission.
+
+359
+00:24:49,760 --> 00:24:51,285
+Is that what you tell yourself?
+
+360
+00:24:51,960 --> 00:24:55,681
+I tell myself to see the world how it is,
+not how I want to see it.
+
+361
+00:24:56,120 --> 00:24:57,884
+We both operate in the gray.
+
+362
+00:24:58,160 --> 00:25:00,401
+The only difference is,
+I'm willing to admit it.
+
+363
+00:25:00,640 --> 00:25:02,190
+It's not the only
+difference between us.
+
+364
+00:25:02,200 --> 00:25:04,146
+That's true. I don't
+judge other people for it.
+
+365
+00:25:04,320 --> 00:25:07,324
+- I'm the same man I've always been.
+- And I'm who I've always been.
+
+366
+00:25:07,640 --> 00:25:09,244
+You're rigid, John.
+
+367
+00:25:10,120 --> 00:25:12,361
+You're blind to any viewpoint
+that isn't yours.
+
+368
+00:25:12,600 --> 00:25:14,887
+These past few months have been amazing.
+
+369
+00:25:15,120 --> 00:25:17,043
+But we've done more playing than talking.
+
+370
+00:25:17,280 --> 00:25:19,601
+Because when we talk,
+we tend to get divorced.
+
+371
+00:25:30,040 --> 00:25:32,202
+Don't worry. It's virgin.
+
+372
+00:25:35,600 --> 00:25:37,329
+Ugh, which is why it tastes terrible.
+
+373
+00:25:37,800 --> 00:25:40,280
+- Jerk.
+- Heh.
+
+374
+00:25:50,400 --> 00:25:54,610
+So. It looks like things with you
+and Sara are going well.
+
+375
+00:25:56,120 --> 00:25:58,964
+I'm not sure you're the best person
+to talk to about all this.
+
+376
+00:25:59,200 --> 00:26:02,190
+And why is that? Is it because of the
+whole cheating, shipwreck, drowning...
+
+377
+00:26:02,200 --> 00:26:05,204
+not drowning,
+you're back, she's back thing? Sorry.
+
+378
+00:26:05,640 --> 00:26:07,608
+It's brutal AA honesty talking.
+
+379
+00:26:07,800 --> 00:26:10,201
+I think I preferred it when
+we were all lying to each other.
+
+380
+00:26:10,360 --> 00:26:12,203
+No, you just thought you did.
+
+381
+00:26:12,360 --> 00:26:14,647
+I know you better than
+almost anyone, Ollie.
+
+382
+00:26:14,960 --> 00:26:18,407
+I know that you think that you don't
+deserve to be happy, but you're wrong.
+
+383
+00:26:18,600 --> 00:26:22,400
+You may think that keeping her at arm's-length
+you're protecting her, but you're not.
+
+384
+00:26:23,000 --> 00:26:24,570
+You're only protecting yourself.
+
+385
+00:26:25,240 --> 00:26:26,890
+It's more complicated than that.
+
+386
+00:26:28,040 --> 00:26:30,042
+It always is.
+
+387
+00:26:40,200 --> 00:26:42,726
+I got the address for that account number
+you gave me.
+
+388
+00:26:43,720 --> 00:26:45,882
+- I'll call Roy and Sara.
+- No.
+
+389
+00:26:46,360 --> 00:26:48,203
+I'm not giving Slade any more targets.
+
+390
+00:26:50,360 --> 00:26:52,886
+You can't go out there by yourself.
+It's suicide.
+
+391
+00:26:53,080 --> 00:26:55,048
+This started with the two of us.
+
+392
+00:26:56,160 --> 00:26:57,491
+That's how it ends.
+
+393
+00:27:05,080 --> 00:27:06,605
+Deadshot's on target.
+
+394
+00:27:11,880 --> 00:27:13,928
+Heh, bingo.
+
+395
+00:28:40,080 --> 00:28:41,764
+I don't know what to do.
+
+396
+00:28:41,960 --> 00:28:44,201
+He's too far ahead.
+
+397
+00:28:44,760 --> 00:28:48,970
+He's spent years planning this.
+He knows everything about me.
+
+398
+00:28:50,320 --> 00:28:51,560
+I can't.
+
+399
+00:28:56,520 --> 00:28:58,921
+I don't know how to stop him.
+
+400
+00:29:00,600 --> 00:29:02,602
+You start by letting people help you.
+
+401
+00:29:02,840 --> 00:29:04,649
+But he's gonna come after you.
+
+402
+00:29:06,520 --> 00:29:09,490
+You're alive...
+
+403
+00:29:09,920 --> 00:29:12,571
+because Shado isn't.
+
+404
+00:29:13,520 --> 00:29:17,320
+When he does, do you think it'll make
+a difference whether or not we're together?
+
+405
+00:29:25,720 --> 00:29:27,722
+Let him come.
+
+406
+00:29:27,920 --> 00:29:30,161
+I'm not the girl he knew on the island.
+
+407
+00:29:31,320 --> 00:29:33,800
+I'm not that easy to kill.
+
+408
+00:29:38,280 --> 00:29:39,725
+Together.
+
+409
+00:29:46,080 --> 00:29:47,570
+Together.
+
+410
+00:29:55,080 --> 00:29:56,366
+I'm in.
+
+411
+00:29:56,600 --> 00:30:00,082
+I'll have the nerve agent in my pocket
+in 30 seconds.
+
+412
+00:30:14,920 --> 00:30:16,649
+Harbinger...
+
+413
+00:30:16,840 --> 00:30:21,289
+we've got what I would describe
+as a little bit of a situation here.
+
+414
+00:30:21,480 --> 00:30:23,881
+- Explain.
+- I've got eyes on the nerve agent...
+
+415
+00:30:24,080 --> 00:30:27,209
+and I'm not gonna be able to move it,
+much less pocket it.
+
+416
+00:30:27,400 --> 00:30:28,686
+Standby, Deadshot.
+
+417
+00:30:28,960 --> 00:30:30,200
+I need to talk to Waller.
+
+418
+00:30:32,400 --> 00:30:34,448
+- Go for Mockingbird.
+- We have a situation.
+
+419
+00:30:34,680 --> 00:30:37,286
+The package is much bigger than our
+pre-op briefing indicated.
+
+420
+00:30:37,520 --> 00:30:38,681
+Standby.
+
+421
+00:30:41,840 --> 00:30:44,127
+Deadshot's on target.
+I need to see what he does.
+
+422
+00:30:44,600 --> 00:30:46,523
+Activate the camera in his eyepiece.
+
+423
+00:30:46,840 --> 00:30:50,083
+Multi-spectrum from Lawton's rig
+coming in now.
+
+424
+00:30:50,600 --> 00:30:52,170
+It's a match.
+
+425
+00:30:53,960 --> 00:30:57,282
+Tiger, move for extraction.
+Deadshot, remain in position.
+
+426
+00:30:57,480 --> 00:31:00,370
+Harbinger and Freelancer,
+evac and head to the rally point.
+
+427
+00:31:00,600 --> 00:31:02,440
+Deadshot still isn't
+topside with the package.
+
+428
+00:31:02,600 --> 00:31:05,444
+I only needed eyes on.
+Fall back to the rally point.
+
+429
+00:31:05,640 --> 00:31:09,122
+Wait, you knew that the nerve agent
+was too large to be extracted?
+
+430
+00:31:09,480 --> 00:31:12,211
+Fall back to the rally point.
+
+431
+00:31:12,400 --> 00:31:14,448
+The Nine is inbound and hot.
+
+432
+00:31:15,120 --> 00:31:17,043
+Mockingbird out.
+
+433
+00:31:17,440 --> 00:31:19,727
+- What the hell are Nines?
+- MQ-9's.
+
+434
+00:31:19,960 --> 00:31:23,521
+Predators.
+Waller's called in a drone strike.
+
+435
+00:31:24,120 --> 00:31:26,407
+Everyone here is dead inside of 10 minutes.
+
+436
+00:31:39,120 --> 00:31:42,390
+The Nines carry the Hellfire missile. Just
+one of them can level this whole building.
+
+437
+00:31:42,400 --> 00:31:44,243
+Your boss doesn't care
+who's here when it does.
+
+438
+00:31:44,440 --> 00:31:46,761
+Lyla, we have to get these people
+out of here.
+
+439
+00:31:47,000 --> 00:31:49,048
+Maybe there's a house alarm we can trigger.
+
+440
+00:31:50,320 --> 00:31:51,845
+John, we have to move now.
+
+441
+00:31:53,400 --> 00:31:54,925
+I have a better idea.
+
+442
+00:31:58,920 --> 00:31:59,967
+Excuse me.
+
+443
+00:32:00,360 --> 00:32:01,600
+Excuse me.
+
+444
+00:32:01,960 --> 00:32:03,803
+If I could have your attention please.
+
+445
+00:32:06,400 --> 00:32:08,641
+In honor of our host.
+
+446
+00:32:10,320 --> 00:32:13,085
+Gholem Qadir excels at
+everything he puts his mind to.
+
+447
+00:32:14,400 --> 00:32:16,971
+Be it business, philanthropy...
+
+448
+00:32:18,680 --> 00:32:21,126
+or terrorism.
+
+449
+00:32:21,320 --> 00:32:24,642
+I guess you could say that Gholem
+is somewhat of a Renaissance man.
+
+450
+00:32:24,840 --> 00:32:26,751
+He dabbles in a little
+bit of everything.
+
+451
+00:32:26,776 --> 00:32:29,233
+Like arms trading, did I
+mention the sex trafficking?
+
+452
+00:32:31,160 --> 00:32:36,041
+Or the deadly nerve agent that he's holding
+just 30 feet beneath this very dance floor?
+
+453
+00:32:37,360 --> 00:32:41,046
+- These are lies. This man is a mercenary.
+- Unh!
+
+454
+00:32:41,200 --> 00:32:42,326
+Lawton?
+
+455
+00:32:42,560 --> 00:32:43,686
+He's not answering.
+
+456
+00:32:43,880 --> 00:32:45,041
+I have to go help him.
+
+457
+00:32:45,240 --> 00:32:46,765
+Can't believe I just said that.
+
+458
+00:32:47,040 --> 00:32:49,122
+You. You were in Afghanistan.
+
+459
+00:32:49,360 --> 00:32:53,809
+Six years ago. You and that Judas were
+deceiving me from the start.
+
+460
+00:32:57,720 --> 00:33:00,485
+- Good timing.
+- I got tired of waiting for my invitation.
+
+461
+00:33:08,200 --> 00:33:10,043
+Disobeying orders, John.
+
+462
+00:33:11,160 --> 00:33:12,571
+Behind you.
+
+463
+00:33:18,200 --> 00:33:19,804
+That's two you owe me, junior.
+
+464
+00:33:21,160 --> 00:33:22,366
+We have to go.
+
+465
+00:33:22,600 --> 00:33:23,931
+Waller told me to stay here.
+
+466
+00:33:24,120 --> 00:33:28,569
+- There's an incoming drone strike.
+- How contemporary. Get your team clear.
+
+467
+00:33:30,160 --> 00:33:33,448
+You're on my team. It
+is time for you to go.
+
+468
+00:33:33,640 --> 00:33:35,802
+Yeah, that's right. It is time.
+
+469
+00:33:36,200 --> 00:33:38,089
+And this is my way to go.
+
+470
+00:33:41,000 --> 00:33:42,411
+Suicide Squad, remember?
+
+471
+00:33:43,120 --> 00:33:44,770
+I'm expendable, John.
+
+472
+00:33:45,280 --> 00:33:47,487
+Even got the damn bomb in my head
+to prove it.
+
+473
+00:33:48,920 --> 00:33:51,730
+This way, at least I get to go out doing
+something honorable.
+
+474
+00:33:52,160 --> 00:33:54,447
+- You don't get to die that easy, Lawton.
+- Really?
+
+475
+00:33:54,640 --> 00:33:58,406
+Why don't you give me even just one
+good reason why not, huh?
+
+476
+00:33:59,520 --> 00:34:01,124
+Zoe.
+
+477
+00:34:10,480 --> 00:34:12,767
+- What about the nerve gas?
+- Believe me...
+
+478
+00:34:12,960 --> 00:34:14,883
+Waller's already got that covered.
+
+479
+00:34:23,960 --> 00:34:26,201
+Go. Go. Go.
+
+480
+00:34:38,320 --> 00:34:39,970
+The drone shifted course.
+
+481
+00:34:40,240 --> 00:34:42,811
+- It's following us.
+- Ha-ha-ha.
+
+482
+00:34:43,880 --> 00:34:46,645
+- Do you find that funny?
+- Waller, what a woman.
+
+483
+00:34:46,880 --> 00:34:49,201
+How do you think she knew where to
+send the drone, huh?
+
+484
+00:34:49,440 --> 00:34:51,488
+And I mean, the precise coordinates.
+
+485
+00:34:52,080 --> 00:34:54,447
+- The implants.
+- Bomb and GPS.
+
+486
+00:34:55,000 --> 00:34:56,161
+Pretty clever, right?
+
+487
+00:34:56,520 --> 00:34:59,763
+The drone ain't targeting Gholem's house.
+It's targeting me.
+
+488
+00:35:06,840 --> 00:35:08,490
+Hang on, do I get a say in this?
+
+489
+00:35:08,640 --> 00:35:10,040
+- Turn around.
+- What are you doing?
+
+490
+00:35:10,120 --> 00:35:13,010
+- Look, I think I'd rather get blown up.
+- Hold still.
+
+491
+00:35:13,200 --> 00:35:14,281
+This is gonna hurt.
+
+492
+00:35:42,480 --> 00:35:45,723
+The Markovian government is threatening
+retaliation...
+
+493
+00:35:45,960 --> 00:35:48,884
+following an unprovoked drone attack
+over a no-fly zone.
+
+494
+00:35:49,080 --> 00:35:52,482
+Just the attention we wanted to avoid.
+Well done.
+
+495
+00:35:52,680 --> 00:35:55,729
+- I'm not the one that sent that drone.
+- It was cloaked.
+
+496
+00:35:55,960 --> 00:35:59,089
+An explosion atop a chemical weapons
+cache is easy to explain.
+
+497
+00:35:59,320 --> 00:36:01,340
+Instead, there were
+witnesses and we had to
+
+498
+00:36:01,365 --> 00:36:03,429
+send in a SEAL team to
+clean out the estate.
+
+499
+00:36:03,560 --> 00:36:06,390
+I guess you would think twice before dragging
+me in to do your dirty work, Waller.
+
+500
+00:36:06,400 --> 00:36:09,449
+Somehow I don't think it will be an issue.
+Good day, Mr. Diggle.
+
+501
+00:36:20,080 --> 00:36:22,287
+Kind of uncanny.
+
+502
+00:36:22,480 --> 00:36:25,768
+How Diggle knew exactly where
+Lawton's implant was.
+
+503
+00:36:27,000 --> 00:36:30,083
+Still, it exposed an obvious design flaw.
+
+504
+00:36:31,080 --> 00:36:34,004
+We'll be putting the implants
+in their spinal vertebrae now.
+
+505
+00:36:34,200 --> 00:36:36,965
+Have Lawton and the others
+prepped for surgery.
+
+506
+00:36:48,720 --> 00:36:51,644
+Waller said in a few years
+you might even get a pardon.
+
+507
+00:36:52,480 --> 00:36:53,970
+Don't worry, John.
+
+508
+00:36:54,120 --> 00:36:56,805
+We both know
+I'm not gonna be around that long.
+
+509
+00:37:15,640 --> 00:37:16,721
+You still employed?
+
+510
+00:37:16,960 --> 00:37:19,964
+People with my security clearance
+aren't that easy to get rid of.
+
+511
+00:37:20,160 --> 00:37:21,571
+Right.
+
+512
+00:37:25,320 --> 00:37:27,448
+What about us, Johnny?
+
+513
+00:37:29,600 --> 00:37:32,649
+Last night, the man who killed my brother
+showed more character...
+
+514
+00:37:32,840 --> 00:37:35,571
+than the woman charged
+with protecting the world.
+
+515
+00:37:37,680 --> 00:37:39,682
+Good and bad is not so clear to me.
+
+516
+00:37:41,600 --> 00:37:43,443
+One thing I do know for sure...
+
+517
+00:37:43,840 --> 00:37:45,171
+black and white...
+
+518
+00:37:47,840 --> 00:37:50,650
+is that I can never lose you again.
+
+519
+00:37:52,440 --> 00:37:53,771
+Finally.
+
+520
+00:37:54,840 --> 00:37:56,763
+Something we agree on.
+
+521
+00:38:14,080 --> 00:38:15,525
+Well, there goes another...
+
+522
+00:38:15,720 --> 00:38:17,529
+terrorist-turned-ally.
+
+523
+00:38:17,720 --> 00:38:20,963
+By the way, I put you in for a commendation
+for saving Qadir's ass.
+
+524
+00:38:22,160 --> 00:38:23,605
+You owe me a beer.
+
+525
+00:38:31,680 --> 00:38:32,886
+Congratulations.
+
+526
+00:38:33,120 --> 00:38:35,202
+Yeah, well. "Kill a kid,
+get a medal," right?
+
+527
+00:38:35,840 --> 00:38:38,525
+When someone's shooting
+a Kalashnikov at you...
+
+528
+00:38:38,720 --> 00:38:39,801
+he's not a kid.
+
+529
+00:38:40,360 --> 00:38:42,362
+I see things differently.
+
+530
+00:38:42,560 --> 00:38:44,164
+It's a complicated world, Johnny.
+
+531
+00:38:45,400 --> 00:38:47,243
+Is it okay if I call you Johnny?
+
+532
+00:38:47,920 --> 00:38:50,241
+I don't think I caught
+your first name, Michaels.
+
+533
+00:38:50,400 --> 00:38:52,243
+Lyla.
+
+534
+00:38:53,880 --> 00:38:56,167
+It's really good to meet you, Lyla.
+
+535
+00:38:59,240 --> 00:39:02,050
+In international news,
+a United Nations inspections team...
+
+536
+00:39:02,240 --> 00:39:05,164
+was called to a chemical weapons
+manufacturing facility...
+
+537
+00:39:05,400 --> 00:39:09,291
+hidden beneath the Markovian estate
+of humanitarian Gholem Qadir.
+
+538
+00:39:09,440 --> 00:39:12,728
+Closer to home, mayoral candidate
+Moira Queen stumped for...
+
+539
+00:39:12,920 --> 00:39:16,766
+an initiative to revive inner-city
+afterschool swim programs.
+
+540
+00:39:17,040 --> 00:39:20,123
+I remember how much my children
+enjoyed swimming when they were young.
+
+541
+00:39:20,600 --> 00:39:23,046
+I couldn't get them out of the pool.
+Ha-ha-ha!
+
+542
+00:39:23,200 --> 00:39:24,281
+We need...
+
+543
+00:39:25,720 --> 00:39:28,769
+- I thought you hated swimming.
+- I detest swimming.
+
+544
+00:39:29,200 --> 00:39:30,247
+So does Thea.
+
+545
+00:39:31,760 --> 00:39:36,209
+My mother sometimes, ahem, enjoys
+a casual relationship with the truth.
+
+546
+00:39:38,920 --> 00:39:39,967
+Anyway-
+
+547
+00:39:50,800 --> 00:39:52,609
+Thank you for being there for me.
+
+548
+00:39:52,800 --> 00:39:55,326
+You mean, for not letting you
+push me away?
+
+549
+00:39:55,560 --> 00:39:57,483
+I'm going to stop doing that.
+
+550
+00:39:57,680 --> 00:39:59,808
+Yeah. Good.
+
+551
+00:40:00,560 --> 00:40:02,801
+You'd be wasting your time, anyway.
+
+552
+00:40:15,560 --> 00:40:17,608
+It looks like you took my advice.
+
+553
+00:40:19,960 --> 00:40:21,803
+Thank you.
+
+554
+00:40:22,600 --> 00:40:25,171
+Helping me with Sara, I know that that...
+
+555
+00:40:25,320 --> 00:40:26,481
+can't be easy.
+
+556
+00:40:26,680 --> 00:40:29,490
+Helping two people I care about?
+There's nothing easier.
+
+557
+00:40:30,200 --> 00:40:32,328
+I came by to take Sara to dinner.
+
+558
+00:40:33,000 --> 00:40:34,161
+Would you care to join?
+
+559
+00:40:34,640 --> 00:40:37,120
+I'd love to, but I need
+to go see an old friend.
+
+560
+00:40:37,320 --> 00:40:38,481
+Okay.
+
+561
+00:40:58,840 --> 00:41:00,285
+Hello, Oliver.
+
+562
+00:41:02,800 --> 00:41:04,529
+Hello, Amanda.
+
+563
+00:41:04,720 --> 00:41:06,404
+- Still mad at me?
+- Lucky for you...
+
+564
+00:41:06,560 --> 00:41:08,767
+- you've been pushed down that list.
+- Really?
+
+565
+00:41:08,960 --> 00:41:10,962
+Who do you wanna kill more than me?
+
+566
+00:41:11,120 --> 00:41:12,406
+Slade Wilson is alive.
+
+567
+00:41:13,520 --> 00:41:15,761
+You killed him. It's not possible.
+
+568
+00:41:15,960 --> 00:41:18,406
+Everything is possible
+where Slade is concerned.
+
+569
+00:41:18,560 --> 00:41:21,564
+And I need your help to find him.
+
+570
+00:41:24,200 --> 00:41:26,202
+- I might have something.
+- What?
+
+571
+00:41:26,400 --> 00:41:30,166
+There's a new player we've been tracking.
+Mercenary.
+
+572
+00:41:30,360 --> 00:41:34,251
+He's left a trail of bodies from Macao
+to Istanbul to Lisbon.
+
+573
+00:41:34,560 --> 00:41:36,927
+A trail that leads right here to Starling.
+
+574
+00:41:41,680 --> 00:41:44,604
+We've been calling him Deathstroke.
+

@@ -9,7 +9,8 @@ To preprocess subtitles, place them in the appropriate directory in `srt` dir, a
 If downloaded subtitles aren't in .srt format, you can place them in `downloaded_subs` dir, and run script [convert2srt.sh](https://github.com/naitoramu/ml-project/edit/master/README.md#convert2srtsh)
 
 ## preprocess_subtitles.sh
-### Runs SubtitlesPreprocessor for each .srt file in $INPUT_DIR subdirectories
+### Runs SubtitlesPreprocessor for each .srt file in subdirectories inside given directory. Preprocessed files are appended to file `preprocessed_subtitles.txt`
+> hint: To preprocess again already preprocessed subtitle file, remove apropriate entry in file `preprocessed_subtitles.txt`
 #### usage:
 `./preprocess_subtitles.sh -i <input_directory> -o <output_directory> -d <data_type>`
 > **example:**

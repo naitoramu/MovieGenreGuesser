@@ -1,0 +1,2243 @@
+﻿1
+00:00:00,500 --> 00:00:02,000
+<font color="#20e020">Subs fixed and enhanced by Treviso.
+Missing dialog added and some minor fixes by Tronar.</font>
+
+2
+00:00:02,069 --> 00:00:04,709
+My name is Oliver Queen.
+
+3
+00:00:04,872 --> 00:00:07,876
+After five years on a hellish island...
+
+4
+00:00:08,041 --> 00:00:10,487
+I have come home with only one goal:
+
+5
+00:00:11,078 --> 00:00:13,058
+To save my city.
+
+6
+00:00:13,213 --> 00:00:16,683
+But to do so, I can't be
+the killer I once was.
+
+7
+00:00:18,385 --> 00:00:22,231
+To honor my friend's memory,
+I must be someone else.
+
+8
+00:00:23,323 --> 00:00:26,736
+I must be something else.
+
+9
+00:00:27,694 --> 00:00:29,105
+Previously on Arrow:
+
+10
+00:00:29,263 --> 00:00:32,767
+Time to choose, Oliver,
+who lives and who dies.
+
+11
+00:00:32,933 --> 00:00:35,345
+- You got what you came for!
+- Time's up.
+
+12
+00:00:35,536 --> 00:00:37,096
+- No!
+- I guess you made your choice.
+
+13
+00:00:38,438 --> 00:00:39,508
+No!
+
+14
+00:00:39,673 --> 00:00:40,947
+Ivo killed Shade because of me.
+
+15
+00:00:41,108 --> 00:00:44,348
+Nothing good comes from telling Slade
+you think you're responsible...
+
+16
+00:00:44,511 --> 00:00:46,461
+for the death of the woman he loved.
+
+17
+00:00:46,600 --> 00:00:50,500
+The man who killed Shado
+is still out there.
+
+18
+00:00:50,517 --> 00:00:53,589
+Not for long,
+because we're gonna take the freighter.
+
+19
+00:00:53,854 --> 00:00:55,629
+We're all gonna die here.
+
+20
+00:00:55,856 --> 00:00:57,233
+Just like him.
+
+21
+00:00:57,457 --> 00:01:00,233
+No, we're not.
+I think I found our way onto the freighter.
+
+22
+00:01:03,230 --> 00:01:04,265
+Parachute.
+
+23
+00:01:04,431 --> 00:01:07,935
+- I'd like you to meet Slade Wilson.
+- It's a pleasure to meet you...
+
+24
+00:01:09,770 --> 00:01:11,215
+Mr. Queen.
+
+25
+00:01:16,109 --> 00:01:18,316
+What are you doing here?
+
+26
+00:01:19,880 --> 00:01:23,919
+Mr. Wilson just made a sizable contribution
+to my campaign.
+
+27
+00:01:26,219 --> 00:01:27,323
+How generous of him.
+
+28
+00:01:27,554 --> 00:01:31,092
+Well, I felt compelled. And it was the
+least that I could do for your mother.
+
+29
+00:01:31,258 --> 00:01:35,001
+What this city needs
+is a pro-business mayor like Moira...
+
+30
+00:01:35,162 --> 00:01:37,733
+to spur growth through urban investment.
+
+31
+00:01:37,931 --> 00:01:42,607
+And we were just discussing
+how to combat the rising wage gap.
+
+32
+00:01:42,769 --> 00:01:45,750
+And the answer lies
+in your budget proposal.
+
+33
+00:01:46,173 --> 00:01:47,982
+You know, when I look at your mother...
+
+34
+00:01:48,141 --> 00:01:51,179
+I think about everything you
+went through after the quake.
+
+35
+00:01:51,345 --> 00:01:53,791
+All I can say is,
+you and I have something in common.
+
+36
+00:01:53,947 --> 00:01:55,324
+What's that?
+
+37
+00:01:55,482 --> 00:01:58,292
+I know how difficult it is
+to pick yourself back up...
+
+38
+00:01:58,452 --> 00:02:00,591
+when other people have written you off.
+
+39
+00:02:03,256 --> 00:02:04,428
+Indeed.
+
+40
+00:02:07,160 --> 00:02:08,798
+What's wrong, Mr. Queen?
+
+41
+00:02:08,962 --> 00:02:10,464
+You look a little piqued.
+
+42
+00:02:11,465 --> 00:02:13,877
+I'm fine, thank you.
+
+43
+00:02:17,671 --> 00:02:19,947
+Ah. Thank you, dear.
+
+44
+00:02:20,107 --> 00:02:26,388
+Oliver, Mr. Wilson was kind enough to bring
+a bottle of authentic Australian rum.
+
+45
+00:02:29,349 --> 00:02:31,295
+Will you join us in a drink?
+
+46
+00:02:32,886 --> 00:02:34,388
+Yes, of course.
+
+47
+00:02:34,554 --> 00:02:36,363
+Wonderful.
+
+48
+00:02:37,024 --> 00:02:38,731
+What shall we drink to?
+
+49
+00:02:42,529 --> 00:02:44,179
+To friendship.
+
+50
+00:02:52,239 --> 00:02:55,039
+Ah. Delicious.
+
+51
+00:02:55,609 --> 00:02:59,509
+Uh, this here is a beautiful piece.
+
+52
+00:02:59,813 --> 00:03:04,319
+Tell me, does your family spend
+much time on the water?
+
+53
+00:03:04,484 --> 00:03:05,758
+No.
+
+54
+00:03:05,919 --> 00:03:09,264
+Not since my late husband.
+
+55
+00:03:10,057 --> 00:03:11,695
+I'm sorry, Moira. Forgive me.
+
+56
+00:03:11,858 --> 00:03:15,067
+I do remember reading about that accident
+in the paper.
+
+57
+00:03:16,229 --> 00:03:17,503
+You were a brave soul.
+
+58
+00:03:18,265 --> 00:03:20,336
+I don't like to talk about it.
+
+59
+00:03:21,001 --> 00:03:22,412
+I can understand.
+
+60
+00:03:22,569 --> 00:03:26,574
+All that time on that island.
+It must have been hell for you.
+
+61
+00:04:24,498 --> 00:04:26,774
+- Shado would be proud.
+- Thank you.
+
+62
+00:04:26,933 --> 00:04:29,743
+But those trees don't move or shoot back.
+
+63
+00:04:29,903 --> 00:04:32,247
+Ivo's men on the freighter will.
+
+64
+00:04:32,405 --> 00:04:34,476
+Then shoot first.
+
+65
+00:04:42,415 --> 00:04:45,760
+Ivo's freighter is located here.
+He keeps eight men on deck.
+
+66
+00:04:45,919 --> 00:04:49,696
+Three on the starboard,
+three on the port and two up on the bridge.
+
+67
+00:04:49,856 --> 00:04:52,928
+But our bigger concern
+are these GP-25 grenade launchers...
+
+68
+00:04:53,093 --> 00:04:54,903
+that they're walking
+around with at all times.
+
+69
+00:04:54,928 --> 00:04:56,121
+Do they have night vision?
+
+70
+00:04:56,263 --> 00:04:58,470
+Not according to Blondie.
+
+71
+00:05:02,135 --> 00:05:03,637
+That smells awful.
+
+72
+00:05:03,804 --> 00:05:06,785
+- It'll taste even worse.
+- But it'll work?
+
+73
+00:05:06,940 --> 00:05:11,150
+I spent a year with Anthony Ivo.
+I know how he thinks.
+
+74
+00:05:11,311 --> 00:05:12,346
+It'll work.
+
+75
+00:05:18,885 --> 00:05:20,956
+Hey, what about the Mirakuru?
+
+76
+00:05:21,121 --> 00:05:24,694
+- What about it?
+- Well, look, I mean, it can cure...
+
+77
+00:05:24,858 --> 00:05:26,565
+I don't know, maybe anything.
+
+78
+00:05:26,726 --> 00:05:30,503
+Maybe... maybe it's a miracle drug.
+
+79
+00:05:32,365 --> 00:05:34,811
+But it's also something else.
+
+80
+00:05:35,569 --> 00:05:40,143
+Something that people like Ivo
+should never be allowed to control.
+
+81
+00:05:40,740 --> 00:05:43,516
+What about Slade? He might not let us.
+
+82
+00:05:44,711 --> 00:05:47,214
+Might not let you do what?
+
+83
+00:05:47,981 --> 00:05:49,983
+You think we should destroy the Mirakuru.
+
+84
+00:05:50,417 --> 00:05:52,863
+If this thing doesn't go our way...
+
+85
+00:05:53,920 --> 00:05:55,661
+we can't let Ivo have it.
+
+86
+00:05:57,490 --> 00:05:59,401
+You're right.
+
+87
+00:05:59,559 --> 00:06:01,505
+We should burn it.
+
+88
+00:06:03,530 --> 00:06:07,273
+Anthony devoted his
+entire life to finding this.
+
+89
+00:06:08,101 --> 00:06:10,581
+Nobody even thought it was real.
+
+90
+00:06:11,037 --> 00:06:13,278
+It was his dream.
+
+91
+00:06:13,440 --> 00:06:15,215
+Did he ever say why?
+
+92
+00:06:15,375 --> 00:06:17,753
+He wanted to save the world.
+
+93
+00:06:20,413 --> 00:06:23,121
+We need to talk about tomorrow.
+
+94
+00:06:24,084 --> 00:06:27,088
+About what to do with Anthony
+once we take the freighter.
+
+95
+00:06:27,254 --> 00:06:28,597
+What do you mean?
+
+96
+00:06:29,256 --> 00:06:31,293
+Slade wants to kill him.
+
+97
+00:06:31,458 --> 00:06:32,960
+I'm not gonna let that happen.
+
+98
+00:06:33,126 --> 00:06:36,039
+No, Slade wants to kill him for Shado.
+
+99
+00:06:37,197 --> 00:06:40,303
+Oliver, you don't know him like I do.
+
+100
+00:06:40,467 --> 00:06:43,971
+Look, if he's given the chance,
+then he's gonna turn this around.
+
+101
+00:06:44,137 --> 00:06:46,947
+He's gonna make Slade think
+that it's your fault that she's dead.
+
+102
+00:06:47,307 --> 00:06:50,117
+That you chose to save me instead of her.
+
+103
+00:06:51,811 --> 00:06:53,552
+You can't give him that chance.
+
+104
+00:06:57,450 --> 00:07:00,590
+- Sara, I can't.
+- You've killed before.
+
+105
+00:07:00,754 --> 00:07:03,496
+That's not what you are talking about.
+You are talking...
+
+106
+00:07:03,657 --> 00:07:06,160
+about executing somebody in cold blood.
+
+107
+00:07:06,326 --> 00:07:09,170
+Look, Slade has the Mirakuru in him.
+He's unstable.
+
+108
+00:07:09,329 --> 00:07:13,573
+If he loses control, if he snaps again,
+then we're both dead.
+
+109
+00:07:16,803 --> 00:07:18,680
+You have to kill Ivo.
+
+110
+00:07:30,016 --> 00:07:32,189
+Who's thirsty?
+
+111
+00:07:32,352 --> 00:07:34,764
+- Where'd you get that?
+- Who cares? Let's drink it.
+
+112
+00:07:34,921 --> 00:07:40,269
+Ah, this is one of the few precious pieces
+of cargo to survive the crash.
+
+113
+00:07:40,427 --> 00:07:44,102
+Billy Wintergreen and I were planning
+on saving it for a rainy day.
+
+114
+00:07:44,264 --> 00:07:49,680
+But considering, God willing,
+this is our last night on the island...
+
+115
+00:07:50,971 --> 00:07:52,951
+To taking the freighter.
+
+116
+00:07:53,106 --> 00:07:55,780
+To getting off this island forever.
+
+117
+00:07:56,276 --> 00:07:57,983
+To Shado.
+
+118
+00:08:02,816 --> 00:08:05,023
+Mm.
+
+119
+00:08:06,386 --> 00:08:08,332
+You know, if something happens
+to me tomorrow...
+
+120
+00:08:08,488 --> 00:08:10,468
+You can't think like that.
+
+121
+00:08:14,194 --> 00:08:16,140
+If I don't make it...
+
+122
+00:08:18,198 --> 00:08:19,905
+I need you to...
+
+123
+00:08:21,201 --> 00:08:23,977
+To tell my mom and my sister...
+
+124
+00:08:24,637 --> 00:08:30,713
+that I wasn't that same stupid kid
+who got on that boat.
+
+125
+00:08:34,848 --> 00:08:37,328
+Tell them I was different.
+
+126
+00:08:38,018 --> 00:08:39,497
+Okay.
+
+127
+00:08:40,553 --> 00:08:42,829
+Hey, and if I don't make it...
+
+128
+00:08:43,823 --> 00:08:46,326
+tell my family that
+I died on the Gambit.
+
+129
+00:08:47,093 --> 00:08:48,367
+Why?
+
+130
+00:08:48,528 --> 00:08:50,701
+Let them remember me the way that I was.
+
+131
+00:08:58,571 --> 00:09:00,915
+We should all get some sleep.
+
+132
+00:09:10,683 --> 00:09:12,594
+I've missed you.
+
+133
+00:09:16,623 --> 00:09:18,296
+Shado?
+
+134
+00:09:22,228 --> 00:09:23,730
+How are you still alive?
+
+135
+00:09:23,930 --> 00:09:25,773
+I'm not alive.
+
+136
+00:09:26,566 --> 00:09:28,068
+Remember?
+
+137
+00:09:29,302 --> 00:09:30,872
+I'm dead.
+
+138
+00:09:32,138 --> 00:09:35,085
+Because you chose Sara over me.
+
+139
+00:09:38,111 --> 00:09:40,557
+Why didn't you choose me?
+
+140
+00:09:41,815 --> 00:09:43,761
+Why didn't you choose me?
+
+141
+00:09:44,417 --> 00:09:46,419
+Why didn't you choose me?
+
+142
+00:09:50,590 --> 00:09:53,070
+Rise and shine, kid. it's time.
+
+143
+00:10:54,154 --> 00:10:56,862
+Better luck next time, Hendrik.
+
+144
+00:10:57,857 --> 00:11:00,064
+You cheat.
+
+145
+00:11:00,226 --> 00:11:01,534
+He cheats.
+
+146
+00:11:01,694 --> 00:11:03,674
+So do you.
+
+147
+00:11:04,731 --> 00:11:07,371
+He just cheats better.
+
+148
+00:11:07,534 --> 00:11:09,741
+Get up, preacher boy.
+
+149
+00:11:09,903 --> 00:11:12,247
+I said, get up, coward.
+
+150
+00:11:39,699 --> 00:11:42,543
+Ivo wants to see you.
+
+151
+00:11:44,904 --> 00:11:48,442
+Have faith, my friend.
+God will protect you.
+
+152
+00:11:48,608 --> 00:11:50,918
+There is no God.
+
+153
+00:11:51,277 --> 00:11:53,279
+If there was...
+
+154
+00:11:53,513 --> 00:11:54,890
+he's not on this ship.
+
+155
+00:11:55,048 --> 00:11:57,892
+- How is she?
+- I'm sorry, Anthony.
+
+156
+00:11:58,051 --> 00:12:00,292
+I wish I had better news to give you...
+
+157
+00:12:00,453 --> 00:12:04,401
+but her condition is progressing quicker
+than we anticipated.
+
+158
+00:12:05,592 --> 00:12:07,629
+Have you tried upping her dosage?
+
+159
+00:12:07,794 --> 00:12:13,301
+Twice already, but we both know
+that modern medicine has its limitations.
+
+160
+00:12:13,533 --> 00:12:16,104
+Oh, yes, I know quite well.
+
+161
+00:12:17,136 --> 00:12:18,945
+Thank you, doctor.
+
+162
+00:12:27,280 --> 00:12:33,322
+No. No, wait. Wait, Mr. Ivo.
+My family is Bratva, Russian mafia.
+
+163
+00:12:33,486 --> 00:12:35,796
+They pay millions for me.
+
+164
+00:12:35,955 --> 00:12:38,834
+I'm sorry. I have very
+little use for money.
+
+165
+00:12:38,992 --> 00:12:45,136
+I do, however, require an eye
+for my research.
+
+166
+00:12:45,298 --> 00:12:46,333
+No.
+
+167
+00:13:19,098 --> 00:13:21,476
+Well, we don't have all day.
+
+168
+00:13:23,202 --> 00:13:24,875
+There's a breeze.
+
+169
+00:13:52,131 --> 00:13:57,012
+They're on the beach. Take them. Alive.
+
+170
+00:13:57,170 --> 00:13:58,342
+What about him?
+
+171
+00:13:59,138 --> 00:14:00,549
+Eh.
+
+172
+00:14:03,343 --> 00:14:07,018
+They're coming. Two men. Armed.
+
+173
+00:14:10,083 --> 00:14:12,893
+You know, when we first tried
+to get off this island...
+
+174
+00:14:13,086 --> 00:14:15,362
+it was as strangers.
+
+175
+00:14:17,323 --> 00:14:19,667
+But now it's as brothers.
+
+176
+00:14:22,762 --> 00:14:24,935
+See you on the freighter.
+
+177
+00:14:38,778 --> 00:14:40,052
+There!
+
+178
+00:14:56,696 --> 00:14:59,973
+You're lucky Ivo wants you alive.
+
+179
+00:15:04,704 --> 00:15:06,809
+I told you I'd come back.
+
+180
+00:15:06,973 --> 00:15:10,921
+Fantastic. We're saved.
+
+181
+00:15:25,291 --> 00:15:26,964
+He likes you.
+
+182
+00:15:29,429 --> 00:15:31,500
+Don't worry. He won't bite.
+
+183
+00:15:32,965 --> 00:15:34,239
+Reverend Thomas Flynn.
+
+184
+00:15:35,735 --> 00:15:36,839
+Oliver Queen.
+
+185
+00:15:38,137 --> 00:15:40,310
+And this is Abraham.
+
+186
+00:15:42,141 --> 00:15:44,678
+I remember you from before. You escaped.
+
+187
+00:15:44,844 --> 00:15:47,415
+- With that blond whore.
+- That's Hendrik.
+
+188
+00:15:47,980 --> 00:15:50,859
+- He's a charmer.
+- Yeah, I hope she rots in hell.
+
+189
+00:15:51,017 --> 00:15:53,122
+Hey, Sara was a prisoner.
+
+190
+00:15:53,286 --> 00:15:55,664
+Just like all of us.
+
+191
+00:15:56,355 --> 00:16:00,531
+Right. Funny, I never heard her scream.
+
+192
+00:16:02,028 --> 00:16:05,805
+- How long have you been here, Thomas?
+- A little over a year.
+
+193
+00:16:06,199 --> 00:16:10,045
+I was working as a missionary in Maliku
+just off the coast of India.
+
+194
+00:16:10,203 --> 00:16:12,183
+A ship docked there for supplies.
+
+195
+00:16:12,338 --> 00:16:18,778
+Dr. Ivo asked me to come aboard
+to administer last rights for a dying man.
+
+196
+00:16:19,645 --> 00:16:22,057
+- My mistake.
+- I'm sorry.
+
+197
+00:16:23,015 --> 00:16:24,358
+Don't be.
+
+198
+00:16:24,517 --> 00:16:27,293
+Can you imagine a better place
+for a man in my line of work?
+
+199
+00:16:35,695 --> 00:16:37,868
+Hey, prochnost.
+
+200
+00:16:44,737 --> 00:16:46,410
+Mr. Queen.
+
+201
+00:16:46,572 --> 00:16:48,415
+Welcome back.
+
+202
+00:16:48,574 --> 00:16:51,919
+My men are still searching the beach
+for your friend and Sara.
+
+203
+00:16:52,712 --> 00:16:54,419
+They have the Mirakuru.
+
+204
+00:16:55,081 --> 00:16:58,756
+So where are they?
+
+205
+00:16:59,919 --> 00:17:01,227
+You go to hell.
+
+206
+00:17:01,888 --> 00:17:04,425
+Maybe you'd like to rethink that.
+
+207
+00:17:12,198 --> 00:17:17,204
+Ivo, you torture me all you want to,
+I am never gonna tell you where they are.
+
+208
+00:17:17,370 --> 00:17:19,611
+No, not willingly.
+
+209
+00:17:23,943 --> 00:17:25,115
+What is that?
+
+210
+00:17:25,878 --> 00:17:28,791
+Oh, this? See, this is sodium pentothal.
+
+211
+00:17:29,115 --> 00:17:31,755
+Its more colloquial,
+yet very descriptive name...
+
+212
+00:17:32,218 --> 00:17:33,788
+is "truth serum."
+
+213
+00:17:33,953 --> 00:17:36,797
+Wait, no. Wait, wait.
+I'll tell you everything!
+
+214
+00:17:38,858 --> 00:17:40,269
+Let's begin.
+
+215
+00:17:44,096 --> 00:17:46,133
+Are you married, Mr. Wilson?
+
+216
+00:17:46,365 --> 00:17:48,242
+Do you have any children?
+
+217
+00:17:49,068 --> 00:17:50,103
+Certainly neither.
+
+218
+00:17:51,470 --> 00:17:54,974
+Well, there must be someone special
+in your life.
+
+219
+00:17:56,309 --> 00:17:58,255
+There was.
+
+220
+00:17:58,411 --> 00:18:00,618
+But she passed away a few years ago.
+
+221
+00:18:00,913 --> 00:18:01,983
+I'm sorry.
+
+222
+00:18:02,148 --> 00:18:07,325
+My mother and I have had to deal
+with a lot of loss, unfortunately.
+
+223
+00:18:07,486 --> 00:18:10,262
+And eventually we learned...
+
+224
+00:18:10,890 --> 00:18:12,961
+that you just have to move on.
+
+225
+00:18:17,296 --> 00:18:19,333
+I don't believe that.
+
+226
+00:18:20,833 --> 00:18:24,838
+You know, I heard that your family
+has an affinity with the fine arts.
+
+227
+00:18:25,004 --> 00:18:30,682
+Yes, my husband amassed quite the collection
+of 19th century American landscapes.
+
+228
+00:18:30,910 --> 00:18:33,686
+- I'd love to see them.
+- Maybe another day.
+
+229
+00:18:34,680 --> 00:18:38,685
+Ahem. We have some family business
+that we need to discuss right now.
+
+230
+00:18:38,918 --> 00:18:39,953
+I'm sorry.
+
+231
+00:18:40,119 --> 00:18:43,692
+My son seems to have forgotten
+all his manners. Heh.
+
+232
+00:18:43,856 --> 00:18:46,530
+Let me just get my staff
+to open up the rest of the house.
+
+233
+00:18:46,692 --> 00:18:48,330
+Thank you.
+
+234
+00:18:54,934 --> 00:18:56,538
+Mom?
+
+235
+00:18:56,769 --> 00:18:57,873
+Ollie?
+
+236
+00:18:58,037 --> 00:18:59,710
+Not yet, kid.
+
+237
+00:18:59,872 --> 00:19:02,716
+I'm still to meet the rest of your family.
+
+238
+00:19:09,548 --> 00:19:10,618
+Hello?
+
+239
+00:19:15,121 --> 00:19:18,796
+Hey, Ollie, have you and Mom talked?
+Because this whole not speaking thing...
+
+240
+00:19:18,991 --> 00:19:21,471
+- Thea, now is not a good time.
+- Who is your friend?
+
+241
+00:19:22,061 --> 00:19:23,870
+Slade Wilson.
+
+242
+00:19:24,030 --> 00:19:25,883
+It's a pleasure to meet you.
+You know, I've heard
+
+243
+00:19:25,893 --> 00:19:27,813
+such wonderful things from your mother.
+Heh, heh.
+
+244
+00:19:27,867 --> 00:19:30,711
+- About me? Heh.
+- Thea.
+
+245
+00:19:30,870 --> 00:19:33,043
+What perfect timing.
+This is Slade Wilson...
+
+246
+00:19:33,205 --> 00:19:34,158
+They've met.
+
+247
+00:19:34,183 --> 00:19:37,041
+And I was about to
+show him our collection.
+
+248
+00:19:37,176 --> 00:19:40,180
+- But you're far better suited. Come.
+- Oh. Heh, heh.
+
+249
+00:19:43,015 --> 00:19:45,222
+Senior year, I was obsessed with art.
+
+250
+00:19:45,384 --> 00:19:50,094
+My teacher made me bring my entire art
+history class over here to show our pieces.
+
+251
+00:19:50,256 --> 00:19:52,327
+It was exactly as mortifying as it sounds.
+
+252
+00:19:52,525 --> 00:19:56,439
+Oh, I'm sure it wasn't. You're a very
+lucky girl to have known such privilege.
+
+253
+00:19:56,595 --> 00:20:00,543
+And I'm fortunate
+to have your entire family here. Heh.
+
+254
+00:20:06,272 --> 00:20:07,774
+Oliver?
+
+255
+00:20:10,910 --> 00:20:12,856
+Oliver, what's your name?
+
+256
+00:20:15,281 --> 00:20:17,090
+Oliver Jonas Queen.
+
+257
+00:20:21,187 --> 00:20:22,791
+Oliver, where were you born?
+
+258
+00:20:24,757 --> 00:20:26,634
+Starling City.
+
+259
+00:20:27,693 --> 00:20:30,105
+Why did you build a bonfire on the beach?
+
+260
+00:20:31,931 --> 00:20:34,104
+So you'd see it.
+
+261
+00:20:35,101 --> 00:20:36,637
+I told you.
+
+262
+00:20:37,737 --> 00:20:39,774
+Was the bonfire a trap?
+
+263
+00:20:40,272 --> 00:20:43,151
+Not a trap. It was a...
+
+264
+00:20:44,577 --> 00:20:46,488
+A distraction.
+
+265
+00:20:48,814 --> 00:20:52,159
+How was the bonfire a distraction?
+
+266
+00:20:53,786 --> 00:20:56,960
+Where are Sara and Slade right now?
+
+267
+00:20:57,623 --> 00:20:59,330
+Where are they?
+
+268
+00:21:01,827 --> 00:21:03,500
+They're on the freighter.
+
+269
+00:21:05,498 --> 00:21:07,273
+Where on the freighter?
+
+270
+00:21:10,002 --> 00:21:13,472
+They're in the engine room,
+because we have a raft.
+
+271
+00:21:13,672 --> 00:21:16,712
+Sound the alarm. I want every man
+on this freighter down in that engine room.
+
+272
+00:21:16,842 --> 00:21:19,686
+Search the entire floor. Go.
+
+273
+00:21:21,614 --> 00:21:23,616
+Oliver Jonas Queen.
+
+274
+00:21:25,484 --> 00:21:27,088
+You're with me.
+
+275
+00:21:28,687 --> 00:21:30,428
+Secure all decks!
+
+276
+00:21:30,856 --> 00:21:32,358
+It'll taste even worse.
+
+277
+00:21:32,992 --> 00:21:34,528
+But it'll work.
+
+278
+00:21:34,693 --> 00:21:38,038
+I spent a year with Anthony Ivo.
+I know how he thinks. It'll work.
+
+279
+00:21:38,197 --> 00:21:39,870
+And what is it, exactly?
+
+280
+00:21:40,032 --> 00:21:43,036
+Cocculus indicus.
+It's a natural source of picrotoxin...
+
+281
+00:21:43,202 --> 00:21:45,705
+which will counteract
+the effects of barbiturates.
+
+282
+00:21:45,871 --> 00:21:48,215
+- Like sodium pentothal.
+- Ivo's favorite.
+
+283
+00:21:48,374 --> 00:21:50,315
+But you still gotta
+act stoned to sell it.
+
+284
+00:21:50,340 --> 00:21:51,340
+Lucky for me...
+
+285
+00:21:51,377 --> 00:21:53,379
+before all this,
+I had a lot of practice.
+
+286
+00:22:01,854 --> 00:22:03,663
+They're clearing the deck.
+
+287
+00:22:04,790 --> 00:22:06,235
+The top of the ship's empty.
+
+288
+00:22:08,294 --> 00:22:09,398
+Are you ready?
+
+289
+00:22:09,562 --> 00:22:11,872
+You really don't want
+an honest answer to that.
+
+290
+00:22:12,064 --> 00:22:14,738
+You've done this before, right?
+
+291
+00:22:14,900 --> 00:22:16,402
+- Nobody's done this before.
+- Aah!
+
+292
+00:22:31,417 --> 00:22:34,091
+Here. I think these belong to you.
+
+293
+00:22:34,653 --> 00:22:37,429
+We're on a clock,
+and she needs to free the prisoners.
+
+294
+00:22:37,590 --> 00:22:40,070
+Ivo sent his men to the engine room
+just like we planned.
+
+295
+00:22:40,226 --> 00:22:42,934
+More convenient for me to take them out.
+
+296
+00:22:44,396 --> 00:22:45,431
+Go find Ivo.
+
+297
+00:22:45,698 --> 00:22:47,439
+He can't get off this ship.
+
+298
+00:22:47,766 --> 00:22:49,609
+But don't kill him.
+
+299
+00:22:50,603 --> 00:22:52,947
+That son of a bitch is mine.
+
+300
+00:22:57,443 --> 00:23:00,515
+And here we have a Curtis Swan from 1882.
+
+301
+00:23:00,679 --> 00:23:03,888
+Fun fact about this one. He actually
+painted it with his left hand...
+
+302
+00:23:04,049 --> 00:23:06,461
+due to severe arthritis.
+
+303
+00:23:07,920 --> 00:23:10,799
+- It's absolutely exquisite.
+- Mm-hm.
+
+304
+00:23:10,956 --> 00:23:14,927
+I can't tell you how many offers we've had
+from private collectors for it.
+
+305
+00:23:15,094 --> 00:23:19,804
+But it was one of Dad's favorites.
+Wasn't it, Ollie?
+
+306
+00:23:20,966 --> 00:23:22,775
+Yes, it was.
+
+307
+00:23:23,469 --> 00:23:25,449
+He loved that one.
+
+308
+00:23:25,604 --> 00:23:27,811
+Then you must never sell it.
+
+309
+00:23:28,474 --> 00:23:32,149
+I believe that
+when we lose someone we love...
+
+310
+00:23:32,378 --> 00:23:34,984
+we have the obligation
+to honor their memory.
+
+311
+00:23:43,789 --> 00:23:48,067
+- You'd think eventually I'd hit something.
+- Be patient. Ollie makes it look easy.
+
+312
+00:23:48,260 --> 00:23:50,171
+Is anyone going to get that?
+
+313
+00:23:50,329 --> 00:23:52,639
+I'll take that as a no. No worries.
+
+314
+00:23:52,798 --> 00:23:55,398
+No matter where I go,
+I'm just answering phones.
+
+315
+00:23:55,467 --> 00:23:56,969
+Hello?
+
+316
+00:23:57,670 --> 00:23:59,172
+Oliver?
+
+317
+00:24:00,406 --> 00:24:03,012
+Well, I do think we've been butt dialed.
+
+318
+00:24:03,275 --> 00:24:05,846
+And here is a Joseph Kubert from 1890.
+
+319
+00:24:06,011 --> 00:24:07,820
+Hey, that's Thea.
+
+320
+00:24:08,948 --> 00:24:10,689
+That's gorgeous.
+
+321
+00:24:10,849 --> 00:24:12,658
+Wait, hold on.
+
+322
+00:24:13,185 --> 00:24:14,858
+I know that voice.
+
+323
+00:24:15,020 --> 00:24:19,867
+I actually have a painting
+from his first solo exhibition in Boston.
+
+324
+00:24:20,359 --> 00:24:21,531
+Oh, God, no.
+
+325
+00:24:21,827 --> 00:24:22,862
+Who is that?
+
+326
+00:24:23,028 --> 00:24:25,372
+His name is Slade Wilson.
+
+327
+00:24:25,531 --> 00:24:30,378
+And unless we stop him, he's gonna
+kill Oliver and his entire family.
+
+328
+00:24:34,873 --> 00:24:38,047
+- We have to move. Now.
+- Are you sure it was Slade Wilson?
+
+329
+00:24:38,210 --> 00:24:40,212
+- I thought he was dead.
+- I'm sure.
+
+330
+00:24:40,379 --> 00:24:42,484
+That's not a voice I'd ever forget.
+
+331
+00:24:42,648 --> 00:24:44,787
+What's the biggest gun
+you've got down here?
+
+332
+00:24:46,719 --> 00:24:48,562
+That might work.
+
+333
+00:24:49,555 --> 00:24:51,034
+Might?
+
+334
+00:24:51,190 --> 00:24:52,863
+He has the Mirakuru in him.
+
+335
+00:24:53,225 --> 00:24:54,533
+So do I.
+
+336
+00:24:55,694 --> 00:24:57,674
+Can I trust you?
+
+337
+00:25:00,165 --> 00:25:02,076
+I'll be fine.
+
+338
+00:25:02,368 --> 00:25:04,678
+Slade was a trained killer
+before he was injected.
+
+339
+00:25:04,837 --> 00:25:07,408
+You get the chance, you get a shot,
+you put him down.
+
+340
+00:25:08,240 --> 00:25:10,083
+Please save Oliver.
+
+341
+00:25:23,422 --> 00:25:24,594
+Why are you doing this?
+
+342
+00:25:24,823 --> 00:25:25,893
+I'm with Oliver now.
+
+343
+00:25:26,058 --> 00:25:29,198
+- Why should I believe you?
+- Because you don't want to die. Go.
+
+344
+00:25:40,739 --> 00:25:43,345
+You helped that maniac torture us.
+
+345
+00:26:19,378 --> 00:26:20,413
+Follow me.
+
+346
+00:26:22,815 --> 00:26:26,388
+- Where's Ivo?
+- He's heading to the bridge.
+
+347
+00:26:58,684 --> 00:26:59,685
+Answer the phone.
+
+348
+00:27:01,086 --> 00:27:02,360
+Please.
+
+349
+00:27:03,422 --> 00:27:04,696
+Hello?
+
+350
+00:27:04,857 --> 00:27:06,336
+Jessica, it's me.
+
+351
+00:27:06,492 --> 00:27:08,028
+Who?
+
+352
+00:27:08,627 --> 00:27:10,368
+It's Anthony.
+
+353
+00:27:10,629 --> 00:27:12,267
+Anthony.
+
+354
+00:27:12,498 --> 00:27:14,978
+I was married to a boy named Anthony.
+
+355
+00:27:15,134 --> 00:27:17,546
+- I know, sweetheart.
+- But he went away.
+
+356
+00:27:17,803 --> 00:27:20,044
+I went to find a cure.
+
+357
+00:27:20,539 --> 00:27:22,143
+And I found one, sweetheart.
+
+358
+00:27:22,541 --> 00:27:23,781
+I found it. And soon...
+
+359
+00:27:25,611 --> 00:27:27,613
+He was a doctor.
+
+360
+00:27:27,779 --> 00:27:30,055
+But he went away.
+
+361
+00:27:44,029 --> 00:27:46,236
+It's harder than it looks, isn't it?
+
+362
+00:27:46,398 --> 00:27:47,809
+Ah.
+
+363
+00:27:47,966 --> 00:27:49,843
+Killing an unarmed man.
+
+364
+00:27:50,002 --> 00:27:53,006
+Seemed pretty easy
+when you murdered Shado.
+
+365
+00:27:53,205 --> 00:27:56,243
+- I didn't murder her, Oliver.
+- Ivo, you shot her in the head.
+
+366
+00:27:56,475 --> 00:27:58,421
+I gave you a choice.
+
+367
+00:27:58,577 --> 00:28:00,853
+You chose Sara.
+
+368
+00:28:01,713 --> 00:28:02,919
+You blame me.
+
+369
+00:28:03,248 --> 00:28:06,024
+But that's because you can't face
+your own guilt.
+
+370
+00:28:06,518 --> 00:28:10,091
+I loaded the bullets, yes.
+I pulled the trigger.
+
+371
+00:28:11,723 --> 00:28:13,259
+But you...
+
+372
+00:28:13,759 --> 00:28:15,534
+You aimed the gun.
+
+373
+00:28:17,529 --> 00:28:20,271
+And you hold yourself responsible.
+
+374
+00:28:20,566 --> 00:28:21,601
+Don't you?
+
+375
+00:28:24,102 --> 00:28:25,581
+Yes.
+
+376
+00:28:27,873 --> 00:28:30,217
+That doesn't mean I won't kill you.
+
+377
+00:28:31,376 --> 00:28:33,447
+The question is...
+
+378
+00:28:34,780 --> 00:28:36,555
+what will he do?
+
+379
+00:28:55,300 --> 00:28:56,472
+Is it true?
+
+380
+00:29:00,138 --> 00:29:02,311
+Tell me.
+
+381
+00:29:02,541 --> 00:29:05,317
+- Slade, I tried to tell you...
+- Tell him, Oliver.
+
+382
+00:29:06,645 --> 00:29:07,988
+I was angry.
+
+383
+00:29:08,146 --> 00:29:10,319
+Like you are right now.
+
+384
+00:29:10,582 --> 00:29:13,153
+- I wasn't thinking clearly.
+- Shut up.
+
+385
+00:29:13,752 --> 00:29:17,825
+I acted rashly. I told him to choose
+between Shado and Sara.
+
+386
+00:29:18,657 --> 00:29:19,761
+Don't listen to him.
+
+387
+00:29:19,958 --> 00:29:23,269
+He's a monster. He will say anything.
+You know that he will.
+
+388
+00:29:23,662 --> 00:29:25,266
+Tell him I'm lying, Oliver.
+
+389
+00:29:25,831 --> 00:29:27,504
+Say it.
+
+390
+00:29:29,668 --> 00:29:30,840
+I can explain.
+
+391
+00:29:32,004 --> 00:29:33,847
+You chose.
+
+392
+00:29:54,126 --> 00:29:55,696
+Slade.
+
+393
+00:29:56,361 --> 00:29:57,965
+Please. Ivo...
+
+394
+00:29:58,597 --> 00:30:00,338
+He's dead.
+
+395
+00:30:00,699 --> 00:30:02,701
+As dead as you are.
+
+396
+00:30:49,748 --> 00:30:50,920
+How many?
+
+397
+00:30:55,253 --> 00:30:58,666
+This one time, you can pray for me.
+
+398
+00:31:14,206 --> 00:31:15,776
+Behind you!
+
+399
+00:31:23,548 --> 00:31:26,392
+Ollie, are you okay? Where's Slade?
+
+400
+00:31:27,285 --> 00:31:28,559
+He knows.
+
+401
+00:31:31,123 --> 00:31:33,933
+Get down, get down!
+
+402
+00:31:35,394 --> 00:31:37,772
+- We gotta get off this ship.
+- No.
+
+403
+00:31:37,929 --> 00:31:41,274
+Ollie, it's over. it's over. We gotta go.
+
+404
+00:31:41,466 --> 00:31:43,571
+We can still swim back to the island.
+
+405
+00:31:43,735 --> 00:31:46,443
+She's right, my friend.
+We must hurry.
+
+406
+00:32:07,058 --> 00:32:10,335
+Unh. Slade, wait.
+
+407
+00:32:17,736 --> 00:32:19,943
+Stop. Don't move.
+
+408
+00:32:21,740 --> 00:32:23,947
+Get in the cell.
+
+409
+00:32:26,178 --> 00:32:28,317
+I do not take orders from you.
+
+410
+00:32:28,513 --> 00:32:30,993
+I am this ship's captain.
+
+411
+00:32:36,321 --> 00:32:38,198
+Not anymore.
+
+412
+00:32:43,361 --> 00:32:45,864
+This is my ship now.
+
+413
+00:32:47,666 --> 00:32:49,873
+Any objections?
+
+414
+00:33:00,378 --> 00:33:04,349
+Slade Wilson is dangerous.
+No chances. No mistakes.
+
+415
+00:33:06,785 --> 00:33:08,025
+I'm in position.
+
+416
+00:33:08,353 --> 00:33:10,993
+When Slade comes out,
+I'll have the shot.
+
+417
+00:33:13,191 --> 00:33:15,797
+Thermal imaging's coming up now.
+
+418
+00:33:17,496 --> 00:33:18,736
+They're in the northwest hall.
+
+419
+00:33:22,667 --> 00:33:25,580
+Roy, remember,
+just get Thea and Moira away from Slade.
+
+420
+00:33:25,737 --> 00:33:28,343
+Don't start a fight. You'll lose. Okay?
+
+421
+00:33:28,507 --> 00:33:30,009
+Okay.
+
+422
+00:33:30,408 --> 00:33:32,081
+Let's go.
+
+423
+00:33:54,599 --> 00:33:56,772
+Ha-ha-ha. Thank you again...
+
+424
+00:33:57,002 --> 00:34:01,280
+- for such a wonderful and insightful tour.
+- Of course.
+
+425
+00:34:01,439 --> 00:34:02,850
+You were a remarkable guide.
+
+426
+00:34:03,008 --> 00:34:04,749
+Did you have a favorite?
+
+427
+00:34:05,110 --> 00:34:07,454
+I found The Promise...
+
+428
+00:34:07,679 --> 00:34:09,625
+to be particularly compelling.
+
+429
+00:34:09,848 --> 00:34:11,020
+Thea? You home?
+
+430
+00:34:11,683 --> 00:34:14,357
+Roy? I thought I was
+meeting you at Verdant.
+
+431
+00:34:14,953 --> 00:34:16,398
+Oh, yeah.
+
+432
+00:34:18,256 --> 00:34:20,736
+- Uh, this is, uh...
+- I'm Roy Harper.
+
+433
+00:34:21,693 --> 00:34:23,070
+Slade Wilson.
+
+434
+00:34:24,563 --> 00:34:27,305
+That's a particularly firm handshake
+you have there, son.
+
+435
+00:34:27,766 --> 00:34:29,074
+Yeah, you too.
+
+436
+00:34:36,975 --> 00:34:38,045
+Ollie.
+
+437
+00:34:38,944 --> 00:34:40,719
+There you are.
+
+438
+00:34:41,713 --> 00:34:44,057
+Sara, we didn't hear you come in.
+
+439
+00:34:44,215 --> 00:34:46,752
+I didn't want to interrupt the tour.
+
+440
+00:34:47,719 --> 00:34:51,496
+Mr. Wilson, this is
+my son's friend, Sara Lance.
+
+441
+00:34:51,656 --> 00:34:53,431
+Of course.
+
+442
+00:34:54,426 --> 00:34:56,838
+You're the girl who came
+back from the dead.
+
+443
+00:34:57,295 --> 00:34:59,775
+We're just glad to have her home.
+
+444
+00:35:00,599 --> 00:35:02,010
+Oh, I can see.
+
+445
+00:35:02,233 --> 00:35:06,238
+It's hard to find that special someone
+who means everything to you.
+
+446
+00:35:07,005 --> 00:35:09,178
+You're very lucky.
+
+447
+00:35:15,747 --> 00:35:17,158
+So...
+
+448
+00:35:18,650 --> 00:35:21,153
+what would you like to do now...
+
+449
+00:35:22,320 --> 00:35:24,095
+Mr. Wilson?
+
+450
+00:35:36,768 --> 00:35:39,044
+Well, I hate to break up the party...
+
+451
+00:35:40,105 --> 00:35:42,381
+- but I think I should be going.
+- Hmm.
+
+452
+00:35:46,011 --> 00:35:48,418
+I look forward to seeing
+more of you, Moira.
+
+453
+00:35:48,443 --> 00:35:49,443
+Oh.
+
+454
+00:35:52,884 --> 00:35:55,057
+And your lovely family.
+
+455
+00:35:57,122 --> 00:35:59,898
+Dig's got a shot lined up outside.
+
+456
+00:36:00,191 --> 00:36:01,795
+Mr. Wilson.
+
+457
+00:36:03,028 --> 00:36:05,065
+May I walk you to your car?
+
+458
+00:36:22,647 --> 00:36:24,183
+Cyrus Gold...
+
+459
+00:36:24,382 --> 00:36:27,659
+the man in the skull mask.
+All this was you.
+
+460
+00:36:28,520 --> 00:36:30,193
+They worked for you.
+
+461
+00:36:30,922 --> 00:36:33,425
+Well, I have my allies.
+
+462
+00:36:33,658 --> 00:36:36,002
+Just as you have yours.
+
+463
+00:36:36,695 --> 00:36:38,106
+John Diggle, for example.
+
+464
+00:36:38,997 --> 00:36:43,104
+I suppose you're wondering
+why he hasn't taken his head shot.
+
+465
+00:36:45,403 --> 00:36:47,076
+Don't worry.
+
+466
+00:36:47,439 --> 00:36:48,509
+He's still alive.
+
+467
+00:36:49,074 --> 00:36:50,781
+For now.
+
+468
+00:36:53,011 --> 00:36:54,456
+Slade.
+
+469
+00:36:59,084 --> 00:37:01,257
+What do you want?
+
+470
+00:37:02,620 --> 00:37:04,224
+Hmm.
+
+471
+00:37:11,262 --> 00:37:14,266
+Five years ago, I made you a promise.
+
+472
+00:37:14,466 --> 00:37:15,604
+Do you remember?
+
+473
+00:37:18,603 --> 00:37:21,083
+Well, I'm here to fulfill it.
+
+474
+00:37:21,773 --> 00:37:24,151
+I'll see you around, kid.
+
+475
+00:37:36,588 --> 00:37:37,658
+We made it.
+
+476
+00:37:40,391 --> 00:37:42,166
+Where's Oliver?
+
+477
+00:37:55,440 --> 00:37:57,852
+I need you to see something.
+
+478
+00:38:08,686 --> 00:38:10,757
+Okay. Wait.
+
+479
+00:38:12,590 --> 00:38:13,864
+You need me.
+
+480
+00:38:14,025 --> 00:38:15,834
+Okay? You have the Mirakuru in you.
+
+481
+00:38:16,628 --> 00:38:18,767
+Not just in me.
+
+482
+00:38:24,936 --> 00:38:28,042
+You burned a box full of dirt.
+
+483
+00:38:28,473 --> 00:38:31,283
+Okay, look.
+I can help you understand how it works.
+
+484
+00:38:31,476 --> 00:38:34,079
+I've spent my entire life
+studying it, all right?
+
+485
+00:38:34,104 --> 00:38:35,104
+It was you.
+
+486
+00:38:35,647 --> 00:38:37,456
+You were the one who killed Shado.
+
+487
+00:38:37,982 --> 00:38:39,017
+No.
+
+488
+00:38:39,184 --> 00:38:42,393
+No, he chose. It was him.
+
+489
+00:38:48,359 --> 00:38:50,305
+Give him your gun.
+
+490
+00:38:52,497 --> 00:38:54,067
+Take it.
+
+491
+00:38:55,567 --> 00:38:57,240
+And show me...
+
+492
+00:38:57,969 --> 00:38:59,539
+how you killed Shado.
+
+493
+00:39:00,171 --> 00:39:02,082
+Show me!
+
+494
+00:39:09,347 --> 00:39:10,985
+Slade.
+
+495
+00:39:13,718 --> 00:39:14,856
+This isn't you.
+
+496
+00:39:17,155 --> 00:39:19,101
+It's the Mirakuru...
+
+497
+00:39:19,257 --> 00:39:20,327
+and you're sick.
+
+498
+00:39:21,392 --> 00:39:22,530
+I don't care.
+
+499
+00:39:22,727 --> 00:39:24,934
+I was trying to protect Sara.
+
+500
+00:39:27,432 --> 00:39:32,006
+But I didn't want Shado to die. I cared
+for her too, and you know that I did.
+
+501
+00:39:32,737 --> 00:39:34,580
+I don't care.
+
+502
+00:39:37,575 --> 00:39:39,851
+You said we were brothers.
+
+503
+00:39:40,879 --> 00:39:42,722
+You said that.
+
+504
+00:39:44,582 --> 00:39:45,754
+Is that how you did it?
+
+505
+00:39:46,251 --> 00:39:50,063
+- Is that how you pointed the gun at her?
+- Yes.
+
+506
+00:40:01,699 --> 00:40:03,235
+Get him out of here.
+
+507
+00:40:07,705 --> 00:40:09,742
+Why don't you just kill me?
+
+508
+00:40:09,908 --> 00:40:11,751
+If I kill you now...
+
+509
+00:40:13,044 --> 00:40:14,921
+it would be a mercy.
+
+510
+00:40:17,782 --> 00:40:19,659
+You cannot die...
+
+511
+00:40:20,485 --> 00:40:22,487
+until you have suffered...
+
+512
+00:40:24,088 --> 00:40:26,659
+the same way that I have suffered.
+
+513
+00:40:27,825 --> 00:40:29,964
+Until you have known...
+
+514
+00:40:30,995 --> 00:40:32,303
+complete despair.
+
+515
+00:40:33,498 --> 00:40:35,273
+And you will.
+
+516
+00:40:37,168 --> 00:40:39,114
+I promise.
+
+517
+00:40:48,479 --> 00:40:50,117
+Mr. Wilson leave?
+
+518
+00:40:50,281 --> 00:40:51,851
+Yeah.
+
+519
+00:40:54,118 --> 00:40:55,978
+It's getting pretty late.
+I'm gonna go too.
+
+520
+00:40:56,003 --> 00:40:56,703
+Mm.
+
+521
+00:40:56,754 --> 00:40:58,427
+Oliver.
+
+522
+00:40:59,023 --> 00:41:03,995
+I know you and I have our differences, but
+they hardly excuse your behavior tonight.
+
+523
+00:41:08,166 --> 00:41:10,564
+If this is the way you're
+gonna act around me from
+
+524
+00:41:10,589 --> 00:41:12,798
+now on, then don't come
+by the house any more.
+

@@ -1,0 +1,3404 @@
+﻿1
+00:00:00,911 --> 00:00:03,815
+My name is Oliver Queen.
+For 5 years,
+
+2
+00:00:03,816 --> 00:00:07,767
+I was stranded on an island
+with only one goal--
+
+3
+00:00:07,769 --> 00:00:09,436
+survive.
+
+4
+00:00:09,438 --> 00:00:11,238
+Oliver Queen is alive.
+
+5
+00:00:11,240 --> 00:00:12,906
+Now I will fulfill
+my father's dying wish--
+
+6
+00:00:12,908 --> 00:00:15,409
+to use the list
+of names he left me
+
+7
+00:00:15,411 --> 00:00:18,611
+and bring down those
+who are poisoning my city.
+
+8
+00:00:18,613 --> 00:00:21,581
+To do this, I must
+become someone else.
+
+9
+00:00:21,583 --> 00:00:25,469
+I must become
+something else.
+
+10
+00:00:25,565 --> 00:00:27,314
+Previously on "Arrow"...
+
+11
+00:00:27,316 --> 00:00:30,401
+Felicity, I want you to find out
+all you can about that notebook.
+
+12
+00:00:30,403 --> 00:00:32,403
+I'll be driving your mother
+around for a few days.
+
+13
+00:00:32,405 --> 00:00:34,054
+She's not a suspect.
+
+14
+00:00:34,056 --> 00:00:36,023
+Oliver, something's going on
+in this city. You know it.
+
+15
+00:00:36,025 --> 00:00:38,725
+Walter, please. You've got
+to stop looking into this.
+
+16
+00:00:38,727 --> 00:00:39,994
+It's not safe.
+
+17
+00:00:39,996 --> 00:00:41,862
+Well, accidents tend
+to befall people
+
+18
+00:00:41,864 --> 00:00:44,331
+who are too curious.
+
+19
+00:00:44,333 --> 00:00:46,784
+And he won't be harmed?
+It's done.
+
+20
+00:00:46,786 --> 00:00:49,370
+Nor will ever discover your
+involvement. You have my word.
+
+21
+00:00:49,372 --> 00:00:51,262
+I'm not sure I'm ready
+for the kind of commitment
+
+22
+00:00:51,287 --> 00:00:52,374
+that you're looking for.
+
+23
+00:00:52,375 --> 00:00:53,374
+You can't be serious.
+
+24
+00:00:53,376 --> 00:00:54,925
+This is me serious,
+Laurel.
+
+25
+00:01:03,436 --> 00:01:04,635
+Call Cayman Fidelity.
+
+26
+00:01:04,637 --> 00:01:06,220
+Tell them their
+favorite accountant
+
+27
+00:01:06,222 --> 00:01:09,056
+is flying in to make
+a special deposit
+
+28
+00:01:09,058 --> 00:01:12,226
+for a special client.
+
+29
+00:01:15,864 --> 00:01:17,598
+That elevator's supposed
+to be on a key.
+
+30
+00:01:17,600 --> 00:01:19,733
+Go. Check it out.
+
+31
+00:01:49,097 --> 00:01:51,182
+Harold Backman,
+
+32
+00:01:51,184 --> 00:01:53,517
+you have failed
+this city.
+
+33
+00:01:53,519 --> 00:01:55,102
+I'm only an accountant.
+
+34
+00:01:55,104 --> 00:01:56,770
+I'm just the money.
+
+35
+00:01:56,772 --> 00:01:58,305
+The money that leads
+to extortion,
+
+36
+00:01:58,307 --> 00:02:00,107
+kidnapping, and drugs.
+
+37
+00:02:00,109 --> 00:02:03,244
+It's the destruction
+of innocent lives!
+
+38
+00:02:03,246 --> 00:02:06,780
+You think you scare me
+more than the people I work for?
+
+39
+00:02:06,782 --> 00:02:09,650
+No.
+
+40
+00:02:09,652 --> 00:02:11,652
+They can deal with you.
+
+41
+00:02:16,324 --> 00:02:18,759
+Hmm. Let me guess.
+
+42
+00:02:18,761 --> 00:02:21,178
+Some bad guy missing
+his fancy new laptop.
+
+43
+00:02:21,180 --> 00:02:23,664
+Harold Backman. He's who
+Starling City's worst call
+
+44
+00:02:23,666 --> 00:02:25,850
+when they want to
+launder money in the Caymans.
+
+45
+00:02:25,852 --> 00:02:27,968
+Shouldn't we just
+turn this over to,
+
+46
+00:02:27,970 --> 00:02:29,720
+I don't know, the IRS?
+
+47
+00:02:29,722 --> 00:02:31,839
+We will. Just as soon
+as you return the money
+
+48
+00:02:31,841 --> 00:02:33,724
+to the rightful owners.
+
+49
+00:02:33,726 --> 00:02:36,110
+Well, it sounds like
+a very nice idea.
+
+50
+00:02:36,112 --> 00:02:37,311
+Backman's files
+are all protected
+
+51
+00:02:37,313 --> 00:02:39,280
+with an asymmetric
+encryption algorithm.
+
+52
+00:02:39,282 --> 00:02:42,800
+Really? So it's gonna
+take a while to break in.
+
+53
+00:02:42,802 --> 00:02:44,451
+Days, at least.
+
+54
+00:02:44,453 --> 00:02:46,654
+Better get started, then.
+
+55
+00:02:50,125 --> 00:02:53,711
+At the risk of ending up
+with an arrow in my eye,
+
+56
+00:02:53,713 --> 00:02:55,496
+can I ask...
+
+57
+00:02:55,498 --> 00:02:57,381
+When are you planning
+on making peace with Diggle?
+
+58
+00:02:57,383 --> 00:02:59,133
+He's the one who left,
+Felicity.
+
+59
+00:02:59,135 --> 00:03:00,834
+I did everything I could
+to stop him.
+
+60
+00:03:00,836 --> 00:03:02,753
+Except apologize.
+
+61
+00:03:02,755 --> 00:03:05,339
+You promised you'd help him track
+down Floyd Lawton and then you--
+
+62
+00:03:05,341 --> 00:03:07,374
+Made a choice
+that I can life with.
+
+63
+00:03:07,376 --> 00:03:09,927
+If he can't,
+then I don't need him.
+
+64
+00:03:09,929 --> 00:03:11,712
+I need to get back to the club.
+Oliver--
+
+65
+00:03:11,714 --> 00:03:13,314
+Let me know
+when you break in.
+
+66
+00:03:16,651 --> 00:03:19,236
+I wish someone would
+send me off to the Caymans.
+
+67
+00:03:21,239 --> 00:03:25,075
+Yes, I know it's been
+6 months. But--
+
+68
+00:03:27,362 --> 00:03:30,497
+I am very well aware
+of the statistics.
+
+69
+00:03:30,499 --> 00:03:34,401
+But I haven't given up hope
+and neither should you.
+
+70
+00:03:34,403 --> 00:03:37,904
+That didn't sound
+too good.
+
+71
+00:03:37,906 --> 00:03:39,406
+Oh, it's fine.
+
+72
+00:03:39,408 --> 00:03:40,925
+Who were you talking to?
+
+73
+00:03:40,927 --> 00:03:43,928
+Just the insurance company.
+
+74
+00:03:43,930 --> 00:03:48,265
+They insist on paying out
+Walter's life insurance policy.
+
+75
+00:03:48,267 --> 00:03:50,751
+I know we haven't talked
+about Walter in a while,
+
+76
+00:03:50,753 --> 00:03:53,887
+but I--I miss him, too.
+
+77
+00:03:53,889 --> 00:03:57,107
+It's like losing dad
+all over again.
+
+78
+00:04:01,229 --> 00:04:02,863
+You look radiant.
+
+79
+00:04:02,865 --> 00:04:04,598
+Flatterer.
+
+80
+00:04:04,600 --> 00:04:07,451
+I think you're
+the last to arrive.
+
+81
+00:04:07,453 --> 00:04:08,953
+How's Tommy?
+
+82
+00:04:08,955 --> 00:04:10,871
+Tommy is Tommy.
+How's Oliver?
+
+83
+00:04:10,873 --> 00:04:12,623
+Still in bed.
+It's only noon.
+
+84
+00:04:14,410 --> 00:04:16,160
+Well, look who
+I just found.
+
+85
+00:04:16,162 --> 00:04:18,412
+Get lost trying
+to find the house?
+
+86
+00:04:18,414 --> 00:04:19,830
+You say that as if
+your driveway's
+
+87
+00:04:19,832 --> 00:04:21,281
+not longer
+than most roads.
+
+88
+00:04:21,283 --> 00:04:22,416
+Can I get anyone
+anything else? Frank?
+
+89
+00:04:22,418 --> 00:04:23,467
+We're fine, dear,
+thank you.
+
+90
+00:04:24,620 --> 00:04:26,136
+Oh, excuse me.
+
+91
+00:04:28,173 --> 00:04:31,842
+Hello, Mrs. Queen.
+I'm sorry to bother you at home.
+
+92
+00:04:31,844 --> 00:04:35,145
+Oh, no, no. Don't be silly, Walter.
+Come in, please.
+
+93
+00:04:38,066 --> 00:04:39,683
+You're here
+to see Robert.
+
+94
+00:04:39,685 --> 00:04:41,652
+Yes. There's just some
+papers he needs to sign
+
+95
+00:04:41,654 --> 00:04:43,270
+for the stock offering.
+
+96
+00:04:43,272 --> 00:04:44,855
+Well, he's in some
+private meeting right now,
+
+97
+00:04:44,857 --> 00:04:46,306
+but you're welcome
+to wait for him in his study.
+
+98
+00:04:46,308 --> 00:04:47,491
+Thank you.
+
+99
+00:04:47,493 --> 00:04:48,642
+Unless you'd like
+to help me
+
+100
+00:04:48,644 --> 00:04:50,143
+get my children
+out of the house.
+
+101
+00:04:50,145 --> 00:04:52,145
+You don't have
+children, do you, Walter?
+
+102
+00:04:52,147 --> 00:04:53,747
+Not yet, I'm afraid.
+
+103
+00:04:53,749 --> 00:04:55,749
+Well, save yourself
+the trouble and don't.
+
+104
+00:04:55,751 --> 00:04:57,668
+They eventually
+all turn into teenagers.
+
+105
+00:04:59,421 --> 00:05:01,922
+Adam Hunt
+was reluctant at first,
+
+106
+00:05:01,924 --> 00:05:04,425
+but was more cooperative
+upon being informed
+
+107
+00:05:04,427 --> 00:05:06,126
+we knew about
+his embezzlement.
+
+108
+00:05:06,128 --> 00:05:08,128
+Police communication system
+could use an upgrade.
+
+109
+00:05:08,130 --> 00:05:10,764
+I think Mr. Hunt
+can be persuaded
+
+110
+00:05:10,766 --> 00:05:12,883
+to make an anonymous
+donation.
+
+111
+00:05:12,885 --> 00:05:16,053
+Well, that will certainly
+cure what ails this city.
+
+112
+00:05:16,055 --> 00:05:18,138
+What's that, Malcolm?
+
+113
+00:05:18,140 --> 00:05:21,058
+We're emptying the Atlantic
+with a tablespoon.
+
+114
+00:05:21,060 --> 00:05:24,111
+For years we've been forcing
+the city's worst to do what is best,
+
+115
+00:05:24,113 --> 00:05:26,146
+leverage them to help us
+save the city.
+
+116
+00:05:26,148 --> 00:05:28,014
+But it's...not working.
+
+117
+00:05:28,016 --> 00:05:30,684
+Crime in the Glades
+is rising.
+
+118
+00:05:30,686 --> 00:05:32,069
+The cancer is spreading.
+
+119
+00:05:32,071 --> 00:05:34,855
+We just need to...
+Take some more time.
+
+120
+00:05:34,857 --> 00:05:37,658
+Did Rebecca get more time?
+Did the man who raped Frank's daughter
+
+121
+00:05:37,660 --> 00:05:39,827
+give her any quarter?
+
+122
+00:05:39,829 --> 00:05:43,080
+Everyone in this room has lost
+something or someone to the Glades.
+
+123
+00:05:43,082 --> 00:05:46,166
+And we have committed
+ourselves to fixing it.
+
+124
+00:05:46,168 --> 00:05:49,503
+But what have we truly
+accomplished?
+
+125
+00:05:49,505 --> 00:05:51,588
+Nothing.
+
+126
+00:05:51,590 --> 00:05:53,507
+Maybe it's because
+the Glades can't be fixed.
+
+127
+00:05:53,509 --> 00:05:56,060
+You're saying we should
+abandon the project?
+
+128
+00:05:56,062 --> 00:05:57,711
+Yes.
+
+129
+00:05:57,713 --> 00:06:00,564
+In favor of a new
+undertaking.
+
+130
+00:06:00,566 --> 00:06:03,734
+Like Ben Tre in Vietnam.
+
+131
+00:06:03,736 --> 00:06:07,654
+The village must be destroyed
+before it can be saved.
+
+132
+00:06:07,656 --> 00:06:10,157
+Are you suggesting
+we somehow...
+
+133
+00:06:10,159 --> 00:06:12,058
+level the Glades?
+
+134
+00:06:12,060 --> 00:06:13,544
+Down to the bedrock.
+
+135
+00:06:13,546 --> 00:06:16,363
+Only then can we truly
+
+136
+00:06:16,365 --> 00:06:19,616
+rebuild Starling City
+and make it safer for everyone.
+
+137
+00:06:19,618 --> 00:06:21,502
+That's 24 square blocks.
+
+138
+00:06:21,504 --> 00:06:22,870
+And if we did--
+
+139
+00:06:22,872 --> 00:06:24,571
+and I'm not saying
+we should--
+
+140
+00:06:24,573 --> 00:06:25,789
+if we did,
+
+141
+00:06:25,791 --> 00:06:28,175
+wouldn't suspicion
+fall on us?
+
+142
+00:06:28,177 --> 00:06:29,676
+Not if the destruction
+
+143
+00:06:29,678 --> 00:06:32,129
+appears to be caused
+by a natural disaster.
+
+144
+00:06:32,131 --> 00:06:34,264
+You've always had something of
+a God complex, Malcolm.
+
+145
+00:06:34,266 --> 00:06:36,249
+It's part of your charm.
+
+146
+00:06:36,251 --> 00:06:38,886
+But even you can't create
+a natural disaster.
+
+147
+00:06:38,888 --> 00:06:42,422
+Have you ever heard of
+Unidac Industries?
+
+148
+00:06:42,424 --> 00:06:44,441
+It's a small company.
+
+149
+00:06:44,443 --> 00:06:47,761
+They have an idea...
+
+150
+00:06:47,763 --> 00:06:50,898
+An idea that will serve
+our purposes.
+
+151
+00:06:50,900 --> 00:06:53,200
+My sources tell me they're
+5 years away from prototype.
+
+152
+00:06:53,202 --> 00:06:57,454
+And any undertaking of value
+is worthy of patience.
+
+153
+00:06:57,456 --> 00:06:58,605
+And restraint.
+
+154
+00:06:58,607 --> 00:06:59,873
+One man alone
+
+155
+00:06:59,875 --> 00:07:01,107
+can't save this city,
+Robert,
+
+156
+00:07:01,109 --> 00:07:02,743
+and we both know that.
+
+157
+00:07:13,338 --> 00:07:17,090
+Of all the gin joints
+in all the towns in all the world,
+
+158
+00:07:17,092 --> 00:07:18,475
+she walks into mine.
+
+159
+00:07:18,477 --> 00:07:21,428
+This coffee's terrible,
+Oliver.
+
+160
+00:07:21,430 --> 00:07:24,398
+That's what you get
+for ordering coffee in a bar.
+
+161
+00:07:28,736 --> 00:07:30,237
+You look tired.
+
+162
+00:07:30,239 --> 00:07:32,389
+Too much work?
+
+163
+00:07:32,391 --> 00:07:34,140
+Too much crying.
+
+164
+00:07:34,142 --> 00:07:37,327
+Tommy broke up with me.
+
+165
+00:07:38,830 --> 00:07:40,664
+What happened?
+
+166
+00:07:40,666 --> 00:07:41,782
+I have no idea.
+
+167
+00:07:41,784 --> 00:07:44,284
+Things were good.
+They were...
+
+168
+00:07:44,286 --> 00:07:47,337
+Great, and then suddenly
+he's packing up his things
+
+169
+00:07:47,339 --> 00:07:50,490
+and telling me
+that it's over.
+
+170
+00:07:50,492 --> 00:07:52,826
+Did he say anything
+to you?
+
+171
+00:07:52,828 --> 00:07:56,597
+No. Tommy and I haven't
+talked very much since he quit.
+
+172
+00:07:56,599 --> 00:07:59,499
+But he'll come around.
+
+173
+00:07:59,501 --> 00:08:01,985
+It's probably
+just cold feet.
+
+174
+00:08:04,189 --> 00:08:06,006
+Like it was with you.
+
+175
+00:08:06,008 --> 00:08:09,943
+Oliver, you don't sleep with
+your girlfriend's sister
+
+176
+00:08:09,945 --> 00:08:12,846
+unless you're looking
+to blow the relationship up.
+
+177
+00:08:12,848 --> 00:08:15,115
+If you still want
+to be with Tommy,
+
+178
+00:08:15,117 --> 00:08:18,368
+do what
+we should have done.
+
+179
+00:08:20,104 --> 00:08:21,438
+Talk to each other
+
+180
+00:08:21,440 --> 00:08:23,040
+and be honest.
+
+181
+00:08:24,860 --> 00:08:27,294
+Oliver,
+I need to show you what--
+
+182
+00:08:27,296 --> 00:08:31,331
+I just totally walked in
+on a thing, didn't I?
+
+183
+00:08:31,333 --> 00:08:33,000
+I'm sorry, uh,
+who are you?
+
+184
+00:08:33,002 --> 00:08:34,668
+Nobody. I mean,
+I'm not nobody.
+
+185
+00:08:34,670 --> 00:08:35,953
+I'm someone,
+obviously.
+
+186
+00:08:35,955 --> 00:08:38,922
+And so are you.
+You're Laurel, right?
+
+187
+00:08:38,924 --> 00:08:41,642
+That Laurel.
+Gorgeous Laurel.
+
+188
+00:08:41,644 --> 00:08:44,261
+This is Felicity.
+She's setting up my Internet.
+
+189
+00:08:44,263 --> 00:08:46,647
+Router. And I need
+to show Oliver
+
+190
+00:08:46,649 --> 00:08:48,599
+something very important
+related to it.
+
+191
+00:08:48,601 --> 00:08:51,685
+I'll let you go, then.
+
+192
+00:08:51,687 --> 00:08:54,220
+Thank you for the coffee...
+
+193
+00:08:54,222 --> 00:08:56,389
+and the advice.
+
+194
+00:09:02,997 --> 00:09:04,114
+Tell me you got in.
+
+195
+00:09:04,116 --> 00:09:06,033
+Better. I hacked
+Cayman Fidelity
+
+196
+00:09:06,035 --> 00:09:08,285
+and put together a list all the
+deposits Backman made last year.
+
+197
+00:09:08,287 --> 00:09:09,920
+Felicity, what good
+does that do us
+
+198
+00:09:09,922 --> 00:09:11,505
+if we don't know
+whose money it was?
+
+199
+00:09:11,507 --> 00:09:13,340
+Look at the biggest deposit
+Backman made last year.
+
+200
+00:09:13,342 --> 00:09:14,407
+Bottom page.
+
+201
+00:09:14,409 --> 00:09:16,910
+$2 million on Decem--
+
+202
+00:09:16,912 --> 00:09:19,963
+December 12.
+
+203
+00:09:19,965 --> 00:09:21,181
+That's...
+
+204
+00:09:21,183 --> 00:09:22,799
+The day Walter
+disappeared.
+
+205
+00:09:22,801 --> 00:09:25,752
+What if one of Backman's clients
+was paid 2 million
+
+206
+00:09:25,754 --> 00:09:26,970
+to kidnap Walter?
+
+207
+00:09:26,972 --> 00:09:30,256
+Then we find out
+which client it was...
+
+208
+00:09:30,258 --> 00:09:32,276
+And we use them
+to find Walter.
+
+209
+00:09:35,718 --> 00:09:39,718
+<font color=#00FF00>♪ Arrow 1x21 ♪</font>
+<font color=#00FFFF>The Undertaking</font>
+Original Air Date on May 1, 2013
+
+210
+00:09:39,743 --> 00:09:44,743
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+211
+00:09:45,960 --> 00:09:49,295
+Ok, back-trace the account,
+follow the money,
+
+212
+00:09:49,297 --> 00:09:51,247
+hopefully it will lead us
+to whoever kidnapped Walter.
+
+213
+00:09:51,249 --> 00:09:53,931
+After all this time,
+do you think Walter might
+
+214
+00:09:53,932 --> 00:09:54,812
+still really be alive?
+
+215
+00:09:54,973 --> 00:09:56,139
+I don't know.
+
+216
+00:09:56,141 --> 00:09:57,607
+Got it.
+
+217
+00:09:57,609 --> 00:09:59,609
+Dominic Alonzo.
+
+218
+00:09:59,611 --> 00:10:01,278
+Yeah.
+Name ring a bell?
+
+219
+00:10:01,280 --> 00:10:04,347
+Alonzo runs the biggest
+underground casino in Starling City
+
+220
+00:10:04,349 --> 00:10:06,316
+when he's not busy
+kidnapping.
+
+221
+00:10:06,318 --> 00:10:10,019
+He looks like the kind of lowlife
+someone would hire to kidnap Walter.
+
+222
+00:10:10,021 --> 00:10:11,688
+How many arrows do you think
+you'll have to put in him
+
+223
+00:10:11,690 --> 00:10:14,241
+before he gives up Walter's location?
+Say a lot?
+
+224
+00:10:14,243 --> 00:10:15,625
+It's not that simple.
+
+225
+00:10:15,627 --> 00:10:17,410
+That casino has
+its own private army.
+
+226
+00:10:17,412 --> 00:10:19,412
+We need to access
+Alonzo's computer,
+
+227
+00:10:19,414 --> 00:10:22,198
+but without setting off
+any alarms.
+
+228
+00:10:22,200 --> 00:10:24,367
+Looks like we're gonna need
+all the help we can get.
+
+229
+00:10:24,369 --> 00:10:27,003
+It's too bad there's not
+someone else we could call.
+
+230
+00:10:27,005 --> 00:10:29,205
+That's enough. We can
+do this on our own.
+
+231
+00:10:29,207 --> 00:10:32,759
+Well, then... Looks like someone's
+going gambling tonight.
+
+232
+00:10:32,761 --> 00:10:35,228
+Those guys would make me
+the minute that I walked in there.
+
+233
+00:10:35,230 --> 00:10:38,265
+Oliver Queen would never be
+caught dead in a place like that.
+
+234
+00:10:38,267 --> 00:10:40,350
+I wasn't talking about you.
+
+235
+00:10:40,352 --> 00:10:41,234
+Absolutely not.
+
+236
+00:10:41,236 --> 00:10:42,719
+I can count cards.
+
+237
+00:10:42,721 --> 00:10:45,388
+It's all probability theory
+and mathematics.
+
+238
+00:10:45,390 --> 00:10:46,690
+Have you met me?
+
+239
+00:10:46,692 --> 00:10:48,491
+Bottom line--I know my way
+around a casino.
+
+240
+00:10:48,493 --> 00:10:50,026
+Felicity, I'm not
+letting you walk--
+
+241
+00:10:50,028 --> 00:10:51,561
+The reason I joined you
+in the first place
+
+242
+00:10:51,563 --> 00:10:53,330
+was to find Walter,
+and for the first time,
+
+243
+00:10:53,332 --> 00:10:57,167
+we have a real chance
+of finding him.
+
+244
+00:10:57,169 --> 00:10:58,835
+You have to let me do this.
+
+245
+00:11:03,741 --> 00:11:05,575
+All right.
+
+246
+00:11:05,577 --> 00:11:08,712
+But we do it my way.
+
+247
+00:11:09,847 --> 00:11:12,599
+Come on.
+
+248
+00:11:13,918 --> 00:11:15,919
+I'm sorry I had to
+pull you away
+
+249
+00:11:15,921 --> 00:11:17,687
+from whoever
+you were meeting.
+
+250
+00:11:17,689 --> 00:11:20,307
+Oh, it's nothing.
+Everyone's left already.
+
+251
+00:11:20,309 --> 00:11:23,643
+Besides, it's my fault for forgetting
+to sign the K-5s this morning.
+
+252
+00:11:23,645 --> 00:11:27,197
+I hope you don't mind me asking,
+but is everything all right?
+
+253
+00:11:27,199 --> 00:11:30,817
+Just, uh, taking care
+of some odds and ends.
+
+254
+00:11:30,819 --> 00:11:33,320
+Well, if ever you need
+a friendly ear.
+
+255
+00:11:33,322 --> 00:11:35,121
+You're a good man, Walter.
+
+256
+00:11:46,467 --> 00:11:48,752
+I thought you'd left.
+
+257
+00:11:48,754 --> 00:11:51,388
+I'm still waiting
+for your answer.
+
+258
+00:11:51,390 --> 00:11:53,340
+How can you even think
+of doing this?
+
+259
+00:11:53,342 --> 00:11:55,642
+That place took
+your soul, Robert.
+
+260
+00:11:55,644 --> 00:11:58,929
+Doing this won't give it back.
+
+261
+00:11:58,931 --> 00:12:01,264
+It won't bring back
+Rebecca, either.
+
+262
+00:12:09,106 --> 00:12:12,742
+It still feels like
+yesterday, that day.
+
+263
+00:12:12,744 --> 00:12:15,612
+When she called my cell
+phone for the first time,
+
+264
+00:12:15,614 --> 00:12:18,114
+I remember being annoyed.
+
+265
+00:12:18,116 --> 00:12:21,651
+She knew I was busy,
+so I just let it ring.
+
+266
+00:12:22,954 --> 00:12:26,506
+When she called back
+a minute later,
+
+267
+00:12:26,508 --> 00:12:30,660
+I shut my phone off.
+
+268
+00:12:30,662 --> 00:12:33,596
+A little after midnight,
+two SCPD officers
+
+269
+00:12:33,598 --> 00:12:36,165
+showed up in my office.
+
+270
+00:12:36,167 --> 00:12:40,437
+All I remember them
+saying was...
+
+271
+00:12:40,439 --> 00:12:43,523
+She'd been shot.
+
+272
+00:12:43,525 --> 00:12:47,176
+Murdered in the Glades.
+
+273
+00:12:48,646 --> 00:12:53,066
+After the cops left, I sat in my
+office the rest of the night
+
+274
+00:12:53,068 --> 00:12:55,452
+listening to Rebecca's messages.
+
+275
+00:13:01,709 --> 00:13:05,211
+She kept calling my name...
+
+276
+00:13:05,213 --> 00:13:07,163
+Asking for help...
+
+277
+00:13:07,165 --> 00:13:10,633
+until she was just
+struggling to breathe,
+
+278
+00:13:10,635 --> 00:13:14,004
+gasping for air.
+
+279
+00:13:14,006 --> 00:13:16,222
+I listened to my wife die
+
+280
+00:13:16,224 --> 00:13:18,341
+over and over
+
+281
+00:13:18,343 --> 00:13:20,977
+and over again.
+
+282
+00:13:22,880 --> 00:13:25,065
+I can't imagine, Malcolm.
+
+283
+00:13:25,067 --> 00:13:26,516
+Try.
+
+284
+00:13:26,518 --> 00:13:29,385
+Imagine it was Moira
+lying on that pavement,
+
+285
+00:13:29,387 --> 00:13:31,721
+bleeding, calling your name.
+
+286
+00:13:31,723 --> 00:13:35,391
+And then tell me you wouldn't
+be prepared to do what I am.
+
+287
+00:13:45,369 --> 00:13:47,170
+What do you want?
+
+288
+00:13:47,172 --> 00:13:48,621
+Is that any way
+to treat a girl
+
+289
+00:13:48,623 --> 00:13:52,008
+who just walked up
+6 flights of stairs?
+
+290
+00:13:52,010 --> 00:13:54,077
+No, it's not. Where are my manners?
+Come on in.
+
+291
+00:13:54,079 --> 00:13:56,079
+Thank you.
+
+292
+00:13:59,216 --> 00:14:01,601
+Welcome.
+
+293
+00:14:03,220 --> 00:14:05,221
+Did you do these?
+
+294
+00:14:05,223 --> 00:14:06,661
+You know, Felicity,
+
+295
+00:14:06,686 --> 00:14:08,686
+Oliver and I don't need
+a relationship counselor.
+
+296
+00:14:09,444 --> 00:14:12,145
+That hasn't been
+my experience.
+
+297
+00:14:12,147 --> 00:14:13,530
+We have a lead
+on Walter.
+
+298
+00:14:13,532 --> 00:14:16,900
+I need you to come back
+and help us find him.
+
+299
+00:14:16,902 --> 00:14:18,284
+Oliver put you up to this?
+
+300
+00:14:18,286 --> 00:14:19,869
+No.
+
+301
+00:14:19,871 --> 00:14:21,771
+He doesn't even know
+I'm here.
+
+302
+00:14:23,273 --> 00:14:24,707
+Look.
+
+303
+00:14:24,709 --> 00:14:26,292
+I know Oliver
+didn't help you
+
+304
+00:14:26,294 --> 00:14:27,494
+find your
+brother's killer
+
+305
+00:14:27,496 --> 00:14:30,046
+and that hurts.
+It sucks. But...
+
+306
+00:14:30,048 --> 00:14:32,832
+You gotta know
+if it was your life on the line
+
+307
+00:14:32,834 --> 00:14:36,285
+on not just your...
+very understandable vendetta,
+
+308
+00:14:36,287 --> 00:14:38,304
+he would be there
+for you.
+
+309
+00:14:38,306 --> 00:14:39,639
+No hesitation.
+
+310
+00:14:39,641 --> 00:14:41,074
+And I don't want
+a partnership
+
+311
+00:14:41,076 --> 00:14:43,660
+with those kind
+of qualifications, Felicity.
+
+312
+00:14:43,662 --> 00:14:48,998
+I know Oliver's religiously
+against admitting he's wrong.
+
+313
+00:14:49,000 --> 00:14:52,469
+Truth is, he needs you.
+
+314
+00:14:55,305 --> 00:14:57,907
+Yeah.
+
+315
+00:14:57,909 --> 00:15:00,643
+And when Oliver
+is ready to say that,
+
+316
+00:15:00,645 --> 00:15:03,613
+he knows where I live.
+
+317
+00:15:07,586 --> 00:15:09,002
+Sorry for bothering you.
+
+318
+00:15:09,004 --> 00:15:11,421
+It's no bother.
+I hope you find him.
+
+319
+00:15:28,139 --> 00:15:31,174
+Wow, you really
+look like your father.
+
+320
+00:15:32,693 --> 00:15:34,144
+I never thought so before,
+
+321
+00:15:34,146 --> 00:15:36,012
+but just now
+I saw him in you.
+
+322
+00:15:36,014 --> 00:15:38,681
+What are you doing here?
+
+323
+00:15:38,683 --> 00:15:40,066
+We need to talk.
+
+324
+00:15:40,068 --> 00:15:42,335
+I said everything
+I have to say.
+
+325
+00:15:42,337 --> 00:15:44,187
+Well, I haven't.
+Tommy, I love you,
+
+326
+00:15:44,189 --> 00:15:46,122
+and I think that
+you still love me,
+
+327
+00:15:46,124 --> 00:15:47,957
+so whatever problems
+that you think that we have,
+
+328
+00:15:47,959 --> 00:15:49,909
+I know that if we
+face them together--
+
+329
+00:15:49,911 --> 00:15:51,544
+You don't understand.
+
+330
+00:15:51,546 --> 00:15:52,829
+Then help me understand.
+
+331
+00:15:52,831 --> 00:15:55,165
+If our relationship
+is gonna end, at least
+
+332
+00:15:55,167 --> 00:15:56,966
+let it end with honesty.
+
+333
+00:15:59,203 --> 00:16:01,537
+Ok, Laurel.
+
+334
+00:16:02,539 --> 00:16:04,807
+Honestly...
+
+335
+00:16:04,809 --> 00:16:07,644
+You belong with Oliver.
+
+336
+00:16:08,863 --> 00:16:10,713
+Excuse me?
+
+337
+00:16:10,715 --> 00:16:13,516
+He's still in love
+with you.
+
+338
+00:16:13,518 --> 00:16:16,553
+I have a meeting.
+
+339
+00:16:28,557 --> 00:16:30,024
+You ready?
+
+340
+00:16:30,026 --> 00:16:31,258
+I think so.
+
+341
+00:16:31,865 --> 00:16:32,852
+Just to be clear,
+
+342
+00:16:32,853 --> 00:16:34,520
+the plan is for me
+to get caught counting cards
+
+343
+00:16:34,522 --> 00:16:37,156
+in an underground casino
+filled with hardened criminals.
+
+344
+00:16:37,158 --> 00:16:39,158
+So you can get a friendly
+warning from Alonzo
+
+345
+00:16:39,160 --> 00:16:41,944
+and plant a bug
+on his office computer.
+
+346
+00:16:41,946 --> 00:16:45,164
+Right. Which will
+hopefully lead us to Walter.
+
+347
+00:16:45,166 --> 00:16:48,400
+That is assuming I get
+the friendly warning
+
+348
+00:16:48,402 --> 00:16:51,537
+and not a bullet.
+
+349
+00:16:51,539 --> 00:16:52,989
+You don't
+have to do this.
+
+350
+00:16:52,991 --> 00:16:55,074
+Yes, I do.
+
+351
+00:16:55,076 --> 00:16:57,043
+Ok. If anything happens,
+
+352
+00:16:57,045 --> 00:16:58,845
+I'm right outside.
+
+353
+00:16:58,847 --> 00:17:00,913
+Ok.
+
+354
+00:17:09,223 --> 00:17:10,223
+Password.
+
+355
+00:17:10,225 --> 00:17:12,191
+Snapdragon.
+
+356
+00:17:13,977 --> 00:17:16,062
+Password's snapdragon.
+
+357
+00:17:18,398 --> 00:17:19,866
+Password.
+
+358
+00:17:19,868 --> 00:17:21,267
+Snapdragon.
+
+359
+00:17:38,785 --> 00:17:41,721
+What do you see?
+
+360
+00:17:41,723 --> 00:17:45,091
+6 armed guards,
+2 pit bosses,
+
+361
+00:17:45,093 --> 00:17:47,343
+and a floor man.
+
+362
+00:17:47,345 --> 00:17:49,262
+No slot machines.
+How do you call yourself a casino
+
+363
+00:17:49,264 --> 00:17:50,596
+without any Lucky 7s?
+
+364
+00:17:50,598 --> 00:17:51,898
+Stay focused, please.
+
+365
+00:17:51,900 --> 00:17:53,983
+I'll be with you
+the entire time.
+
+366
+00:17:53,985 --> 00:17:55,818
+Thanks.
+
+367
+00:17:55,820 --> 00:17:59,238
+It feels really good
+having you inside me.
+
+368
+00:17:59,240 --> 00:18:01,274
+And by "you,"
+I mean your voice.
+
+369
+00:18:01,276 --> 00:18:03,576
+And by "me," I mean my ear.
+
+370
+00:18:03,578 --> 00:18:04,927
+I'm gonna stop talking
+right now.
+
+371
+00:18:04,929 --> 00:18:06,579
+That would be my preference.
+
+372
+00:18:13,253 --> 00:18:16,989
+One stack of High Society,
+please.
+
+373
+00:18:25,132 --> 00:18:26,966
+Thank you for stopping by.
+
+374
+00:18:26,968 --> 00:18:28,634
+Of course.
+
+375
+00:18:28,636 --> 00:18:32,004
+Uh, you said
+you had news.
+
+376
+00:18:32,006 --> 00:18:33,139
+I do.
+
+377
+00:18:33,141 --> 00:18:35,274
+It's ready.
+
+378
+00:18:35,276 --> 00:18:38,945
+The Markov device passed its final
+beta test this morning.
+
+379
+00:18:38,947 --> 00:18:41,680
+Applied Sciences
+is loading it on a truck
+
+380
+00:18:41,682 --> 00:18:46,202
+bound for Starling City
+as we speak.
+
+381
+00:18:47,371 --> 00:18:49,905
+Well...
+
+382
+00:18:49,907 --> 00:18:52,825
+Congratulations
+are in order, then.
+
+383
+00:18:52,827 --> 00:18:54,526
+To both of us.
+
+384
+00:18:56,296 --> 00:18:57,913
+Moira, you may be
+surprised to know
+
+385
+00:18:57,915 --> 00:19:00,916
+that I sometimes
+waver in my convictions.
+
+386
+00:19:00,918 --> 00:19:04,086
+But your friendship,
+your endless support...
+
+387
+00:19:04,088 --> 00:19:08,090
+always gives me
+the strength to carry on.
+
+388
+00:19:08,092 --> 00:19:11,894
+After all, you and I
+will always have a connection.
+
+389
+00:19:13,680 --> 00:19:15,982
+I'm just sorry that
+Robert's not here
+
+390
+00:19:15,984 --> 00:19:18,317
+to celebrate with us.
+
+391
+00:19:20,053 --> 00:19:23,555
+I'm sorry I had to
+take him from you.
+
+392
+00:19:23,557 --> 00:19:28,244
+If anyone's to blame
+for his death, it's me.
+
+393
+00:19:30,864 --> 00:19:33,866
+To Robert.
+
+394
+00:19:33,868 --> 00:19:35,751
+To Rebecca.
+
+395
+00:19:35,753 --> 00:19:38,504
+Are you feeling all right?
+
+396
+00:19:38,506 --> 00:19:42,124
+I know tonight was
+just another Ted Kord fund-raiser,
+
+397
+00:19:42,126 --> 00:19:45,911
+but you were
+surprisingly quiet.
+
+398
+00:19:45,913 --> 00:19:49,632
+Moira, there's something
+I need to talk to you about.
+
+399
+00:19:49,634 --> 00:19:51,767
+Robert, if this
+is what I think it is,
+
+400
+00:19:51,769 --> 00:19:53,386
+I don't want to know
+her name. I don't--
+
+401
+00:19:53,388 --> 00:19:56,939
+No, it's about Malcolm.
+
+402
+00:19:56,941 --> 00:19:59,809
+He wants to level the Glades.
+
+403
+00:19:59,811 --> 00:20:02,478
+And how does Malcolm
+propose to evacuate
+
+404
+00:20:02,480 --> 00:20:05,448
+an entire section
+of the city?
+
+405
+00:20:05,450 --> 00:20:07,817
+He doesn't.
+
+406
+00:20:07,819 --> 00:20:12,872
+Robert, that doesn't
+sound like you.
+
+407
+00:20:14,041 --> 00:20:17,076
+Because I'm not the man
+you think I am.
+
+408
+00:20:21,548 --> 00:20:24,216
+About a month before
+the opening of Steele factory,
+
+409
+00:20:24,218 --> 00:20:25,784
+the one in the Glades,
+
+410
+00:20:25,786 --> 00:20:28,804
+I was approached
+by a local councilman.
+
+411
+00:20:28,806 --> 00:20:30,806
+He wanted money.
+
+412
+00:20:30,808 --> 00:20:33,626
+Told me that's the way
+everything was done in the Glades.
+
+413
+00:20:33,628 --> 00:20:37,480
+I told him I'd never
+paid a bribe in my life.
+
+414
+00:20:37,482 --> 00:20:39,915
+We got into an argument.
+
+415
+00:20:41,801 --> 00:20:44,636
+I didn't want to hurt him.
+
+416
+00:20:44,638 --> 00:20:47,506
+I swear, Moira.
+
+417
+00:20:47,508 --> 00:20:49,158
+But he fell.
+
+418
+00:20:49,160 --> 00:20:51,944
+Oh, dear God.
+
+419
+00:20:51,946 --> 00:20:53,829
+Oh, dear God.
+
+420
+00:20:53,831 --> 00:20:59,502
+The work I'm doing
+with Malcolm, with the list,
+
+421
+00:20:59,504 --> 00:21:00,836
+it's my penance, Moira.
+
+422
+00:21:00,838 --> 00:21:02,654
+What, so you'll atone
+for one murder
+
+423
+00:21:02,656 --> 00:21:05,958
+by committing hundreds,
+thousands?
+
+424
+00:21:05,960 --> 00:21:08,761
+Oh...
+
+425
+00:21:08,763 --> 00:21:10,463
+Robert.
+
+426
+00:21:10,465 --> 00:21:12,831
+You listen to me.
+
+427
+00:21:12,833 --> 00:21:16,385
+Whatever wrongs
+you've committed,
+
+428
+00:21:16,387 --> 00:21:18,888
+whatever mistakes
+you've made,
+
+429
+00:21:18,890 --> 00:21:24,160
+preventing this horror
+is your chance to make it right.
+
+430
+00:21:25,479 --> 00:21:28,147
+Please...
+
+431
+00:21:28,149 --> 00:21:33,202
+Please, Robert, promise me
+you won't let this happen.
+
+432
+00:21:46,633 --> 00:21:48,167
+Oh!
+
+433
+00:21:48,169 --> 00:21:49,301
+Blackjack!
+
+434
+00:21:54,374 --> 00:21:56,008
+Miss...
+
+435
+00:21:56,010 --> 00:21:57,309
+Can you come with me?
+
+436
+00:21:57,311 --> 00:21:58,544
+Is something wrong?
+
+437
+00:21:58,546 --> 00:22:00,179
+Get up.
+
+438
+00:22:00,181 --> 00:22:03,048
+Oh, since you ask
+so nicely.
+
+439
+00:22:06,886 --> 00:22:08,097
+Oh, there's the bathroom.
+
+440
+00:22:08,122 --> 00:22:09,656
+I should have known
+the manager's office
+
+441
+00:22:09,657 --> 00:22:13,325
+would be down the hall
+and to the right of the bathroom.
+
+442
+00:22:13,327 --> 00:22:14,726
+Mr. Alonzo.
+
+443
+00:22:18,698 --> 00:22:21,000
+Have a seat.
+
+444
+00:22:24,204 --> 00:22:26,172
+What's your name?
+
+445
+00:22:26,174 --> 00:22:27,923
+Megan.
+
+446
+00:22:29,543 --> 00:22:33,362
+Do you know where the term
+"86" comes from, Megan?
+
+447
+00:22:33,364 --> 00:22:35,514
+As it happens, I do.
+It's from prohibition.
+
+448
+00:22:35,516 --> 00:22:38,184
+There was a--
+an illegal casino,
+
+449
+00:22:38,186 --> 00:22:40,519
+not like this one,
+
+450
+00:22:40,521 --> 00:22:43,189
+located at 86 Bedford
+street in New York,
+
+451
+00:22:43,191 --> 00:22:46,692
+and...God, you know,
+I'm just gonna stop talking.
+
+452
+00:22:46,694 --> 00:22:48,644
+Now it means
+to ban someone,
+
+453
+00:22:48,646 --> 00:22:51,530
+someone who's cheating.
+You're 86'd.
+
+454
+00:22:51,532 --> 00:22:53,365
+Leave your chips and go.
+
+455
+00:22:53,367 --> 00:22:55,234
+Thank you.
+
+456
+00:22:55,236 --> 00:22:57,736
+Thank you.
+
+457
+00:22:59,873 --> 00:23:03,325
+Oh, yeah, Megan,
+one more thing.
+
+458
+00:23:03,327 --> 00:23:06,045
+You see, the thing
+about card counters is, uh...
+
+459
+00:23:06,047 --> 00:23:09,465
+sometimes they work...
+
+460
+00:23:09,467 --> 00:23:12,718
+with a partner.
+
+461
+00:23:16,289 --> 00:23:19,725
+You're gonna be really upset
+when you meet my partner.
+
+462
+00:23:54,661 --> 00:23:57,496
+Aah!
+
+463
+00:24:05,021 --> 00:24:07,373
+I heard you never miss.
+
+464
+00:24:07,375 --> 00:24:09,007
+I don't.
+
+465
+00:24:13,948 --> 00:24:15,397
+Uhh!
+
+466
+00:24:15,399 --> 00:24:17,349
+Where's Walter Steele?
+
+467
+00:24:17,351 --> 00:24:19,685
+What? What a you
+talking about, huh?
+
+468
+00:24:19,687 --> 00:24:22,354
+6 months ago
+you had him kidnapped!
+
+469
+00:24:22,356 --> 00:24:23,906
+It was just a job.
+I was given a name.
+
+470
+00:24:23,908 --> 00:24:26,125
+I didn't ask
+any questions.
+
+471
+00:24:26,127 --> 00:24:29,044
+Last chance.
+
+472
+00:24:29,046 --> 00:24:30,296
+Where is he?
+
+473
+00:24:30,298 --> 00:24:32,331
+Below ground.
+
+474
+00:24:32,333 --> 00:24:33,282
+You're lying!
+
+475
+00:24:33,284 --> 00:24:34,383
+I'm not.
+I delivered him
+
+476
+00:24:34,385 --> 00:24:36,368
+and they killed him.
+
+477
+00:24:37,704 --> 00:24:39,054
+I heard the gunshot.
+
+478
+00:24:39,056 --> 00:24:41,540
+He's dead.
+
+479
+00:25:10,034 --> 00:25:14,756
+Oh, let's see that blouse
+in that violet shade.
+
+480
+00:25:14,757 --> 00:25:17,461
+You're
+a miracle worker, Thea.
+
+481
+00:25:17,462 --> 00:25:21,296
+Oh, when it comes to shopping,
+it's not work, really.
+
+482
+00:25:23,917 --> 00:25:28,086
+Hey. I'm teaching mom
+the joys of online clothes shopping.
+
+483
+00:25:29,055 --> 00:25:31,390
+Ollie?
+
+484
+00:25:31,392 --> 00:25:34,142
+Are you ok?
+
+485
+00:25:38,164 --> 00:25:41,299
+I need to talk to you both.
+
+486
+00:25:41,301 --> 00:25:42,984
+What is it?
+
+487
+00:25:42,986 --> 00:25:45,487
+It's about Walter.
+
+488
+00:25:47,607 --> 00:25:50,459
+Did the police
+contact you?
+
+489
+00:25:52,095 --> 00:25:54,913
+One of Mr. Diggle's
+army buddies
+
+490
+00:25:54,915 --> 00:25:57,632
+works for the FBI now.
+
+491
+00:25:57,634 --> 00:25:59,818
+And they got news tonight.
+
+492
+00:25:59,820 --> 00:26:00,869
+No.
+
+493
+00:26:00,871 --> 00:26:03,622
+I'm very sorry.
+
+494
+00:26:03,624 --> 00:26:05,874
+No, no, no, no, no.
+
+495
+00:26:05,876 --> 00:26:10,212
+There must be
+some mistake.
+
+496
+00:26:10,214 --> 00:26:12,497
+Who did Mr. Diggle
+talk to?
+
+497
+00:26:12,499 --> 00:26:14,015
+Did they find a body?
+
+498
+00:26:14,017 --> 00:26:16,718
+Mom...
+
+499
+00:26:16,720 --> 00:26:17,969
+Walter's gone.
+
+500
+00:26:17,971 --> 00:26:19,304
+No. This isn't right.
+
+501
+00:26:19,306 --> 00:26:21,356
+Where are you going?
+Out.
+
+502
+00:26:21,358 --> 00:26:22,724
+I need some air.
+It's 10:00 at night.
+
+503
+00:26:22,726 --> 00:26:24,109
+Mom, you're in shock.
+
+504
+00:26:24,111 --> 00:26:27,112
+Don't tell me what
+or how I feel, Oliver.
+
+505
+00:26:27,114 --> 00:26:30,181
+Why is she acting
+like that?
+
+506
+00:26:30,183 --> 00:26:32,033
+Come here.
+
+507
+00:26:40,025 --> 00:26:44,796
+I suspect I know
+what this is about.
+
+508
+00:26:44,798 --> 00:26:48,032
+You and I got in bed
+with Malcolm
+
+509
+00:26:48,034 --> 00:26:50,552
+to cure what ails
+this city.
+
+510
+00:26:54,841 --> 00:26:57,309
+But I think you agree,
+killing thousands of people
+
+511
+00:26:57,311 --> 00:26:58,593
+is not the answer.
+
+512
+00:26:58,595 --> 00:27:00,645
+Indeed. If we
+were to wage a war
+
+513
+00:27:00,647 --> 00:27:03,715
+with Malcolm Merlyn,
+we will lose.
+
+514
+00:27:03,717 --> 00:27:07,018
+My family has already
+suffered enough.
+
+515
+00:27:07,020 --> 00:27:09,988
+And I have no desire
+to endanger mine.
+
+516
+00:27:09,990 --> 00:27:12,574
+Fortunately,
+there's another option.
+
+517
+00:27:14,393 --> 00:27:18,029
+6 months ago, Malcolm
+started buying up buildings
+
+518
+00:27:18,031 --> 00:27:19,498
+in the Glades
+
+519
+00:27:19,500 --> 00:27:21,633
+through an offshore company
+called Sagittarius.
+
+520
+00:27:21,635 --> 00:27:24,169
+And he made it sound as if this
+undertaking of his
+
+521
+00:27:24,171 --> 00:27:26,087
+was a recent inspiration.
+
+522
+00:27:26,089 --> 00:27:28,290
+If you're right,
+
+523
+00:27:28,292 --> 00:27:30,208
+he has been thinking
+about this for months.
+
+524
+00:27:30,210 --> 00:27:33,077
+If he can't rebuild it,
+
+525
+00:27:33,079 --> 00:27:34,629
+he'll abandon the project.
+
+526
+00:27:34,631 --> 00:27:38,049
+How much of the Glades
+does he already have?
+
+527
+00:27:38,051 --> 00:27:39,718
+About a third.
+
+528
+00:27:39,720 --> 00:27:43,588
+Now, if we can quietly
+buy up the rest before he can,
+
+529
+00:27:43,590 --> 00:27:46,391
+he won't be able to gain
+the control he needs.
+
+530
+00:27:46,393 --> 00:27:48,827
+We will need capital.
+
+531
+00:27:48,829 --> 00:27:50,645
+Do you still have
+your contacts in China?
+
+532
+00:27:50,647 --> 00:27:54,199
+I already have a flight planned
+for Shanghai tomorrow.
+
+533
+00:27:54,201 --> 00:27:55,934
+Come with me.
+
+534
+00:27:55,936 --> 00:27:58,486
+We shouldn't travel together.
+Malcolm might get worried.
+
+535
+00:27:58,488 --> 00:28:01,206
+He already knows
+I have my doubts.
+
+536
+00:28:01,208 --> 00:28:03,792
+Besides, I'm getting the urge
+to take out the "Queen's Gambit"
+
+537
+00:28:03,794 --> 00:28:04,960
+for another voyage.
+
+538
+00:28:04,962 --> 00:28:08,213
+Dad! Do you have any cash?
+
+539
+00:28:08,215 --> 00:28:10,999
+Jerk pizza guy
+can't break a 100.
+
+540
+00:28:11,001 --> 00:28:12,918
+Oliver, you remember
+Mr. Chen?
+
+541
+00:28:12,920 --> 00:28:14,419
+Hey.
+Hi.
+
+542
+00:28:14,421 --> 00:28:17,305
+Waiting. Thank you.
+
+543
+00:28:20,893 --> 00:28:22,978
+♪ 1, 2, 3, 4, tell me...
+
+544
+00:28:22,980 --> 00:28:25,647
+Pizza.
+
+545
+00:28:27,100 --> 00:28:29,484
+My hero.
+
+546
+00:28:29,486 --> 00:28:30,902
+I'm starved.
+
+547
+00:28:35,308 --> 00:28:38,276
+Yeah.
+Hey, Ollie.
+
+548
+00:28:38,278 --> 00:28:40,245
+Where do you keep
+the bottle opener in this thing?
+
+549
+00:28:40,247 --> 00:28:42,981
+Bottom drawer.
+
+550
+00:28:42,983 --> 00:28:44,783
+Did you talk to Ray today?
+
+551
+00:28:44,785 --> 00:28:46,868
+About the ski trip?
+
+552
+00:28:46,870 --> 00:28:49,988
+No. He asked Jean
+to move in with him last night.
+
+553
+00:28:49,990 --> 00:28:53,008
+Oh. Guess they've
+been together forever.
+
+554
+00:28:53,010 --> 00:28:55,844
+We've been together longer.
+
+555
+00:28:57,847 --> 00:28:59,347
+Guess we have.
+
+556
+00:29:01,384 --> 00:29:04,636
+I only bring this up because your
+mom busted me yesterday.
+
+557
+00:29:04,638 --> 00:29:08,006
+And obviously we can't
+hang out at my house.
+
+558
+00:29:08,008 --> 00:29:09,608
+Why? Because your father
+threatened to tase me
+
+559
+00:29:09,610 --> 00:29:11,610
+the last time that I closed
+the door to your bedroom?
+
+560
+00:29:11,612 --> 00:29:14,112
+So wouldn't it be nice
+to have a little place of our own?
+
+561
+00:29:14,114 --> 00:29:16,481
+Yeah.
+
+562
+00:29:16,483 --> 00:29:18,083
+Maybe.
+
+563
+00:29:18,085 --> 00:29:21,069
+This is a little fast,
+Laurel.
+
+564
+00:29:21,071 --> 00:29:23,354
+I know that you like
+to think of yourself
+
+565
+00:29:23,356 --> 00:29:26,691
+as a bad boy,
+Oliver Queen, but...
+
+566
+00:29:26,693 --> 00:29:29,678
+I feel like we're ready
+to take the next step.
+
+567
+00:29:29,680 --> 00:29:31,646
+Yeah.
+
+568
+00:29:33,382 --> 00:29:35,333
+Let's do it.
+
+569
+00:29:40,222 --> 00:29:41,973
+Mm.
+
+570
+00:29:49,065 --> 00:29:50,715
+You lied to me.
+
+571
+00:29:50,717 --> 00:29:52,216
+We had a deal.
+
+572
+00:29:53,319 --> 00:29:57,322
+Gong dag. Gong-pa-ma-tsom.
+
+573
+00:29:59,325 --> 00:30:00,692
+What are you talking about?
+
+574
+00:30:00,694 --> 00:30:02,327
+You promised if I cooperated
+
+575
+00:30:02,329 --> 00:30:04,779
+with the Undertaking,
+Walter wouldn't be harmed!
+
+576
+00:30:04,781 --> 00:30:06,281
+He hasn't been.
+I'm a man of my word, Moira.
+
+577
+00:30:06,283 --> 00:30:08,533
+We both know
+better than that.
+
+578
+00:30:08,535 --> 00:30:11,503
+And I know...
+
+579
+00:30:11,505 --> 00:30:14,039
+I know you've
+had him killed.
+
+580
+00:30:15,342 --> 00:30:16,758
+Turn on the camera.
+
+581
+00:30:24,583 --> 00:30:26,851
+Oh, Walter...
+
+582
+00:30:26,853 --> 00:30:29,437
+Like you said, Moira,
+we have an agreement.
+
+583
+00:30:29,439 --> 00:30:31,045
+Walter would stay
+in my custody until
+
+584
+00:30:31,070 --> 00:30:32,437
+the Undertaking was complete.
+
+585
+00:30:34,277 --> 00:30:36,411
+We're both in this together.
+
+586
+00:30:52,077 --> 00:30:53,961
+I've been sitting
+in the dark all night, too.
+
+587
+00:30:53,963 --> 00:30:55,963
+All these months
+I kept thinking
+
+588
+00:30:55,965 --> 00:30:58,916
+if I could find a clue,
+I could get a lead on him.
+
+589
+00:30:59,318 --> 00:31:02,419
+Guess it wouldn't
+have mattered.
+
+590
+00:31:08,343 --> 00:31:10,794
+I can't imagine what
+your family's going through.
+
+591
+00:31:13,031 --> 00:31:16,133
+Walter's alive.
+
+592
+00:31:16,135 --> 00:31:17,868
+What?
+
+593
+00:31:17,870 --> 00:31:19,603
+But Alonzo said--
+
+594
+00:31:19,605 --> 00:31:22,840
+I need you to pull up
+Malcolm Merlyn's phone records.
+
+595
+00:31:22,842 --> 00:31:25,342
+He made a call
+from his office
+
+596
+00:31:25,344 --> 00:31:28,679
+to wherever Walter
+is being kept at 10:30 p.m.
+
+597
+00:31:28,681 --> 00:31:30,114
+Malcolm Merlyn?
+
+598
+00:31:30,116 --> 00:31:33,183
+Tommy's father?
+Why would he kidnap Walter?
+
+599
+00:31:33,185 --> 00:31:35,352
+Felicity.
+
+600
+00:31:45,029 --> 00:31:47,331
+L.U.D. showed he made a call
+to a tenement complex
+
+601
+00:31:47,333 --> 00:31:48,865
+located in Bludhaven.
+
+602
+00:31:51,303 --> 00:31:53,554
+Can you pull up
+a satellite view?
+
+603
+00:31:53,556 --> 00:31:55,005
+Ok.
+
+604
+00:31:58,560 --> 00:32:00,828
+That's a lot of security
+for low-income housing.
+
+605
+00:32:00,830 --> 00:32:04,348
+There's two guards
+stationed at all access points.
+
+606
+00:32:04,350 --> 00:32:05,983
+There's just one
+on the roof.
+
+607
+00:32:05,985 --> 00:32:07,718
+Exactly. There's no other
+buildings in that area.
+
+608
+00:32:07,720 --> 00:32:09,353
+If you want to get
+onto the roof,
+
+609
+00:32:09,355 --> 00:32:12,690
+you're going to have to
+jump off of something.
+
+610
+00:32:12,692 --> 00:32:14,692
+I've got something.
+
+611
+00:32:53,148 --> 00:32:55,265
+There's a problem in quadrant 4.
+
+612
+00:34:15,864 --> 00:34:18,449
+Mr. Steele.
+
+613
+00:34:20,118 --> 00:34:21,869
+Walter.
+
+614
+00:34:21,871 --> 00:34:24,071
+What?
+
+615
+00:34:24,073 --> 00:34:26,673
+What's happening?
+
+616
+00:34:26,675 --> 00:34:28,492
+You're going home.
+
+617
+00:34:45,801 --> 00:34:47,969
+I thought I'd never
+see you again.
+
+618
+00:34:52,290 --> 00:34:54,425
+I'm all right.
+
+619
+00:34:56,962 --> 00:34:58,813
+Welcome home, Walter.
+
+620
+00:34:58,815 --> 00:35:00,297
+Thank you, son.
+
+621
+00:35:02,467 --> 00:35:06,470
+Thea.
+
+622
+00:35:08,908 --> 00:35:11,409
+This is totally
+a family thing, isn't it?
+
+623
+00:35:12,995 --> 00:35:14,812
+I'm sorry, who are you?
+
+624
+00:35:14,814 --> 00:35:16,881
+This is Felicity.
+
+625
+00:35:16,883 --> 00:35:18,833
+She's my friend.
+
+626
+00:35:18,835 --> 00:35:19,951
+Mine, too.
+
+627
+00:35:19,953 --> 00:35:21,586
+It's good to see you.
+
+628
+00:35:21,588 --> 00:35:22,987
+You, too.
+
+629
+00:35:22,989 --> 00:35:25,322
+I'll let you guys
+get back to your hugging.
+
+630
+00:35:34,500 --> 00:35:37,185
+Oliver.
+
+631
+00:35:37,187 --> 00:35:39,303
+We're all together again.
+
+632
+00:35:39,305 --> 00:35:41,338
+Everything's
+gonna be all right.
+
+633
+00:35:44,143 --> 00:35:46,844
+Robert, I don't like
+the idea of this.
+
+634
+00:35:46,846 --> 00:35:48,613
+It's gonna be ok.
+
+635
+00:35:48,615 --> 00:35:50,848
+Yeah, well, how long
+will you be gone?
+
+636
+00:35:50,850 --> 00:35:53,317
+A few weeks. Maybe more,
+depending on what I--
+
+637
+00:35:53,319 --> 00:35:54,869
+Why can't you just
+fly to China?
+
+638
+00:35:54,871 --> 00:35:57,288
+I think it's better
+the less you know.
+
+639
+00:35:57,290 --> 00:35:59,190
+I just hate
+that stupid boat.
+
+640
+00:35:59,192 --> 00:36:01,793
+Look at me.
+
+641
+00:36:01,795 --> 00:36:04,829
+I love you.
+
+642
+00:36:04,831 --> 00:36:06,197
+Everything's gonna be fine.
+
+643
+00:36:06,199 --> 00:36:08,532
+Ok.
+
+644
+00:36:08,534 --> 00:36:10,501
+Hey.
+
+645
+00:36:10,503 --> 00:36:12,670
+Got room for one more?
+
+646
+00:36:12,672 --> 00:36:14,038
+No.
+
+647
+00:36:14,040 --> 00:36:15,723
+Mom, let me keep dad company.
+
+648
+00:36:15,725 --> 00:36:16,891
+Oliver, you're in school.
+
+649
+00:36:16,893 --> 00:36:18,209
+Not really.
+
+650
+00:36:18,211 --> 00:36:20,511
+I tried to tell you that.
+
+651
+00:36:20,513 --> 00:36:23,214
+I could use an extra hand
+on the ship.
+
+652
+00:36:23,216 --> 00:36:24,381
+Robert...
+
+653
+00:36:24,383 --> 00:36:26,350
+Moira, let the kid
+
+654
+00:36:26,352 --> 00:36:29,187
+take the boat out
+with the old man.
+
+655
+00:36:29,189 --> 00:36:31,889
+All right.
+
+656
+00:36:31,891 --> 00:36:33,274
+All right.
+But you promise me
+
+657
+00:36:33,276 --> 00:36:34,725
+that you'll behave yourself.
+
+658
+00:36:34,727 --> 00:36:36,410
+All right. I promise.
+
+659
+00:36:38,063 --> 00:36:39,831
+I love you so much.
+
+660
+00:36:39,833 --> 00:36:41,199
+I love you, too.
+
+661
+00:36:41,201 --> 00:36:45,837
+♪ Everywhere you go
+
+662
+00:36:45,839 --> 00:36:47,038
+I totally spaced.
+
+663
+00:36:47,040 --> 00:36:48,372
+I gotta call Tommy
+and let him know
+
+664
+00:36:48,374 --> 00:36:50,124
+I'm out of town
+for a few weeks.
+
+665
+00:36:50,126 --> 00:36:53,010
+I'll see you on board in 5.
+
+666
+00:36:56,932 --> 00:36:59,267
+Sara? You here?
+
+667
+00:36:59,269 --> 00:37:03,187
+Yeah, you might want to circle
+around the block a few times,
+
+668
+00:37:03,189 --> 00:37:05,256
+because your sister
+just showed up.
+
+669
+00:37:06,775 --> 00:37:10,695
+Hi. What are you doing here?
+
+670
+00:37:10,697 --> 00:37:11,929
+You're leaving
+for 3 weeks.
+
+671
+00:37:11,931 --> 00:37:15,432
+I wanted to come say bye
+to you in person.
+
+672
+00:37:19,454 --> 00:37:21,605
+I'm glad you did.
+
+673
+00:37:21,607 --> 00:37:23,991
+And...
+
+674
+00:37:23,993 --> 00:37:26,110
+I wanted to bring you
+something.
+
+675
+00:37:27,946 --> 00:37:29,831
+Oh.
+
+676
+00:37:29,833 --> 00:37:33,718
+In case you get
+lonely at sea.
+
+677
+00:37:38,892 --> 00:37:41,058
+Thank you.
+
+678
+00:37:43,461 --> 00:37:45,629
+Hey, is everything ok?
+
+679
+00:37:45,631 --> 00:37:47,565
+I mean, I didn't totally
+freak you out
+
+680
+00:37:47,567 --> 00:37:50,818
+when I brought up the whole
+apartment thing earlier, did I?
+
+681
+00:37:50,820 --> 00:37:52,987
+No.
+
+682
+00:37:52,989 --> 00:37:54,638
+Good.
+
+683
+00:37:54,640 --> 00:37:55,806
+No.
+
+684
+00:37:55,808 --> 00:37:57,474
+Mm.
+
+685
+00:37:57,476 --> 00:37:59,810
+♪ Every time you're leavin' ♪
+
+686
+00:37:59,812 --> 00:38:01,028
+♪ I keep cryin'... ♪
+
+687
+00:38:01,030 --> 00:38:05,166
+But I do have to get back
+to the boat.
+
+688
+00:38:05,168 --> 00:38:08,452
+Yeah.
+
+689
+00:38:12,824 --> 00:38:14,091
+Is it done?
+
+690
+00:38:14,093 --> 00:38:17,795
+Yes. The bomb
+is in place.
+
+691
+00:38:17,797 --> 00:38:19,597
+And there's
+a storm front
+
+692
+00:38:19,599 --> 00:38:22,683
+moving in along the "Gambit's"
+projected course.
+
+693
+00:38:22,685 --> 00:38:24,018
+Ok.
+
+694
+00:38:24,020 --> 00:38:27,054
+When the "Queen's Gambit"
+goes down,
+
+695
+00:38:27,056 --> 00:38:30,524
+no one will suspect it's anything
+other than an act of God.
+
+696
+00:38:49,161 --> 00:38:50,878
+Oliver.
+
+697
+00:38:50,880 --> 00:38:53,748
+Ah. What a miracle.
+
+698
+00:38:53,750 --> 00:38:55,499
+How's Walter?
+
+699
+00:38:55,501 --> 00:38:59,470
+The police are saying that he
+was rescued by the Vigilante.
+
+700
+00:38:59,472 --> 00:39:01,038
+Yes, he was.
+
+701
+00:39:01,040 --> 00:39:02,706
+Has he said anything
+about his ordeal?
+
+702
+00:39:02,708 --> 00:39:05,843
+Was he able to identify
+any of his captors?
+
+703
+00:39:05,845 --> 00:39:07,061
+No.
+
+704
+00:39:07,063 --> 00:39:08,379
+Hmm.
+
+705
+00:39:08,381 --> 00:39:11,148
+That's too bad.
+
+706
+00:39:11,150 --> 00:39:13,684
+They'll get
+what's coming to them.
+
+707
+00:39:15,854 --> 00:39:18,889
+I'm just glad that
+my family is back together.
+
+708
+00:39:18,891 --> 00:39:21,158
+We all are.
+
+709
+00:39:21,160 --> 00:39:24,061
+Ollie.
+
+710
+00:39:24,063 --> 00:39:26,914
+Excuse me.
+
+711
+00:39:31,870 --> 00:39:33,371
+Is Walter ok?
+
+712
+00:39:33,373 --> 00:39:35,673
+I saw it on the news.
+
+713
+00:39:35,675 --> 00:39:37,325
+Yeah.
+
+714
+00:39:38,894 --> 00:39:40,344
+Are you ok?
+
+715
+00:39:40,346 --> 00:39:42,079
+Of course.
+
+716
+00:39:42,081 --> 00:39:45,599
+I promise you
+now is not the time.
+
+717
+00:39:45,601 --> 00:39:47,918
+It's you and Tommy.
+
+718
+00:39:47,920 --> 00:39:49,353
+You and me, actually.
+
+719
+00:39:49,355 --> 00:39:50,754
+I talked to Tommy yesterday,
+
+720
+00:39:50,756 --> 00:39:52,556
+and the reason
+he broke up with me
+
+721
+00:39:52,558 --> 00:39:55,776
+is because he thinks that you
+and I still belong together.
+
+722
+00:39:55,778 --> 00:39:57,194
+What did you say?
+
+723
+00:39:57,196 --> 00:39:58,896
+Nothing.
+
+724
+00:39:58,898 --> 00:40:01,198
+He walked out on me.
+
+725
+00:40:03,201 --> 00:40:07,154
+I just want you
+to be happy.
+
+726
+00:40:07,156 --> 00:40:09,657
+It's what
+I've always wanted.
+
+727
+00:40:09,659 --> 00:40:13,610
+Then will you please
+go talk to Tommy for me?
+
+728
+00:40:13,612 --> 00:40:14,996
+And say what?
+
+729
+00:40:14,998 --> 00:40:16,613
+Say that you and I
+are over.
+
+730
+00:40:16,615 --> 00:40:20,251
+That you're not
+still in love with me.
+
+731
+00:40:20,253 --> 00:40:22,786
+I can't do that.
+
+732
+00:40:22,788 --> 00:40:24,689
+Why not?
+
+733
+00:40:24,691 --> 00:40:28,792
+Because it wouldn't be true.
+
+734
+00:40:30,962 --> 00:40:34,065
+And I have enough lies
+in my life already.
+
+735
+00:40:53,702 --> 00:40:55,669
+I guess you do know
+where I live.
+
+736
+00:40:55,671 --> 00:40:57,421
+I've always known
+where you live.
+
+737
+00:40:58,990 --> 00:41:00,758
+May I?
+
+738
+00:41:07,499 --> 00:41:09,517
+I'm sorry.
+
+739
+00:41:13,838 --> 00:41:16,190
+You were right.
+
+740
+00:41:16,192 --> 00:41:18,359
+And I was wrong.
+
+741
+00:41:18,361 --> 00:41:19,727
+About Deadshot?
+
+742
+00:41:19,729 --> 00:41:21,545
+About everything.
+
+743
+00:41:21,547 --> 00:41:25,516
+About my mother and about her
+involvement in the Undertaking.
+
+744
+00:41:25,518 --> 00:41:28,519
+She lied to me.
+
+745
+00:41:28,521 --> 00:41:30,321
+To Thea.
+
+746
+00:41:32,791 --> 00:41:35,543
+She's working with
+Malcolm Merlyn.
+
+747
+00:41:41,533 --> 00:41:45,035
+They're planning something.
+
+748
+00:41:45,037 --> 00:41:47,704
+Something...
+
+749
+00:41:47,706 --> 00:41:49,723
+Terrible.
+
+750
+00:41:49,725 --> 00:41:52,543
+I don't know what yet.
+
+751
+00:41:54,896 --> 00:41:58,048
+But I just know one thing.
+
+752
+00:41:59,734 --> 00:42:01,819
+I need your help to stop them.
+
+753
+00:42:01,844 --> 00:42:05,844
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+

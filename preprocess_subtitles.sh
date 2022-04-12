@@ -5,6 +5,8 @@ declare -a AVAIL_DATA_TYPES
 AVAIL_DATA_TYPES[1]="train"
 AVAIL_DATA_TYPES[2]="test"
 
+INDEX_FILE=preprocessed_subtitles.txt
+
 INPUT_DIR=
 OUTPUT_DIR=
 DATA_TYPE=
@@ -64,15 +66,26 @@ subfolders="${INPUT_DIR}/*/"
 
 for subfolder in $subfolders; do
 
+    echo
+    echo "###########################################"
+    echo "Preprocessing subtitles inside ${subfolder}"
+    echo "###########################################"
+    echo 
+
     srt_path="${subfolder}*.srt"
     genre=$(basename $subfolder) 
 
     output_file="${OUTPUT_DIR}/${genre}.txt"
 
     for file in $srt_path; do
-        # echo python SubtitlesPreprocessor.py "$DATA_TYPE" "$file" $output_file
         
-        python SubtitlesPreprocessor.py train "$file" $output_file
+        if grep -q "$file" "$INDEX_FILE"; then
+            echo "${file} already preprocessed"
+        else
+            python SubtitlesPreprocessor.py train "$file" "$output_file"
+            echo "$file" >> "$INDEX_FILE"
+        fi
+
     done
 
 done
