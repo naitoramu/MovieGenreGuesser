@@ -1,6 +1,6 @@
 # SubtitlesPreprocessor
-# usage: python SubtitlesPreprocessor.py [data_type (train|test)] [input file] [output file]*
-# example: SubtitlesPreprocessor.py train srt/test-subtitles.srt training_data/sitcom.txt
+# usage: python SubtitlesPreprocessor.py [input file] [output file]
+# example: SubtitlesPreprocessor.py srt/test-subtitles.srt train_data/sitcom.txt
 
 import re
 import os
@@ -107,17 +107,14 @@ class SubtitlesPreprocessor:
         with open(output_filename, 'at') as file:
             file.write(self.subtitles + ' ')
 
-        print('subtitles from file: "' + self.filename +
-              '" appended to >> ' + output_filename)
 
 
-if(len(sys.argv)) < 4:
+if(len(sys.argv)) < 3:
     print("Missed arguments")
     quit()
 
-data_type = sys.argv[1]
-subtitles_file = sys.argv[2]
-output_filename = sys.argv[3]
+subtitles_file = sys.argv[1]
+output_filename = sys.argv[2]
 
 
 subtitles = SubtitlesPreprocessor(subtitles_file)

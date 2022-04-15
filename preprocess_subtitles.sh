@@ -1,15 +1,16 @@
 #!/bin/bash
 # runs SubtitlesPreprocessor for each .srt file in $INPUT_DIR subdirectories
 
-declare -a AVAIL_DATA_TYPES
-AVAIL_DATA_TYPES[1]="train"
-AVAIL_DATA_TYPES[2]="test"
+GR='\e[32m'
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+TEST_DATA_OUTPUT_DIR="test_data"
+TRAIN_DATA_OUTPUT_DIR="train_data"
 
 INDEX_FILE=preprocessed_subtitles.txt
 
 INPUT_DIR=
-OUTPUT_DIR=
-DATA_TYPE=
 
 usage() {
     echo "Usage: $0 [options] [-i input_dir -o output_dir -d data_type]"
@@ -22,18 +23,10 @@ usage() {
 
 }
 
-while getopts "i:o:d:h" flag; do
+while getopts "i:h" flag; do
   case "$flag" in
     i) 
         INPUT_DIR="${OPTARG}" 
-        # echo "${OPTARG}"
-        ;;
-    o)
-        OUTPUT_DIR="${OPTARG}" 
-        # echo "${OPTARG}"
-        ;;
-    d)
-        DATA_TYPE="${OPTARG}"
         # echo "${OPTARG}"
         ;;
     h)
@@ -50,18 +43,6 @@ while getopts "i:o:d:h" flag; do
   esac
 done
 
-available_data_type=false
-
-for data_type in "${AVAIL_DATA_TYPES[@]}"; do
-    [[ "$data_type" == $DATA_TYPE ]] && available_data_type=true
-done
-
-if ! $available_data_type; then
-    echo "Syntax: invalid data type"
-    usage
-    exit 1
-fi
-
 subfolders="${INPUT_DIR}/*/"
 
 for subfolder in $subfolders; do
@@ -72,18 +53,44 @@ for subfolder in $subfolders; do
     echo "###########################################"
     echo 
 
+    counter=0
     srt_path="${subfolder}*.srt"
-    genre=$(basename $subfolder) 
+    genre=$(basename "$subfolder") 
 
-    output_file="${OUTPUT_DIR}/${genre}.txt"
+    train_data_output_file="${TRAIN_DATA_OUTPUT_DIR}/${genre}.txt"
+    test_data_output_file="${TEST_DATA_OUTPUT_DIR}/${genre}.txt"
+
 
     for file in $srt_path; do
         
-        if grep -q "$file" "$INDEX_FILE"; then
-            echo "${file} already preprocessed"
+        if grep -q -F "$file" "$INDEX_FILE"; then
+
+            echo -e "${file} ${RED}already preprocessed${NC}"
+
         else
-            python SubtitlesPreprocessor.py train "$file" "$output_file"
-            echo "$file" >> "$INDEX_FILE"
+
+            if ! (( counter % 5 )); then
+
+                if python SubtitlesPreprocessor.py "$file" "$test_data_output_file"; then
+                    echo -e "subtitles from file: '${file}' ${GR}appended to >> '${test_data_output_file}${NC}"
+                    echo "$file" >> "$INDEX_FILE"
+                    counter=$((counter + 1))
+                else
+                    echo -e "${RED}ERROR${NC}"
+                fi
+                # echo python SubtitlesPreprocessor.py "$file" "$test_data_output_file"
+            else 
+            
+                if python SubtitlesPreprocessor.py "$file" "$train_data_output_file"; then
+                    echo -e "subtitles from file: '${file}' ${GR}appended to >> '${train_data_output_file}${NC}"
+                    echo "$file" >> "$INDEX_FILE"
+                    counter=$((counter + 1))
+                else
+                    echo -e "${RED}ERROR${NC}"
+                fi
+                # echo python SubtitlesPreprocessor.py "$file" "$train_data_output_file"
+            fi
+
         fi
 
     done
