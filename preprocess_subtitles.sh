@@ -5,8 +5,7 @@ GR='\e[32m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
-TEST_DATA_OUTPUT_DIR="test_data"
-TRAIN_DATA_OUTPUT_DIR="train_data"
+OUTPUT_DIR=preprocessed_subtitles
 
 INDEX_FILE=preprocessed_subtitles.txt
 
@@ -53,12 +52,10 @@ for subfolder in $subfolders; do
     echo "###########################################"
     echo 
 
-    counter=0
     srt_path="${subfolder}*.srt"
     genre=$(basename "$subfolder") 
 
-    train_data_output_file="${TRAIN_DATA_OUTPUT_DIR}/${genre}.txt"
-    test_data_output_file="${TEST_DATA_OUTPUT_DIR}/${genre}.txt"
+    data_output_file="${OUTPUT_DIR}/${genre}.txt"
 
 
     for file in $srt_path; do
@@ -69,27 +66,14 @@ for subfolder in $subfolders; do
 
         else
 
-            if ! (( counter % 5 )); then
 
-                if python SubtitlesPreprocessor.py "$file" "$test_data_output_file"; then
-                    echo -e "subtitles from file: '${file}' ${GR}appended to >> '${test_data_output_file}${NC}"
+                if python SubtitlesPreprocessor.py "$file" "$data_output_file"; then
+                    echo -e "subtitles from file: '${file}' ${GR}appended to >> '${data_output_file}${NC}"
                     echo "$file" >> "$INDEX_FILE"
-                    counter=$((counter + 1))
                 else
                     echo -e "${RED}ERROR${NC}"
                 fi
-                # echo python SubtitlesPreprocessor.py "$file" "$test_data_output_file"
-            else 
-            
-                if python SubtitlesPreprocessor.py "$file" "$train_data_output_file"; then
-                    echo -e "subtitles from file: '${file}' ${GR}appended to >> '${train_data_output_file}${NC}"
-                    echo "$file" >> "$INDEX_FILE"
-                    counter=$((counter + 1))
-                else
-                    echo -e "${RED}ERROR${NC}"
-                fi
-                # echo python SubtitlesPreprocessor.py "$file" "$train_data_output_file"
-            fi
+             
 
         fi
 

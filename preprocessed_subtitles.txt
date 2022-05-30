@@ -397,23 +397,6 @@ srt/comedy/Friends - 7x04 - The One With Rachel's Assistant.en.srt
 srt/comedy/Friends - 7x05 - The One With The Engagement Picture.en.srt
 srt/comedy/Friends - 7x06 - The One With The Nap Partners.en.srt
 srt/comedy/Friends - 7x07 - The One With Ross's Library Book.en.srt
-srt/comedy/Friends - 7x08 - The One Where Chandler Doesn't Like Dogs.en.srt
-srt/comedy/Friends - 7x09 - The One With All The Candy.en.srt
-srt/comedy/Friends - 7x10 - The One With The Holiday Armadillo.en.srt
-srt/comedy/Friends - 7x11 - The One With All The Cheesecakes.en.srt
-srt/comedy/Friends - 7x12 - The One Where They're Up All Night.en.srt
-srt/comedy/Friends - 7x13 - The One Where Rosita Dies.en.srt
-srt/comedy/Friends - 7x14 - The One Where They All Turn Thirty.en.srt
-srt/comedy/Friends - 7x15 - The One With Joey's New Brain.en.srt
-srt/comedy/Friends - 7x16 - The One With The Truth About London.en.srt
-srt/comedy/Friends - 7x17 - The One With The Cheap Wedding Dress.en.srt
-srt/comedy/Friends - 7x18 - The One With Joey's Award.en.srt
-srt/comedy/Friends - 7x19 - The One With Ross And Monica's Cousin.en.srt
-srt/comedy/Friends - 7x20 - The One With Rachel's Big Kiss.en.srt
-srt/comedy/Friends - 7x21 - The One With The Vows.en.srt
-srt/comedy/Friends - 7x22 - The One With Chandler's Dad.en.srt
-srt/comedy/Friends - 7x23 - The One With Chandler And Monica's Wedding (1).en.srt
-srt/comedy/Friends - 7x24 - The One With Chandler And Monica's Wedding (2).en.srt
 srt/comedy/Friends - 8x02 - The One With The Red Sweater.en.srt
 srt/comedy/Friends - 8x03 - The One Where Rachel Tells....en.srt
 srt/comedy/Friends - 8x04 - The One With The Videotape.en.srt

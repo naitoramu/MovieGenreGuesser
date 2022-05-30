@@ -105,7 +105,7 @@ class SubtitlesPreprocessor:
     def saveSubtitles(self, output_filename):
 
         with open(output_filename, 'at') as file:
-            file.write(self.subtitles + ' ')
+            file.write(self.subtitles + '\n')
 
 
 
