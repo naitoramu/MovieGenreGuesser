@@ -1,4 +1,4 @@
-# Movie Genre Guesser
+# Movie Genre Guesser (WORK IN PROGRESS)
 ## An application written in python that uses machine learning to recognize the genre of a movie based on its subtitles
 
 This application is the implementation of the semstral project in the subject "Machine Learning"
