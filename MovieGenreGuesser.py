@@ -22,13 +22,12 @@ def get_padded_sequences(sequences):
 
 
 def genres_to_ids(genres):
-    new_list = []
-    for genre in genres:
-        print(genre)
-        new_list.append(genre_to_index.get(genre))
-    return new_list
-    # return np.array([genre_to_index.get(x) for x in genres])
+    return np.array([genre_to_index.get(x) for x in genres])
 
+
+genres = ('action', 'comedy', 'drama')
+genre_to_index = dict((c, i) for i, c in enumerate(genres))
+index_to_class = dict((v, k) for k, v in genre_to_index.items())
 data_files = glob("./preprocessed_subtitles/*.txt")
 all_subtitles = []
 
@@ -39,24 +38,25 @@ for filename in data_files:
 
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(all_subtitles)
-df = pandas.read_csv("./data/train.csv", converters={i: str for i in range(1000)}, index_col=None)
-# print(all_subtitles)
-# print(df.Subtitles.to_list())
+df = pandas.read_csv("./data/train.csv", converters={i: str for i in range(len(all_subtitles))}, index_col=None)
 sequences = tokenizer.texts_to_sequences(df.Subtitles.to_list())
-# print(len(df.Subtitles.to_list()))
 
-padded_sequences = get_padded_sequences(sequences)
-# print(len(padded_sequences))
-genres = ('action', 'comedy', 'drama')
-genre_to_index = dict((c, i) for i, c in enumerate(genres))
-index_to_class = dict((v, k) for k, v in genre_to_index.items())
-
+train_sequences = get_padded_sequences(sequences)
 train_genres = genres_to_ids(df.Genre.to_list())
-print(df.Genre.to_list())
-print(train_genres)
+# print(train_genres)
+
+df = pandas.read_csv("./data/validation.csv", converters={i: str for i in range(len(all_subtitles))}, index_col=None)
+sequences = tokenizer.texts_to_sequences(df.Subtitles.to_list())
+
+validation_sequences = get_padded_sequences(sequences)
+validation_genres = genres_to_ids(df.Genre.to_list())
 
 model = tf.keras.models.Sequential([
-    tf.keras.layers.Embedding(10000, 16, input_length=SEQUENCE_LENGTH),
+    tf.keras.layers.Embedding(
+        len(tokenizer.word_index)+1, 
+        16, 
+        input_length=SEQUENCE_LENGTH
+    ),
     tf.keras.layers.Bidirectional(
         tf.keras.layers.LSTM(20, return_sequences=True)
     ),
@@ -69,3 +69,21 @@ model.compile(
     optimizer='adam',
     metrics=['accuracy']
 )
+
+h = model.fit(
+    train_sequences, train_genres,
+    validation_data=(validation_sequences, validation_genres),
+    epochs=20,
+    callbacks=[tf.keras.callbacks.EarlyStopping(
+        monitor='val_accuracy', patience=2   
+    )]
+)
+
+model.save("./models/model_v1/model_v1.h5")
+
+df = pandas.read_csv("./data/test.csv", converters={i: str for i in range(len(all_subtitles))}, index_col=None)
+sequences = tokenizer.texts_to_sequences(df.Subtitles.to_list())
+
+test_sequences = get_padded_sequences(sequences)
+test_genres = genres_to_ids(df.Genre.to_list())
+model.evaluate(test_sequences, test_genres)
