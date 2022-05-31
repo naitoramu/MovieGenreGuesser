@@ -40,26 +40,4 @@ with open("./data/test.csv", 'w') as file:
     file.write("Subtitles,Genre\n")
     for row in test_data:
         file.write(row + '\n')
-# counter = 0;
-# for i in range(0, len(filenames)):
-    # index = i % len(filenames)
-    # for row in range(0, len(subtitles[index])):
-    #     subtitles_with_boolean[i].append(subtitles[index][row] + ",1")
-    # # print(index)
 
-    # index = (i + 1) % len(filenames)
-    # for row in range(0, len(subtitles[index])):
-    #     subtitles_with_boolean[i].append(subtitles[index][row] + ",0")
-    # # print(index)
-    
-    # index = (i + 2) % len(filenames)
-    # for row in range(0, len(subtitles[index])):
-    #     subtitles_with_boolean[i].append(subtitles[index][row] + ",0")
-    # # print(index)
-
-    # random.shuffle(subtitles_with_boolean[i])
-
-    # with open(os.path.join("data/" + filenames[i][:-4] + ".csv"), 'w') as file:
-    #     file.write("Subtitles,Boolean\n")
-    #     for row in subtitles_with_boolean[i]:
-    #         file.write(row + '\n')
