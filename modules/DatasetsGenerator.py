@@ -2,25 +2,29 @@ import os
 import random
 
 filenames = os.listdir(os.path.join("preprocessed_subtitles/"))
+
 subtitles = []
 train_data = []
 validation_data = []
 test_data = []
+
 for filename in filenames:
     with open(os.path.join("preprocessed_subtitles/" + filename), 'r') as file:
         subtitles.append(file.read().split('\n'))
 
 for i in range(0, len(filenames)):
     counter = 0
+
     for row in subtitles[i]:
-        if counter % 2.5 == 0:
-            if counter & 2 == 0:
-                test_data.append(row + "," + filenames[i][:-4])
+        if len(row) != 0:
+            if counter % 2.5 == 0:
+                if counter & 2 == 0:
+                    test_data.append(row + "," + filenames[i][:-4])
+                else:
+                    validation_data.append(row + "," + filenames[i][:-4])
             else:
-                validation_data.append(row + "," + filenames[i][:-4])
-        else:
-            train_data.append(row + "," + filenames[i][:-4])
-        counter += 1
+                train_data.append(row + "," + filenames[i][:-4])
+            counter += 1
 
 random.shuffle(train_data)
 random.shuffle(validation_data)

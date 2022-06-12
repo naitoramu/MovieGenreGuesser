@@ -7,7 +7,7 @@ NC='\033[0m' # No Color
 
 OUTPUT_DIR=../preprocessed_subtitles
 
-INDEX_FILE=../preprocessed_subtitles/index
+INDEX_FILE=./index
 
 INPUT_DIR=
 

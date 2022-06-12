@@ -109,15 +109,15 @@ class SubtitlesPreprocessor:
 
 
 
-# if(len(sys.argv)) < 3:
-#     print("Missed arguments")
-#     quit()
+if(len(sys.argv)) < 3:
+    print("Missed arguments")
+    quit()
 
-# subtitles_file = sys.argv[1]
-# output_filename = sys.argv[2]
+subtitles_file = sys.argv[1]
+output_filename = sys.argv[2]
 
 
-# subtitles = SubtitlesPreprocessor(subtitles_file)
-# subtitles.saveSubtitles(output_filename)
+subtitles = SubtitlesPreprocessor(subtitles_file)
+subtitles.saveSubtitles(output_filename)
 # print(subtitles.getSubtitles())
 # print(len(subtitles.getSubtitles()))
