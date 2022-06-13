@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 class Tokenizer:
     def __init__(self):
-        self.SEQUENCE_LENGTH = 10000
+        self.SEQUENCE_LENGTH = 5000
         self.genres = ('action', 'comedy', 'drama')
         self.genre_to_index = dict((c, i) for i, c in enumerate(self.genres))
         self.index_to_genre = dict((v, k) for k, v in self.genre_to_index.items())
