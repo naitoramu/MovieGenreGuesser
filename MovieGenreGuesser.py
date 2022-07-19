@@ -5,7 +5,9 @@ import os
 import numpy as np
 import tensorflow as tf
 
-subtitles_preprocessor = SubtitlesPreprocessor("srt/The_Terminator.srt")
+from keras_visualizer import visualizer
+
+subtitles_preprocessor = SubtitlesPreprocessor("srt/Zootopia.srt")
 subtitles = subtitles_preprocessor.getSubtitles()
 
 tokenizer = Tokenizer()
@@ -14,12 +16,13 @@ sequences = tokenizer.getPaddedSequences([subtitles])
 model = tf.keras.models.load_model("./models/model_v4/model.h5")
 
 os.system("clear")
-p = model.predict(np.expand_dims(sequences[0], axis=0))[0]
+prediction = model.predict(np.expand_dims(sequences[0], axis=0))[0]
 
-predicted_genre = tokenizer.index_to_genre[np.argmax(p).astype('uint8')]
+predicted_genre = tokenizer.index_to_genre[np.argmax(prediction).astype('uint8')]
 print("Predicted genre: ", predicted_genre, '\n')
-for i in range(len(p)):
-    genre = tokenizer.index_to_genre[i]
-    confidence = p[i] * 100
-    print(genre, ": ", confidence)
 
+print("Confidence:")
+for i in range(len(prediction)):
+    genre = tokenizer.index_to_genre[i]
+    confidence = round(prediction[i] * 100, 2)
+    print("    ", genre, "=", confidence, '%')
